@@ -113,7 +113,9 @@ export function postCard(p, ctx, i = 0) {
 }
 export function posts(b, ctx) {
   const pag = (b.pagination || []).filter((x) => x.text);
-  return (b.items.length ? '<div class="grid grid--3 posts">' + b.items.map((p, i) => postCard(p, ctx, i)).join('') + '</div>' : (b.empty ? '<p class="muted">' + esc(b.empty) + '</p>' : ''))
+  // link-only cards (sub-categories, brands, strains: no excerpt, no date) pack two-up on phones
+  const compact = b.items.length > 2 && b.items.every((p) => !p.excerpt && !p.date);
+  return (b.items.length ? '<div class="grid grid--3 posts' + (compact ? ' posts--compact' : '') + '">' + b.items.map((p, i) => postCard(p, ctx, i)).join('') + '</div>' : (b.empty ? '<p class="muted">' + esc(b.empty) + '</p>' : ''))
     + (pag.length ? '<nav class="pager" aria-label="Pages">' + pag.map((x) => (x.href ? '<a href="' + attr(x.href) + '">' + esc(x.text) + '</a>' : '<span' + (x.current ? ' aria-current="page"' : '') + '>' + esc(x.text) + '</span>')).join('') + '</nav>' : '');
 }
 
@@ -207,7 +209,7 @@ export function renderBlock(b, ctx, opts = {}) {
     }
     case 'text': {
       if (/^(Home|Shop) \//.test(strip(b.html))) return '';   // the live breadcrumb line: the hero carries crumbs instead
-      return '<div class="prose" data-reveal>' + richText(b.html, ctx) + '</div>';
+      return '<div class="prose" data-reveal' + (opts.clamp && strip(b.html).length > 700 ? ' data-clamp' : '') + '>' + richText(b.html, ctx) + '</div>';
     }
     case 'image': return figure(b, ctx);
     case 'list': return '<ul class="ticks" data-reveal>' + b.items.map((it) => '<li>' + ICON.check + '<span>' + (it.href ? '<a href="' + attr(it.href) + '"' + linkAttrs(it.href) + '>' + it.html + '</a>' : it.html) + '</span></li>').join('') + '</ul>';

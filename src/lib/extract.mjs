@@ -293,7 +293,8 @@ function widget(n, ctx) {
       return items.length ? { t: 'meta', items } : null;
     }
     case 'post-navigation.default': {
-      const pick = (c) => { const n = findFirst(box, (x) => cls(x).includes(c)); const a = n ? findFirst(n, (x) => x.tag === 'a') : null; return a ? { text: squash(textOf(findFirst(a, (x) => cls(x).includes('post-navigation__link__title') || cls(x).includes('elementor-post-navigation__link__title')) || a)), label: squash(textOf(findFirst(a, (x) => cls(x).includes('post-navigation__prev--label') || cls(x).includes('post-navigation__next--label')) || { children: [] })), href: linkOf(a.attrs.href) } : null; };
+      const pick = (c) => { const n = findFirst(box, (x) => cls(x).includes(c)); const a = n ? findFirst(n, (x) => x.tag === 'a') : null; // the title has its own span (post-navigation__prev--title / __next--title); the label ("Prev"/"Next") is separate
+      return a ? { text: squash(textOf(findFirst(a, (x) => /post-navigation__(prev|next)--title|post-navigation__link__title/.test(x.attrs.class || '')) || a)), label: squash(textOf(findFirst(a, (x) => /post-navigation__(prev|next)--label/.test(x.attrs.class || '')) || { children: [] })), href: linkOf(a.attrs.href) } : null; };
       const prev = pick('elementor-post-navigation__prev'), next = pick('elementor-post-navigation__next');
       return prev || next ? { t: 'postnav', prev, next } : null;
     }

@@ -29,7 +29,7 @@ fs.rmSync(OUT, { recursive: true, force: true });
 fs.mkdirSync(OUT, { recursive: true });
 
 // ---------- assets: css + js bundles, fonts, icons ----------
-const ORDER = ['tokens.css', 'base.css', 'components.css', 'chrome.css', 'motion.css', 'home.css', 'pages.css'];
+const ORDER = ['tokens.css', 'base.css', 'components.css', 'chrome.css', 'motion.css', 'home.css', 'pages.css', 'mobile.css'];
 const cssFiles = fs.readdirSync(path.join(ROOT, 'src/styles')).filter((f) => f.endsWith('.css')).sort((a, b) => { const ia = ORDER.indexOf(a), ib = ORDER.indexOf(b); return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib) || cmp(a, b); });
 const css = cssFiles.map((f) => '/* ' + f + ' */\n' + fs.readFileSync(path.join(ROOT, 'src/styles', f), 'utf8')).join('\n');
 const jsFiles = fs.readdirSync(path.join(ROOT, 'src/scripts')).filter((f) => f.endsWith('.js')).sort((a, b) => (a === 'site.js' ? -1 : b === 'site.js' ? 1 : cmp(a, b)));

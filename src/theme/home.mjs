@@ -146,7 +146,7 @@ export function homePage(page, ctx) {
     + '<div class="visit__photo" data-reveal="left">' + (store ? '<figure class="frame visit__frame">' + img(ctx, store.img.src, { alt: store.img.alt || 'The Highway 90 dispensary in Marlton, NJ', sizes: '(max-width: 900px) 90vw, 560px', widths: [480, 680] }) + '</figure>' : '')
     + '<span class="burst burst--lane visit__burst" style="--size:120px;--fs:1.25rem;--rot:-12deg"><span>Marlton<small>NJ 08053</small></span></span></div>'
     + '<div class="visit__card glass glass--dark glass--pop">' + (visH3 ? '<p class="kicker visit__way" data-reveal>' + esc(visH3.text) + '</p>' : '')
-    + (visH2 ? '<h2 class="split">' + visH2.html + '</h2>' : '') + (visTx ? '<div class="prose" data-reveal>' + visTx.html + '</div>' : '')
+    + (visH2 ? '<h2 class="split">' + visH2.html + '</h2>' : '') + (visTx ? '<div class="prose" data-reveal data-clamp>' + visTx.html + '</div>' : '')
     + '<div class="btns" data-reveal>' + visBtns.map((b, i) => btn(b.text, b.href, { kind: i ? 'glass' : 'primary' })).join('') + '</div></div>'
     + '</div></section>';
 

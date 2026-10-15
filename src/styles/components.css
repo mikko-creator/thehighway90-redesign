@@ -250,3 +250,5 @@ a.ticker__item:hover { color: var(--lane); }
 .crumbs li + li::before { content: ""; width: 7px; height: 7px; background: var(--orange); transform: rotate(45deg); border-radius: 1px; }
 .crumbs a { text-decoration: none; opacity: 0.85; }
 .crumbs a:hover { opacity: 1; }
+/* a form drawn as a glass card needs its own inner padding */
+.form.glass { padding: clamp(18px, 3vw, 30px); gap: 16px; border-radius: var(--r-l); }

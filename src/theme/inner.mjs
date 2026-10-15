@@ -69,14 +69,16 @@ function heroParts(page) {
   const after = f.filter((b) => !used.has(b));
   const intro = [];
   const buttons = [];
-  for (const b of after.slice(0, 4)) {
-    if (b.t === 'text' && strip(b.html).length < 260 && !intro.length) { intro.push(b); used.add(b); }
-    else if (b.t === 'heading' && b.level !== 'h1' && strip(b.html).length < 140 && !intro.length) { intro.push(b); used.add(b); }
+  // a post's date line (post-info) belongs with its title, not in a section of its own
+  for (const b of after) if (b.t === 'meta') { intro.push(b); used.add(b); }
+  for (const b of after.filter((x) => !used.has(x)).slice(0, 4)) {
+    if (b.t === 'text' && strip(b.html).length < 260 && !intro.some((x) => x.t !== 'meta')) { intro.push(b); used.add(b); }
+    else if (b.t === 'heading' && b.level !== 'h1' && strip(b.html).length < 140 && !intro.some((x) => x.t !== 'meta')) { intro.push(b); used.add(b); }
     else if (b.t === 'button' && buttons.length < 2) { buttons.push(b); used.add(b); }
   }
   const leftover = f.filter((b) => !used.has(b));
   const rest = (leftover.length ? [{ t: 'group', id: first.id, children: leftover }] : []).concat(page.sections.slice(1));
-  return { intro: intro.map((b) => (b.t === 'text' ? b.html : '<p>' + b.html + '</p>')).join(''), buttons, rest };
+  return { intro: intro.map((b) => (b.t === 'meta' ? '<p class="phero__meta">' + b.items.map((x) => '<span>' + esc(x) + '</span>').join('') + '</p>' : b.t === 'text' ? b.html : '<p>' + b.html + '</p>')).join(''), buttons, rest };
 }
 
 function body(sections, ctx, opts) {
@@ -98,7 +100,7 @@ function productPage(page, ctx) {
   const intro = (p.brand ? '<p class="prod-brand">' + esc(p.brand) + '</p>' : '') + offers;
   const more = pickProducts(ctx, {}, { category: cat, limit: 12 }).filter((x) => x.path !== p.path);
   return hero(page, ctx, { intro, buttons: [{ text: 'Order Online', href: '/menu/' }, { text: 'Specials', href: '/specials/' }], art, kicker: LABEL.products })
-    + (p.description ? '<section class="sec psec psec--paper"><div class="wrap wrap--narrow"><div class="prose" data-reveal><h2>About this product</h2><p>' + esc(p.description) + '</p></div></div></section>' : '')
+    + (p.description ? '<section class="sec psec psec--paper"><div class="wrap wrap--narrow"><div class="prose" data-reveal' + (p.description.length > 700 ? ' data-clamp' : '') + '><h2>About this product</h2>' + p.description.split('\n').map((l) => '<p>' + esc(l) + '</p>').join('') + '</div></div></section>' : '')
     + (more.length ? '<section class="sec psec psec--cream ht ht--ink"><div class="wrap">' + rail(more.map((x) => productCard(x, ctx)), { head: '<h2 class="split">More ' + esc(cat.replace(/-/g, ' ')) + '</h2>', cls: 'rail--prod', w: 'clamp(230px, 22vw, 280px)' }) + '</div></section>' : '');
 }
 
@@ -130,6 +132,8 @@ export function innerPage(page, ctx) {
   if (/^(pre-roll|vape|flower|edible|concentrate)-specials$/.test(s0)) opts.category = { 'pre-roll': 'pre-rolls', vape: 'vaporizers', flower: 'flower', edible: 'edibles', concentrate: 'concentrates' }[s0.replace(/-specials$/, '')];
   if (s0 === 'brands' && segs[1]) opts.brand = page.h1;
   const { intro, buttons, rest } = heroParts(page);
+  // long SEO copy folds behind "Read more" on phones; an article's own body never does
+  opts.clamp = page.kind !== 'post';
   let main = hero(page, ctx, { intro, buttons }) + body(rest, ctx, opts);
   // thin, menu-driven pages (terpenes, cannabinoids, strains, effects, brands, menus): the live page renders its
   // product list client-side, so the redesign shows the menu snapshot in that slot

@@ -16,6 +16,20 @@ const GAP = Number(args.gap || 150);
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 const crawl = JSON.parse(fs.readFileSync(path.join(PROJ, 'audit/crawl.json'), 'utf8'));
 const dec = (s) => String(s || '').replace(/&amp;/g, '&').replace(/&#0?39;|&apos;/g, "'").replace(/&quot;/g, '"').replace(/&#8217;/g, '’').replace(/&#8211;/g, '–').trim();
+// The live product JSON-LD was saved by WordPress with its backslashes stripped: "’" arrives as "u2019" and the
+// HTML description as escaped tags ("&lt;br /&gt;"). Restore the characters (surrogate pairs included), turn <br> and
+// block ends into line breaks, drop any other tag. Only code points a product description can hold are decoded.
+function fixDesc(s) {
+  let t = String(s || '');
+  t = t.replace(/u(d8[0-9a-f]{2})u(d[c-f][0-9a-f]{2})/gi, (m, hi, lo) => String.fromCharCode(parseInt(hi, 16), parseInt(lo, 16)));
+  t = t.replace(/u(00[a-f][0-9a-f]|20[0-6][0-9a-f]|21[0-9a-f]{2}|22[0-9a-f]{2})/gi, (m, h) => {
+    const c = parseInt(h, 16);
+    return c === 0x2011 ? '-' : c === 0x00a0 ? ' ' : String.fromCharCode(c);
+  });
+  t = dec(t.replace(/&lt;/g, '<').replace(/&gt;/g, '>'));
+  t = t.replace(/<br\s*\/?>/gi, '\n').replace(/<\/(p|li|h[1-6]|div)>/gi, '\n').replace(/<li[^>]*>/gi, '• ').replace(/<[^>]+>/g, '');
+  return t.split('\n').map((l) => l.replace(/[ \t]+/g, ' ').trim()).filter(Boolean).join('\n');
+}
 
 const CAT_RULES = [
   ['vaporizers', /\b(cart|carts|cartridge|disposable|vape|pod|pods|aio|all[- ]in[- ]one|510)\b/i],
@@ -53,7 +67,7 @@ for (const r of crawl.records) {
   const h1 = (/<h1[^>]*>([\s\S]*?)<\/h1>/.exec(html) || [])[1];
   products.push({
     path: p, name, h1: h1 ? dec(h1.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ')) : name, brand: prod.brand && prod.brand.name ? dec(prod.brand.name) : null,
-    category, description: dec(prod.description || ''), offers, price: offers.length ? Math.min(...offers.map((o) => o.price)) : null,
+    category, description: fixDesc(prod.description || ''), offers, price: offers.length ? Math.min(...offers.map((o) => o.price)) : null,
     inStock: (Array.isArray(prod.offers) ? prod.offers : [prod.offers || {}]).some((o) => /InStock/i.test(o && o.availability || '')),
     photoUrl: def ? null : img || null, photo: null,
   });
