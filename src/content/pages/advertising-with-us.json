@@ -1,0 +1,734 @@
+{
+ "path": "/advertising-with-us/",
+ "url": "https://www.thehighway90.com/advertising-with-us/",
+ "kind": "page",
+ "head": {
+  "title": "Advertise with Highway 90",
+  "description": "Advertise with Highway 90 in Marlton, NJ to effectively promote your cannabis brand. Explore tailored advertising solutions with our trusted dispensary today!",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/advertising-with-us/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Advertise with Highway 90",
+   "og:description": "Advertise with Highway 90 in Marlton, NJ to effectively promote your cannabis brand. Explore tailored advertising solutions with our trusted dispensary today!",
+   "og:url": "https://www.thehighway90.com/advertising-with-us/",
+   "og:site_name": "Highway 90",
+   "og:updated_time": "2025-08-06T11:20:51-04:00",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/RRH-RetailAdvertising2-qs9r3ox0zqdg4m6bpgf7u8izc34cq0a82m5s7qmpds.webp",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/RRH-RetailAdvertising2-qs9r3ox0zqdg4m6bpgf7u8izc34cq0a82m5s7qmpds.webp",
+   "og:image:alt": "Advertising With Us",
+   "article:published_time": "2022-12-16T14:50:20-05:00",
+   "article:modified_time": "2025-08-06T11:20:51-04:00",
+   "og:video": "https://www.rankreallyhigh.com/wp-content/uploads/2023/10/RRH-ANIMATIONS-RetailAnalyticsPlatform-HEVC.mp4",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Advertise with Highway 90",
+   "twitter:description": "Advertise with Highway 90 in Marlton, NJ to effectively promote your cannabis brand. Explore tailored advertising solutions with our trusted dispensary today!",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/RRH-RetailAdvertising2-qs9r3ox0zqdg4m6bpgf7u8izc34cq0a82m5s7qmpds.webp",
+   "twitter:label1": "Time to read",
+   "twitter:data1": "1 minute"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Organization",
+      "@id": "https://www.thehighway90.com/#organization",
+      "name": "Highway 90",
+      "logo": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/#logo",
+       "url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "contentUrl": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "caption": "Highway 90",
+       "inLanguage": "en-US",
+       "width": "512",
+       "height": "497"
+      }
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.thehighway90.com/#website",
+      "url": "https://www.thehighway90.com",
+      "name": "Highway 90",
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "ImageObject",
+      "@id": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/RRH-RetailAdvertising2-qs9r3ox0zqdg4m6bpgf7u8izc34cq0a82m5s7qmpds.webp",
+      "url": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/RRH-RetailAdvertising2-qs9r3ox0zqdg4m6bpgf7u8izc34cq0a82m5s7qmpds.webp",
+      "width": "200",
+      "height": "200",
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/advertising-with-us/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/advertising-with-us/",
+         "name": "Advertising With Us"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.thehighway90.com/advertising-with-us/#webpage",
+      "url": "https://www.thehighway90.com/advertising-with-us/",
+      "name": "Advertise with Highway 90",
+      "datePublished": "2022-12-16T14:50:20-05:00",
+      "dateModified": "2025-08-06T11:20:51-04:00",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/RRH-RetailAdvertising2-qs9r3ox0zqdg4m6bpgf7u8izc34cq0a82m5s7qmpds.webp"
+      },
+      "inLanguage": "en-US",
+      "breadcrumb": {
+       "@id": "https://www.thehighway90.com/advertising-with-us/#breadcrumb"
+      }
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.thehighway90.com/advertising-with-us/#author",
+      "name": "Highway 90 Dispensary",
+      "image": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/wp-content/litespeed/avatar/a7b99884549b620ae464d04655e5e8c7.jpg?ver=1791939289",
+       "url": "https://www.thehighway90.com/wp-content/litespeed/avatar/a7b99884549b620ae464d04655e5e8c7.jpg?ver=1791939289",
+       "caption": "Highway 90 Dispensary",
+       "inLanguage": "en-US"
+      },
+      "sameAs": [
+       "https://www.thehighway90.com"
+      ],
+      "worksFor": {
+       "@id": "https://www.thehighway90.com/#organization"
+      }
+     },
+     {
+      "headline": "Advertise with Highway 90",
+      "description": "Advertise with Highway 90 in Marlton, NJ to effectively promote your cannabis brand. Explore tailored advertising solutions with our trusted dispensary today!",
+      "datePublished": "2022-12-16T14:50:20-05:00",
+      "dateModified": "2025-08-06T11:20:51-04:00",
+      "image": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/RRH-RetailAdvertising2-qs9r3ox0zqdg4m6bpgf7u8izc34cq0a82m5s7qmpds.webp"
+      },
+      "author": {
+       "@id": "https://www.thehighway90.com/advertising-with-us/#author",
+       "name": "Highway 90 Dispensary"
+      },
+      "@type": "Article",
+      "name": "Advertise with Highway 90",
+      "@id": "https://www.thehighway90.com/advertising-with-us/#schema-193956",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/advertising-with-us/#webpage"
+      },
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "inLanguage": "en-US",
+      "mainEntityOfPage": {
+       "@id": "https://www.thehighway90.com/advertising-with-us/#webpage"
+      }
+     },
+     {
+      "@type": "VideoObject",
+      "name": "Advertise with Highway 90",
+      "description": "Advertise with Highway 90 in Marlton, NJ to effectively promote your cannabis brand. Explore tailored advertising solutions with our trusted dispensary today!",
+      "uploadDate": "2022-12-16T14:50:20-05:00",
+      "contentUrl": "https://www.rankreallyhigh.com/wp-content/uploads/2023/10/RRH-ANIMATIONS-RetailAnalyticsPlatform-HEVC.mp4",
+      "isFamilyFriendly": "True",
+      "@id": "https://www.thehighway90.com/advertising-with-us/#schema-193957",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/advertising-with-us/#webpage"
+      },
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "inLanguage": "en-US",
+      "mainEntityOfPage": {
+       "@id": "https://www.thehighway90.com/advertising-with-us/#webpage"
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   }
+  ]
+ },
+ "h1": "ADVERTISE With Highway 90 Dispensary",
+ "docId": "17871",
+ "docType": "wp-page",
+ "sections": [
+  {
+   "t": "group",
+   "id": "707ba821",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "Cannabis Dispensary Retail Advertising Program",
+     "text": "Cannabis Dispensary Retail Advertising Program"
+    },
+    {
+     "t": "heading",
+     "level": "h1",
+     "html": "ADVERTISE With Highway 90 Dispensary",
+     "text": "ADVERTISE With Highway 90 Dispensary"
+    },
+    {
+     "t": "button",
+     "text": "Start Advertising",
+     "href": "#advertising"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "7c977523",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "Advertise Your Brand Where New Customers Are",
+     "text": "Advertise Your Brand Where New Customers Are"
+    },
+    {
+     "t": "text",
+     "html": "<p>The cannabis industry is burgeoning with opportunities, and now is the time to amplify your brand presence. We provide a unique opportunity to connect with potential customers directly on our website, where they are actively considering cannabis purchases.</p>"
+    },
+    {
+     "t": "heading",
+     "level": "h3",
+     "html": "Get your brand and product ads displayed prominently on our website's:",
+     "text": "Get your brand and product ads displayed prominently on our website's:"
+    },
+    {
+     "t": "group",
+     "id": "1e9ae59f",
+     "children": [
+      {
+       "t": "text",
+       "html": "<p>Homepage</p>"
+      },
+      {
+       "t": "text",
+       "html": "<p>Dispensary Menus</p>"
+      },
+      {
+       "t": "text",
+       "html": "<p>Shopping Carts</p>"
+      },
+      {
+       "t": "text",
+       "html": "<p>Checkout Pages</p>"
+      },
+      {
+       "t": "text",
+       "html": "<p>Featured Brand</p>"
+      },
+      {
+       "t": "text",
+       "html": "<p>And More…</p>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "45a5de7",
+   "children": [
+    {
+     "t": "group",
+     "id": "2df7d1c0",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Advantages Of Advertising With Highway 90 Dispensary",
+       "text": "Advantages Of Advertising With Highway 90 Dispensary"
+      },
+      {
+       "t": "group",
+       "id": "6da26555",
+       "children": [
+        {
+         "t": "group",
+         "id": "2a88a9b7",
+         "children": [
+          {
+           "t": "iconbox",
+           "title": "Introduce Your Brand To New Customers",
+           "html": "Expand your reach and tap into a growing market of engaged cannabis enthusiasts directly at our dispensary",
+           "href": null
+          }
+         ]
+        },
+        {
+         "t": "group",
+         "id": "12963564",
+         "children": [
+          {
+           "t": "iconbox",
+           "title": "Promote New Products And Specials",
+           "html": "Capture attention and drive sales by highlighting new product offerings and enticing promotions",
+           "href": null
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "16e6a0da",
+       "children": [
+        {
+         "t": "group",
+         "id": "23e48a7b",
+         "children": [
+          {
+           "t": "iconbox",
+           "title": "Drive Sales And Increase Market Share",
+           "html": "Gain a competitive edge over your competition",
+           "href": null
+          }
+         ]
+        },
+        {
+         "t": "group",
+         "id": "6e47c07f",
+         "children": [
+          {
+           "t": "iconbox",
+           "title": "Avoid Wasted Ad Spend",
+           "html": "Ads display only when your products are in stock at our stores",
+           "href": null
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "4da87ec8",
+       "children": [
+        {
+         "t": "iconbox",
+         "title": "Improve Customer Satisfaction",
+         "html": "Get more out of your ads and lock in new happy customers",
+         "href": null
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/RRH-RetailAdvertising2-qs9r3ox0zqdg4m6bpgf7u8izc34cq0a82m5t3hr3sw.webp",
+      "alt": "Rank really high cannabis dispensary retail advertising",
+      "w": 1920,
+      "h": 640
+     },
+     "href": null,
+     "caption": null
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "1900b349",
+   "children": [
+    {
+     "t": "group",
+     "id": "685dc7cb",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "A Partnership for the Future",
+       "text": "A Partnership for the Future"
+      },
+      {
+       "t": "text",
+       "html": "<p>Capture net new customers in our local market, expand to even more advertising opportunities through sponsored &amp; featured product listing. Or take it a step further and work with us to setup both online and in store promotions for your brand and products. The opportunities are endless when you advertise directly with Highway 90 Dispensary.</p>"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "2031d567",
+     "children": [
+      {
+       "t": "iconbox",
+       "img": {
+        "src": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/RRH-RetailAdvertising-BrandHomepage-qs9r3owpaq6yk5tctn7gquauauuhwiqgu0gfzwpf9c.webp",
+        "alt": "Rank really high cannabis dispensary retail advertising",
+        "w": 960,
+        "h": 960
+       },
+       "title": "Brand Homepage Highlight",
+       "html": "",
+       "href": null
+      },
+      {
+       "t": "iconbox",
+       "img": {
+        "src": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/RRH-RetailAdvertising-FeaturedMenu-qs9r3owpaq6yk5tctn7gquauauuhwiqgu0gfzwpf9c.webp",
+        "alt": "Rank really high cannabis dispensary retail advertising",
+        "w": 960,
+        "h": 960
+       },
+       "title": "Featured Products",
+       "html": "",
+       "href": null
+      },
+      {
+       "t": "iconbox",
+       "img": {
+        "src": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/RRH-RetailAdvertising-FeaturedHomepage-qs9r3owpaq6yk5tctn7gquauauuhwiqgu0gfzwpf9c.webp",
+        "alt": "Rank really high cannabis dispensary retail advertising",
+        "w": 960,
+        "h": 960
+       },
+       "title": "In-Store Brand Promotions",
+       "html": "",
+       "href": null
+      }
+     ]
+    },
+    {
+     "t": "button",
+     "text": "Start Advertising",
+     "href": "#advertising"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "30a4178f",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "Learn more about the RAP Network from Rank Really High",
+     "text": "Learn more about the RAP Network from Rank Really High"
+    },
+    {
+     "t": "list",
+     "items": [
+      {
+       "html": "Premium Dispensary Website Ad Placements",
+       "text": "Premium Dispensary Website Ad Placements",
+       "href": null
+      },
+      {
+       "html": "Real-Time Inventory Synchronization",
+       "text": "Real-Time Inventory Synchronization",
+       "href": null
+      },
+      {
+       "html": "Featured Listings &amp; Sponsored Products",
+       "text": "Featured Listings & Sponsored Products",
+       "href": null
+      },
+      {
+       "html": "Data-Driven Insights and Analytics",
+       "text": "Data-Driven Insights and Analytics",
+       "href": null
+      },
+      {
+       "html": "Display Advertising",
+       "text": "Display Advertising",
+       "href": null
+      },
+      {
+       "html": "Sponsored Content &amp; Blogs",
+       "text": "Sponsored Content & Blogs",
+       "href": null
+      }
+     ]
+    },
+    {
+     "t": "button",
+     "text": "Learn More",
+     "href": "https://www.rankreallyhigh.com/cannabis-retail-advertising-platform/"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "355d9a59",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "Ready To Reach More Customers?",
+     "text": "Ready To Reach More Customers?"
+    },
+    {
+     "t": "text",
+     "html": "<p>Contact us to get started advertising on Highway 90 Dispensary.</p>"
+    },
+    {
+     "t": "text",
+     "html": "<p>POWERED BY:</p>"
+    },
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/RRH-Original-Logo-qs9r3owm4p92lw6m1hwcmbo8nzpp3m6markn50de3k.webp",
+      "alt": "Rank really high",
+      "w": 700,
+      "h": 144
+     },
+     "href": null,
+     "caption": null
+    },
+    {
+     "t": "group",
+     "id": "6604cc3a",
+     "children": [
+      {
+       "t": "dropped",
+       "why": "script-only html widget"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "events": null,
+ "unknownWidgets": []
+}

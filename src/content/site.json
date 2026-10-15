@@ -1,0 +1,513 @@
+{
+ "header": [
+  {
+   "t": "group",
+   "id": "38e7786",
+   "children": [
+    {
+     "t": "text",
+     "html": "<p><strong>🏖️40% Off Boardwalk Bliss 1g Cart🏖️ 👙40% Off Essence Lingerie #7 3.5g👙 🍩40% Off Shnicks Shnacks Brandwide🍩 🌿35% Off Good Green Flower🌿 </strong><strong>🌿NEW BRAND DROP!! Select Bespoke Products $5 Off🌿 🔥25% Off Ounces and Half Ounces🔥 🖤20% Off Timeless &amp; Noir🖤 </strong> <strong>🛣️35% Off At Your 1st Visit 🛣️20% Off At Your 2nd Visit 🛣️25% Off At Your 3rd Visit 📲Update Your Highway 90 App For The Latest Version! ♻️Recycle ANY Vape &amp; Get 10% Off A Fernway Product! </strong></p>"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "35105e6",
+   "children": [
+    {
+     "t": "nav",
+     "items": [
+      {
+       "text": "Shop All",
+       "href": "/menu/",
+       "children": []
+      },
+      {
+       "text": "Specials",
+       "href": "/specials/",
+       "children": []
+      },
+      {
+       "text": "Rewards",
+       "href": "/rewards-sign-up/",
+       "children": [
+        {
+         "text": "Rewards Sign-In",
+         "href": "/rewards-sign-in/",
+         "children": []
+        },
+        {
+         "text": "Rewards Sign-Up",
+         "href": "/rewards-sign-up/",
+         "children": []
+        }
+       ]
+      },
+      {
+       "text": "About",
+       "href": "/about/",
+       "children": [
+        {
+         "text": "Our Dispensary",
+         "href": "/stores/highway-90-cannabis-dispensary-marlton-nj/",
+         "children": []
+        }
+       ]
+      },
+      {
+       "text": "Events",
+       "href": "/events/",
+       "children": []
+      },
+      {
+       "text": "Info",
+       "href": "/about/",
+       "children": [
+        {
+         "text": "Dispensary",
+         "href": "/stores/highway-90-cannabis-dispensary-marlton-nj/",
+         "children": []
+        },
+        {
+         "text": "Blog",
+         "href": "/blog/",
+         "children": []
+        },
+        {
+         "text": "Contact",
+         "href": "/contact/",
+         "children": []
+        },
+        {
+         "text": "Directions",
+         "href": "/directions/",
+         "children": []
+        },
+        {
+         "text": "Events",
+         "href": "/events/",
+         "children": []
+        },
+        {
+         "text": "FAQs",
+         "href": "/faqs/",
+         "children": []
+        },
+        {
+         "text": "Jobs",
+         "href": "/jobs/",
+         "children": []
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "announcement": "🏖️40% Off Boardwalk Bliss 1g Cart🏖️ 👙40% Off Essence Lingerie #7 3.5g👙 🍩40% Off Shnicks Shnacks Brandwide🍩 🌿35% Off Good Green Flower🌿 🌿NEW BRAND DROP!! Select Bespoke Products $5 Off🌿 🔥25% Off Ounces and Half Ounces🔥 🖤20% Off Timeless & Noir🖤 🛣️35% Off At Your 1st Visit 🛣️20% Off At Your 2nd Visit 🛣️25% Off At Your 3rd Visit 📲Update Your Highway 90 App For The Latest Version! ♻️Recycle ANY Vape & Get 10% Off A Fernway Product!",
+ "nav": [
+  {
+   "text": "Shop All",
+   "href": "/menu/",
+   "children": []
+  },
+  {
+   "text": "Specials",
+   "href": "/specials/",
+   "children": []
+  },
+  {
+   "text": "Rewards",
+   "href": "/rewards-sign-up/",
+   "children": [
+    {
+     "text": "Rewards Sign-In",
+     "href": "/rewards-sign-in/",
+     "children": []
+    },
+    {
+     "text": "Rewards Sign-Up",
+     "href": "/rewards-sign-up/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "text": "About",
+   "href": "/about/",
+   "children": [
+    {
+     "text": "Our Dispensary",
+     "href": "/stores/highway-90-cannabis-dispensary-marlton-nj/",
+     "children": []
+    }
+   ]
+  },
+  {
+   "text": "Events",
+   "href": "/events/",
+   "children": []
+  },
+  {
+   "text": "Info",
+   "href": "/about/",
+   "children": [
+    {
+     "text": "Dispensary",
+     "href": "/stores/highway-90-cannabis-dispensary-marlton-nj/",
+     "children": []
+    },
+    {
+     "text": "Blog",
+     "href": "/blog/",
+     "children": []
+    },
+    {
+     "text": "Contact",
+     "href": "/contact/",
+     "children": []
+    },
+    {
+     "text": "Directions",
+     "href": "/directions/",
+     "children": []
+    },
+    {
+     "text": "Events",
+     "href": "/events/",
+     "children": []
+    },
+    {
+     "text": "FAQs",
+     "href": "/faqs/",
+     "children": []
+    },
+    {
+     "text": "Jobs",
+     "href": "/jobs/",
+     "children": []
+    }
+   ]
+  }
+ ],
+ "mega": [
+  {
+   "text": "Shop All",
+   "href": "/menu/"
+  },
+  {
+   "text": "Best Sellers",
+   "href": "/menu/best-sellers/"
+  },
+  {
+   "text": "Specials",
+   "href": "/specials/"
+  },
+  {
+   "text": "Flower",
+   "href": "/categories/flower/"
+  },
+  {
+   "text": "Pre-Rolls",
+   "href": "/categories/pre-rolls/"
+  },
+  {
+   "text": "Vaporizers",
+   "href": "/categories/vaporizers/"
+  },
+  {
+   "text": "Edibles",
+   "href": "/categories/edibles/"
+  },
+  {
+   "text": "Drinks",
+   "href": "/categories/edibles/drinks/"
+  },
+  {
+   "text": "Concentrates",
+   "href": "/categories/concentrates/"
+  },
+  {
+   "text": "Topicals",
+   "href": "/categories/topicals/"
+  },
+  {
+   "text": "Tinctures",
+   "href": "/categories/tinctures/"
+  },
+  {
+   "text": "Accessories",
+   "href": "/categories/accessories/"
+  }
+ ],
+ "footer": [
+  {
+   "t": "group",
+   "id": "681e904",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "Highway 90 Rewards",
+     "text": "Highway 90 Rewards"
+    },
+    {
+     "t": "heading",
+     "level": "h3",
+     "html": "Want more from your rewards? Become a rewards member today!",
+     "text": "Want more from your rewards? Become a rewards member today!"
+    },
+    {
+     "t": "button",
+     "text": "Rewards",
+     "href": "/loyalty-sign-up/"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "a812fd7",
+   "children": [
+    {
+     "t": "group",
+     "id": "f7618c5",
+     "children": [
+      {
+       "t": "group",
+       "id": "c06ab93",
+       "children": [
+        {
+         "t": "image",
+         "img": {
+          "src": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Logo-Badge.webp",
+          "alt": "Highway 90 Footer Logo Badge",
+          "w": 700,
+          "h": 679
+         },
+         "href": null,
+         "caption": null
+        },
+        {
+         "t": "social",
+         "items": [
+          {
+           "href": null,
+           "label": "Facebook"
+          },
+          {
+           "href": null,
+           "label": "Instagram"
+          },
+          {
+           "href": null,
+           "label": "Linkedin"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "15ba754",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "Shop",
+         "text": "Shop"
+        },
+        {
+         "t": "text",
+         "html": "<ul><li><a href=\"/menu/\">Shop All</a></li><li><a href=\"/specials/\">Specials</a></li><li><a href=\"/categories/\">Categories</a></li><li><a href=\"/effects/\">Effects</a></li><li><a href=\"/strains/\">Strains</a></li></ul>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "3bc1e20",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "Site",
+         "text": "Site"
+        },
+        {
+         "t": "text",
+         "html": "<ul><li><a href=\"/stores/highway-90-cannabis-dispensary-marlton-nj/\">Dispensary</a></li><li><a href=\"/about/\">About</a></li><li><a href=\"/faqs/\">FAQ’s</a></li><li><a href=\"/contact/\">Contact</a></li><li><a href=\"/blog/\">Education</a></li><li><a href=\"/directions/\">Directions</a></li></ul>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "e78d6bc",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "Contact",
+         "text": "Contact"
+        },
+        {
+         "t": "text",
+         "html": "<a href=\"tel:(856)607-3473\">(856) 607-3473</a>"
+        },
+        {
+         "t": "text",
+         "html": "<p><a href=\"/directions/\">90 Old Marlton Pike <br>Marlton, NJ 08053</a></p>"
+        },
+        {
+         "t": "text",
+         "html": "<a href=\"mailto:info@thehighway90.com\">info@thehighway90.com</a>"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "9b12ef6",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "Hours",
+         "text": "Hours"
+        },
+        {
+         "t": "text",
+         "html": "<ul><li><p>Sunday</p><p>9:00am – 10:00pm</p></li><li><p>Monday</p><p>9:00am – 10:00pm</p></li><li><p>Tuesday</p><p>9:00am – 10:00pm</p></li><li><p>Wednesday</p><p>9:00am – 10:00pm</p></li><li><p>Thursday</p><p>9:00am – 10:00pm</p></li><li><p>Friday</p><p>9:00am – 10:00pm</p></li><li><p>Saturday</p><p>9:00am – 10:00pm</p></li></ul>"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "cebd2e9",
+     "children": [
+      {
+       "t": "text",
+       "html": "<p><a href=\"/privacy-policy/\">Privacy Policy</a></p>"
+      },
+      {
+       "t": "text",
+       "html": "<p><a href=\"/terms-of-use/\">Terms Of Use</a></p>"
+      },
+      {
+       "t": "heading",
+       "level": "p",
+       "html": "Copyright © 2026 Highway 90 Dispensary. All Rights Reserved.",
+       "text": "Copyright © 2026 Highway 90 Dispensary. All Rights Reserved."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "0eee463",
+   "children": [
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/RRH-Logo-White-qs9r3owh9a54ticfa8nubnxmj6rnosrvrszijjvtco.webp",
+      "alt": "Rank Really High",
+      "w": 300,
+      "h": 60
+     },
+     "href": "https://www.rankreallyhigh.com",
+     "caption": null
+    }
+   ]
+  }
+ ],
+ "promoPopup": [
+  {
+   "t": "group",
+   "id": "b60a888",
+   "children": [
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.thehighway90.com/wp-content/uploads/2025/02/BOGO-60-Popup-3.png",
+      "alt": "",
+      "w": 765,
+      "h": 330
+     },
+     "href": "/specials/",
+     "caption": null
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "cf67c0f",
+   "children": [
+    {
+     "t": "products",
+     "source": "recommended_slider",
+     "config": {
+      "post_id": 426,
+      "business": null,
+      "menutype": null,
+      "ordertype": null,
+      "category": null,
+      "subcategory": null,
+      "brand": null,
+      "strain": null,
+      "effects": null,
+      "weights": null,
+      "pricemin": null,
+      "pricemax": null,
+      "thcmin": null,
+      "thcmax": null,
+      "cbdmin": null,
+      "cbdmax": null,
+      "cannabinoids": null,
+      "terpenes": null,
+      "tags": null,
+      "collections": null,
+      "ids": null,
+      "pos_ids": null,
+      "special": null,
+      "specials": null,
+      "sort": null,
+      "featured": null,
+      "staffpicks": null,
+      "limit": 15,
+      "listid": null,
+      "listname": null
+     }
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "c4f3ca6",
+   "children": [
+    {
+     "t": "menu"
+    }
+   ]
+  }
+ ],
+ "ageGate": {
+  "headline": "Welcome!",
+  "challenge": "Are you over 21 years of age?",
+  "yes": "Yes",
+  "no": "No",
+  "error": "You are not old enough to view this content"
+ },
+ "redirects": [
+  {
+   "from": "/loyalty-sign-up/",
+   "to": "/rewards-sign-up/",
+   "status": 301
+  },
+  {
+   "from": "/stores/highway-90-cannabis-dispensary-evesham-nj/",
+   "to": "/stores/highway-90-cannabis-dispensary-marlton-nj/",
+   "status": 301
+  }
+ ]
+}

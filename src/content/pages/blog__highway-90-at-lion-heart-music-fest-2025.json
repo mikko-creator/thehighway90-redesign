@@ -1,0 +1,449 @@
+{
+ "path": "/blog/highway-90-at-lion-heart-music-fest-2025/",
+ "url": "https://www.thehighway90.com/blog/highway-90-at-lion-heart-music-fest-2025/",
+ "kind": "post",
+ "head": {
+  "title": "Catch Highway 90 at Lion Heart Music Fest 2025! | News & Updates from Highway 90",
+  "description": "Get ready for three unforgettable days of sunshine, music, and good vibes—Lion Heart Music Fest is back and better than ever, and Highway 90 is bringing the",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/blog/highway-90-at-lion-heart-music-fest-2025/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Catch Highway 90 at Lion Heart Music Fest 2025! | News & Updates from Highway 90",
+   "og:description": "Get ready for three unforgettable days of sunshine, music, and good vibes—Lion Heart Music Fest is back and better than ever, and Highway 90 is bringing the",
+   "og:url": "https://www.thehighway90.com/blog/highway-90-at-lion-heart-music-fest-2025/",
+   "og:site_name": "Highway 90",
+   "article:section": "Uncategorized",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/2025/08/website-image-banner-45.png",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/2025/08/website-image-banner-45.png",
+   "og:image:width": "1920",
+   "og:image:height": "1080",
+   "og:image:alt": "lion heart music fest",
+   "og:image:type": "image/png",
+   "article:published_time": "2025-08-01T11:07:55-04:00",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Catch Highway 90 at Lion Heart Music Fest 2025! | News & Updates from Highway 90",
+   "twitter:description": "Get ready for three unforgettable days of sunshine, music, and good vibes—Lion Heart Music Fest is back and better than ever, and Highway 90 is bringing the",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/2025/08/website-image-banner-45.png",
+   "twitter:label1": "Written by",
+   "twitter:data1": "Kate Sargis",
+   "twitter:label2": "Time to read",
+   "twitter:data2": "1 minute"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Organization",
+      "@id": "https://www.thehighway90.com/#organization",
+      "name": "Highway 90",
+      "logo": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/#logo",
+       "url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "contentUrl": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "caption": "Highway 90",
+       "inLanguage": "en-US",
+       "width": "512",
+       "height": "497"
+      }
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.thehighway90.com/#website",
+      "url": "https://www.thehighway90.com",
+      "name": "Highway 90",
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "ImageObject",
+      "@id": "https://www.thehighway90.com/wp-content/uploads/2025/08/website-image-banner-45.png",
+      "url": "https://www.thehighway90.com/wp-content/uploads/2025/08/website-image-banner-45.png",
+      "width": "1920",
+      "height": "1080",
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/blog/highway-90-at-lion-heart-music-fest-2025/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/blog/category/uncategorized/",
+         "name": "Uncategorized"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "3",
+        "item": {
+         "@id": "https://www.thehighway90.com/blog/highway-90-at-lion-heart-music-fest-2025/",
+         "name": "Catch Highway 90 at Lion Heart Music Fest 2025!"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.thehighway90.com/blog/highway-90-at-lion-heart-music-fest-2025/#webpage",
+      "url": "https://www.thehighway90.com/blog/highway-90-at-lion-heart-music-fest-2025/",
+      "name": "Catch Highway 90 at Lion Heart Music Fest 2025! | News &amp; Updates from Highway 90",
+      "datePublished": "2025-08-01T11:07:55-04:00",
+      "dateModified": "2025-08-01T11:07:55-04:00",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/2025/08/website-image-banner-45.png"
+      },
+      "inLanguage": "en-US",
+      "breadcrumb": {
+       "@id": "https://www.thehighway90.com/blog/highway-90-at-lion-heart-music-fest-2025/#breadcrumb"
+      }
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.thehighway90.com/blog/highway-90-at-lion-heart-music-fest-2025/#author",
+      "name": "Kate Sargis",
+      "image": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/wp-content/litespeed/avatar/1c01e93ffdbb748e302375b2a5018d37.jpg?ver=1791959311",
+       "url": "https://www.thehighway90.com/wp-content/litespeed/avatar/1c01e93ffdbb748e302375b2a5018d37.jpg?ver=1791959311",
+       "caption": "Kate Sargis",
+       "inLanguage": "en-US"
+      },
+      "sameAs": [
+       "https://www.thehighway90.com/wp-admin"
+      ],
+      "worksFor": {
+       "@id": "https://www.thehighway90.com/#organization"
+      }
+     },
+     {
+      "@type": "Article",
+      "headline": "Catch Highway 90 at Lion Heart Music Fest 2025! | News &amp; Updates from Highway 90",
+      "keywords": "lion heart music fest,highway 90,dispensary,dispensary near me",
+      "datePublished": "2025-08-01T11:07:55-04:00",
+      "dateModified": "2025-08-01T11:07:55-04:00",
+      "articleSection": "Uncategorized",
+      "author": {
+       "@id": "https://www.thehighway90.com/blog/highway-90-at-lion-heart-music-fest-2025/#author",
+       "name": "Kate Sargis"
+      },
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "description": "Get ready for three unforgettable days of sunshine, music, and good vibes—Lion Heart Music Fest is back and better than ever, and Highway 90 is bringing the October",
+      "name": "Catch Highway 90 at Lion Heart Music Fest 2025! | News &amp; Updates from Highway 90",
+      "@id": "https://www.thehighway90.com/blog/highway-90-at-lion-heart-music-fest-2025/#richSnippet",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/blog/highway-90-at-lion-heart-music-fest-2025/#webpage"
+      },
+      "image": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/2025/08/website-image-banner-45.png"
+      },
+      "inLanguage": "en-US",
+      "mainEntityOfPage": {
+       "@id": "https://www.thehighway90.com/blog/highway-90-at-lion-heart-music-fest-2025/#webpage"
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   }
+  ]
+ },
+ "h1": "Catch Highway 90 at Lion Heart Music Fest 2025!",
+ "docId": "6157",
+ "docType": "single-post",
+ "sections": [
+  {
+   "t": "group",
+   "id": "733963e",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h1",
+     "html": "Catch Highway 90 at Lion Heart Music Fest 2025!",
+     "text": "Catch Highway 90 at Lion Heart Music Fest 2025!",
+     "from": "post-title"
+    },
+    {
+     "t": "meta",
+     "items": [
+      "August 1, 2025"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "2fcaaa5",
+   "children": [
+    {
+     "t": "text",
+     "html": "<p><a href=\"/\">Home</a> / <a href=\"/blog/category/uncategorized/\">Uncategorized</a> / Catch Highway 90 at Lion Heart Music Fest 2025!</p>"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "5dbc2a7",
+   "children": [
+    {
+     "t": "text",
+     "html": "<p><img data-ref=\"https://www.thehighway90.com/wp-content/uploads/2025/08/website-image-banner-45.png\" alt=\"Lion heart music fest is partnering with highway 90 dispensary at paradise lakes campground for lion heart music fest 2025. Find a dispensary near me in marlton, new jersey.\"></p><h4><strong>🌿 Join Us at Lion Heart Music Fest – August 8–10, 2025! 🎶</strong></h4><p>Get ready for three unforgettable days of sunshine, music, and good vibes—<strong>Lion Heart Music Fest</strong> is back and better than ever, and <strong>Highway 90</strong> is bringing the heat with an exciting lineup of partners, giveaways, and exclusive in-person experiences!</p><p>🗓️ <strong>Dates:</strong> August 8–10, 2025<br> 📍 <strong>Location:</strong> Paradise Lakes Campground – a perfect outdoor venue surrounded by nature and good energy</p><p>We’re setting up our <strong>Highway 90 Sesh Tent</strong> at the heart of the festival grounds, where you’ll find a welcoming space to relax, connect, and shop your favorite brands. We’ll be joined by some of the best names in cannabis and wellness, including:</p><h3>✨<a href=\"/brands/clade9/\"> Clade9</a></h3><h3>✨<a href=\"/brands/jersey-smooth/\">Jersey Smooth</a></h3><h3>✨ <a href=\"/brands/farmers-market/\">Farmers Market</a></h3><p>Lion Heart is more than just a music festival—it’s a <strong>multi-day celebration of community, culture, and creativity</strong>, featuring:</p><p>🎵 <strong>Live Reggae Performances from incredible artists all weekend long</strong><strong><br>\n</strong> 🍽️ <strong>Authentic Caribbean Eats and flavors that hit just right</strong><strong><br>\n</strong> 🛍️ <strong>Local Vendors &amp; Artisan Goods offering one-of-a-kind goods</strong><strong><br>\n</strong> 🏕️ <strong>Camping Under the Stars with access to lakes, trails, and more</strong><strong><br>\n</strong> 🧘 <strong>Morning Yoga &amp; Wellness Workshops to start your day grounded and inspired</strong></p><h3>🎟️ <strong>Win Free Tickets to Lion Heart Music Fest!</strong></h3><p>We want to see YOU at the fest—and we’re making it easy:</p><p>🛒 Every purchase at <strong>Highway 90</strong> between now and the festival automatically enters you to <strong>WIN FREE TICKETS</strong>!</p><p>📱 Want an extra entry? Enter our giveaway on Instagram: <a href=\"https://www.instagram.com/thehighway90_/\" target=\"_blank\" rel=\"noopener\"><strong>@thehighway90_</strong></a></p><p>🎫 <strong>Already scored your passes?</strong> Show us your festival ticket at checkout for <strong>30% off any one item</strong> (excludes sale items)!</p><p>Whether you’re coming for the music, the food, or the full festival experience, <strong>Lion Heart is the place to be</strong> this summer.</p><p><strong>Be sure to swing by our tent to chill out and connect with the community.</strong> You might even catch a surprise sesh or some exclusive deals!</p><p>Whether you’re vibing out to live music, discovering new brands, or just soaking in the summer energy, <strong>Lion Heart Music Fest is a must-do event</strong> this summer.</p><p>Be sure to swing by the <strong>Highway 90 Sesh Tent</strong> to stock up on your favorite products, catch special promos, meet brand reps, and connect with a vibrant community of music lovers and cannabis enthusiasts.</p><p>We can’t wait to see you there!</p><p>👉 <strong>Ready for the fun? <a href=\"https://www.eventbrite.com/e/lion-heart-music-fest-tickets-1202182071939\" target=\"_blank\" rel=\"noopener\">Purchase your tickets here!</a></strong></p>",
+     "from": "content"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "604f0e0",
+   "children": [
+    {
+     "t": "postnav",
+     "prev": {
+      "text": "PrevUnderstanding Cannabis Strains: Indica, Sativa, and Hybrid",
+      "label": "",
+      "href": "/blog/understanding-cannabis-strains-indica-sativa-and-hybrid/"
+     },
+     "next": {
+      "text": "2025 Eagles Schedule + Exclusive Game Day Discounts Only at Highway 90 DispensaryNext",
+      "label": "",
+      "href": "/blog/2025-eagles-schedule-exclusive-game-day-discounts-only-at-highway-90-dispensary/"
+     }
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "events": null,
+ "unknownWidgets": []
+}

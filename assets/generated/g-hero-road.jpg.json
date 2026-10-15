@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-HERO-ROAD",
+  "file": "assets/generated/g-hero-road.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Cinematic wide photograph of an empty straight two-lane country highway at golden hour, the road running from the foreground to a vanishing point on the horizon, crisp white and yellow lane markings, tall pine trees lining both sides in soft silhouette, an enormous warm tangerine orange and amber sunset sky with soft streaked clouds, glowing haze over the asphalt, hopeful road-trip mood, shot on 35mm film, ultra detailed, photographic; no cars, no people, no road signs, no billboards, no text, no logos",
+  "input": {
+    "aspect_ratio": "21:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 1251098125,
+  "requestId": "01a13cf5-5d0e-7f91-8f29-9aa8a71ad149",
+  "cutout": null,
+  "width": 3136,
+  "height": 1344,
+  "sha256": "d49a72b6bd7793f11d23403e936a5e9bebd20bf458acc44b0bc96755cde810f2",
+  "raw": "tmp/img/raw/G-HERO-ROAD.1792024085754.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-15T00:28:07.471Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

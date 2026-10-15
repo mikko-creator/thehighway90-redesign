@@ -1,0 +1,24 @@
+{
+  "tool": "tools/make-loop.mjs",
+  "input": "tmp/hf/v-smoke.mp4",
+  "inputDuration": 5.041667,
+  "fps": 24,
+  "fade": 1,
+  "loopDuration": 4.042,
+  "outputs": {
+    "assets/generated/video/v-smoke.mp4": 243629,
+    "assets/generated/video/v-smoke.webm": 240448,
+    "assets/generated/video/v-smoke-poster.webp": 17358
+  },
+  "calmness": {
+    "metric": "ffmpeg signalstats YDIF (mean absolute luma change between consecutive frames, 0-255), measured over two plays of the loop",
+    "frames": 193,
+    "max": 1.85633,
+    "p95": 1.6767,
+    "mean": 1.319,
+    "framesOver20": 0,
+    "seamChange": 1.85633
+  },
+  "aiLabel": "AI-generated illustrative motion (Higgsfield kling-video/v3.0-turbo/image-to-video). IPTC digital source type: http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia. Not footage of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "generatedAt": "2026-10-15T00:38:13.310Z"
+}

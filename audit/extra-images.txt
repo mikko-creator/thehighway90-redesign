@@ -1,0 +1,11 @@
+# home section backgrounds from the home page UCSS (wp-content/litespeed/ucss/1438433e...css)
+https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Img-HeroRight.webp	/
+https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Img-Education.webp	/
+https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Img-SpecialsBG.webp	/
+https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Img-SEO.webp	/
+https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Img-FirstTimeUsers.webp	/
+https://www.thehighway90.com/wp-content/uploads/2023/11/RRH-GreenWednesdayHero.webp	/
+https://www.thehighway90.com/wp-content/uploads/2024/10/HWY90-Age-Gate-BG.webp	/
+https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Logo-Badge.webp	/
+https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Logo-Horizontal.webp	/
+https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp	/

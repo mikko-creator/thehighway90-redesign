@@ -1,0 +1,457 @@
+{
+ "path": "/blog/understanding-cannabis-strains-indica-sativa-and-hybrid/",
+ "url": "https://www.thehighway90.com/blog/understanding-cannabis-strains-indica-sativa-and-hybrid/",
+ "kind": "post",
+ "head": {
+  "title": "Understanding Cannabis Strains: Indica, Sativa, and Hybrid | News & Updates from Highway 90",
+  "description": "Popular Hybrid Products at Highway 90:  Stay updated with the latest from Highway 90, your Marlton Dispensary, NJ dispensary for cannabis news.",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/blog/understanding-cannabis-strains-indica-sativa-and-hybrid/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Understanding Cannabis Strains: Indica, Sativa, and Hybrid | News & Updates from Highway 90",
+   "og:description": "Popular Hybrid Products at Highway 90:  Stay updated with the latest from Highway 90, your Marlton Dispensary, NJ dispensary for cannabis news.",
+   "og:url": "https://www.thehighway90.com/blog/understanding-cannabis-strains-indica-sativa-and-hybrid/",
+   "og:site_name": "Highway 90",
+   "article:section": "Uncategorized",
+   "og:updated_time": "2025-05-20T13:44:05-04:00",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/2025/05/website-image-banner-14.png",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/2025/05/website-image-banner-14.png",
+   "og:image:width": "1920",
+   "og:image:height": "1080",
+   "og:image:alt": "beginners cannabis strain guide: indica, sativa and hybrid. available now at highway 90 dispensary",
+   "og:image:type": "image/png",
+   "article:published_time": "2025-05-20T13:43:19-04:00",
+   "article:modified_time": "2025-05-20T13:44:05-04:00",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Understanding Cannabis Strains: Indica, Sativa, and Hybrid | News & Updates from Highway 90",
+   "twitter:description": "Popular Hybrid Products at Highway 90:  Stay updated with the latest from Highway 90, your Marlton Dispensary, NJ dispensary for cannabis news.",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/2025/05/website-image-banner-14.png",
+   "twitter:label1": "Written by",
+   "twitter:data1": "Kate Sargis",
+   "twitter:label2": "Time to read",
+   "twitter:data2": "4 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Organization",
+      "@id": "https://www.thehighway90.com/#organization",
+      "name": "Highway 90",
+      "logo": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/#logo",
+       "url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "contentUrl": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "caption": "Highway 90",
+       "inLanguage": "en-US",
+       "width": "512",
+       "height": "497"
+      }
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.thehighway90.com/#website",
+      "url": "https://www.thehighway90.com",
+      "name": "Highway 90",
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "ImageObject",
+      "@id": "https://www.thehighway90.com/wp-content/uploads/2025/05/website-image-banner-14.png",
+      "url": "https://www.thehighway90.com/wp-content/uploads/2025/05/website-image-banner-14.png",
+      "width": "1920",
+      "height": "1080",
+      "caption": "beginners cannabis strain guide: indica, sativa and hybrid. available now at highway 90 dispensary",
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/blog/understanding-cannabis-strains-indica-sativa-and-hybrid/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/blog/category/uncategorized/",
+         "name": "Uncategorized"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "3",
+        "item": {
+         "@id": "https://www.thehighway90.com/blog/understanding-cannabis-strains-indica-sativa-and-hybrid/",
+         "name": "🍃Beginners' Strain Guide: Indica, Sativa, and Hybrid"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.thehighway90.com/blog/understanding-cannabis-strains-indica-sativa-and-hybrid/#webpage",
+      "url": "https://www.thehighway90.com/blog/understanding-cannabis-strains-indica-sativa-and-hybrid/",
+      "name": "Understanding Cannabis Strains: Indica, Sativa, and Hybrid | News &amp; Updates from Highway 90",
+      "datePublished": "2025-05-20T13:43:19-04:00",
+      "dateModified": "2025-05-20T13:44:05-04:00",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/2025/05/website-image-banner-14.png"
+      },
+      "inLanguage": "en-US",
+      "breadcrumb": {
+       "@id": "https://www.thehighway90.com/blog/understanding-cannabis-strains-indica-sativa-and-hybrid/#breadcrumb"
+      }
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.thehighway90.com/blog/understanding-cannabis-strains-indica-sativa-and-hybrid/#author",
+      "name": "Kate Sargis",
+      "image": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/wp-content/litespeed/avatar/1c01e93ffdbb748e302375b2a5018d37.jpg?ver=1791959311",
+       "url": "https://www.thehighway90.com/wp-content/litespeed/avatar/1c01e93ffdbb748e302375b2a5018d37.jpg?ver=1791959311",
+       "caption": "Kate Sargis",
+       "inLanguage": "en-US"
+      },
+      "sameAs": [
+       "https://www.thehighway90.com/wp-admin"
+      ],
+      "worksFor": {
+       "@id": "https://www.thehighway90.com/#organization"
+      }
+     },
+     {
+      "@type": "Article",
+      "headline": "Understanding Cannabis Strains: Indica, Sativa, and Hybrid | News &amp; Updates from Highway 90",
+      "keywords": "indica,sativa,hybrid,cannabis,cannabis strains,understanding cannabis strains",
+      "datePublished": "2025-05-20T13:43:19-04:00",
+      "dateModified": "2025-05-20T13:44:05-04:00",
+      "articleSection": "Uncategorized",
+      "author": {
+       "@id": "https://www.thehighway90.com/blog/understanding-cannabis-strains-indica-sativa-and-hybrid/#author",
+       "name": "Kate Sargis"
+      },
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "description": "Popular Hybrid Products at Highway 90:  Stay updated with the latest from Highway 90, your Marlton Dispensary, NJ dispensary for cannabis news. October",
+      "name": "Understanding Cannabis Strains: Indica, Sativa, and Hybrid | News &amp; Updates from Highway 90",
+      "@id": "https://www.thehighway90.com/blog/understanding-cannabis-strains-indica-sativa-and-hybrid/#richSnippet",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/blog/understanding-cannabis-strains-indica-sativa-and-hybrid/#webpage"
+      },
+      "image": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/2025/05/website-image-banner-14.png"
+      },
+      "inLanguage": "en-US",
+      "mainEntityOfPage": {
+       "@id": "https://www.thehighway90.com/blog/understanding-cannabis-strains-indica-sativa-and-hybrid/#webpage"
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   }
+  ]
+ },
+ "h1": "Understanding Cannabis Strains: Indica, Sativa, and Hybrid",
+ "docId": "6157",
+ "docType": "single-post",
+ "sections": [
+  {
+   "t": "group",
+   "id": "733963e",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h1",
+     "html": "Understanding Cannabis Strains: Indica, Sativa, and Hybrid",
+     "text": "Understanding Cannabis Strains: Indica, Sativa, and Hybrid",
+     "from": "post-title"
+    },
+    {
+     "t": "meta",
+     "items": [
+      "May 20, 2025"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "2fcaaa5",
+   "children": [
+    {
+     "t": "text",
+     "html": "<p><a href=\"/\">Home</a> / <a href=\"/blog/category/uncategorized/\">Uncategorized</a> / 🍃Beginners' Strain Guide: Indica, Sativa, and Hybrid</p>"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "content",
+   "children": [
+    {
+     "t": "group",
+     "id": "7a287a75",
+     "children": [
+      {
+       "t": "text",
+       "html": "<img data-ref=\"https://www.thehighway90.com/wp-content/uploads/2025/05/indica-vs-sativa-vs-hybrid.png\" alt=\"Beginners cannabis strain guide: indica, sativa and hybrid. Available now at highway 90 dispensary\"><strong>🍃Beginners’ Strain Guide: Indica, Sativa, and Hybrid</strong>If you’re new to cannabis, navigating the wide world of strains can feel overwhelming. Terms like <em>Indica</em>, <em>Sativa</em>, and <em>Hybrid</em> are commonly used to describe the effects and experiences each strain might provide. But what do these terms really mean? Let’s break it down and help you find the strain that suits your needs.<strong>What Are Cannabis Strains?</strong>Cannabis strains refer to the different varieties of the cannabis plant, each bred to emphasize specific characteristics, effects, and flavors. These strains are generally divided into three main categories: <em>Indica</em>, <em>Sativa</em>, and <em>Hybrid</em>. Understanding the differences can help you choose the right strain for your needs, whether you’re looking to relax, get energized, or find a balance between the two.<h3><strong>Indica: Relax and Unwind</strong></h3>\n<img data-ref=\"https://www.thehighway90.com/wp-content/uploads/2025/05/cannabis-indica-flower.png\" alt=\"Highway 90 image\">Indica strains are typically known for their calming, sedative effects, often providing a strong physical sensation that can be felt throughout the body. This makes them particularly popular for evening or nighttime use. If you’re looking to unwind after a long day or need relief from physical discomfort, Indicas are a great choice.<strong>Characteristics:</strong> Indica plants are usually shorter, with broad leaves and darker-colored foliage.<strong>Effects:</strong> Indica strains are known for their relaxing “body high,” which can help with:<ul><li>Stress relief</li><li>Muscle tension and pain</li><li>Insomnia</li></ul>\nIndicas are perfect for slowing down, easing your mind, and preparing for a restful night.<strong>Popular Indica Products at Highway 90:</strong><h3><strong>Sativa: Uplift and Energize</strong></h3>\n<img data-ref=\"https://www.thehighway90.com/wp-content/uploads/2025/05/cannabis-stock-photo.jpg\" alt=\"Highway 90 image\">On the other hand, Sativa strains are prized for their cerebral effects, which tend to uplift mood and increase energy. These strains create a more “head high” experience, often making them ideal for daytime use when you need to stay active and focused. Sativas are known for their ability to enhance creativity, social interactions, and focus.<strong>Characteristics:</strong> Sativa plants tend to be taller with thin, light-green leaves. They generally require a longer growth cycle, which makes them less common and harder to produce in large quantities.<strong>Effects:</strong> Sativas are celebrated for their uplifting and energizing effects, making them excellent for:<ul><li>Boosting creativity</li><li>Enhancing focus</li><li>Promoting social interaction</li></ul>\nWhether you’re working on a creative project, heading to a social gathering, or need a mental boost, Sativas can give you the energy and clarity to power through your day.<strong>Popular Sativa Products at Highway 90:</strong> <h3><strong>Hybrid: The Best of Both Worlds</strong></h3>\n<img data-ref=\"https://www.thehighway90.com/wp-content/uploads/2025/05/cannabis-stock-image-3.jpeg\" alt=\"Highway 90 image\">Hybrid strains are the result of crossbreeding Indica and Sativa plants, combining the unique benefits of each. The effects, appearance, and growth characteristics of hybrids can vary widely, depending on their specific genetic makeup. Hybrids offer versatility, providing a customized experience based on the desired effects from both Indicas and Sativas.<strong>Characteristics:</strong> Hybrids exhibit traits from both Indica and Sativa strains, resulting in a variety of shapes, sizes, and colors.<strong>Effects:</strong> Hybrids can be:<ul><li><strong><em>Indica Dominant</em></strong><strong>:</strong> These hybrids lean toward relaxation, delivering a more pronounced body high. They are often used for pain relief or sleep issues and are ideal for evening use.</li><li><strong><em>Sativa Dominant</em></strong><strong>:</strong> These hybrids tend to have uplifting effects, promoting creativity, focus, and social interaction. They are a great option for daytime use.</li><li><strong><em>Balanced</em></strong><strong>:</strong> Offering an equal mix of both Indica and Sativa effects, balanced hybrids deliver a more well-rounded experience that provides a little bit of everything. This makes them a popular choice for those seeking flexibility and moderation in their cannabis use.</li></ul>\n<strong>Popular Hybrid Products at Highway 90:</strong> <h3><strong>Choosing the Right Strain for You</strong></h3>\nWhen selecting a strain, it’s essential to consider the effects you’re hoping to achieve. Here’s a simple guide to help you decide:<ul><li><strong>For relaxation and stress relief:</strong> Choose an Indica or an Indica-dominant hybrid.</li><li><strong>For energy and focus:</strong> Sativa or Sativa-dominant hybrids are your best bet.</li><li><strong>For a balanced experience:</strong> A true hybrid provides a perfect middle ground, offering both uplifting and calming effects.</li></ul>\nYou can also <a href=\"/effects/\">shop by effect</a> on our website! Choose the experience you want, and we’ll guide you to the products that match. Our budtenders can also provide personalized recommendations, helping you find the perfect strain based on your unique needs.<h3><strong>Remember: Start Slow and Listen to Your Body</strong></h3>\nEveryone’s body chemistry is different, so it’s important to start with a small dose and see how your body reacts before using more. While the Indica, Sativa, and Hybrid categories provide a helpful starting point for understanding cannabis strains, remember that the effects of any given strain can be influenced by factors like potency, terpenes, and your individual tolerance. <strong>Consider Terpene Profiles</strong>Terpenes are aromatic compounds found in cannabis that contribute to its flavor and aroma. They may also influence the effects of a strain. For example, myrcene is known for its relaxing properties, while limonene may have mood-enhancing effects.<strong>Check THC and CBD Levels</strong>THC is the psychoactive component of cannabis, while CBD is non-psychoactive and may offer therapeutic benefits. Depending on your preferences and needs, you might choose a strain with higher THC for stronger effects or higher CBD for more subtle effects.Explore cannabis at your own pace, and don’t hesitate to ask our knowledgeable budtenders at Highway 90 for guidance.<h3><strong>Ready to Find the Perfect Strain? Visit us at Highway 90</strong></h3>\nStop by Highway 90 and let us help you discover the ideal products for your needs. Whether you’re a first-time user or an experienced enthusiast, we’re here to help you find the strain that’s just right for you!"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "604f0e0",
+   "children": [
+    {
+     "t": "postnav",
+     "prev": {
+      "text": "PrevHighway 90’s 2nd Annual 4/20 Fest",
+      "label": "",
+      "href": "/blog/highway-90s-2nd-annual-4-20-fest/"
+     },
+     "next": {
+      "text": "Catch Highway 90 at Lion Heart Music Fest 2025!Next",
+      "label": "",
+      "href": "/blog/highway-90-at-lion-heart-music-fest-2025/"
+     }
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "events": null,
+ "unknownWidgets": []
+}

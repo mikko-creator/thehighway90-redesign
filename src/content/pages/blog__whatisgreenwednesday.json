@@ -1,0 +1,447 @@
+{
+ "path": "/blog/whatisgreenwednesday/",
+ "url": "https://www.thehighway90.com/blog/whatisgreenwednesday/",
+ "kind": "post",
+ "head": {
+  "title": "What Is Green Wednesday? Highway 90's Biggest Cannabis Savings Are Almost Here! | News & Updates from Highway 90",
+  "description": "Known as the “Black Friday” of cannabis, Green Wednesday has become a major day for weed enthusiasts and savvy shoppers to stock up on their favorite products",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/blog/whatisgreenwednesday",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "What Is Green Wednesday? Highway 90's Biggest Cannabis Savings Are Almost Here! | News & Updates from Highway 90",
+   "og:description": "Known as the “Black Friday” of cannabis, Green Wednesday has become a major day for weed enthusiasts and savvy shoppers to stock up on their favorite products",
+   "og:url": "https://www.thehighway90.com/blog/whatisgreenwednesday",
+   "og:site_name": "Highway 90",
+   "article:tag": "sales",
+   "article:section": "Uncategorized",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/2024/11/blog-featured-image-1.png",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/2024/11/blog-featured-image-1.png",
+   "og:image:width": "800",
+   "og:image:height": "360",
+   "og:image:alt": "green Wednesday deals at highway 90 dispensary",
+   "og:image:type": "image/png",
+   "article:published_time": "2024-11-22T11:16:55-05:00",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "What Is Green Wednesday? Highway 90's Biggest Cannabis Savings Are Almost Here! | News & Updates from Highway 90",
+   "twitter:description": "Known as the “Black Friday” of cannabis, Green Wednesday has become a major day for weed enthusiasts and savvy shoppers to stock up on their favorite products",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/2024/11/blog-featured-image-1.png",
+   "twitter:label1": "Written by",
+   "twitter:data1": "Kate Sargis",
+   "twitter:label2": "Time to read",
+   "twitter:data2": "3 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Organization",
+      "@id": "https://www.thehighway90.com/#organization",
+      "name": "Highway 90",
+      "logo": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/#logo",
+       "url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "contentUrl": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "caption": "Highway 90",
+       "inLanguage": "en-US",
+       "width": "512",
+       "height": "497"
+      }
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.thehighway90.com/#website",
+      "url": "https://www.thehighway90.com",
+      "name": "Highway 90",
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "ImageObject",
+      "@id": "https://www.thehighway90.com/wp-content/uploads/2024/11/blog-featured-image-1.png",
+      "url": "https://www.thehighway90.com/wp-content/uploads/2024/11/blog-featured-image-1.png",
+      "width": "800",
+      "height": "360",
+      "caption": "green Wednesday deals at highway 90 dispensary",
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/blog/whatisgreenwednesday#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/blog/category/uncategorized/",
+         "name": "Uncategorized"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "3",
+        "item": {
+         "@id": "https://www.thehighway90.com/blog/whatisgreenwednesday/",
+         "name": "What is Green Wednesday? Learn all about the exciting things coming to Highway 90 for the holidays."
+        }
+       }
+      ]
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.thehighway90.com/blog/whatisgreenwednesday#webpage",
+      "url": "https://www.thehighway90.com/blog/whatisgreenwednesday",
+      "name": "What Is Green Wednesday? Highway 90&#039;s Biggest Cannabis Savings Are Almost Here! | News &amp; Updates from Highway 90",
+      "datePublished": "2024-11-22T11:16:55-05:00",
+      "dateModified": "2024-11-22T11:16:55-05:00",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/2024/11/blog-featured-image-1.png"
+      },
+      "inLanguage": "en-US",
+      "breadcrumb": {
+       "@id": "https://www.thehighway90.com/blog/whatisgreenwednesday#breadcrumb"
+      }
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.thehighway90.com/blog/whatisgreenwednesday#author",
+      "name": "Kate Sargis",
+      "image": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/wp-content/litespeed/avatar/1c01e93ffdbb748e302375b2a5018d37.jpg?ver=1791959311",
+       "url": "https://www.thehighway90.com/wp-content/litespeed/avatar/1c01e93ffdbb748e302375b2a5018d37.jpg?ver=1791959311",
+       "caption": "Kate Sargis",
+       "inLanguage": "en-US"
+      },
+      "sameAs": [
+       "https://www.thehighway90.com/wp-admin"
+      ],
+      "worksFor": {
+       "@id": "https://www.thehighway90.com/#organization"
+      }
+     },
+     {
+      "articleSection": "Uncategorized",
+      "headline": "What is Green Wednesday? ",
+      "description": "Highway 90 dispensary in Marlton, NJ is gearing up for Green Wednesday with week-long deals! Save on all your favorite cannabis products all week long!",
+      "keywords": "green Wednesday, highway 90, cannabis ",
+      "@type": "BlogPosting",
+      "author": {
+       "@id": "https://www.thehighway90.com/blog/whatisgreenwednesday#author",
+       "name": "Kate Sargis"
+      },
+      "datePublished": "2024-11-22T11:16:55-05:00",
+      "dateModified": "2024-11-22T11:16:55-05:00",
+      "image": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/2024/11/blog-featured-image-1.png"
+      },
+      "name": "What is Green Wednesday? ",
+      "@id": "https://www.thehighway90.com/blog/whatisgreenwednesday#schema-203977",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/blog/whatisgreenwednesday#webpage"
+      },
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "inLanguage": "en-US",
+      "mainEntityOfPage": {
+       "@id": "https://www.thehighway90.com/blog/whatisgreenwednesday#webpage"
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   }
+  ]
+ },
+ "h1": "What Is Green Wednesday? Highway 90’s Biggest Cannabis Savings Are Almost Here!",
+ "docId": "6157",
+ "docType": "single-post",
+ "sections": [
+  {
+   "t": "group",
+   "id": "733963e",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h1",
+     "html": "What Is Green Wednesday? Highway 90’s Biggest Cannabis Savings Are Almost Here!",
+     "text": "What Is Green Wednesday? Highway 90’s Biggest Cannabis Savings Are Almost Here!",
+     "from": "post-title"
+    },
+    {
+     "t": "meta",
+     "items": [
+      "November 22, 2024"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "2fcaaa5",
+   "children": [
+    {
+     "t": "text",
+     "html": "<p><a href=\"/\">Home</a> / <a href=\"/blog/category/uncategorized/\">Uncategorized</a> / What is Green Wednesday? Learn all about the exciting things coming to Highway 90 for the holidays.</p>"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "5dbc2a7",
+   "children": [
+    {
+     "t": "text",
+     "html": "<p><img data-ref=\"https://www.thehighway90.com/wp-content/uploads/2024/11/Green-Wednesday-Blog-Image-.png\" alt=\"Highway 90 image\"></p><h4><strong>What is Green Wednesday? 🍃</strong></h4><p>Known as the “Black Friday” of cannabis, Green Wednesday has become a major day for weed enthusiasts and savvy shoppers to stock up on their favorite products before the holiday season and makes an excellent opportunity to grab your favorite brands and capitalize on once-a-year deals. The cannabis holiday began in California around 2016 when dispensaries noticed an increase in sales on the day before Thanksgiving. As many Americans prepare to embark on long weekends filled with family, food, and travel, one thing is clear: cannabis has a way of making these moments even better and is becoming an essential part of holiday traditions for many.</p><h4>Here’s what you can expect at <a href=\"/stores/highway-90-cannabis-dispensary-evesham-nj/\">Highway 90</a>:</h4><h4><strong>Exclusive Deals and Discounts 💰</strong></h4><p>Get ready for unbeatable savings on premium cannabis products all week long that you won’t find anywhere else. From flower and concentrates to edibles and accessories, we’ve got something for everyone. Whether you’re hosting a Friendsgiving, looking to unwind after a long day of cooking, or just stocking up, <a href=\"/specials/\">Highway 90’s deals</a> will help you save big while enjoying top-quality products.</p><p>Ask your budtender about the sales Highway 90 is offering and treat yourself for the holiday. Whether you need gummies for grandma or pre-rolls for your pre-Thanksgiving dinner walk, our unbeatable deals have something for everyone to enjoy! The countdown has begun, and with exclusive deals on the horizon, you find your favorite products at a price that’s too good to pass up. Stay tuned to learn more about Highway 90’s weeklong deals!</p><h4><strong>Expert Recommendations 🧑‍🏫</strong></h4><p>Not sure what to pick up? Our knowledgeable budtenders will be on hand to guide you through the best options for your needs. Looking for something to spark creativity, enhance relaxation, or make the holiday more festive? We’ve got the perfect strains and products to match. Our team is ready to provide expert product recommendations tailored just to you, ensuring you find the perfect items for your needs. Don’t forget to check out our flower bud-bar to find new, high quality strains picked exclusively by our expert budtenders.</p><h4><strong>Perfect Timing for Thanksgiving Prep 🦃</strong></h4><p>With Thanksgiving the next day, it’s the perfect time to pick up everything you need to enhance your holiday. Whether you’re looking for an uplifting strain to help with cooking, or an edible to relax after dinner, Highway 90’s got you covered. Hosting friends and family? It’s the perfect time to grab shareable items like <a href=\"/products/garden-greens-black-maple-pre-rolls-5pk-for-sale-evesham-nj/\">Garden Greens Black Maple 5 pack pre-rolls</a> or <a href=\"/products/wana-limoncello-hybrid-10-pack-for-sale-evesham-nj/\">Wana’s Fast Acting Limoncello edibles</a> to elevate Friendsgiving celebrations. Highway 90 will ensure you’re fully prepared with cannabis products that complement your Thanksgiving weekend – whether you’re chilling or celebrating.</p><h4><strong>Why Shop on Green Wednesday? 🍃</strong></h4><p>It’s quickly become one of the most popular shopping days for cannabis enthusiasts, just in time for Thanksgiving. With exclusive discounts and an opportunity to try new products, it’s the perfect time to treat yourself – or grab gifts for the cannabis lovers in your life. Stock up on premium flower, edibles, vapes, concentrates and more at incredible prices to kick off the holiday season. It’s your chance to snag incredible discounts that are almost as good – or better – than what you’ll see on 4/20.</p><p>Don’t miss out on the chance to celebrate the holiday season with the best cannabis products New Jersey has to offer! To stay up to date with the best deals in South Jersey, make sure to <a href=\"/loyalty-sign-up/\">signup for Highway 90 loyalty</a> to be the first to know about our weeklong specials! Highway 90 will be closed on Thanksgiving, so be sure to stock up on all your favorites this Green Wednesday!</p><p><img data-ref=\"https://www.thehighway90.com/wp-content/uploads/2024/11/Highway90_logo_signage-10-2048x422.png\" alt=\"Highway 90 image\"></p>",
+     "from": "content"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "604f0e0",
+   "children": [
+    {
+     "t": "postnav",
+     "prev": null,
+     "next": {
+      "text": "Green Wednesday Deals Are Here: Shop Store-Wide Savings All Week at Highway 90Next",
+      "label": "",
+      "href": "/blog/green-wednesday-deals-are-here-at-highway-90/"
+     }
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "events": null,
+ "unknownWidgets": []
+}

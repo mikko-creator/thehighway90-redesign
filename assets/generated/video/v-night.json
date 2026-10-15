@@ -1,0 +1,24 @@
+{
+  "tool": "tools/make-loop.mjs",
+  "input": "tmp/hf/v-night.mp4",
+  "inputDuration": 5.041667,
+  "fps": 24,
+  "fade": 1,
+  "loopDuration": 4.042,
+  "outputs": {
+    "assets/generated/video/v-night.mp4": 609564,
+    "assets/generated/video/v-night.webm": 636556,
+    "assets/generated/video/v-night-poster.webp": 75010
+  },
+  "calmness": {
+    "metric": "ffmpeg signalstats YDIF (mean absolute luma change between consecutive frames, 0-255), measured over two plays of the loop",
+    "frames": 193,
+    "max": 2.81519,
+    "p95": 2.6065,
+    "mean": 2.034,
+    "framesOver20": 0,
+    "seamChange": 2.7322
+  },
+  "aiLabel": "AI-generated illustrative motion (Higgsfield kling-video/v3.0-turbo/image-to-video). IPTC digital source type: http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia. Not footage of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "generatedAt": "2026-10-15T00:38:07.686Z"
+}

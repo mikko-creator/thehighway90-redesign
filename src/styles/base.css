@@ -1,0 +1,76 @@
+/* base.css - reset, type scale, layout primitives, prose. */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; scroll-padding-top: calc(var(--hdr-h) + 24px); }
+@media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+body {
+  margin: 0; min-height: 100vh; overflow-x: clip;
+  font: 400 clamp(1rem, 0.96rem + 0.2vw, 1.0875rem)/1.65 var(--f-body);
+  color: var(--text); background: var(--paper);
+  -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;
+}
+img, svg, video { display: block; max-width: 100%; }
+img { height: auto; }
+a { color: inherit; text-decoration-thickness: 2px; text-underline-offset: 0.18em; }
+a:hover { color: var(--orange); }
+button { font: inherit; color: inherit; cursor: pointer; }
+:focus-visible { outline: 3px solid var(--orange); outline-offset: 3px; border-radius: 6px; }
+::selection { background: var(--orange); color: var(--ink); }
+[hidden] { display: none !important; }
+
+h1, h2, h3, h4, h5, h6 { font-family: var(--f-display); color: inherit; margin: 0 0 0.5em; line-height: 1.04; letter-spacing: -0.02em; text-wrap: balance; }
+h1 { font-size: clamp(2.5rem, 1.4rem + 4.6vw, 5.6rem); font-weight: 900; letter-spacing: -0.035em; line-height: 0.96; }
+h2 { font-size: clamp(2rem, 1.3rem + 2.9vw, 3.9rem); font-weight: 850; letter-spacing: -0.03em; line-height: 0.98; }
+h3 { font-size: clamp(1.25rem, 1.05rem + 0.8vw, 1.7rem); font-weight: 750; }
+h4 { font-size: 1.2rem; font-weight: 700; }
+p { margin: 0 0 1em; }
+strong, b { font-weight: 700; }
+small { font-size: 0.86em; }
+hr { border: 0; height: 2px; background: currentColor; opacity: 0.15; margin: 2em 0; }
+
+.wrap { width: min(100% - 2 * var(--gut), var(--wrap)); margin-inline: auto; position: relative; }
+.wrap--narrow { width: min(100% - 2 * var(--gut), 860px); }
+.sec { position: relative; padding-block: var(--sec); isolation: isolate; }
+.sec--tight { padding-block: calc(var(--sec) * 0.6); }
+.skip { position: absolute; left: 12px; top: -60px; z-index: 200; padding: 10px 16px; background: var(--orange); color: var(--ink); font-weight: 700; border-radius: 10px; border: 2px solid var(--ink); }
+.skip:focus { top: 12px; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; border: 0; }
+.muted { color: var(--muted); }
+.on-dark { color: var(--on-dark); }
+.on-dark h1, .on-dark h2, .on-dark h3 { color: var(--white); }
+.on-dark .glass:not(.glass--dark) { color: var(--text); }
+.on-dark .glass:not(.glass--dark) h2, .on-dark .glass:not(.glass--dark) h3 { color: var(--ink); }
+.on-dark .prod, .on-dark .deal, .on-dark .rev, .on-dark .post { color: var(--text); }
+.on-dark .prod h3, .on-dark .deal h3, .on-dark .post h3 { color: var(--ink); }
+.on-dark .fx h3 { color: var(--ink); }
+.center { text-align: center; }
+
+/* section heads */
+.head { display: grid; gap: 14px; margin-bottom: clamp(28px, 4vw, 52px); max-width: 860px; }
+.head--center { margin-inline: auto; text-align: center; justify-items: center; }
+.head--row { max-width: none; grid-template-columns: 1fr auto; align-items: end; gap: 24px; }
+.head h2 { margin: 0; }
+.head p { margin: 0; font-size: 1.12rem; color: var(--muted); max-width: 62ch; }
+.on-dark .head p, .on-dark .muted { color: var(--on-dark-muted); }
+@media (max-width: 720px) { .head--row { grid-template-columns: minmax(0, 1fr); align-items: start; } }
+
+/* prose: verbatim rich text from the live pages */
+.prose { max-width: 72ch; }
+.prose > * + * { margin-top: 0.9em; }
+.prose h2 { font-size: clamp(1.7rem, 1.2rem + 1.6vw, 2.5rem); margin-top: 1.4em; }
+.prose h3 { margin-top: 1.3em; }
+.prose h4 { margin-top: 1.2em; }
+.prose ul, .prose ol { padding-left: 1.3em; }
+.prose li { margin: 0.35em 0; }
+.prose li::marker { color: var(--orange); font-weight: 700; }
+.prose a { color: var(--deep); font-weight: 600; text-decoration-color: var(--orange); }
+.on-dark .prose a { color: var(--tang); }
+.prose a:hover { color: var(--orange); }
+.prose blockquote { margin: 1.4em 0; padding: 1em 1.3em; border-left: 6px solid var(--orange); background: rgba(228, 113, 36, 0.08); border-radius: 0 var(--r-s) var(--r-s) 0; }
+.prose table { width: 100%; border-collapse: collapse; font-size: 0.96rem; }
+.prose th, .prose td { padding: 0.6em 0.8em; border-bottom: 1.5px solid rgba(11, 32, 22, 0.14); text-align: left; vertical-align: top; }
+.prose th { font-family: var(--f-display); font-weight: 700; }
+.prose figure { margin: 1.4em 0; }
+.prose img { border-radius: var(--r); }
+.prose p:empty { display: none; }
+/* clip sideways only: cut-outs still cross the seams above and below, but never widen a phone's layout viewport */
+main > section, .sec, .phero, .hero { overflow-x: clip; }

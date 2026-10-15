@@ -1,0 +1,459 @@
+{
+ "path": "/categories/pre-rolls/",
+ "url": "https://www.thehighway90.com/categories/pre-rolls/",
+ "kind": "joint-single",
+ "head": {
+  "title": "Shop Cannabis Pre-Rolls | Highway 90 Marlton Dispensary",
+  "description": "Shop our wide selection of cannabis Pre-Rolls and other cannabis products at Highway 90 Cannabis Dispensary.",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/categories/pre-rolls/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Shop Cannabis Pre-Rolls | Highway 90 Marlton Dispensary",
+   "og:description": "Shop our wide selection of cannabis Pre-Rolls and other cannabis products at Highway 90 Cannabis Dispensary.",
+   "og:url": "https://www.thehighway90.com/categories/pre-rolls/",
+   "og:site_name": "Highway 90",
+   "og:updated_time": "2026-09-18T13:27:57-04:00",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:image:alt": "Highway 90 OpenGraph",
+   "og:image:type": "image/png",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Shop Cannabis Pre-Rolls | Highway 90 Marlton Dispensary",
+   "twitter:description": "Shop our wide selection of cannabis Pre-Rolls and other cannabis products at Highway 90 Cannabis Dispensary.",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/categories/pre-rolls/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/categories/",
+         "name": "Categories"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "3",
+        "item": {
+         "@id": "https://www.thehighway90.com/categories/pre-rolls/",
+         "name": "Pre-Rolls"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What are Cannabis Pre-Rolls?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Crafted from finely ground cannabis flowers and rolled into convenient cigarettes. We present a diverse selection of pre-rolls featuring pre-rolled cones, CBD pre-rolls, infused pre-rolls, blunt pre-rolls, and convenient pre-roll packs."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What's in Cannabis Pre-Rolls?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "The typical contents of pre-rolls include Bud, Shake, and Trim, providing users with options to align with their desired cannabis experience Tailor your shopping choices based on personal preferences, whether you opt for straightforward flower or explore enhanced options. Some pre-rolls feature added concentrates or a blend of multiple strains, offering a variety of effects."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How are Cannabis Pre-Rolls made?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Discover the process behind dispensary pre-rolls, akin to rolling your own joint. Most pre-rolls are individually packed with pre-ground cannabis flower and machine-rolled for consistency, ensuring a smooth, smokable product. Dispensaries may use specific rolling papers, cones, or tobacco blunt wraps to enhance the experience. Explore the variety from mass-produced to artisanal pre-rolls for a unique cannabis experience."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What makes a Cannabis Pre-Roll good?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Enhance your pre-roll selection process by understanding which strains cater to your desired experience, much like discerning the qualities of different flower strains. Begin by acknowledging your preferences, recognizing that the effects of various strains vary among individuals. Explore the diverse world of pre-rolls, tailoring your choices to match your unique preferences and intentions."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What are Cannabis Blunts?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Explore the world of cannabis blunts crafted with cigar wraps instead of traditional rolling paper. These wraps, often made from tobacco leaves, offer a distinctive flavor and aroma to the smoking experience."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What are Infused Cannabis Pre-Rolls?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Additionally, discover the allure of infused pre-rolls, featuring a blend of ground flower and cannabis concentrate like wax, shatter, or oil for a heightened and diverse cannabis encounter."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Are pre-rolls made with whole flower?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Many pre-rolls are made with high-quality flower, depending on the brand and product."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Does Highway 90 carry infused pre-rolls?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Availability varies, but we often stock infused options for customers seeking higher potency."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Are pre-rolls good for beginners?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, especially when choosing lower-potency options."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Cannabis Pre-Rolls For Sale in Marlton, NJ",
+ "docId": "13166",
+ "docType": "single-post",
+ "sections": [
+  {
+   "t": "group",
+   "id": "f114764",
+   "children": [
+    {
+     "t": "text",
+     "html": "<p><a href=\"/\">Home</a> / <a href=\"/categories/\">Categories</a> / Pre-Rolls</p>"
+    },
+    {
+     "t": "text",
+     "html": "Cannabis Pre-Rolls For Sale in Marlton, NJ",
+     "anim": "fadeInLeft"
+    },
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "FIND PRE-ROLLS, INFUSED JOINTS, BLUNTS AND MULTI-PACKS",
+     "text": "FIND PRE-ROLLS, INFUSED JOINTS, BLUNTS AND MULTI-PACKS"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "3a239e1",
+   "children": [
+    {
+     "t": "posts",
+     "items": [
+      {
+       "title": "Blunts",
+       "href": "/categories/pre-rolls/blunts/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      },
+      {
+       "title": "Infused",
+       "href": "/categories/pre-rolls/infused/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      },
+      {
+       "title": "Infused Pre Roll Packs",
+       "href": "/categories/pre-rolls/infused-pre-roll-packs/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      },
+      {
+       "title": "Packs",
+       "href": "/categories/pre-rolls/packs/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      },
+      {
+       "title": "Single Infused Pre Roll",
+       "href": "/categories/pre-rolls/single-infused-pre-roll/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      },
+      {
+       "title": "Singles",
+       "href": "/categories/pre-rolls/singles/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      }
+     ],
+     "pagination": []
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "d54f337",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h2>About Cannabis Pre-Rolls</h2><p>Discover the convenience of pre-rolled joints as an excellent and accessible method for cannabis consumption. Essentially, pre-rolls consist of ground cannabis, rolling papers, and a filter tip, offering a simplified and hassle-free way to enjoy smokable cannabis. Explore the benefits of pre-rolled joints for a straightforward and enjoyable cannabis experience.</p><p>Shop pre-rolls at Highway 90 Dispensary for a ready-to-use cannabis experience. Our pre-roll selection includes single joints and multipacks featuring popular strains and blends. Pre-rolls are a convenient option for those who want quality flower without the need to grind or roll.</p><h3>Benefits of Cannabis Pre-Rolls</h3><p>For medical users facing significant ailments, pre-rolls provide relief without the complications of rolling joints independently. In recent years, pre-rolls have evolved from “mystery mix” to high-quality options, meeting the increasing demand for premium cannabis flowers. With a growing emphasis on strain education, users now seek accessibility to various strains, exploring the diverse effects each offers beyond merely getting “high.”</p><h3>How to use Cannabis Pre-Rolls</h3><p>The user-friendly nature of pre-rolls makes them ideal for beginners, occasional smokers, or medical users. Explore the hassle-free world of pre-rolls, offering a convenient alternative to rolling your own joint. Eliminating the need for a grinder, rolling papers, filters, packing tools, tray, and flower, dispensaries have simplified the process for you. This convenience extends to the high portability of pre-rolls, requiring only a lighter, easily fitting into your purse or pocket. Pre-rolls offer a manageable high for those with lower tolerance, allowing you to take as many puffs as desired and save the rest for later.</p><h2>Cannabis Pre-Rolls FAQs</h2><p><h3> What are Cannabis Pre-Rolls?</h3> <p>Crafted from finely ground cannabis flowers and rolled into convenient cigarettes. We present a diverse selection of pre-rolls featuring pre-rolled cones, CBD pre-rolls, infused pre-rolls, blunt pre-rolls, and convenient pre-roll packs.</p> <h3> What's in Cannabis Pre-Rolls?</h3> <p>The typical contents of pre-rolls include Bud, Shake, and Trim, providing users with options to align with their desired cannabis experience Tailor your shopping choices based on personal preferences, whether you opt for straightforward flower or explore enhanced options. Some pre-rolls feature added concentrates or a blend of multiple strains, offering a variety of effects.</p> <h3> How are Cannabis Pre-Rolls made?</h3> <p>Discover the process behind dispensary pre-rolls, akin to rolling your own joint. Most pre-rolls are individually packed with pre-ground cannabis flower and machine-rolled for consistency, ensuring a smooth, smokable product. Dispensaries may use specific rolling papers, cones, or tobacco blunt wraps to enhance the experience. Explore the variety from mass-produced to artisanal pre-rolls for a unique cannabis experience.</p> <h3> What makes a Cannabis Pre-Roll good?</h3> <p>Enhance your pre-roll selection process by understanding which strains cater to your desired experience, much like discerning the qualities of different flower strains. Begin by acknowledging your preferences, recognizing that the effects of various strains vary among individuals. Explore the diverse world of pre-rolls, tailoring your choices to match your unique preferences and intentions.</p> <h3> What are Cannabis Blunts?</h3> <p>Explore the world of cannabis blunts crafted with cigar wraps instead of traditional rolling paper. These wraps, often made from tobacco leaves, offer a distinctive flavor and aroma to the smoking experience.</p> <h3> What are Infused Cannabis Pre-Rolls?</h3> <p>Additionally, discover the allure of infused pre-rolls, featuring a blend of ground flower and cannabis concentrate like wax, shatter, or oil for a heightened and diverse cannabis encounter.</p> <h3> Are pre-rolls made with whole flower?</h3> <p>Many pre-rolls are made with high-quality flower, depending on the brand and product.</p> <h3> Does Highway 90 carry infused pre-rolls?</h3> <p>Availability varies, but we often stock infused options for customers seeking higher potency.</p> <h3> Are pre-rolls good for beginners?</h3> <p>Yes, especially when choosing lower-potency options.</p></p>",
+     "from": "content"
+    }
+   ],
+   "anim": "fadeInUp"
+  }
+ ],
+ "archive": null,
+ "events": null,
+ "unknownWidgets": []
+}

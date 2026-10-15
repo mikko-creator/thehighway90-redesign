@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-TOPICAL",
+  "file": "assets/generated/g-topical.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Studio product photograph of an unlabelled frosted white glass cosmetic jar with its lid off showing smooth pale green balm, a single fresh cannabis leaf resting beside it, on a seamless soft sage green backdrop with a large warm cream circle of colour behind the jar, hard graphic shadow, minimal pop art, clean modern skincare commercial look, ultra detailed; no text, no labels, no logos, no hands",
+  "input": {
+    "aspect_ratio": "4:5",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 4172051018,
+  "requestId": "01a13d05-38b5-77e2-96c1-5771d1506e28",
+  "cutout": null,
+  "width": 1856,
+  "height": 2304,
+  "sha256": "77975d2c0f4584406eaa2b6161692066ddf8c9619b3eed0805d65a77e739a213",
+  "raw": "tmp/img/raw/G-TOPICAL.1792025123291.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-15T00:45:25.089Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

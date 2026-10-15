@@ -1,0 +1,483 @@
+{
+ "path": "/categories/flower/",
+ "url": "https://www.thehighway90.com/categories/flower/",
+ "kind": "joint-single",
+ "head": {
+  "title": "Shop Cannabis Flower | Highway 90 Marlton Dispensary",
+  "description": "Shop our wide selection of cannabis Flower and other cannabis products at Highway 90 Cannabis Dispensary.",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/categories/flower/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Shop Cannabis Flower | Highway 90 Marlton Dispensary",
+   "og:description": "Shop our wide selection of cannabis Flower and other cannabis products at Highway 90 Cannabis Dispensary.",
+   "og:url": "https://www.thehighway90.com/categories/flower/",
+   "og:site_name": "Highway 90",
+   "og:updated_time": "2026-09-18T13:27:16-04:00",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:image:alt": "Highway 90 OpenGraph",
+   "og:image:type": "image/png",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Shop Cannabis Flower | Highway 90 Marlton Dispensary",
+   "twitter:description": "Shop our wide selection of cannabis Flower and other cannabis products at Highway 90 Cannabis Dispensary.",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/categories/flower/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/categories/",
+         "name": "Categories"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "3",
+        "item": {
+         "@id": "https://www.thehighway90.com/categories/flower/",
+         "name": "Flower"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "What exactly is Cannabis Flower?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Flower serves as an alternate term for the mature blooms of the cannabis plant. These buds, harvested for smoking, encapsulate the psychoactive and therapeutic properties of THC, CBD, and various cannabinoids. Unlock the full potential of cannabis with these potent and versatile flower buds."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Why is Cannabis called a Flower?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "In the realm of cannabis, the term &#8220;flower&#8221; has gained prominence as a more specific product identifier. It is interchangeable with other terms such as bud, pot, and weed within the cannabis lexicon. This shift in language reflects a growing precision in describing and categorizing different parts of the cannabis plant."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long do the effects of Cannabis Flower last?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Typically, the peak effects of smoking flower, commonly associated with the &#8220;high,&#8221; manifest within a timeframe ranging from 10 minutes to two hours post-smoking. As the effects gradually subside around the one to two-hour mark. Optimize your cannabis experience by understanding the duration of effects and tailoring your consumption accordingly."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How is the potency of Cannabis Flower measured?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Cannabis flower potency is commonly assessed through its THC (tetrahydrocannabinol) content, the primary psychoactive compound accountable for the associated &#8220;high.&#8221; The measurement of cannabis flower potency is expressed as a percentage of THC by weight."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Does Cannabis Flower expire?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Similar to any organic substance, cannabis flower has a shelf life. With time, the potency and flavor of aging cannabis flower may diminish, leading to dryness and brittleness. To preserve freshness, store cannabis flower in an airtight container in a cool, dark location. Proper storage can extend its lifespan for several months."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How do you store Cannabis Flower?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "When exposed to light and air, cannabis flower may undergo changes in potency and flavor, leading to a less desirable experience. An airtight container serves as a protective shield against these external elements, creating an environment conducive to the longevity of the flower&#8217;s attributes."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What types of Cannabis Flower does Highway 90 Carry?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "We offer indica, sativa, and hybrid strains with varying terpene profiles and potency levels. "
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Does Highway 90 sell Flower in different quantities?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, Flower is available in multiple sizes depending on availability, including eighths, quarters, ounces, and more. "
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Is Highway 90's Flower tested?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": " Yes, All cannabis flower sold at Highway 90 Dispensary meets New Jersey state testing and compliance requirements."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Cannabis Flower For Sale in Marlton, NJ",
+ "docId": "13166",
+ "docType": "single-post",
+ "sections": [
+  {
+   "t": "group",
+   "id": "f114764",
+   "children": [
+    {
+     "t": "text",
+     "html": "<p><a href=\"/\">Home</a> / <a href=\"/categories/\">Categories</a> / Flower</p>"
+    },
+    {
+     "t": "text",
+     "html": "Cannabis Flower For Sale in Marlton, NJ",
+     "anim": "fadeInLeft"
+    },
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "EXPLORE CANNABIS STRAINS, PREMIUM FLOWER AND SHAKE",
+     "text": "EXPLORE CANNABIS STRAINS, PREMIUM FLOWER AND SHAKE"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "3a239e1",
+   "children": [
+    {
+     "t": "posts",
+     "items": [
+      {
+       "title": "Hybrid",
+       "href": "/categories/flower/hybrid/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      },
+      {
+       "title": "Indica",
+       "href": "/categories/flower/indica/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      },
+      {
+       "title": "Pre Ground",
+       "href": "/categories/flower/pre-ground/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      },
+      {
+       "title": "Premium",
+       "href": "/categories/flower/premium/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      },
+      {
+       "title": "Sativa",
+       "href": "/categories/flower/sativa/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      },
+      {
+       "title": "Shake Weed",
+       "href": "/categories/flower/shake-trim/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      },
+      {
+       "title": "Small Buds",
+       "href": "/categories/flower/small-buds/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      },
+      {
+       "title": "Smalls Popcorn",
+       "href": "/categories/flower/smalls-popcorn/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      },
+      {
+       "title": "Whole Flower",
+       "href": "/categories/flower/whole-flower/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      }
+     ],
+     "pagination": []
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "d54f337",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h2>About Cannabis Flower</h2><h3>Cannabis Flower, Culture &amp; Usage</h3><p>One of the most enduring and cherished ways to enjoy cannabis is through the classic method of smoking flower. Embraced by many as a ritualistic experience, indulging in a joint is not just enjoyable but also iconic. The popularity of cannabis flower is undeniable, particularly for its ability to reconnect us with the origins of this beloved plant.</p><p>Shop premium cannabis flower at Highway 90 Dispensary, featuring a wide variety of indica, sativa and hybrid strains. Our flower selection includes fresh, high quality buds from trusted brands, available in multiple sizes to fit your needs. Whether you’re looking for relaxing strains, uplifting effects, or balanced hybrids, our knowledgeable team can help you find the right flower for your experience.</p><p>For centuries, humans worldwide have used flowers for diverse purposes. Cannabis, a versatile plant thriving in various climates, produces densely packed buds at its peak floral stage. Smoking ground-up weed flower remains the most popular method, offering a classic way to experience marijuana’s effects. Post-cannabis legalization, scientists explore its potential, leading to top-selling products like cannabis rosin, hash, kief, tinctures, oils, and distillates. The cultural impact of the best weed flower is evident in music, films, and everyday life. From iconic songs to diverse movie characters, cannabis consumption has evolved beyond stereotypes, with legalization influencing a more nuanced portrayal on screen.</p><h3>Benefits of Cannabis Flower</h3><p>Cannabis flower, commonly known as marijuana bud, contains various compounds that contribute to its potential therapeutic effects. Enjoying the benefits of the plant through smoking flower is a straightforward method. Here are some potential benefits associated with cannabis flower: relaxation/stress reduction, improved sleep, mood enhancement, creativity and focus.</p><h3>How to use Cannabis Flower</h3><p>Throughout history, individuals have smoked marijuana flower using glass or wood devices such as pipes and hookahs. Rolling flower into a paper joint offers another popular consumption method, though both techniques necessitate flower grinding. Whether using a metal grinder or your fingers, breaking down the flower ensures a smooth, complete burn, enhancing the longevity of your cannabis experience.</p><h3>What are the different types of Cannabis Flower</h3><p>Explore the diverse world of weed flower, categorized into three main types: Indica Strain, Sativa Strain, and Hybrid Strain. Sativa: Experience invigorating and uplifting effects with Sativa strains. Indica: Unwind and enjoy relaxing, sedative effects with Indica strains. Hybrid: Embrace the unique effects of Hybrid strains, combining both Sativa and Indica genetics for a varied and personalized experience based on their specific genetic makeup.</p><h2>Cannabis Flower FAQs</h2><p><h3> What exactly is Cannabis Flower?</h3> <p>Flower serves as an alternate term for the mature blooms of the cannabis plant. These buds, harvested for smoking, encapsulate the psychoactive and therapeutic properties of THC, CBD, and various cannabinoids. Unlock the full potential of cannabis with these potent and versatile flower buds.</p> <h3> Why is Cannabis called a Flower?</h3> <p>In the realm of cannabis, the term “flower” has gained prominence as a more specific product identifier. It is interchangeable with other terms such as bud, pot, and weed within the cannabis lexicon. This shift in language reflects a growing precision in describing and categorizing different parts of the cannabis plant.</p> <h3> How long do the effects of Cannabis Flower last?</h3> <p>Typically, the peak effects of smoking flower, commonly associated with the “high,” manifest within a timeframe ranging from 10 minutes to two hours post-smoking. As the effects gradually subside around the one to two-hour mark. Optimize your cannabis experience by understanding the duration of effects and tailoring your consumption accordingly.</p> <h3> How is the potency of Cannabis Flower measured?</h3> <p>Cannabis flower potency is commonly assessed through its THC (tetrahydrocannabinol) content, the primary psychoactive compound accountable for the associated “high.” The measurement of cannabis flower potency is expressed as a percentage of THC by weight.</p> <h3> Does Cannabis Flower expire?</h3> <p>Similar to any organic substance, cannabis flower has a shelf life. With time, the potency and flavor of aging cannabis flower may diminish, leading to dryness and brittleness. To preserve freshness, store cannabis flower in an airtight container in a cool, dark location. Proper storage can extend its lifespan for several months.</p> <h3> How do you store Cannabis Flower?</h3> <p>When exposed to light and air, cannabis flower may undergo changes in potency and flavor, leading to a less desirable experience. An airtight container serves as a protective shield against these external elements, creating an environment conducive to the longevity of the flower’s attributes.</p> <h3> What types of Cannabis Flower does Highway 90 Carry?</h3> <p>We offer indica, sativa, and hybrid strains with varying terpene profiles and potency levels.</p> <h3> Does Highway 90 sell Flower in different quantities?</h3> <p>Yes, Flower is available in multiple sizes depending on availability, including eighths, quarters, ounces, and more.</p> <h3> Is Highway 90's Flower tested?</h3> <p>Yes, All cannabis flower sold at Highway 90 Dispensary meets New Jersey state testing and compliance requirements.</p></p>",
+     "from": "content"
+    }
+   ],
+   "anim": "fadeInUp"
+  }
+ ],
+ "archive": null,
+ "events": null,
+ "unknownWidgets": []
+}

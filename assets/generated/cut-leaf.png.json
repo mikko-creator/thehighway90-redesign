@@ -1,0 +1,32 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "CUT-LEAF",
+  "file": "assets/generated/cut-leaf.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Studio photograph of one fresh vibrant green cannabis fan leaf with seven serrated leaflets on its stem, flat and complete, centred with empty space around it, isolated on a plain light grey seamless background, soft even light, crisp edges, ultra detailed; no text, no logos, no hands, no other objects",
+  "input": {
+    "aspect_ratio": "1:1",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 1042360317,
+  "requestId": "01a13cf6-1eaa-7c00-b2a2-b05cf41e7ac5",
+  "cutout": {
+    "model": "fal-ai/birefnet/v2",
+    "requestId": "01a13cf6-4992-7393-b30a-23105ee75d97"
+  },
+  "width": 2048,
+  "height": 2048,
+  "sha256": "0e1a7c617be86938253543badf983992062e251b2942a4042205dd79f1a58aa6",
+  "raw": "tmp/img/raw/CUT-LEAF.1792024133988.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-15T00:29:00.016Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

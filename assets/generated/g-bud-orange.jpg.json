@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-BUD-ORANGE",
+  "file": "assets/generated/g-bud-orange.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Studio product photograph of a single large frosty cannabis flower bud, dense and sparkling with trichomes, bright orange pistils, rich green hues, centred and floating in mid-air above a seamless backdrop that is entirely vivid tangerine orange (hex E47124) from edge to edge, crisp hard key light from the upper left casting a bold dark orange graphic shadow below, pop art colour blocking, clean modern commercial style, razor sharp, ultra detailed; the background must be orange, not purple, not lavender, not pink; no text, no logos, no packaging, no hands",
+  "input": {
+    "aspect_ratio": "1:1",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 3736026905,
+  "requestId": "01a13cf7-69a9-7233-b9a1-8e02eb005aec",
+  "cutout": null,
+  "width": 2048,
+  "height": 2048,
+  "sha256": "6b6b769a2575634428a7f0d5964c3667d01ada02cecbfa43ad33462944055ef7",
+  "raw": "tmp/img/raw/G-BUD-ORANGE.1792024218356.jpg",
+  "attempt": 2,
+  "generatedAt": "2026-10-15T00:30:20.513Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

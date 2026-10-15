@@ -1,0 +1,415 @@
+{
+ "path": "/rewards/",
+ "url": "https://www.thehighway90.com/rewards/",
+ "kind": "page",
+ "head": {
+  "title": "Rewards | Highway 90 Dispensary Marlton, NJ",
+  "description": "Explore Rewards at Highway 90, your local cannabis dispensary in Marlton, NJ. Flower, vapes, edibles & more.",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/rewards/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Rewards | Highway 90 Dispensary Marlton, NJ",
+   "og:description": "Explore Rewards at Highway 90, your local cannabis dispensary in Marlton, NJ. Flower, vapes, edibles & more.",
+   "og:url": "https://www.thehighway90.com/rewards/",
+   "og:site_name": "Highway 90",
+   "og:updated_time": "2025-11-05T17:35:10-05:00",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Img-Rewards-683x1024.png",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Img-Rewards-683x1024.png",
+   "og:image:alt": "Rewards",
+   "article:published_time": "2024-11-13T17:35:03-05:00",
+   "article:modified_time": "2025-11-05T17:35:10-05:00",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Rewards | Highway 90 Dispensary Marlton, NJ",
+   "twitter:description": "Explore Rewards at Highway 90, your local cannabis dispensary in Marlton, NJ. Flower, vapes, edibles & more.",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Img-Rewards-683x1024.png",
+   "twitter:label1": "Time to read",
+   "twitter:data1": "Less than a minute"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Organization",
+      "@id": "https://www.thehighway90.com/#organization",
+      "name": "Highway 90",
+      "logo": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/#logo",
+       "url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "contentUrl": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "caption": "Highway 90",
+       "inLanguage": "en-US",
+       "width": "512",
+       "height": "497"
+      }
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.thehighway90.com/#website",
+      "url": "https://www.thehighway90.com",
+      "name": "Highway 90",
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "ImageObject",
+      "@id": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Img-Rewards-683x1024.png",
+      "url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Img-Rewards-683x1024.png",
+      "width": "200",
+      "height": "200",
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/rewards/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/rewards/",
+         "name": "Rewards"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.thehighway90.com/rewards/#webpage",
+      "url": "https://www.thehighway90.com/rewards/",
+      "name": "Rewards | Highway 90 Dispensary Marlton, NJ",
+      "datePublished": "2024-11-13T17:35:03-05:00",
+      "dateModified": "2025-11-05T17:35:10-05:00",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Img-Rewards-683x1024.png"
+      },
+      "inLanguage": "en-US",
+      "breadcrumb": {
+       "@id": "https://www.thehighway90.com/rewards/#breadcrumb"
+      }
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.thehighway90.com/rewards/#author",
+      "name": "Highway 90 Dispensary",
+      "image": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/wp-content/litespeed/avatar/a7b99884549b620ae464d04655e5e8c7.jpg?ver=1791939289",
+       "url": "https://www.thehighway90.com/wp-content/litespeed/avatar/a7b99884549b620ae464d04655e5e8c7.jpg?ver=1791939289",
+       "caption": "Highway 90 Dispensary",
+       "inLanguage": "en-US"
+      },
+      "sameAs": [
+       "https://www.thehighway90.com"
+      ],
+      "worksFor": {
+       "@id": "https://www.thehighway90.com/#organization"
+      }
+     },
+     {
+      "@type": "Article",
+      "headline": "Rewards | Highway 90 Dispensary Marlton, NJ",
+      "datePublished": "2024-11-13T17:35:03-05:00",
+      "dateModified": "2025-11-05T17:35:10-05:00",
+      "author": {
+       "@id": "https://www.thehighway90.com/rewards/#author",
+       "name": "Highway 90 Dispensary"
+      },
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "description": "Explore Rewards at Highway 90, your local cannabis dispensary in Marlton, NJ. Flower, vapes, edibles &amp; more.",
+      "name": "Rewards | Highway 90 Dispensary Marlton, NJ",
+      "@id": "https://www.thehighway90.com/rewards/#richSnippet",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/rewards/#webpage"
+      },
+      "image": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Img-Rewards-683x1024.png"
+      },
+      "inLanguage": "en-US",
+      "mainEntityOfPage": {
+       "@id": "https://www.thehighway90.com/rewards/#webpage"
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   }
+  ]
+ },
+ "h1": "Rewards",
+ "docId": "25382",
+ "docType": "wp-page",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d74c102",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h1",
+     "html": "Rewards",
+     "text": "Rewards"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "a5358be",
+   "children": [
+    {
+     "t": "button",
+     "text": "Sign-Up",
+     "href": "/rewards-sign-up/"
+    },
+    {
+     "t": "image",
+     "img": {
+      "src": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Img-Rewards-1365x2048.png",
+      "alt": "Highway 90 rewards pop-up",
+      "w": 683,
+      "h": 1024
+     },
+     "href": "/rewards-sign-up/",
+     "caption": null
+    },
+    {
+     "t": "button",
+     "text": "Sign-Up",
+     "href": "/rewards-sign-up/"
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "events": null,
+ "unknownWidgets": []
+}

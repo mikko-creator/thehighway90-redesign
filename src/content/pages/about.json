@@ -1,0 +1,368 @@
+{
+ "path": "/about/",
+ "url": "https://www.thehighway90.com/about/",
+ "kind": "page",
+ "head": {
+  "title": "About Highway 90",
+  "description": "Learn about Highway 90 in Marlton, NJ. Find contact info and explore our offerings at this premier dispensary. Your journey begins here at Highway 90.",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/about/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "About Highway 90",
+   "og:description": "Learn about Highway 90 in Marlton, NJ. Find contact info and explore our offerings at this premier dispensary. Your journey begins here at Highway 90.",
+   "og:url": "https://www.thehighway90.com/about/",
+   "og:site_name": "Highway 90",
+   "og:updated_time": "2025-11-05T18:20:40-05:00",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:image:alt": "Highway 90 OpenGraph",
+   "og:image:type": "image/png",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "About Highway 90",
+   "twitter:description": "Learn about Highway 90 in Marlton, NJ. Find contact info and explore our offerings at this premier dispensary. Your journey begins here at Highway 90.",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+   "twitter:label1": "Time to read",
+   "twitter:data1": "2 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Organization",
+      "@id": "https://www.thehighway90.com/#organization",
+      "name": "Highway 90",
+      "logo": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/#logo",
+       "url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "contentUrl": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "caption": "Highway 90",
+       "inLanguage": "en-US",
+       "width": "512",
+       "height": "497"
+      }
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.thehighway90.com/#website",
+      "url": "https://www.thehighway90.com",
+      "name": "Highway 90",
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "ImageObject",
+      "@id": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+      "url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+      "width": "1200",
+      "height": "630",
+      "caption": "Highway 90 OpenGraph",
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/about/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/about/",
+         "name": "About"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "AboutPage",
+      "@id": "https://www.thehighway90.com/about/#webpage",
+      "url": "https://www.thehighway90.com/about/",
+      "name": "About Highway 90",
+      "datePublished": "2021-07-07T14:11:42-04:00",
+      "dateModified": "2025-11-05T18:20:40-05:00",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png"
+      },
+      "inLanguage": "en-US",
+      "breadcrumb": {
+       "@id": "https://www.thehighway90.com/about/#breadcrumb"
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   }
+  ]
+ },
+ "h1": "About Highway 90 Dispensary",
+ "docId": "1232",
+ "docType": "wp-page",
+ "sections": [
+  {
+   "t": "group",
+   "id": "a74ec95",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h1",
+     "html": "About Highway 90 Dispensary",
+     "text": "About Highway 90 Dispensary"
+    },
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "Cannabis Dispensary located near Marlton, NJ",
+     "text": "Cannabis Dispensary located near Marlton, NJ"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "2191bdd",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h3",
+     "html": "Your Way, Our Way, The Highway",
+     "text": "Your Way, Our Way, The Highway"
+    },
+    {
+     "t": "text",
+     "html": "<p>At <strong>Highway 90</strong>, we believe cannabis should be more than a product—it should be an experience. That’s why we’ve built more than just a dispensary. We’ve created a <strong>destination</strong> where every visit feels personal, welcoming, and inspiring. Located in the heart of <strong>Marlton, NJ</strong>, just minutes from <strong>Cherry Hill</strong> and a short drive from <strong>Philadelphia</strong>, Highway 90 is proud to be the <strong>go-to cannabis dispensary near you</strong> for locals and visitors alike.</p><p>Whether you’re a seasoned consumer or exploring cannabis for the first time, Highway 90 is your trusted partner in the journey. As a <strong>recreational dispensary</strong>, we welcome adults 21+ to come in, ask questions, and explore a curated selection of premium cannabis products designed to fit your lifestyle and elevate your experience.</p><h3>Why We’re Different</h3><p>Highway 90 isn’t your average <strong>NJ dispensary</strong>. We’ve cultivated a vibe that reflects our values: quality, community, and accessibility. From the moment you walk through our doors, our knowledgeable and friendly staff are here to make sure you feel at ease. We take pride in our hand-picked selection of <a href=\"/categories/flower/\"><strong>top-shelf flower</strong></a>, potent <a href=\"/categories/concentrates/\"><strong>concentrates</strong></a>, mouth-watering <a href=\"/categories/edibles/\"><strong>edibles</strong></a>, soothing <a href=\"/categories/topicals/\"><strong>topicals</strong></a>, cannabis <a href=\"/categories/accessories/\"><strong>accessories</strong></a>, and innovative <a href=\"/categories/vaporizers/\"><strong>vape</strong></a> and <a href=\"/categories/flower//categories/pre-rolls/\"><strong>pre-roll</strong></a> options—all carefully sourced from the most respected cultivators and <strong><a href=\"/brands/\">brands</a></strong> in New Jersey.</p><p>We’re constantly updating our <a href=\"/menu/\"><strong>menu</strong></a> to bring you the best the Garden State has to offer. Looking for something specific? Our budtenders are always happy to guide you based on your needs, preferences, or curiosity. Whether you’re searching for <strong>weed near me</strong>, a “<strong>dispensary near me open now</strong>,” or just want to explore what a <strong>high-quality cannabis experience</strong> can be, Highway 90 is here for you.</p><h3>A Convenient Stop on Your Cannabis Journey</h3><p>Looking for a <strong>weed store near you</strong> with easy access and great vibes? Highway 90 is conveniently located right off major highways in <strong>Marlton, NJ</strong>, making us a perfect stop for residents and travelers alike. If you’re coming from <strong>Cherry Hill</strong>, <strong>Voorhees</strong>, or <strong>Philadelphia</strong>, our location offers the perfect blend of convenience and premium service. When people search “<strong>cannabis dispensary near me</strong>” or “<strong>New Jersey dispensary with the best selection</strong>,” they find Highway 90—and for good reason.</p><h3>Committed to Community and Cannabis Education</h3><p>We’re more than a <strong>dispensary</strong>—we’re educators, advocates, and neighbors. At Highway 90, we’re passionate about <strong>destigmatizing cannabis</strong>, supporting responsible consumption, and helping customers make informed decisions. Whether you’re seeking relief, sleep, relaxation, or just a good time, our staff is here to guide you every step of the way. Our space is designed to be inviting and accessible, so every customer feels welcome. We’re committed to creating an environment where people can learn, explore, and celebrate cannabis culture in a safe and inclusive space.</p><h3>Your Go-To NJ Dispensary</h3><p>When you’re searching for a “<strong>recreational dispensary near me</strong>” or the most trusted <strong>NJ dispensary</strong>, look no further than Highway 90. We’re proud to serve the Marlton community and beyond with unmatched service, carefully selected products, and a passion for cannabis culture. Our returning customers love us because we listen, care, and deliver consistently excellent experiences. Stop by and <strong>experience the difference</strong> at Highway 90. Whether you’re a curious newcomer or a daily toker, we’ve got something special waiting for you. Come discover why Highway 90 is Marlton’s favorite <strong>cannabis dispensary</strong>.</p>"
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "events": null,
+ "unknownWidgets": []
+}

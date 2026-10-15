@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-GREENHOUSE",
+  "file": "assets/generated/g-greenhouse.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Sunlit modern cannabis greenhouse with long tidy rows of healthy green cannabis plants under a glass roof, warm morning light streaming through and soft haze, clean professional horticulture, wide cinematic photograph, ultra detailed; no people, no text, no logos, no signs",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 1001742784,
+  "requestId": "01a13cf5-d993-7773-946d-7cbab720fac3",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "4750a3f4d7d91cd5a147dfafce58ec93137aadd8279b052c409fc63f0a7cc285",
+  "raw": "tmp/img/raw/G-GREENHOUSE.1792024117985.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-15T00:28:39.999Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

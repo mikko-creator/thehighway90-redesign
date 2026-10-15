@@ -1,0 +1,1834 @@
+{
+ "note": "Static snapshot of products from the crawled /products/ pages (schema.org JSON-LD). Prices and stock as published on 2026-10-15.",
+ "generated": "2026-10-15T01:17:23.729Z",
+ "counts": {
+  "accessories": 4,
+  "flower": 23,
+  "vaporizers": 30,
+  "pre-rolls": 20,
+  "edibles": 12,
+  "concentrates": 11,
+  "other": 1
+ },
+ "products": [
+  {
+   "path": "/products/aluminum-and-glass-spoon-pipe-for-sale-marlton-nj/",
+   "name": "Aluminum and Glass Spoon Pipe",
+   "h1": "Aluminum and Glass Spoon Pipe",
+   "brand": null,
+   "category": "accessories",
+   "description": "",
+   "offers": [
+    {
+     "size": "N/A",
+     "price": 28
+    }
+   ],
+   "price": 28,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/animal-face-x-sherb-crasher-for-sale-marlton-nj/",
+   "name": "Animal Face x Sherb Crasher | 7g",
+   "h1": "Kind Tree Animal Face x Sherb Crasher | 7g",
+   "brand": "Kind Tree",
+   "category": "flower",
+   "description": "This strain has a dieselu2011cookie funk up front, with a creamy sherbet on the finish. It's been said to spark a lively buzz that eases into smooth, laidu2011back calm.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "1/4oz",
+     "price": 85
+    }
+   ],
+   "price": 85,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/1f4d0167e720f84abc04448800d2522c",
+   "photo": "assets/source/menu/76f8b73ee3cf.png"
+  },
+  {
+   "path": "/products/beach-day-lemonade-disposable-for-sale-evesham-nj/",
+   "name": "Jersey Smooth Beach Day Lemonade Disposable",
+   "h1": "Jersey Smooth Jersey Smooth Beach Day Lemonade Disposable",
+   "brand": "Jersey Smooth",
+   "category": "vaporizers",
+   "description": "Capture the essence of a perfect Jersey Shore getaway where the sweet and tangy combination of blue raspberry and lemonade transports you to sun-soaked shores. This vibrant, fruity blue raspberry flavor shines through, perfectly balanced by a burst of zesty lemonade for a refreshingly unique twist on the classic.&lt;br /&gt;&lt;br /&gt;Flavor Profile:&lt;br /&gt;Blue Raspberry Lemonade: A blend of tart, freshly squeezed lemonade and the sweet-tart goodness of juicy blue raspberries, creating a mouthwatering, candy-like flavor thatu2019s both bold and refreshing.&lt;br /&gt;&lt;br /&gt;Citrus: A hint of lemon adds a zesty zing, enhancing the blue raspberry for an extra kick of citrusy refreshment.&lt;br /&gt;&lt;br /&gt;Experience:&lt;br /&gt;Beach Day Lemonade delivers an uplifting, mood-boosting high that keeps you energized and carefree. Perfect for boardwalk strolls, beach days, or any sun-soaked adventure, itu2019s your go-to for the ultimate summer vibes.&lt;br /&gt;&lt;br /&gt;Ideal For:&lt;br /&gt;Those seeking a burst of summer energy and a carefree, uplifting vibe. Perfect for daytime adventures whether youu2019re chasing sunsets, or simply basking in that laid-back, vacation state of mind. Let Beach Day Lemonade transport you to sun-soaked shores where every hit brings a refreshing, feel-good experience.&lt;br /&gt;&lt;br /&gt;Jersey Smooth is renowned for delivering a refined and consistent cannabis experience. With a commitment to quality, purity, and customer satisfaction, Jersey Smooth offers a carefully curated selection of premium cannabis products. Whether you're a seasoned enthusiast or new to cannabis, Jersey Smooth ensures every session is effortless, enjoyable, and true to its nameu2014smooth.&lt;br /&gt;&lt;br /&gt;Purchase your Beach Day Lemonade 1g All-in-one at Highway 90, more than just a dispensaryu2014itu2019s a destination. Located at 90 Old Marlton Pike W in Marlton, NJ, Highway 90 is conveniently situated at the crossroads of Route 70 and Route 73, directly across from Marlton Crossing. Serving the communities of Evesham, Cherry Hill, Voorhees Township, Medford, and Mt. Laurel, Highway 90 provides a welcoming environment for cannabis enthusiasts across the region.&lt;br /&gt;&lt;br /&gt;At Highway 90, we believe that cannabis is personal, and our knowledgeable team is here to ensure you get exactly what you need. From top-shelf flower to potent concentrates, delicious edibles, and soothing topicals, our selection is curated to elevate your experience. Whether you're a seasoned connoisseur or a first-time buyer, our commitment to quality, education, and exceptional service makes us Marltonu2019s go-to recreational dispensary.&lt;br /&gt;&lt;br /&gt;Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 50
+    }
+   ],
+   "price": 50,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/819fd9e8cd8f4f9213aaaeac368f24c5",
+   "photo": "assets/source/menu/cf9376f2add7.png"
+  },
+  {
+   "path": "/products/bespoke-bespoke-scotch-soda-for-sale-marlton-nj/",
+   "name": "Bespoke Scotch & Soda",
+   "h1": "Bespoke Bespoke Scotch &#038; Soda",
+   "brand": "Bespoke",
+   "category": "flower",
+   "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+   "offers": [
+    {
+     "size": "1/8oz",
+     "price": 40
+    }
+   ],
+   "price": 40,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/bespoke-biscotti-cart-for-sale-marlton-nj/",
+   "name": "Bespoke Biscotti Cart",
+   "h1": "Bespoke Biscotti Cart",
+   "brand": null,
+   "category": "vaporizers",
+   "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 45
+    }
+   ],
+   "price": 45,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/bespoke-blue-z-cart-for-sale-marlton-nj/",
+   "name": "Bespoke Blue Z Cart",
+   "h1": "Bespoke Bespoke Blue Z Cart",
+   "brand": "Bespoke",
+   "category": "vaporizers",
+   "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 45
+    }
+   ],
+   "price": 45,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/bespoke-gsc-cart-for-sale-marlton-nj/",
+   "name": "Bespoke GSC Cart",
+   "h1": "Bespoke Bespoke GSC Cart",
+   "brand": "Bespoke",
+   "category": "vaporizers",
+   "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 45
+    }
+   ],
+   "price": 45,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/bespoke-ice-cream-cake-pre-roll-for-sale-marlton-nj/",
+   "name": "Bespoke Ice Cream Cake Pre Roll",
+   "h1": "Bespoke Bespoke Ice Cream Cake Pre Roll",
+   "brand": "Bespoke",
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 12
+    }
+   ],
+   "price": 12,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/bespoke-maui-wowie-cart-for-sale-marlton-nj/",
+   "name": "Bespoke Maui Wowie Cart",
+   "h1": "Bespoke Bespoke Maui Wowie Cart",
+   "brand": "Bespoke",
+   "category": "vaporizers",
+   "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 45
+    }
+   ],
+   "price": 45,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/bespoke-pink-rozay-cart-for-sale-marlton-nj/",
+   "name": "Bespoke Pink Rozay Cart",
+   "h1": "Bespoke Bespoke Pink Rozay Cart",
+   "brand": "Bespoke",
+   "category": "vaporizers",
+   "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 45
+    }
+   ],
+   "price": 45,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/bespoke-sunny-daze-pre-roll-for-sale-marlton-nj/",
+   "name": "Bespoke Sunny Daze Pre Roll",
+   "h1": "Bespoke Sunny Daze Pre Roll",
+   "brand": null,
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 12
+    }
+   ],
+   "price": 12,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/big-red-barn-big-red-barn-cherry-crescendo-shake-for-sale-marlton-nj/",
+   "name": "Big Red Barn Cherry Crescendo Shake",
+   "h1": "Big Red Barn Big Red Barn Cherry Crescendo Shake",
+   "brand": "Big Red Barn",
+   "category": "flower",
+   "description": "Big Red Barn Cherry Crescendo 14g Shake u2013 Available Now at Highway 90 Dispensary in Marlton, NJ&lt;br /&gt;&lt;br /&gt;Experience the sweet and uplifting Big Red Barn Cherry Crescendo 14g Shake, a sativa-dominant strain crafted from the powerful cross of (Chemdawg x I-95) x Mandarin Cookies x Cherry Punch. This dessert-like sativa is perfect for fans seeking a balanced, flavorful, and energizing high.&lt;br /&gt;&lt;br /&gt;Flavor & Aroma:&lt;br /&gt;Cherry Crescendo delights the senses with its super sweet, fruity aroma and dessert-inspired flavor profile. Each inhale offers a pleasant mix of cherry, citrus, and subtle herbal notes, making your smoking experience both flavorful and enjoyable.&lt;br /&gt;&lt;br /&gt;Effects:&lt;br /&gt;The high hits quickly with a clear-headed, energetic rush, leaving you feeling vibrant, motivated, and ready to take on the day. A wave of euphoria gently sweeps away negative thoughts and stress, promoting a sense of freedom and positivity. Following the mental lift, a mellow physical relaxation settles in, often accompanied by a sharp case of the munchies, so be sure to have your favorite snacks nearby. Perfect for daytime use, creative endeavors, or social sessions, Cherry Crescendo offers a versatile sativa experience.&lt;br /&gt;&lt;br /&gt;Available at Highway 90 Dispensary&lt;br /&gt;u00a0u2014 Marltonu2019s premier destination for premium cannabis flower, pre-rolls, vapes, and edibles. Conveniently located at 90 Old Marlton Pike W, near Route 70 and Route 73, Highway 90 proudly serves Evesham, Cherry Hill, Voorhees, Medford, and Mt. Laurel.&lt;br /&gt;&lt;br /&gt;Stop by today to pick up Big Red Barn Cherry Crescendo 14g Shake and enjoy sweet, energizing sativa effects and premium quality at Highway 90, where quality meets community.&lt;br /&gt;&lt;br /&gt;Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "1/2oz",
+     "price": 56
+    }
+   ],
+   "price": 56,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/8d32f8fe2469b339afda55ae55b28135",
+   "photo": "assets/source/menu/69ca1c297654.jpg"
+  },
+  {
+   "path": "/products/blood-orange-thc-cbc-for-sale-evesham-nj/",
+   "name": "Blood Orange 1:1 CBC Sativa Enhanced Gummies",
+   "h1": "Wyld Blood Orange 1:1 CBC Sativa Enhanced Gummies",
+   "brand": "Wyld",
+   "category": "edibles",
+   "description": "Wyld Blood Orange 1:1 CBC:THC u2013 Sativa | Uplifting, Blissful&lt;br /&gt;&lt;br /&gt;Wyld Blood Orange gummies combine juicy blood orange flavor with the mood-boosting benefits of CBC and Sativa-enhanced botanical terpenes, creating a bright, uplifting, and blissful experience. Perfect for daytime adventures, social outings, or anytime you want to turn up the happy, these gummies deliver a flavorful and energizing boost.&lt;br /&gt;&lt;br /&gt;Dosing: 10mg THC + 10mg CBC per gummy | 100mg THC + 100mg CBC per container&lt;br /&gt;&lt;br /&gt; Effects: Uplifting, blissful, mood-enhancing&lt;br /&gt;Find Wyld Blood Orange gummies at Highway 90 Dispensary in Marlton, NJ. Conveniently located at 90 Old Marlton Pike W, at the crossroads of Route 70 and Route 73, directly across from Marlton Crossing, Highway 90 proudly serves the communities of Evesham, Cherry Hill, Voorhees Township, Medford, and Mt. Laurel. Whether youu2019re a seasoned cannabis consumer or a first-time buyer, our knowledgeable team helps you find the perfect product to match your lifestyle.&lt;br /&gt;&lt;br /&gt;At Highway 90, we offer more than just cannabis productsu2014we provide a welcoming, educational, and premium experience. Explore our curated selection of top-shelf flower, potent concentrates, delicious edibles, and soothing topicals, all in a convenient, friendly environment. Easily accessible from Cherry Hill and Philadelphia, Highway 90 is your go-to dispensary for quality, community, and exceptional service. Stop by today and experience the Highway 90 difference, where every visit is unforgettable. Located near AMC 8, Chickie's & Pete's, and The Promenade.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": ".1g",
+     "price": 26
+    }
+   ],
+   "price": 26,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/460714d5eff9e86c4e344b389361e02c",
+   "photo": "assets/source/menu/a963569fca09.png"
+  },
+  {
+   "path": "/products/clade9-clade-9-private-reserve-disposable-for-sale-marlton-nj/",
+   "name": "Clade 9 Private Reserve Disposable",
+   "h1": "Clade9 Clade 9 Private Reserve Disposable",
+   "brand": "Clade9",
+   "category": "vaporizers",
+   "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 50
+    }
+   ],
+   "price": 50,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/d7ac77f3ae5a4fc7b88c896271dae856",
+   "photo": "assets/source/menu/33a5a4d9ac1b.png"
+  },
+  {
+   "path": "/products/clade9-orange-push-pop-disposable-for-sale-evesham-nj/",
+   "name": "Clade 9 Orange Push Pop Disposable",
+   "h1": "Clade9 Clade 9 Orange Push Pop Disposable",
+   "brand": "Clade9",
+   "category": "vaporizers",
+   "description": "This gem of a pheno was hunted and preserved by a well known trap grower on LAs Skid Row. After 2 years in tissue culture it came back to bless those that smoke it. Originally bred by Seed Junkie.&lt;br /&gt;&lt;br /&gt;Lineage: Orange Cookies x Triangle Kush&lt;br /&gt;Terpene Profile: Linalool, Limonene, Caryophyllene, Myrcene&lt;br /&gt;&lt;br /&gt;Orange Push Pop Disposable Vape by Clade9 is available now at Highway 90 Dispensary in Marlton, NJ.u00a0&lt;br /&gt;&lt;br /&gt;Clade 9, the premium cannabis cultivation brand behind this exquisite cartridge, is celebrated for its commitment to genetic diversity and unique terpene profiles. Their dedication to producing high-quality flower strains ensures that every puff delivers the exceptional quality and consistency that discerning cannabis users expect.&lt;br /&gt;&lt;br /&gt;Purchasing your Orange Push Pop 1g Disposable Vape at Highway 90 isnu2019t just a transactionu2014itu2019s an experience. Conveniently located at 90 Old Marlton Pike W in Marlton, NJ, our shop is at the crossroads of Route 70 and Route 73, directly across from Marlton Crossing. Serving the communities of Evesham, Cherry Hill, Voorhees Township, Medford, and Mt. Laurel, we offer a welcoming environment where cannabis enthusiasts can find high-quality products with ease.&lt;br /&gt;&lt;br /&gt;At Highway 90, we understand that cannabis is personal. Our knowledgeable team is here to ensure you find exactly what you need, whether itu2019s top-shelf flower, potent concentrates, delicious edibles, or soothing topicals. Our commitment to quality, education, and exceptional service makes us Marltonu2019s go-to recreational dispensary. Conveniently accessible from Cherry Hill and Philadelphia, Highway 90 offers a seamless shopping experience, competitive pricing, and a selection curated with care.&lt;br /&gt;&lt;br /&gt;Stop by today and experience the Highway 90 differenceu2014where quality meets community, and every visit is unforgettable. Located near the AMC 8, Chickie's & Pete's, and The Promenade, Highway 90 is your closest destination for premium cannabis products.&lt;br /&gt;&lt;br /&gt;Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 50
+    }
+   ],
+   "price": 50,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/b7aa04d6ea32392e69409cc813244de4",
+   "photo": "assets/source/menu/45ab7b9770ad.png"
+  },
+  {
+   "path": "/products/cookies-tequila-sunrise-cart-for-sale-marlton-nj/",
+   "name": "Tequila Sunrise Cart",
+   "h1": "Cookies Tequila Sunrise Cart",
+   "brand": "Cookies",
+   "category": "vaporizers",
+   "description": "Cookies Tequila Sunrise 1g Cartridge u2013 Available at Highway 90&lt;br /&gt;&lt;br /&gt;Experience Tequila Sunrise, a flavorful cartridge delivering a full-body effect with a strong head high. The aroma opens with toasted honey accented by a splash of citrus zest, while the flavor mimics your favorite smoky Au00f1ejo finished with a hint of lime, creating a smooth and satisfying vaping experience.&lt;br /&gt;&lt;br /&gt;Available now at Highway 90 in Marlton, NJ, where our knowledgeable team is ready to help you find the perfect cartridge for your vibe.&lt;br /&gt;&lt;br /&gt;Highway 90 is conveniently located at 90 Old Marlton Pike W, right at the crossroads of Route 70 and Route 73, across from Marlton Crossing. If youu2019ve been searching for the best dispensary near me in Marlton, NJ, youu2019ve found it.&lt;br /&gt;&lt;br /&gt;We proudly serve the communities of Evesham, Cherry Hill, Voorhees Township, Medford, and Mt. Laurel, offering premium flower, potent concentrates, delicious edibles, and moreu2014all with friendly, knowledgeable service. Stop by today to grab your Cookies Tequila Sunrise 1g Cartridge and experience the Highway 90 difference.&lt;br /&gt;&lt;br /&gt;Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 45
+    }
+   ],
+   "price": 45,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/d941342f147ca9654a3be942f0d761fe",
+   "photo": "assets/source/menu/91646b9add03.jpg"
+  },
+  {
+   "path": "/products/craft-kings-citrus-haze-royal-smalls-for-sale-marlton-nj-2/",
+   "name": "Craft Kings Citrus Haze Royal Smalls",
+   "h1": "Craft Kings Craft Kings Citrus Haze Royal Smalls",
+   "brand": "Craft Kings",
+   "category": "flower",
+   "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+   "offers": [
+    {
+     "size": "1oz",
+     "price": 120
+    }
+   ],
+   "price": 120,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/craft-kings-craft-kings-cali-cake-for-sale-marlton-nj/",
+   "name": "Craft Kings Cali Cake",
+   "h1": "Craft Kings Craft Kings Cali Cake",
+   "brand": "Craft Kings",
+   "category": "flower",
+   "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+   "offers": [
+    {
+     "size": "1oz",
+     "price": 120
+    }
+   ],
+   "price": 120,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/craft-kings-craft-kings-fruit-stand-royal-smalls-for-sale-marlton-nj-2/",
+   "name": "Craft Kings Fruit Stand Royal Smalls",
+   "h1": "Craft Kings Craft Kings Fruit Stand Royal Smalls",
+   "brand": "Craft Kings",
+   "category": "flower",
+   "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+   "offers": [
+    {
+     "size": "1oz",
+     "price": 120
+    }
+   ],
+   "price": 120,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/cubits-cubits-granny-smith-gummies-20pk-for-sale-marlton-nj/",
+   "name": "Cubits Granny Smith Gummies | 20pk",
+   "h1": "Cubits Cubits Granny Smith Gummies | 20pk",
+   "brand": "Cubits",
+   "category": "edibles",
+   "description": "Cannabis infused gummies evenly dosed commonly sold in multi-packs, which makes controlling your intake easy and reliable. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.",
+   "offers": [
+    {
+     "size": ".1g",
+     "price": 14
+    }
+   ],
+   "price": 14,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/fa89bfb3c11858130f20607e566f1355",
+   "photo": "assets/source/menu/edba4602b611.jpg"
+  },
+  {
+   "path": "/products/fernway-fernway-glass-slipper-live-pro-disposable-for-sale-marlton-nj/",
+   "name": "Fernway Glass Slipper Live PRO Disposable",
+   "h1": "Fernway Fernway Glass Slipper Live PRO Disposable",
+   "brand": "Fernway",
+   "category": "vaporizers",
+   "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 70
+    }
+   ],
+   "price": 70,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/a4f128ff1eb6d9ba083e9ae37bede786",
+   "photo": "assets/source/menu/6ef8d54d33ad.jpg"
+  },
+  {
+   "path": "/products/fernway-honeycrisp-disposable-pro-for-sale-marlton-nj/",
+   "name": "Fernway Honeycrisp PRO Disposable",
+   "h1": "Fernway Fernway Honeycrisp PRO Disposable",
+   "brand": "Fernway",
+   "category": "vaporizers",
+   "description": "Fernway u2013 Honeycrisp Traveler Pro (2g All-in-One)&lt;br /&gt; Type: All-in-One Vape | Flavor: Honeycrisp Apple&lt;br /&gt;&lt;br /&gt;The new Traveler Pro is hereu2014custom engineered by Fernway with upgraded components designed to deliver a smoother, more reliable, and truly premium vaping experience.&lt;br /&gt;&lt;br /&gt;Infused with the flavor of orchard-fresh Honeycrisp apples, this 2g all-in-one vape is crisp, juicy, and refreshing from the first draw to the last. Balanced effects pair with bright, fruit-forward flavor to make every puff as satisfying as biting into a perfectly ripe apple.&lt;br /&gt;&lt;br /&gt;Whether youu2019re on the go or relaxing at home, the Traveler Pro combines next-level design with unforgettable taste. Life just got sweeter. ud83cudf4e&lt;br /&gt;&lt;br /&gt;ud83dudc49 Available now at Highway 90 Dispensary in Marlton, NJ.&lt;br /&gt; Searching for a u201cdispensary near meu201d with premium vapes? Highway 90 carries Fernwayu2019s Honeycrisp Traveler Pro 2g along with a curated menu of top-quality cannabis products.&lt;br /&gt;&lt;br /&gt;Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "2g",
+     "price": 98
+    }
+   ],
+   "price": 98,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/90f54dfe186de8ea74ef5bdebcf2b8ca",
+   "photo": "assets/source/menu/cab5b1ee21ba.jpg"
+  },
+  {
+   "path": "/products/fernway-night-cap-cart-for-sale-marlton-nj/",
+   "name": "Fernway Night Cap Cart",
+   "h1": "Fernway Fernway Night Cap Cart",
+   "brand": "Fernway",
+   "category": "vaporizers",
+   "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 65
+    }
+   ],
+   "price": 65,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/96e9d24cf78b040936f64315a886f40b",
+   "photo": "assets/source/menu/947de8527387.jpg"
+  },
+  {
+   "path": "/products/full-tilt-columbian-d-pre-roll-for-sale-marlton-nj/",
+   "name": "Full Tilt Columbian D Pre-Roll",
+   "h1": "Full Tilt Labs Full Tilt Columbian D Pre-Roll",
+   "brand": "Full Tilt Labs",
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 18
+    }
+   ],
+   "price": 18,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/full-tilt-full-tilt-duffle-full-of-blues-pre-rolls-2pk-for-sale-marlton-nj/",
+   "name": "Full Tilt Duffle Full of Blues Pre-Rolls | 2pk",
+   "h1": "Full Tilt Full Tilt Duffle Full of Blues Pre-Rolls | 2pk",
+   "brand": "Full Tilt",
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Roll packs are a convenient and effective way to consume cannabis. Pre-Roll packs generally contain smaller pre-rolls so that each can be consumed in one sitting.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 18
+    }
+   ],
+   "price": 18,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/868864b4d081fb03a0ee9697cd18619c",
+   "photo": "assets/source/menu/ee4051a0c91f.jpg"
+  },
+  {
+   "path": "/products/full-tilt-honey-bunny-pre-roll-for-sale-marlton-nj/",
+   "name": "Full Tilt Honey Bunny Pre-Roll",
+   "h1": "Full Tilt Labs Full Tilt Honey Bunny Pre-Roll",
+   "brand": "Full Tilt Labs",
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 18
+    }
+   ],
+   "price": 18,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/full-tilt-riptide-rush-pre-roll-for-sale-marlton-nj/",
+   "name": "Full Tilt Riptide Rush Pre-Roll",
+   "h1": "Full Tilt Labs Full Tilt Riptide Rush Pre-Roll",
+   "brand": "Full Tilt Labs",
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 18
+    }
+   ],
+   "price": 18,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/full-tilt-riptide-rush-pre-rolls-2pk-for-sale-marlton-nj/",
+   "name": "Full Tilt Riptide Rush Pre-Rolls | 2pk",
+   "h1": "Full Tilt Labs Full Tilt Riptide Rush Pre-Rolls | 2pk",
+   "brand": "Full Tilt Labs",
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Roll packs are a convenient and effective way to consume cannabis. Pre-Roll packs generally contain smaller pre-rolls so that each can be consumed in one sitting.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 18
+    }
+   ],
+   "price": 18,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/full-tilt-strawberry-cannoli-pre-roll-for-sale-marlton-nj/",
+   "name": "Full Tilt Strawberry Cannoli Pre-Roll",
+   "h1": "Full Tilt Full Tilt Strawberry Cannoli Pre-Roll",
+   "brand": "Full Tilt",
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 18
+    }
+   ],
+   "price": 18,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/868864b4d081fb03a0ee9697cd18619c",
+   "photo": "assets/source/menu/ee4051a0c91f.jpg"
+  },
+  {
+   "path": "/products/fulltilt-labs-full-tilt-verace-for-sale-marlton-nj/",
+   "name": "Full Tilt Verace",
+   "h1": "FullTilt Labs Full Tilt Verace",
+   "brand": "FullTilt Labs",
+   "category": "flower",
+   "description": "Versace delivers an uplifting, euphoric experience with a burst of creative focus and a smooth, relaxing body finish. Its bold aroma combines heavy diesel, spicy kush, and sharp citrus, while the flavor profile blends sweet lemon, earthy pine, and rich berry notes for a balanced and memorable experience. Grab it at the one and only highway 90!&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "1/8oz",
+     "price": 60
+    }
+   ],
+   "price": 60,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/2c349e88fea347176bf25c2b763edb39",
+   "photo": "assets/source/menu/4c144db6af84.jpg"
+  },
+  {
+   "path": "/products/garden-greens-gg-triple-og-pre-roll-2pk-for-sale-evesham-nj/",
+   "name": "GG Triple OG Pre-Roll | 2pk",
+   "h1": "Garden Greens GG Triple OG Pre-Roll | 2pk",
+   "brand": "Garden Greens",
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Roll packs are a convenient and effective way to consume cannabis. Pre-Roll packs generally contain smaller pre-rolls so that each can be consumed in one sitting.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 18
+    }
+   ],
+   "price": 18,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/ae80e4f00dbf74b3f1711b5432316765",
+   "photo": "assets/source/menu/1b48e627d336.jpg"
+  },
+  {
+   "path": "/products/go2-go2-chicken-n-waffles-shake-for-sale-marlton-nj/",
+   "name": "Go2 Chicken N' Waffles Shake",
+   "h1": "Go2 Go2 Chicken N’ Waffles Shake",
+   "brand": "Go2",
+   "category": "flower",
+   "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+   "offers": [
+    {
+     "size": "1/4oz",
+     "price": 60
+    }
+   ],
+   "price": 60,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/fa56eefc246300f6665c1409dbb572d6",
+   "photo": "assets/source/menu/a563db5c5fca.jpg"
+  },
+  {
+   "path": "/products/go2-go2-white-blizzard-shake-for-sale-marlton-nj/",
+   "name": "Go2 White Blizzard Shake",
+   "h1": "Go2 Go2 White Blizzard Shake",
+   "brand": "Go2",
+   "category": "flower",
+   "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+   "offers": [
+    {
+     "size": "1/4oz",
+     "price": 40
+    }
+   ],
+   "price": 40,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/dd0435201ad1059f9a38d4b53bf08ceb",
+   "photo": "assets/source/menu/a0d131347b5a.jpg"
+  },
+  {
+   "path": "/products/goodies-pie-scream-shake-for-sale-marlton-nj/",
+   "name": "Goodies Pie Scream Shake",
+   "h1": "Goodies Goodies Pie Scream Shake",
+   "brand": "Goodies",
+   "category": "flower",
+   "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+   "offers": [
+    {
+     "size": "1/2oz",
+     "price": 100
+    }
+   ],
+   "price": 100,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/gorilla-chem-og-shake-for-sale-evesham-nj/",
+   "name": "Gorilla Chem OG Shake",
+   "h1": "Simply Herb Gorilla Chem OG Shake",
+   "brand": "Simply Herb",
+   "category": "flower",
+   "description": "Discover the ultimate cannabis experience with the 7g Pre-Packed Gorilla Chem OG Shake by Simply Herb, available at Highway 90. This premium pre-packed flower is a testament to quality and convenience, offering cannabis enthusiasts a hassle-free way to enjoy their favorite strains. Each package is meticulously curated, weighed, and sealed to preserve the freshness and potency of the high-quality buds within. Say goodbye to the inconvenience of in-store weighing and hello to a consistent, top-tier experience every time.&lt;br /&gt;&lt;br /&gt;Gorilla Chem OG is a strain that commands attention with its powerful effects and intriguing lineage. A harmonious fusion of Gorilla Glue #4 and Chemdawg, this strain delivers a euphoric cerebral high paired with profound physical relaxation. Its aromatic profileu2014a captivating blend of earthy pine and pungent dieselu2014enchants the senses, setting the stage for an extraordinary journey. Perfect for those seeking relief from stress, pain, or insomnia, Gorilla Chem OG offers a balanced yet intense experience that appeals to both seasoned users and adventurous newcomers. With its impressive THC content and complex flavor profile, Gorilla Chem OG is the ideal choice for elevating your cannabis experience.&lt;br /&gt;&lt;br /&gt;Simply Herb is synonymous with quality, offering cannabis products that are as straightforward as they are exceptional. Their fresh, aromatic full nugs promise optimal cannabinoid content and a satisfying smoking experience. Whether you're in the market for premium flower, smooth-burning pre-rolls, or flavorful vapes, Simply Herb delivers products that cater to both newcomers and seasoned enthusiasts alike.&lt;br /&gt;&lt;br /&gt;Highway 90 isnu2019t just a dispensaryu2014itu2019s a destination. Conveniently located at 90 Old Marlton Pike W in Marlton, NJ, our shop is perfectly situated at the crossroads of Route 70 and Route 73, directly across from Marlton Crossing. Serving the communities of Evesham, Cherry Hill, Voorhees Township, Medford, and Mt. Laurel, we provide a welcoming and inviting environment for cannabis enthusiasts across the region. At Highway 90, we understand that cannabis is personal, and our knowledgeable team is here to ensure you find exactly what you need. From top-shelf flower to potent concentrates, delicious edibles, and soothing topicals, our selection is curated with care to elevate your experience.&lt;br /&gt;&lt;br /&gt;Whether you're a seasoned connoisseur or a first-time buyer, our commitment to quality, education, and exceptional service makes us Marltonu2019s go-to recreational dispensary. Conveniently accessible from Cherry Hill and Philadelphia, Highway 90 offers a seamless shopping experience, competitive pricing, and a selection curated with care. Stop by today and experience the Highway 90 differenceu2014where quality meets community, and every visit is unforgettable. Located near AMC 8, Chickie's & Pete's, and The Promenade, Highway 90 is your closest and most convenient choice for premium cannabis products.&lt;br /&gt;&lt;br /&gt;Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "1/4oz",
+     "price": 50
+    }
+   ],
+   "price": 50,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/cc55983dd1e3de62a68702bc676326a9",
+   "photo": "assets/source/menu/e85026e9bf32.jpg"
+  },
+  {
+   "path": "/products/gron-111-blackberry-lemonade-pearls-cbd-cbn-thc-for-sale-evesham-nj/",
+   "name": "1:1:1 Blackberry Lemonade Pearls - CBN/CBD/THC - Sleepy Indica",
+   "h1": "Grön 1:1:1 Blackberry Lemonade Pearls – CBN/CBD/THC – Sleepy Indica",
+   "brand": "Gru00f6n",
+   "category": "edibles",
+   "description": "Indulge in the exquisite fusion of flavor and relaxation with Gru00f6n's 1:1:1 Blackberry Lemonade Pearls, now available at Highway 90. These handcrafted edibles are a testament to Gru00f6n's dedication to creating artisan confections that delight the senses and elevate the cannabis experience. Each pearl is infused with the tantalizing essence of Blackberry Lemonade, an indica strain celebrated for its sweet and tangy profile that evokes the refreshing taste of a summer beverage. With every bite, you'll savor the rich, fruity notes of ripe blackberries intertwined with a zesty hint of lemon, creating a symphony of flavors that dance on your palate.&lt;br /&gt;&lt;br /&gt;Blackberry Lemonade Pearls are more than just a treat for your taste buds; they offer a harmonious blend of relaxation and euphoria. This strain is renowned for its ability to uplift your mood while soothing the body, making it an ideal choice for both recreational and medicinal users. Whether you're seeking inspiration, relief from stress, or a creative boost, these pearls provide a unique sensory experience that enhances focus and creativity.&lt;br /&gt;&lt;br /&gt;Edibles like Gru00f6n's Blackberry Lemonade Pearls are a popular choice for those who prefer a discreet and convenient way to enjoy cannabis. Infused with precise doses of cannabis extracts, these pearls offer a longer-lasting and often more intense experience compared to other consumption methods. As they are metabolized through the digestive system, the effects may take 30 minutes to 2 hours to onset, so it's important to start with a low dose and be patient.&lt;br /&gt;&lt;br /&gt;Discover the perfect blend of flavor and effect at Highway 90, not just a dispensary but a destination for cannabis enthusiasts. Conveniently located at 90 Old Marlton Pike W in Marlton, NJ, Highway 90 is at the crossroads of Route 70 and Route 73, directly across from Marlton Crossing. Serving the communities of Evesham, Cherry Hill, Voorhees Township, Medford, and Mt. Laurel, we offer a welcoming environment where quality meets community.&lt;br /&gt;&lt;br /&gt;At Highway 90, we understand that cannabis is personal. Our knowledgeable team is dedicated to helping you find exactly what you need, whether it's top-shelf flower, potent concentrates, delicious edibles, or soothing topicals. From seasoned connoisseurs to first-time buyers, our commitment to quality, education, and exceptional service makes us Marltonu2019s go-to recreational dispensary. Conveniently accessible from Cherry Hill and Philadelphia, Highway 90 offers a seamless shopping experience, competitive pricing, and a selection curated with care. Stop by today and experience the Highway 90 differenceu2014where every visit is unforgettable.&lt;br /&gt;&lt;br /&gt;Cozy up and wind down with these Blackberry Lemonade Pearls. Infused with equal parts CBD, CBN, and THC in a 1:1:1 ratio, these Pearls will keep you dreaming all night long. Made With Real Fruit. Soy-Freeu00a0u00a0u2022u00a0u00a0Gluten-Freeu00a0u00a0u2022u00a0u00a0Infused Cannabis Extract u2022u00a0Microdose Friendly 1 PEARL PER SERVING | 10 SERVINGS PER PACKAGE&lt;br /&gt;",
+   "offers": [
+    {
+     "size": ".1g",
+     "price": 26
+    }
+   ],
+   "price": 26,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/2c31c9dd016ed3fb9073671f2a38dd66",
+   "photo": "assets/source/menu/151fd133a149.jpg"
+  },
+  {
+   "path": "/products/gsb-banana-sundae-pre-roll-for-sale-evesham-nj/",
+   "name": "GSB Banana Sundae Pre-Roll",
+   "h1": "Garden State Banana GSB Banana Sundae Pre-Roll",
+   "brand": "Garden State Banana",
+   "category": "pre-rolls",
+   "description": "Total THC:: 27.56%&lt;br /&gt;Total Terpenes: 3.01%&lt;br /&gt;Total Cannabinoids: 32.69% &lt;br /&gt;&lt;br /&gt;Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 20
+    }
+   ],
+   "price": 20,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/b3bd86eb02e7e3f0daa3b08ad66706d6",
+   "photo": "assets/source/menu/8876b3dce4dc.jpg"
+  },
+  {
+   "path": "/products/guava-cream-cake-live-resin-badder-for-sale-evesham-nj/",
+   "name": "Guava Cream Cake Live Resin Badder",
+   "h1": "Kind Tree Guava Cream Cake Live Resin Badder",
+   "brand": "Kind Tree",
+   "category": "concentrates",
+   "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 65
+    }
+   ],
+   "price": 65,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/a325c5625874343737e71d5f31dee34a",
+   "photo": "assets/source/menu/376deb1df069.jpg"
+  },
+  {
+   "path": "/products/hamilton-farms-hf-x-tks-kush-berry-burger-for-sale-evesham-nj/",
+   "name": "HF x TKS Kush Berry Burger",
+   "h1": "Hamilton Farms HF x TKS Kush Berry Burger",
+   "brand": "Hamilton Farms",
+   "category": "flower",
+   "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+   "offers": [
+    {
+     "size": "1/8oz",
+     "price": 65
+    }
+   ],
+   "price": 65,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/042e1df8da00e72108a7b79ff8ee4de0",
+   "photo": "assets/source/menu/54f82550f4e5.jpg"
+  },
+  {
+   "path": "/products/high-wired-high-wired-animal-cake-infused-pre-roll-for-sale-marlton-nj/",
+   "name": "High Wired Animal Cake Infused Pre-Roll",
+   "h1": "High Wired High Wired Animal Cake Infused Pre-Roll",
+   "brand": "High Wired",
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 14.4
+    }
+   ],
+   "price": 14.4,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/582d976e180190c82fea1e5a8e99b661",
+   "photo": "assets/source/menu/c2661bbf7ba7.jpg"
+  },
+  {
+   "path": "/products/honor-roll-honor-roll-hall-pass-smoke-break-hybrid-pre-rolls-6pk-for-sale-marlton-nj/",
+   "name": "Honor Roll Hall Pass Smoke Break Hybrid Pre-Rolls | 6pk",
+   "h1": "Honor Roll Honor Roll Hall Pass Smoke Break Hybrid Pre-Rolls | 6pk",
+   "brand": "Honor Roll",
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+   "offers": [
+    {
+     "size": "1/8oz",
+     "price": 45
+    }
+   ],
+   "price": 45,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/house-vape-house-vape-cannoli-cream-disposable-for-sale-marlton-nj/",
+   "name": "House Vape Cannoli Cream Disposable",
+   "h1": "House Vape House Vape Cannoli Cream Disposable",
+   "brand": "House Vape",
+   "category": "vaporizers",
+   "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 45
+    }
+   ],
+   "price": 45,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/91d97781a73870a86ab164623a332ad5",
+   "photo": "assets/source/menu/be4f7419f135.jpg"
+  },
+  {
+   "path": "/products/inclusion-gourmet-llc-jersey-canna-indica-rosin-belgian-dark-chocolate-bar-100mg-for-sale-marlton-nj/",
+   "name": "Jersey Canna Indica Rosin Belgian Dark Chocolate Bar | 100mg",
+   "h1": "Inclusion Gourmet LLC Jersey Canna Indica Rosin Belgian Dark Chocolate Bar | 100mg",
+   "brand": "Inclusion Gourmet LLC",
+   "category": "concentrates",
+   "description": "Live Rosin Cannabaru2122 u2013 Indica&lt;br /&gt;100mg per package&lt;br /&gt;Crafted with premium Belgian milk chocolate and infused with solventless live rosin.&lt;br /&gt;Each section contains 10mg THC, totaling 100mg per package.&lt;br /&gt;All-natural flavors, vegan-friendly, gluten-free, and non-GMO.&lt;br /&gt;Designed for a smooth, full-spectrum experience with rich chocolate and deep relaxation.&lt;br /&gt;Comes in a convenient breakable bar format for precise dosing.&lt;br /&gt;Perfect for: Indulgent chocolate lovers seeking a premium, solventless, and full-bodied experience with Indica effects.",
+   "offers": [
+    {
+     "size": ".1g",
+     "price": 40
+    }
+   ],
+   "price": 40,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/a6272f051e1223d59b7f443501e7a47d",
+   "photo": "assets/source/menu/94fc33b916e3.jpg"
+  },
+  {
+   "path": "/products/jersey-smooth-full-service-gas-disposable-for-sale-evesham-nj-7/",
+   "name": "Jersey Smooth Full Service Gas Disposable",
+   "h1": "Jersey Smooth Jersey Smooth Full Service Gas Disposable",
+   "brand": "Jersey Smooth",
+   "category": "vaporizers",
+   "description": "Introducing the Full Service Gas Disposable 2g All-in-one by Jersey Smooth, now available at Highway 90. This cutting-edge disposable vape is your ticket to a seamless and satisfying cannabis experience. Designed for ultimate convenience, this all-in-one device comes pre-filled with 2 grams of the potent Full Service Gas strain, ensuring you enjoy every puff without the fuss of charging or refilling. Perfect for those on the move, this compact device offers a discreet and flavorful journey into the world of cannabis.&lt;br /&gt;&lt;br /&gt;The Full Service Gas strain is a powerhouse of aroma and effects, making it a favorite among cannabis enthusiasts. Known for its robust, fuel-like scent with earthy undertones and a hint of citrus, this hybrid strain delivers a balanced experience that marries the best of both indica and sativa worlds. Its long-lasting effects start with a euphoric cerebral high, gradually melting into a relaxing body sensation. Whether you're seeking relief from stress, pain, or anxiety, or simply looking to spark creativity and focus, Full Service Gas is your go-to strain for a comprehensive cannabis experience.&lt;br /&gt;&lt;br /&gt;Jersey Smooth, the brand behind this exceptional product, is synonymous with quality and consistency. With a carefully curated selection of premium cannabis products, Jersey Smooth ensures every session is effortless and enjoyable. Whether you're a seasoned enthusiast or a curious newcomer, Jersey Smooth delivers a refined experience that lives up to its name.&lt;br /&gt;&lt;br /&gt;For those ready to elevate their cannabis journey, Highway 90 is more than just a dispensaryu2014it's a destination. Conveniently located at 90 Old Marlton Pike W in Marlton, NJ, Highway 90 sits at the crossroads of Route 70 and Route 73, directly across from Marlton Crossing. Serving the communities of Evesham, Cherry Hill, Voorhees Township, Medford, and Mt. Laurel, Highway 90 offers a welcoming environment where quality meets community. Our knowledgeable team is dedicated to helping you find exactly what you need, whether it's top-shelf flower, potent concentrates, delicious edibles, or soothing topicals.&lt;br /&gt;&lt;br /&gt;Experience the Highway 90 difference today, where every visit is unforgettable. With competitive pricing and a selection curated with care, Highway 90 is Marltonu2019s go-to recreational dispensary. Conveniently accessible from Cherry Hill and Philadelphia, we're the closest dispensary to the AMC 8, Chickie's & Pete's, and The Promenade. Stop by and discover why Highway 90 is the ultimate destination for cannabis enthusiasts across the region.&lt;br /&gt;&lt;br /&gt;Fuel your senses with Jersey Smoothu2019s Full Service Gas, crafted for true connoisseurs and New Jersey OGs. Featuring notes of the iconic Sour Diesel strain, this cartridge is a tribute to one of the best strains in cannabis history, renowned for its potent effects and unforgettable flavor.&lt;br /&gt;Flavor Profile:&lt;br /&gt;Sour Diesel:u00a0Experience the sharp, tangy notes of diesel fuel combined with earthy undertones,&lt;br /&gt;delivering a robust and invigorating flavor that lingers on the palate.&lt;br /&gt;Gas Notes:u00a0The strong, pungent aroma of gas adds depth and complexity, creating a bold and distinctive&lt;br /&gt;taste that stands out with every puff.&lt;br /&gt;Experience:&lt;br /&gt;Full Service Gas offers a powerful, uplifting high that energizes the mind and invigorates the spirit. Perfect for daytime use, this strain provides a burst of creativity and focus, making it ideal for those who need a little extra fuel to power through their day.&lt;br /&gt;Ideal For:&lt;br /&gt;Cannabis flower enthusiasts&lt;br /&gt;Fans of balanced, long-lasting effects&lt;br /&gt;Lovers of strong, diesel-flavored strains&lt;br /&gt;Boosting energy and creativity&lt;br /&gt;Let Full Service Gas take you back to the glory days of Sour D, with a taste and experience thatu2019s as powerful and enduring as the memories it evokes.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "2g",
+     "price": 60
+    }
+   ],
+   "price": 60,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/b46ee0e15786fb36f7c39fa8c8254229",
+   "photo": "assets/source/menu/e46744526cbb.jpg"
+  },
+  {
+   "path": "/products/jersey-smooth-highbush-blueberry-disposable-for-sale-evesham-nj-2/",
+   "name": "Jersey Smooth Highbush Blueberry Disposable",
+   "h1": "Jersey Smooth Jersey Smooth Highbush Blueberry Disposable",
+   "brand": "Jersey Smooth",
+   "category": "vaporizers",
+   "description": "Introducing the Highbush Blueberry Disposable 2g All-in-one by Jersey Smooth, a product that effortlessly combines convenience with an unparalleled cannabis experience. Available at Highway 90, this all-in-one disposable vape is designed for those who value simplicity and quality. With its sleek, portable design, this device comes pre-filled with 2 grams of the exquisite Highbush Blueberry strain, ensuring a smooth and flavorful journey from start to finish.&lt;br /&gt;&lt;br /&gt;The Highbush Blueberry strain is a true delight for the senses, celebrated for its rich aroma and flavor profile reminiscent of fresh, juicy blueberries. Known for its balanced effects, this strain offers a harmonious blend of relaxation and euphoria, making it a favorite among both recreational and medicinal users. Its terpene profile not only delivers a sweet and fruity taste but also enhances its calming and mood-lifting properties. Whether you're looking to unwind after a long day or spark your creativity, Highbush Blueberry is your versatile companion.&lt;br /&gt;&lt;br /&gt;Jersey Smooth, the brand behind this exceptional product, is synonymous with quality and consistency. With a carefully curated selection of premium cannabis products, Jersey Smooth is dedicated to delivering a refined experience that caters to both seasoned enthusiasts and newcomers alike. Every session is effortless, enjoyable, andu2014true to its nameu2014smooth.&lt;br /&gt;&lt;br /&gt;For those eager to experience the Highbush Blueberry Disposable 2g All-in-one, Highway 90 is your destination. Conveniently located at 90 Old Marlton Pike W in Marlton, NJ, Highway 90 is more than just a dispensaryu2014it's a community hub. Situated at the crossroads of Route 70 and Route 73, directly across from Marlton Crossing, we proudly serve the communities of Evesham, Cherry Hill, Voorhees Township, Medford, and Mt. Laurel.&lt;br /&gt;&lt;br /&gt;At Highway 90, we understand that cannabis is a personal journey, and our knowledgeable team is here to guide you every step of the way. Whether you're seeking top-shelf flower, potent concentrates, delicious edibles, or soothing topicals, our selection is curated to elevate your experience. From seasoned connoisseurs to first-time buyers, our commitment to quality, education, and exceptional service makes us Marltonu2019s go-to recreational dispensary.&lt;br /&gt;&lt;br /&gt;Conveniently accessible from Cherry Hill and Philadelphia, Highway 90 offers a seamless shopping experience, competitive pricing, and a selection curated with care. Stop by today and experience the Highway 90 differenceu2014where quality meets community, and every visit is unforgettable. Located near the AMC 8, Chickie's & Pete's, and The Promenade, Highway 90 is your closest destination for high-quality cannabis products.&lt;br /&gt;&lt;br /&gt;Celebrate with another Jersey Smooth ode to the Garden State- HighBush Blueberry, a premium vaporizer cartridge named after New Jersey's state fruit. This unique strain delivers a delightful mix of sweet and skunky undertones, combined with an absolutely delicious blend of raspberry and blueberry flavors.&lt;br /&gt;&lt;br /&gt;Flavor Profile:&lt;br /&gt;Blueberry and Raspberry: Enjoy the rich, fruity essence of ripe blueberries and raspberries, perfectly balanced to create a mouthwatering experience.&lt;br /&gt;&lt;br /&gt;Sweet and Skunky: The underlying skunky notes add a layer of complexity, enhancing the sweetness with a touch of earthiness.&lt;br /&gt;&lt;br /&gt;Cotton Candy: Some users report a hint of cotton candy, adding a nostalgic sweetness to the mix&lt;br /&gt;&lt;br /&gt;Experience:&lt;br /&gt;HighBush Blueberry is an uplifting hybrid that offers a potent yet balanced high. The effects are both relaxing and focused, making it perfect for unwinding while still staying productive and engaged.&lt;br /&gt;&lt;br /&gt;Ideal for:&lt;br /&gt;Fans of fruity, sweet strains, Enhancing focus, creativity, and relaxation Daytime or evening use.&lt;br /&gt;&lt;br /&gt;Let HighBush Blueberry transport you to one of NJ's storied blueberry fields where you pick a fresh experience with every puff.&lt;br /&gt;Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "2g",
+     "price": 80
+    }
+   ],
+   "price": 80,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/5dc4dc91a56f248c4632411841984f0a",
+   "photo": "assets/source/menu/52159533743f.jpg"
+  },
+  {
+   "path": "/products/jerzy-landscapes-sugar-sand-for-sale-evesham-nj/",
+   "name": "Sugar Sand",
+   "h1": "Jerzy Landscapes Sugar Sand",
+   "brand": "Jerzy Landscapes",
+   "category": "concentrates",
+   "description": "SUGAR SAND&lt;br /&gt;THE LINEAGE IS:&lt;br /&gt;GMO X FATSO&lt;br /&gt;INDICA-LEANING HYBRID&lt;br /&gt;SUGAR SAND WILL HAVE YOU ENGULFED IN THE UNMISTAKBLE AROMA OF DIESEL-LIKE FUEL.&lt;br /&gt;EFFECTS:&lt;br /&gt;RELAXING SOOTHING&lt;br /&gt;&lt;br /&gt;JERZY Landscapes by High Grass Farms offers a curated selection of local favorite smoking blends, perfect for those who enjoy diverse flavors throughout the day. Each blend provides a unique profile, delivering a premium, regionally inspired cannabis experience for any moment.&lt;br /&gt;&lt;br /&gt;Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "1/8oz",
+     "price": 48
+    }
+   ],
+   "price": 48,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/72d5019bde5cb96cbd2872a05e746593",
+   "photo": "assets/source/menu/eac618c8fc73.jpg"
+  },
+  {
+   "path": "/products/journeyman-blueberry-lemonade-syrup-1-cbn-2-thc-for-sale-marlton-nj/",
+   "name": "Journeyman Blueberry Lemonade Syrup 1 CBN : 2 THC",
+   "h1": "Journeyman Journeyman Blueberry Lemonade Syrup 1 CBN : 2 THC",
+   "brand": "Journeyman",
+   "category": "edibles",
+   "description": "Journeyman u2013 Blueberry Lemonade&lt;br /&gt;&lt;br /&gt;Bold, rich, and refreshingly groovy u2013 Journeymanu2019s Blueberry Lemonade is a berry-fueled twist on the classic. ud83euded0ud83cudf4b Juicy blueberry sweetness is perfectly balanced with a splash of tart lemonade, delivering a smooth, stoney ride straight to nirvana.&lt;br /&gt;&lt;br /&gt;Vegan, Gluten Free and All-Natural u00b7 Made from scratch in-house with a recipe that complements the cannabis&lt;br /&gt;&lt;br /&gt;100mg THC u00b7 2oz bottle&lt;br /&gt;10 capfuls = 10mg THC per capful&lt;br /&gt;&lt;br /&gt;Portable and easy to enjoy, this 2oz bottle is made to move with youu2014whether youu2019re chilling at home, vibing with friends, or heading to a festival. Best served cold, Blueberry Lemonade brings a perfectly balanced mix of sweet and sour to elevate any occasion.&lt;br /&gt;&lt;br /&gt;ud83dudc49 Available now at Highway 90 Dispensary in Marlton, NJ.&lt;br /&gt;If youu2019ve been searching for a u201cdispensary near meu201d with tasty cannabis beverages, Highway 90 has Journeyman Blueberry Lemonade plus a curated selection of premium cannabis flower, vapes, pre-rolls, and edibles.&lt;br /&gt;&lt;br /&gt;Edibles are created either by infusing cooking oil or butter with cannabis extract, or by mixing extract directly into other ingredients. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": ".1g",
+     "price": 24
+    }
+   ],
+   "price": 24,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/1e7bb6b4b045193e1842a5fabb2c401d",
+   "photo": "assets/source/menu/7d7014fb577c.jpg"
+  },
+  {
+   "path": "/products/kind-tree-kind-tree-grape-sitter-for-sale-marlton-nj/",
+   "name": "Grape Sitter | 3.5g",
+   "h1": "Kind Tree Grape Sitter | 3.5g",
+   "brand": "Kind Tree",
+   "category": "flower",
+   "description": "Grape Sitter brings fruity cereal vibes with a mellow, earthy base. This indica leans into flavor and chill, offering a smooth ride into full-on relaxation.",
+   "offers": [
+    {
+     "size": "1/8oz",
+     "price": 41.6
+    }
+   ],
+   "price": 41.6,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/4ae7845d377d1fd0ccdf6cdc1ded9840",
+   "photo": "assets/source/menu/466f59a1c73f.jpg"
+  },
+  {
+   "path": "/products/locals-only-orange-push-pop-wet-badder-for-sale-marlton-nj/",
+   "name": "Locals Only Orange Push Pop Wet Badder",
+   "h1": "Locals Only Locals Only Orange Push Pop Wet Badder",
+   "brand": "Locals Only",
+   "category": "concentrates",
+   "description": "Orange Push Pop Cured Resin Badder is a smooth, citrus-forward indica-leaning hybrid concentrate with roots deep in LAu2019s underground scene. Originally bred by seed junkie and pheno-hunted by a legendary trap grower on skid row, this rare cut spent two years in tissue culture before returning to the spotlight-stronger and louder than ever. Each 1g jar features glistening, honey-like badder that delivers a creamy citrus blast on the inhale, with a mellow, flavorful finish. Cold extracted to preserve the full terpene spectrum, this concentrate offers a nostalgic, orange-cream flavor profile wrapped in calming, euphoric effects. A true street gem turned connoisseur classic. Orange Push Pop Wet Badder Concentrate is available now at Highway 90 Dispensary in Marlton, NJ.&lt;br /&gt;&lt;br /&gt;Highway 90 isn't just a dispensaryu2014it's a destination. Conveniently located at 90 Old Marlton Pike W in Marlton, NJ, at the crossroads of Route 70 and Route 73, Highway 90 is directly across from Marlton Crossing. Serving the communities of Evesham, Cherry Hill, Voorhees Township, Medford, and Mt. Laurel, we offer a welcoming environment for cannabis enthusiasts across the region. Our knowledgeable team is here to ensure you find exactly what you need, whether it's top-shelf flower, potent concentrates, delicious edibles, or soothing topicals.&lt;br /&gt;&lt;br /&gt;From seasoned connoisseurs to first-time buyers, our commitment to quality, education, and exceptional service makes us Marltonu2019s go-to recreational dispensary. Conveniently accessible from Cherry Hill and Philadelphia, Highway 90 offers a seamless shopping experience, competitive pricing, and a selection curated with care. Stop by today and experience the Highway 90 differenceu2014where quality meets community, and every visit is unforgettable. Located near the AMC 8, Chickie's & Pete's, and The Promenade, Highway 90 is your closest destination for premium cannabis products.&lt;br /&gt;&lt;br /&gt;Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 50
+    }
+   ],
+   "price": 50,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/8a5f4abf870ae25237c9620fdccace3b",
+   "photo": "assets/source/menu/13fa60e9ff9a.png"
+  },
+  {
+   "path": "/products/lucks-super-silver-haze-cart-for-sale-marlton-nj/",
+   "name": "Lucky's Super Silver Haze Cart",
+   "h1": "Luckys Lucky’s Super Silver Haze Cart",
+   "brand": "Luckys",
+   "category": "vaporizers",
+   "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 42
+    }
+   ],
+   "price": 42,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/luckys-skywalker-og-cart-for-sale-marlton-nj/",
+   "name": "Lucky's Skywalker OG Cart",
+   "h1": "Luckys Lucky’s Skywalker OG Cart",
+   "brand": "Luckys",
+   "category": "vaporizers",
+   "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 42
+    }
+   ],
+   "price": 42,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/luckys-trop-cherry-bubble-hash-for-sale-marlton-nj/",
+   "name": "Lucky's Trop Cherry Bubble Hash",
+   "h1": "Luckys Lucky’s Trop Cherry Bubble Hash",
+   "brand": "Luckys",
+   "category": "concentrates",
+   "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+   "offers": [
+    {
+     "size": "2g",
+     "price": 70
+    }
+   ],
+   "price": 70,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/d7a71e1b479a8f9e0c945de1e08cc0e0",
+   "photo": "assets/source/menu/124910d923f5.jpg"
+  },
+  {
+   "path": "/products/miss-grass-all-times-sunset-z-infused-pre-rolls-5pk-for-sale-marlton-nj/",
+   "name": "Sunset Z Infused Minis 5pk - All Times - 2g",
+   "h1": "Miss Grass Sunset Z Infused Minis 5pk – All Times – 2g",
+   "brand": "Miss Grass",
+   "category": "pre-rolls",
+   "description": "A pack of five diamond-infused mini 0.4g pre-rolls (2g total) made with sustainably grown flower and a built-in box of MG matches. Centered on u201cHarmony + Flow,u201d All Times is a balanced hybrid pre-roll pack for whenever the moment calls. The diamond infusion adds a little extra depth, creating a versatile experience that feels uplifted, steady, and easy to move with.&lt;br /&gt;&lt;br /&gt;Primary terpenes: caryophyllene, myrcene, pinene, humulene.",
+   "offers": [
+    {
+     "size": "2g",
+     "price": 28
+    }
+   ],
+   "price": 28,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/1ea9a63c5c49ebf9d2547e4db9010fce",
+   "photo": "assets/source/menu/bfba35fab9a4.jpg"
+  },
+  {
+   "path": "/products/miss-grass-quiet-times-brr-berry-sovlentless-hash-infused-pre-roll-for-sale-marlton-nj/",
+   "name": "Brr Berry - Quiet Times Solventless Hash Infused Doob - 1g",
+   "h1": "Miss Grass Brr Berry – Quiet Times Solventless Hash Infused Doob – 1g",
+   "brand": "Miss Grass",
+   "category": "concentrates",
+   "description": "Quiet Times is all about slowing down. This indica-leaning infused Doob blends premium flower with solventless hash for a deeply smooth, full-bodied smoke that encourages rest and relaxation. Calm, comforting, and consistent u2014 made for evenings when the only plan is to unwind.&lt;br /&gt;Vibe: Calm, cozy, grounding &lt;br /&gt;Best for: Wind-down routines, nights in, end-of-day exhales&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 28
+    }
+   ],
+   "price": 28,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/ed0e70183b14ed3b772509a03ae8343d",
+   "photo": "assets/source/menu/53647e723511.jpg"
+  },
+  {
+   "path": "/products/north-lake-supply-north-lake-supply-raspberry-mojito-disposable-for-sale-marlton-nj/",
+   "name": "North Lake Supply Raspberry Mojito Disposable",
+   "h1": "North Lake Supply North Lake Supply Raspberry Mojito Disposable",
+   "brand": "North Lake Supply",
+   "category": "vaporizers",
+   "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+   "offers": [
+    {
+     "size": "2g",
+     "price": 80
+    }
+   ],
+   "price": 80,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/31ab26d6be94a7f445b4dd2fe189baf3",
+   "photo": "assets/source/menu/c45ead303ef7.jpg"
+  },
+  {
+   "path": "/products/ocb-brown-rice-mini-cones-for-sale-marlton-nj/",
+   "name": "OCB Brown Rice Mini Cones",
+   "h1": "OCB Brown Rice Mini Cones",
+   "brand": null,
+   "category": "accessories",
+   "description": "",
+   "offers": [
+    {
+     "size": "N/A",
+     "price": 3.5
+    }
+   ],
+   "price": 3.5,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/ogeez-tropical-indica-sugar-free-for-sale-evesham-nj/",
+   "name": "Tropical Indica Sugar Free",
+   "h1": "OGeez! Tropical Indica Sugar Free",
+   "brand": "OGeez!",
+   "category": "concentrates",
+   "description": "OGeez! Tropical Indica Sugar Free u2013 Island Flavor, Zero Sugar&lt;br /&gt;&lt;br /&gt;Escape to a tropical paradise with OGeez! Tropical Indica Sugar Free, a medley bag of sugar-free gummies in Strawberry Kiwi, Watermelon Guava, and Passion Fruit Mango. Crafted with OGeez!u2019s signature bouncy, cloud-like texture, these melt-in-your-mouth gummies deliver delicious tropical flavor while helping you mellow out and unwind u2014 all with zero sugar.&lt;br /&gt;&lt;br /&gt;Perfect for those looking to relax, chill, and enjoy a calm, soothing experience, these sugar-free indica gummies bring tropical island vibes wherever you go.&lt;br /&gt;&lt;br /&gt;Good For: Mellow, Chill, Relaxation & Unwinding&lt;br /&gt;&lt;br /&gt;Available now at Highway 90 Dispensary in Marlton, NJ, your go-to stop when searching for a dispensary near me in Marlton, NJ. Conveniently located at 90 Old Marlton Pike W, at the crossroads of Route 70 and Route 73, Highway 90 proudly serves Evesham, Cherry Hill, Voorhees Township, Medford, Mt. Laurel, and surrounding communities.&lt;br /&gt;&lt;br /&gt;From OGeez! Gummies to top-shelf flower, premium concentrates, and more, Highway 90 offers a curated selection designed to elevate your cannabis experience. Stop by today and transport yourself to a tropical oasis with OGeez! Tropical Indica Sugar Free.&lt;br /&gt;&lt;br /&gt;Edibles are created either by infusing cooking oil or butter with cannabis extract, or by mixing extract directly into other ingredients. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": ".1g",
+     "price": 12
+    }
+   ],
+   "price": 12,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/73f365ba5dfbbc25c19c27d5380d2551",
+   "photo": "assets/source/menu/36018eb49b2e.png"
+  },
+  {
+   "path": "/products/ozone-3-0-cake-walk-smalls-for-sale-marlton-nj/",
+   "name": "Ozone 3.0 Cake Walk Smalls",
+   "h1": "Ozone Ozone 3.0 Cake Walk Smalls",
+   "brand": "Ozone",
+   "category": "flower",
+   "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+   "offers": [
+    {
+     "size": "1/2oz",
+     "price": 90
+    }
+   ],
+   "price": 90,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/69bb509c9a8545b3cf964b7d728f4592",
+   "photo": "assets/source/menu/594df5501984.jpg"
+  },
+  {
+   "path": "/products/ozone-banana-daddy-popcorn-for-sale-evesham-nj/",
+   "name": "Banana Daddy Popcorn",
+   "h1": "Ozone Banana Daddy Popcorn",
+   "brand": "Ozone",
+   "category": "flower",
+   "description": "Banana Daddy is a great strain foru00a0everyday use, whether it be in the morning or evening. Youu2019ll be greeted with a sweet banana and berry flavor with a diesel, earthy, and bubblegum kick to it. Expect a pleasant euphoric/giddy high that one is still able to complete daily tasks while enjoying.&lt;br /&gt;&lt;br /&gt;Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "1/2oz",
+     "price": 77
+    }
+   ],
+   "price": 77,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/d43681dd1553d15ce6a305e80c1ddf98",
+   "photo": "assets/source/menu/7a28802ad9fa.jpg"
+  },
+  {
+   "path": "/products/ozone-black-amber-popcorn-for-sale-marlton-nj/",
+   "name": "Black Amber Popcorn",
+   "h1": "Ozone Black Amber Popcorn",
+   "brand": "Ozone",
+   "category": "flower",
+   "description": "The Ozone line offers quality cannabis products, with unique strains that have been pheno hunted and grown with care. Ozone offers high quality flower, flavorful vapes and tasty gummies. Accessible to the seasoned connoisseur and canna-curious alike, Ozone provides the perfect everyday cannabis experience.",
+   "offers": [
+    {
+     "size": "1/4oz",
+     "price": 65
+    }
+   ],
+   "price": 65,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/270868a0ca88c232b820a96f2a2acc50",
+   "photo": "assets/source/menu/cceb86b44df5.jpg"
+  },
+  {
+   "path": "/products/ozone-blue-raspberry-soft-chews-for-sale-evesham-nj/",
+   "name": "Blue Raspberry Soft Chews",
+   "h1": "Ozone Blue Raspberry Soft Chews",
+   "brand": "Ozone",
+   "category": "edibles",
+   "description": "Introducing the Blue Raspberry Soft Chews by Ozone, now available at Highway 90. These delectable chews are more than just a treatu2014they're an invitation to indulge in a symphony of blue raspberry flavor that dance on your palate. Each bite offers a harmonious blend of relaxation and euphoria, perfect for both novice and seasoned cannabis enthusiasts.&lt;br /&gt;&lt;br /&gt;Edibles like these soft chews are a discreet and convenient way to enjoy cannabis without the need for smoking or vaping. Infused with cannabis extracts, they offer a longer-lasting and often more intense experience, thanks to their metabolism through the digestive system. This process results in a delayed onset of effects, typically ranging from 30 minutes to 2 hours, so it's important to start with a low dose and be patient. With precise dosing and diverse flavors, edibles provide a tasty and enjoyable way to experience the benefits of cannabis.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Purchasing your Blue Raspberry Soft Chews by Ozone at Highway 90 isnu2019t just a transactionu2014itu2019s an experience. Conveniently located at 90 Old Marlton Pike W in Marlton, NJ, our shop sits at the crossroads of Route 70 and Route 73, directly across from Marlton Crossing. If youu2019ve been searching for the best dispensary near me in Marlton, NJ, youu2019ve found it. Blue Raspberry Soft Chews by Ozone is available now at Highway 90 Dispensary.&lt;br /&gt;&lt;br /&gt;Serving the communities of Evesham, Cherry Hill, Voorhees Township, Medford, and Mt. Laurel, we provide a welcoming environment for cannabis enthusiasts from across the region. At Highway 90, we believe cannabis is personal, and our knowledgeable team is here to ensure you find exactly what you need. From top-shelf flower and potent concentrates to delicious edibles and soothing topicals, our curated selection is designed to elevate your experience.&lt;br /&gt;&lt;br /&gt;Whether youu2019re a seasoned connoisseur or a first-time buyer, our commitment to quality, education, and exceptional service makes us Marltonu2019s go-to recreational dispensary. Easily accessible from Cherry Hill and Philadelphia, Highway 90 offers a seamless shopping experience, competitive pricing, and products chosen with care. Stop by today and see why Highway 90 is the answer when youu2019re searching for a dispensary near me in South Jersey. Plus, weu2019re the closest dispensary to the AMC 8, Chickieu2019s & Peteu2019s, and The Promenadeu2014making your visit as convenient as it is memorable.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;New and newly formulated Ozone soft chews offer a robust and flavor packed experience. This new Ozone formulation is made with pectin. Sit back and enjoy the best tasting, flavorful soft chews around. Your experience was just made that much better!&lt;br /&gt;",
+   "offers": [
+    {
+     "size": ".1g",
+     "price": 10.2
+    }
+   ],
+   "price": 10.2,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/e98168773e5a03bf8ff2c471408ab2f0",
+   "photo": "assets/source/menu/40aae830e8fb.jpg"
+  },
+  {
+   "path": "/products/ozone-golden-cream-pre-rolls-3pk-for-sale-evesham-nj/",
+   "name": "Golden Cream Pre-Rolls | 3pk",
+   "h1": "Ozone Golden Cream Pre-Rolls | 3pk",
+   "brand": "Ozone",
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+   "offers": [
+    {
+     "size": "1.5g",
+     "price": 16
+    }
+   ],
+   "price": 16,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/815351c4dfcf1bc5947e5e37d5290c47",
+   "photo": "assets/source/menu/3419ce57928d.jpg"
+  },
+  {
+   "path": "/products/ozone-ozone-dual-og-popcorn-for-sale-marlton-nj/",
+   "name": "Dual OG Popcorn",
+   "h1": "Ozone Dual OG Popcorn",
+   "brand": "Ozone",
+   "category": "flower",
+   "description": "The Ozone line offers quality cannabis products, with unique strains that have been pheno hunted and grown with care. Ozone offers high quality flower, flavorful vapes and tasty gummies. Accessible to the seasoned connoisseur and canna-curious alike, Ozone provides the perfect everyday cannabis experience.",
+   "offers": [
+    {
+     "size": "1/4oz",
+     "price": 65
+    }
+   ],
+   "price": 65,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/270868a0ca88c232b820a96f2a2acc50",
+   "photo": "assets/source/menu/cceb86b44df5.jpg"
+  },
+  {
+   "path": "/products/ozone-ozone-hashburger-pre-roll-for-sale-marlton-nj/",
+   "name": "Ozone Hashburger Pre-Roll",
+   "h1": "Ozone Ozone Hashburger Pre-Roll",
+   "brand": "Ozone",
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 10
+    }
+   ],
+   "price": 10,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/b224c86cb09a8eab155190be2241b1ee",
+   "photo": "assets/source/menu/846c619347ca.jpg"
+  },
+  {
+   "path": "/products/ozone-ozone-robusta-4-for-sale-marlton-nj/",
+   "name": "Robusta #4",
+   "h1": "Ozone Robusta #4",
+   "brand": "Ozone",
+   "category": "flower",
+   "description": "The Ozone line offers quality cannabis products, with unique strains that have been pheno hunted and grown with care. Ozone offers high quality flower, flavorful vapes and tasty gummies. Accessible to the seasoned connoisseur and canna-curious alike, Ozone provides the perfect everyday cannabis experience.",
+   "offers": [
+    {
+     "size": "1/8oz",
+     "price": 24.5
+    }
+   ],
+   "price": 24.5,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/d35708c814548cd99bab17e9392cc3d4",
+   "photo": "assets/source/menu/44c1318740a3.jpg"
+  },
+  {
+   "path": "/products/ozone-ozone-sour-orange-popcorn-for-sale-marlton-nj/",
+   "name": "Sour Orange Popcorn",
+   "h1": "Ozone Sour Orange Popcorn",
+   "brand": "Ozone",
+   "category": "flower",
+   "description": "The Ozone line offers quality cannabis products, with unique strains that have been pheno hunted and grown with care. Ozone offers high quality flower, flavorful vapes and tasty gummies. Accessible to the seasoned connoisseur and canna-curious alike, Ozone provides the perfect everyday cannabis experience.",
+   "offers": [
+    {
+     "size": "1/4oz",
+     "price": 65
+    }
+   ],
+   "price": 65,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/be4b792c67701e85a6a7dedb0e717f4f",
+   "photo": "assets/source/menu/405ae65bb677.jpg"
+  },
+  {
+   "path": "/products/ozone-papaya-marmalade-pre-roll-for-sale-marlton-nj/",
+   "name": "Papaya Marmalade Pre-Roll",
+   "h1": "Ozone Papaya Marmalade Pre-Roll",
+   "brand": "Ozone",
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 10
+    }
+   ],
+   "price": 10,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/b224c86cb09a8eab155190be2241b1ee",
+   "photo": "assets/source/menu/846c619347ca.jpg"
+  },
+  {
+   "path": "/products/pegs-summer-pink-lemonade-rso-100mg-for-sale-evesham-nj/",
+   "name": "Peg's Pink Lemonade Sativa RSO - 100 mg",
+   "h1": "OGeez! Peg’s Pink Lemonade Sativa RSO – 100 mg",
+   "brand": "OGeez!",
+   "category": "edibles",
+   "description": "Feel good with Pegu2019s Sativa RSO! This dynamic gummy is crafted with rich full-spectrum RSO and the uplifting terpenes of the iconic Maui Wowie sativa strain. Bursting with Pink Lemonade flavor, this gummy offers a bright mood-boosting, daytime-friendly experience combined with the balanced, therapeutic benefits of RSO. Itu2019s sure to deliver a spark of joy in every bite!",
+   "offers": [
+    {
+     "size": ".1g",
+     "price": 28
+    }
+   ],
+   "price": 28,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/a5d59418f4b072323686472784cd6d6c",
+   "photo": "assets/source/menu/9e9721983567.png"
+  },
+  {
+   "path": "/products/pulsar-pulsar-2-0-pro-auto-draw-vape-for-sale-evesham-nj/",
+   "name": "Pulsar 2.0 PRO Auto Draw Vape",
+   "h1": "Pulsar Pulsar 2.0 PRO Auto Draw Vape",
+   "brand": "Pulsar",
+   "category": "vaporizers",
+   "description": "Packed full of fresh features, theu00a0Pulsaru00a0510 DLu00a02.0 PROu00a0has an even larger battery capacity of 1000mAh which gives you more time for enjoyment between charges!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "N/A",
+     "price": 25
+    }
+   ],
+   "price": 25,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/c00bc593ad77e79040869e8cd86fbd25",
+   "photo": "assets/source/menu/9c1f65111346.jpg"
+  },
+  {
+   "path": "/products/pulsar-pulsar-510-dl-pipe-vape-aged-whiskey-for-sale-evesham-nj/",
+   "name": "Pulsar 510 DL Pipe Vape - Aged Whiskey",
+   "h1": "Pulsar Pulsar 510 DL Pipe Vape – Aged Whiskey",
+   "brand": "Pulsar",
+   "category": "vaporizers",
+   "description": "Sophisticated and stately, this vaporizer has fauxu00a0wood grain patterningu00a0all around the body that evokes feelings of hand-carvedu00a0rich mahogany. This unit's battery is concealed in a rounded housing for the base, which connects to the 510 cartridge of your choosing. This upgraded designu00a0allows space for larger cartridgesu00a0up to 2mL so you can go longer without having to switch out. Simplyu00a0attachu00a0the bent pipe stem mouthpiece and you're ready to enjoy!&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "N/A",
+     "price": 40
+    }
+   ],
+   "price": 40,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/ffeecefc6e29cd840f9d6fb6c13f2389",
+   "photo": "assets/source/menu/e4c655f7b8bd.jpg"
+  },
+  {
+   "path": "/products/pulsar-slim-510-battery-for-sale-marlton-nj/",
+   "name": "Pulsar Slim 510 Battery",
+   "h1": "Pulsar Slim 510 Battery",
+   "brand": null,
+   "category": "accessories",
+   "description": "",
+   "offers": [
+    {
+     "size": "N/A",
+     "price": 15
+    }
+   ],
+   "price": 15,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/pyramid-pyramid-grape-bubblegum-sauce-for-sale-marlton-nj/",
+   "name": "Pyramid Grape Bubblegum Sauce",
+   "h1": "Pyramid Pyramid Grape Bubblegum Sauce",
+   "brand": "Pyramid",
+   "category": "concentrates",
+   "description": "Concentrated cannabis products come in a wide variety of consistencies, compositions, and potencies. Cannabinoids are isolated and removed from plant material via extraction, agitation, compression, or other methods to create generally a very potent product. Concentrates have an immediate activation time and are generally used by experienced consumers.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 20
+    }
+   ],
+   "price": 20,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/d7dab26a3ccdfff4f34e460b40fd7b0f",
+   "photo": "assets/source/menu/7f43ce1f2b81.png"
+  },
+  {
+   "path": "/products/quartz-banger-for-sale-marlton-nj/",
+   "name": "Quartz Banger",
+   "h1": "Quartz Banger",
+   "brand": null,
+   "category": "accessories",
+   "description": "",
+   "offers": [
+    {
+     "size": "N/A",
+     "price": 15
+    }
+   ],
+   "price": 15,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/rythm-95-cookies-live-resin-for-sale-marlton-nj/",
+   "name": "95 Cookies | Live Resin | Hybrid | 1g",
+   "h1": "RYTHM 95 Cookies | Live Resin | Hybrid | 1g",
+   "brand": "RYTHM",
+   "category": "concentrates",
+   "description": "RYTHM Live Resin Concentrates deliver a bold, full-spectrum experience from the #1 Flower Brand in the Worldu00b9. Made using fresh frozen flower harvested at peak freshness, each concentrate is strain-specific to preserve the true character of RYTHMu2019s iconic strains. &lt;br /&gt;&lt;br /&gt;Rich in terpene content, these concentrates offer lush aromas, rich flavors, and high potency with the trusted, reliable quality consumers expect from RYTHM. Crafted for those who value flavor-forward performance and consistency, RYTHM Live Resin Concentrates provide a true-to-flower experience across every strain.&lt;br /&gt;&lt;br /&gt;95 Cookies [orig: Chemdawg i95 x GSC] is a hybrid with a sharp, pungent aroma layering sour diesel notes, earthy depth, and classic cookie undertones.&lt;br /&gt;&lt;br /&gt;u00b9Based on BDS Analytics data, 2025 Year to Date through November 2025. #1 position is based on Revenue generated through branded cannabis flower sales in all markets tracked by BDS Analytics.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 60
+    }
+   ],
+   "price": 60,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/4121ed2a370f0ebdd1ffac161cc1413c",
+   "photo": "assets/source/menu/5a65d02c4929.jpg"
+  },
+  {
+   "path": "/products/rythm-blue-dream-liquid-diamonds-disposable-for-sale-marlton-nj/",
+   "name": "Blue Dream | Liquid Diamonds Vape | Indica | 1g",
+   "h1": "RYTHM Blue Dream | Liquid Diamonds Vape | Indica | 1g",
+   "brand": "RYTHM",
+   "category": "vaporizers",
+   "description": "POTENT. FLAVORFUL. PURE.&lt;br /&gt;&lt;br /&gt;RYTHM Liquid Diamonds Vape is all about powerful potency, intense flavors, and peak purity. &lt;br /&gt;&lt;br /&gt;Featuring liquified Live THCa Diamonds derived from fresh frozen flower u2013 not dried trim, like a Distillate vape - and a burst of flavor from 100% natural terpenes, RYTHMu2019s Liquid Diamonds Vapes are potent perfection.&lt;br /&gt;&lt;br /&gt;Powered by sleek, rechargeable All-in-One disposable hardware. Ditch the Distillate u2013 you deserve Diamonds.&lt;br /&gt;&lt;br /&gt;Blue Dream [orig: Blueberry x Super Silver Haze] is an indica-leaning strain with sweet berry notes layered over soft earth and gentle haze.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 70
+    }
+   ],
+   "price": 70,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/154e4d7fd99bfca8ed740926e3a58e8f",
+   "photo": "assets/source/menu/8f9f209012cc.jpg"
+  },
+  {
+   "path": "/products/rythm-jet-fuel-live-resin-for-sale-marlton-nj/",
+   "name": "Rythm Jet Fuel Live Resin",
+   "h1": "RYTHM Rythm Jet Fuel Live Resin",
+   "brand": "RYTHM",
+   "category": "concentrates",
+   "description": "Rythm Jet Fuel OG Live Resin 1g u2013 Available Now at Highway 90 Dispensary&lt;br /&gt;&lt;br /&gt;Jet Fuel OG (Aspen OG x High Country Diesel) is a hybrid strain that lives up to its nameu2014delivering a powerful rush of uplifting energy balanced by smooth relaxation. With gassy pine flavors layered over sour lemon notes, this strain-specific live resin captures every terpene and trichome for true full-spectrum flavor and high potency.&lt;br /&gt;&lt;br /&gt;Perfect for boosting creativity or unwinding without heavy sedation, Jet Fuel OG Live Resin offers a versatile high that cannabis enthusiasts love.&lt;br /&gt;&lt;br /&gt;ud83dudc49 Available now at Highway 90 Dispensary u2013 90 Old Marlton Pike W, Marlton, NJ. Conveniently located at the crossroads of Route 70 and Route 73, across from Marlton Crossing. Serving Evesham, Cherry Hill, Voorhees Township, Medford, and Mt. Laurel, Highway 90 is your destination for premium cannabis flower, concentrates, edibles, and vapes.&lt;br /&gt;&lt;br /&gt;Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 60
+    }
+   ],
+   "price": 60,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/14c259198ec7653bc6fd737146052def",
+   "photo": "assets/source/menu/dc47fc43930a.jpg"
+  },
+  {
+   "path": "/products/rythm-mystic-mint-live-resin-cart-for-sale-marlton-nj/",
+   "name": "Mystic Mint | Live Resin Vape Cartridge | Indica | 1g",
+   "h1": "RYTHM Mystic Mint | Live Resin Vape Cartridge | Indica | 1g",
+   "brand": "RYTHM",
+   "category": "vaporizers",
+   "description": "LIVE combines the classic and intentional craft we have been spinning since day one, elevated by strain specific Live Resin made from fresh frozen flower. With an array of terpenes and THCa from Live Resin, LIVE offers a flavorful vape experience that hits on all the notes.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 67
+    }
+   ],
+   "price": 67,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/8b12a85c7bed4d950c7cc2b5c86fcc23",
+   "photo": "assets/source/menu/4f630b52f125.jpg"
+  },
+  {
+   "path": "/products/rythm-rythm-jacks-delight-live-resin-disposable-for-sale-marlton-nj/",
+   "name": "Jack's Delight | Live Resin All-in-One Vape | Sativa 2g",
+   "h1": "RYTHM Jack’s Delight | Live Resin All-in-One Vape | Sativa 2g",
+   "brand": "RYTHM",
+   "category": "vaporizers",
+   "description": "LIVE combines the classic and intentional craft we have been spinning since day one, elevated by strain specific Live Resin made from fresh frozen flower. With an array of terpenes and THCa from Live Resin, LIVE offers a flavorful vape experience that hits on all the notes.",
+   "offers": [
+    {
+     "size": "2g",
+     "price": 95
+    }
+   ],
+   "price": 95,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/0dd80f7cf1db23512549a80a2acb704b",
+   "photo": "assets/source/menu/6c0be54dae83.jpg"
+  },
+  {
+   "path": "/products/rythm-rythm-lorange-live-resin-cart-for-sale-marlton-nj/",
+   "name": "L'Orange | Live Resin Vape Cartridge | Sativa | 1g",
+   "h1": "RYTHM L’Orange | Live Resin Vape Cartridge | Sativa | 1g",
+   "brand": "RYTHM",
+   "category": "vaporizers",
+   "description": "LIVE combines the classic and intentional craft we have been spinning since day one, elevated by strain specific Live Resin made from fresh frozen flower. With an array of terpenes and THCa from Live Resin, LIVE offers a flavorful vape experience that hits on all the notes.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 43.55
+    }
+   ],
+   "price": 43.55,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/c2e7ae2350e4a1697cedc7338a9c0af2",
+   "photo": "assets/source/menu/ef48b1c32317.jpg"
+  },
+  {
+   "path": "/products/rythm-rythm-mai-tai-infused-pre-rolls-5pk-for-sale-marlton-nj/",
+   "name": "Mai Tai | Infused Pre-Rolls | Hybrid | 2.5g [5pk]",
+   "h1": "RYTHM Mai Tai | Infused Pre-Rolls | Hybrid | 2.5g [5pk]",
+   "brand": "RYTHM",
+   "category": "pre-rolls",
+   "description": "Nothing Hits Harder than the Remix.&lt;br /&gt;RYTHM Remix pre-rolls are built for those who want maximum potency and bold flavor in every session. Made with RYTHM Flower, each pre-roll is infused with live THCa diamonds for amped up potency, coated in kief for a double infusion, and fine-tuned with 100% natural terpenes for intense, fruit-forward flavor.&lt;br /&gt;Available in 10 classic strain-inspired flavors, Remix delivers a hyper-potent experience that goes beyond the basics. As one of RYTHMu2019s best-selling products, Remix is the go-to choice for those that crave potent effects, loud flavor, and a new way to FIND YOUR RYTHM.&lt;br /&gt;Mai Tai [orig: Maui Wowie x Tutti Frutti] is a flavorful hybrid blending tropical fruit sweetness and bright citrus with soft floral notes and a light, earthy finish.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "2.5g",
+     "price": 45
+    }
+   ],
+   "price": 45,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/80d3c8719897303d0a27e1078bd928e1",
+   "photo": "assets/source/menu/171c45469ca1.jpg"
+  },
+  {
+   "path": "/products/sativa-blend-lemonade-drink-mix-10pk-for-sale-marlton-nj/",
+   "name": "Sativa Blend Lemonade Drink Mix | 10pk",
+   "h1": "Cannabis Philosophy Sativa Blend Lemonade Drink Mix | 10pk",
+   "brand": "Cannabis Philosophy",
+   "category": "edibles",
+   "description": "Cannabis infused drinks are unique in the edible category because they generally have a much faster activation time than traditional edibles. It is important to start low and slow when consuming edibles so you don't over do it. As with all edibles, take extra caution to ensure they are out of the reach of children.",
+   "offers": [
+    {
+     "size": ".1g",
+     "price": 50
+    }
+   ],
+   "price": 50,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/29e2e1090645489eec23f2753afd4028",
+   "photo": "assets/source/menu/fbd47df6f35a.jpg"
+  },
+  {
+   "path": "/products/sativa-taffy-chocolate-for-sale-evesham-nj/",
+   "name": "Sativa Taffy Chocolate",
+   "h1": "Cheeba Chews® Sativa Taffy Chocolate",
+   "brand": "Cheeba Chewsu00ae",
+   "category": "edibles",
+   "description": "Introducing the Sativa Taffy Chocolate by Cheeba Chews, a delightful fusion of flavor and euphoria that promises to elevate your cannabis experience. Availableu00a0at Highway 90, this exquisite edible combines the craftsmanship of Cheeba Chews with the rich, earthy allure of the Chocolate strain. Known for its balanced effects, Chocolate offers a harmonious blend of relaxation and euphoria, making it the perfect companion for both novice and seasoned users. With subtle hints of cocoa, this strain melts away stress while enhancing creativity and focus, providing a smooth and uplifting experience thatu2019s as satisfying as it is indulgent.&lt;br /&gt;&lt;br /&gt;Edibles have become a beloved choice for cannabis enthusiasts seeking a discreet and convenient way to enjoy their favorite plant. Infused with cannabis extracts, these products offer a longer-lasting and often more intense experience compared to other consumption methods. The Sativa Taffy Chocolate by Cheeba Chews is no exception. As it is metabolized through the digestive system, this delectable treat provides a delayed onset of effects, typically ranging from 30 minutes to 2 hours. This makes it important for consumers to start with a low dose and be patient, ensuring a pleasurable and controlled experience.&lt;br /&gt;&lt;br /&gt;Since 2009, Cheeba Chews has been a trusted name in cannabis-infused edibles, renowned for their hand-crafted taffy, consistent dosing, and delicious flavors. Whether youu2019re seeking THC, CBD, or a mix of both, Cheeba Chews offers something for everyone. Their commitment to quality and innovation has made them a favorite among cannabis connoisseurs seeking a sweet escape.&lt;br /&gt;&lt;br /&gt;Highway 90 isnu2019t just a dispensaryu2014itu2019s a destination. Conveniently located at 90 Old Marlton Pike W in Marlton, NJ, our shop sits at the crossroads of Route 70 and Route 73, directly across from Marlton Crossing. Serving the communities of Evesham, Cherry Hill, Voorhees Township, Medford, and Mt. Laurel, we make it easy for cannabis enthusiasts across the region to find high-quality products in a welcoming and inviting environment. At Highway 90, we believe that cannabis is personal, and our knowledgeable team is here to ensure you get exactly what you need. Whether youu2019re looking for top-shelf flower, potent concentrates, delicious edibles, or soothing topicals, we have the perfect selection to elevate your experience.&lt;br /&gt;&lt;br /&gt;From seasoned connoisseurs to first-time buyers, our commitment to quality, education, and exceptional service makes us Marltonu2019s go-to recreational dispensary. Conveniently accessible from Cherry Hill and Philadelphia, Highway 90 offers a seamless shopping experience, competitive pricing, and a selection curated with care. Stop by today and experience the Highway 90 differenceu2014where quality meets community, and every visit is unforgettable. Highway 90 is the closest dispensary to the AMC 8, Chickie's & Pete's, and The Promenade.&lt;br /&gt;&lt;br /&gt;Elevate your experience with the uplifting effects of Sativa Chocolate Chews. Crafted for moments of creativity, energy, and connection, each chew helps you find your spark and embrace brighter days. Savor the rich chocolate flavor as you unlock your potential.&lt;br /&gt;&lt;br /&gt;Cannabis chocolates are popular because the dominant chocolate flavor overpowers the \"green\" taste you may find in other edibles. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": ".1g",
+     "price": 10
+    }
+   ],
+   "price": 10,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/fdfcb133898232f381af23fdd8a8c9c3",
+   "photo": "assets/source/menu/ee0d576abce2.jpg"
+  },
+  {
+   "path": "/products/savvy-savvy-guap-rso-peachy-punch-gummy-1-cbd-1-thc-for-sale-marlton-nj/",
+   "name": "Savvy Guap RSO Peachy Punch Gummy | 1 CBD : 1 THC",
+   "h1": "Savvy Savvy Guap RSO Peachy Punch Gummy | 1 CBD : 1 THC",
+   "brand": "Savvy",
+   "category": "edibles",
+   "description": "Cannabis infused gummies evenly dosed commonly sold in multi-packs, which makes controlling your intake easy and reliable. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.",
+   "offers": [
+    {
+     "size": ".1g",
+     "price": 14
+    }
+   ],
+   "price": 14,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/400ab2d1149557b518aa0798824759fe",
+   "photo": "assets/source/menu/949f01e6c592.jpg"
+  },
+  {
+   "path": "/products/shine-bites-fruit-punch-for-sale-marlton-nj/",
+   "name": "&Shine Fruit Punch Gummy | 100mg",
+   "h1": "&#038;Shine &#038;Shine Fruit Punch Gummy | 100mg",
+   "brand": "&Shine",
+   "category": "edibles",
+   "description": "Edibles are created either by infusing cooking oil or butter with cannabis extract, or by mixing extract directly into other ingredients. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.",
+   "offers": [
+    {
+     "size": ".1g",
+     "price": 15
+    }
+   ],
+   "price": 15,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/90ac0b14c76a2b41b06f51e199882c24",
+   "photo": "assets/source/menu/708ce7b2681d.jpg"
+  },
+  {
+   "path": "/products/shine-shine-afternoon-delight-4-pre-rolls-5pk-for-sale-marlton-nj/",
+   "name": "&Shine Afternoon Delight #4 Pre-Rolls | 5pk",
+   "h1": "&#038;Shine &#038;Shine Afternoon Delight #4 Pre-Rolls | 5pk",
+   "brand": "&Shine",
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+   "offers": [
+    {
+     "size": "2.5g",
+     "price": 28
+    }
+   ],
+   "price": 28,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  },
+  {
+   "path": "/products/simply-herb-sh-pave-shake-for-sale-evesham-nj/",
+   "name": "SH Pave Shake",
+   "h1": "Simply Herb SH Pave Shake",
+   "brand": "Simply Herb",
+   "category": "flower",
+   "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+   "offers": [
+    {
+     "size": "1/4oz",
+     "price": 40
+    }
+   ],
+   "price": 40,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/87ee15abbd896df77355f39acfee0502",
+   "photo": "assets/source/menu/cdd3453822fe.jpg"
+  },
+  {
+   "path": "/products/simply-herb-simply-herb-waiting-game-1-popcorn-for-sale-marlton-nj/",
+   "name": "Simply Herb Waiting Game #1 Popcorn",
+   "h1": "Simply Herb Simply Herb Waiting Game #1 Popcorn",
+   "brand": "Simply Herb",
+   "category": "flower",
+   "description": "Waiting Game #1 by Simply Herb is a flavorful hybrid cannabis strain available at Highway 90, offering a slow-building high that develops into uplifting euphoria, a happy, giggly mood, and gentle full-body relaxation without heavy couch-lock. Sweet berry and citrus flavors blend with earthy herbs, while aromas of lemon, pine, and gassy skunk create a bold, memorable smoking experience. Shop Waiting Game #1 at Highway 90 for premium Simply Herb flower with balanced effects and rich, terpene-forward flavor.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "1oz",
+     "price": 150
+    }
+   ],
+   "price": 150,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/b81af7b8a17a1aafc47270f17024e956",
+   "photo": "assets/source/menu/d97b0ff76207.jpg"
+  },
+  {
+   "path": "/products/simply-herb-sour-orange-shake-for-sale-marlton-nj/",
+   "name": "Simply Herb Sour Orange Shake",
+   "h1": "Simply Herb Simply Herb Sour Orange Shake",
+   "brand": "Simply Herb",
+   "category": "flower",
+   "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+   "offers": [
+    {
+     "size": "1/4oz",
+     "price": 40
+    }
+   ],
+   "price": 40,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/87ee15abbd896df77355f39acfee0502",
+   "photo": "assets/source/menu/cdd3453822fe.jpg"
+  },
+  {
+   "path": "/products/simply-herb-watermelon-mac-shake-for-sale-marlton-nj/",
+   "name": "Simply Herb Watermelon MAC Shake",
+   "h1": "Simply Herb Simply Herb Watermelon MAC Shake",
+   "brand": "Simply Herb",
+   "category": "flower",
+   "description": "Dried cannabis flower is primarily ingested via inhalation. Activation time is roughly about 5 minutes and can last up to a few hours.",
+   "offers": [
+    {
+     "size": "1/4oz",
+     "price": 40
+    }
+   ],
+   "price": 40,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/87ee15abbd896df77355f39acfee0502",
+   "photo": "assets/source/menu/cdd3453822fe.jpg"
+  },
+  {
+   "path": "/products/simply-herb-watermelon-sugar-distillate-for-sale-evesham-nj-2/",
+   "name": "Simply Herb Watermelon Sugar Cart",
+   "h1": "Simply Herb Simply Herb Watermelon Sugar Cart",
+   "brand": "Simply Herb",
+   "category": "vaporizers",
+   "description": "Introducing the Watermelon Sugar 1g Cartridge by Simply Herb, a must-have for cannabis enthusiasts seeking a sweet escape. Available at Highway 90, this cartridge promises a sensory journey like no other. Imagine the taste of fresh watermelon on a warm summer day, captured perfectly in a tantalizing cannabis strain that delights with its sweet, fruity aroma. Watermelon Sugar is a hybrid strain that strikes the perfect balance between euphoria and relaxation, making it a favorite among both recreational and medicinal users.&lt;br /&gt;&lt;br /&gt;Crafted with precision, the Watermelon Sugar cartridge is designed for use with a 510 battery, offering a convenient and discreet way to enjoy cannabis. Made from high-quality glass or plastic, each cartridge comes with a mouthpiece for easy inhalation, ensuring a smooth and flavorful experience. Whether you're a novice or a seasoned user, this cartridge delivers a controlled dose of cannabinoids, providing a smoke-free alternative that's both portable and easy to use.&lt;br /&gt;&lt;br /&gt;Simply Herb is renowned for its commitment to quality, offering cannabis products that are fresh, aromatic, and full of flavor. Their dedication to providing high-quality cannabis without the frills ensures that every product, from premium flower to flavorful vapes, meets the highest standards. With Simply Herb, you can trust that you're getting exceptional products that cater to both newcomers and seasoned enthusiasts alike.&lt;br /&gt;&lt;br /&gt;For those looking to purchase the Watermelon Sugar 1g Cartridge, Highway 90 is more than just a dispensaryu2014itu2019s a destination. Conveniently located at 90 Old Marlton Pike W in Marlton, NJ, Highway 90 serves the communities of Evesham, Cherry Hill, Voorhees Township, Medford, and Mt. Laurel. Our knowledgeable team is here to ensure you find exactly what you need, whether it's top-shelf flower, potent concentrates, or delicious edibles.&lt;br /&gt;&lt;br /&gt;Highway 90 offers a seamless shopping experience with competitive pricing and a curated selection of high-quality products. Conveniently accessible from Cherry Hill and Philadelphia, our dispensary is the closest to the AMC 8, Chickie's & Pete's, and The Promenade. Stop by today and experience the Highway 90 differenceu2014where quality meets community, and every visit is unforgettable.&lt;br /&gt;&lt;br /&gt;Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 35
+    }
+   ],
+   "price": 35,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/3005304a6798cef889a07de871ce62a4",
+   "photo": "assets/source/menu/8a38ab4344c4.jpg"
+  },
+  {
+   "path": "/products/space-ranger-baja-blast-x-white-gummies-liquid-diamonds-sauce-cart-for-sale-marlton-nj/",
+   "name": "Space Ranger Baja Blast x White Gummies Liquid Diamonds & Sauce Cart",
+   "h1": "Space Ranger Space Ranger Baja Blast x White Gummies Liquid Diamonds &#038; Sauce Cart",
+   "brand": "Space Ranger",
+   "category": "vaporizers",
+   "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+   "offers": [
+    {
+     "size": ".5g",
+     "price": 15
+    }
+   ],
+   "price": 15,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/5a4f62b746c5dc99fe9a0632627188b1",
+   "photo": "assets/source/menu/bb6d115343b7.jpg"
+  },
+  {
+   "path": "/products/space-ranger-peach-stardust-x-velvet-lushers-liquid-diamonds-sauce-cart-for-sale-marlton-nj/",
+   "name": "Space Ranger Peach Stardust x Velvet Lushers Liquid Diamonds & Sauce Cart",
+   "h1": "Space Ranger Space Ranger Peach Stardust x Velvet Lushers Liquid Diamonds &#038; Sauce Cart",
+   "brand": "Space Ranger",
+   "category": "vaporizers",
+   "description": "Cannabis vaporizers are a great way to consume discreetly and consistently. Vape cartridges contain concentrated cannabis oil that is heated by a battery and vaporized for inhalation. These products are very potent and are designed to be consumed in 2-3 second puffs.",
+   "offers": [
+    {
+     "size": ".5g",
+     "price": 30
+    }
+   ],
+   "price": 30,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/vaporizer-stock-1-v1.jpg",
+   "photo": "assets/source/menu/5cdbaf04b31c.jpg"
+  },
+  {
+   "path": "/products/sun-sun-durban-dream-queen-live-resin-badder-for-sale-marlton-nj/",
+   "name": "Sun Durban Dream Queen Live Resin Badder",
+   "h1": "Sun Sun Durban Dream Queen Live Resin Badder",
+   "brand": "Sun",
+   "category": "concentrates",
+   "description": "Live Resin is a unique form of concentrate in that the flower used is frozen immediately after harvest, rather than the typical process of curing. Freezing the raw cannabis flower helps preserve terpene and cannabinoid profiles, providing consumers with a robust flavor profile and precise effects.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 17.5
+    }
+   ],
+   "price": 17.5,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/48b7b7f29c0b9fd3ce64d0f6b032b50c",
+   "photo": "assets/source/menu/3fdde91c7397.jpg"
+  },
+  {
+   "path": "/products/the-clear-lemon-haze-disposable-for-sale-evesham-nj/",
+   "name": "Lemon Haze Disposable",
+   "h1": "The Clear Lemon Haze Disposable",
+   "brand": "The Clear",
+   "category": "vaporizers",
+   "description": "The CLEAR Original Cartridge | Lemon Haze Daytime u2013 Loud, Tangy, Sweet &lt;br /&gt;&lt;br /&gt;Brighten your day with the invigorating zest from our Lemon Haze vape All In One. This daytime flavor is loud, tangy, and undeniably sweet, with vibrant citrus notes that burst on inhale and linger on exhale. It's the perfect way to add an energetic and flavorful twist to your routine. The Clearu2122 Original line of cartridges and all-in-ones deliver unparalleled potency and a consistently superior vape experience.u00a0&lt;br /&gt;&lt;br /&gt;0.5g All In One Lemon Haze Vape is available now at Highway 90 Dispensary in Marlton, NJ.&lt;br /&gt;&lt;br /&gt;Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": ".5g",
+     "price": 45
+    }
+   ],
+   "price": 45,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/af1c5436271ad4a453e91e26244cc53a",
+   "photo": "assets/source/menu/0fb22d713e98.jpg"
+  },
+  {
+   "path": "/products/the-clear-xj13-disposable-for-sale-marlton-nj/",
+   "name": "The Clear XJ13 Disposable",
+   "h1": "The CLEAR The Clear XJ13 Disposable",
+   "brand": "The CLEAR",
+   "category": "vaporizers",
+   "description": "Disposable vaporizers contain concentrated cannabis oil that is heated by an attached battery and inhaled. These products come charged and ready to go, and are not designed to be reused, refilled, or recharged. These products are often very potent and are designed to be consumed in 2-3 second puffs.",
+   "offers": [
+    {
+     "size": ".5g",
+     "price": 11.25
+    }
+   ],
+   "price": 11.25,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/b8e0ba782ad9b6652ad74fda266992ba",
+   "photo": "assets/source/menu/422939ba3fec.jpg"
+  },
+  {
+   "path": "/products/the-essence-casey-jones-pre-roll-for-sale-marlton-nj/",
+   "name": "Casey Jones Pre-Roll",
+   "h1": "(the) Essence Casey Jones Pre-Roll",
+   "brand": "(the) Essence",
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 14
+    }
+   ],
+   "price": 14,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/b4e55bc24786320a2c9563b321fb845b",
+   "photo": "assets/source/menu/24bedc7bb0c2.jpg"
+  },
+  {
+   "path": "/products/timeless-carrots-og-cart-for-sale-marlton-nj/",
+   "name": "Timeless Carrots OG Cart",
+   "h1": "Timeless Timeless Carrots OG Cart",
+   "brand": "Timeless",
+   "category": "vaporizers",
+   "description": "Pulled from the ground and for the culture, Carrots OG is a deep rooted nod to West Coast tradition, reimagined by one of streetwearu2019s most iconic tastemakers. Created in collaboration with Anwar Carrots, this OG-heavy flavor blends earthy kush, diesel funk, and a bright citrus-pepper kick for a smooth, full bodied experience with real staying power. Powered by Caryophyllene, Myrcene, and Limonene, it delivers a grounded, euphoric high that sparks creativity without losing its grip. Carrots OG is for those who move with purpose and stay rooted in legacy. Timeless Carrots OG 1g Cart is available now at Highway 90 Dispensary.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 39.9
+    }
+   ],
+   "price": 39.9,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/d18de7f234bebe017c9a67c5d2cee49a",
+   "photo": "assets/source/menu/420432aa3526.jpg"
+  },
+  {
+   "path": "/products/tropical-passionfruit-infused-pre-roll-for-sale-evesham-nj/",
+   "name": "Tropical Passionfruit Infused Pre-Roll",
+   "h1": "Little Leaf Tropical Passionfruit Infused Pre-Roll",
+   "brand": "Little Leaf",
+   "category": "pre-rolls",
+   "description": "Rolled up and ready to smoke, Pre-Rolls are a convenient and effective way to consume cannabis. Pre-Rolls come in many different forms and can be rolled with flower, shake, \"b-buds\", infused with concentrates, and more.",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 20
+    }
+   ],
+   "price": 20,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/7b7c34b9b2c11eb37a7ccc36b070536a",
+   "photo": "assets/source/menu/c4e7ac9d59ba.jpg"
+  },
+  {
+   "path": "/products/vibes-the-cali-rice-for-sale-evesham-nj/",
+   "name": "The Cali Rice",
+   "h1": "Vibes The Cali Rice",
+   "brand": "Vibes",
+   "category": null,
+   "description": "The Cali by VIBESu2122 1 Gram Box is a premium pre-roll product that delivers an exceptional smoking experience. This pre-roll tube has a wide, cylindrical shape that mimics Berner's signature rolling style, providing optimal airflow, comfortable pulls, and a big-smoke experience.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": "1g",
+     "price": 5
+    }
+   ],
+   "price": 5,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/67d0ec7483ff244380ed270aa09478a2",
+   "photo": "assets/source/menu/b82947772af7.jpg"
+  },
+  {
+   "path": "/products/wana-strawberry-lemonade-11-10-pack-for-sale-evesham-nj-2/",
+   "name": "Classic Strawberry Lemonade 1:1 CBD/THC Chews [10 Pack] | 100mg",
+   "h1": "Wana Classic Strawberry Lemonade 1:1 CBD/THC Chews [10 Pack] | 100mg",
+   "brand": "Wana",
+   "category": "edibles",
+   "description": "Introducing the Strawberry Lemonade 1:1 by Wana, now available at Highway 90, where your cannabis journey begins. Imagine a burst of sweet strawberries mingling with zesty lemons, a vibrant symphony of flavors that dance on your palate. This isn't just any edible; it's a gateway to an invigorating experience, crafted by Wana Brands, North America's leading cannabis edibles company. Known for their premium, vegan, and gluten-free gummies, Wana ensures each bite is a testament to quality and innovation.&lt;br /&gt;&lt;br /&gt;Edibles have revolutionized the way we enjoy cannabis, offering a discreet and convenient alternative to smoking or vaping. Infused with cannabis extracts, they provide a longer-lasting and often more intense experience, metabolized through the digestive system. This means a delayed onset of effects, typically ranging from 30 minutes to 2 hours, so patience and starting with a low dose are key. But the wait is worth it, as edibles deliver precise dosing and diverse flavors, making the cannabis experience both tasty and enjoyable.&lt;br /&gt;&lt;br /&gt;Strawberry Lemonade is a 1:1 hybrid that captivates the senses with its delightful aroma and uplifting effects. Renowned for its ability to inspire creativity and focus, this strain is perfect for those seeking a euphoric boost. Its high THC content enhances social interactions and artistic endeavors, while the refreshing flavor profile evokes the essence of a summer picnic. Whether you're diving into a creative project or savoring a sunny afternoon, Strawberry Lemonade offers a harmonious blend of relaxation and invigoration.&lt;br /&gt;&lt;br /&gt;At Highway 90, purchasing your favorite cannabis products is more than a transactionu2014it's an experience. Conveniently located at 90 Old Marlton Pike W in Marlton, NJ, our dispensary is a destination for cannabis enthusiasts across the region. Serving the communities of Evesham, Cherry Hill, Voorhees Township, Medford, and Mt. Laurel, we provide a welcoming environment where quality meets community. Our knowledgeable team is dedicated to helping you find exactly what you need, whether it's top-shelf flower, potent concentrates, delicious edibles, or soothing topicals.&lt;br /&gt;&lt;br /&gt;Highway 90 is Marltonu2019s go-to recreational dispensary, offering a seamless shopping experience, competitive pricing, and a carefully curated selection. Conveniently accessible from Cherry Hill and Philadelphia, we are the closest dispensary to the AMC 8, Chickie's & Pete's, and The Promenade. Stop by today and discover the Highway 90 differenceu2014where every visit is unforgettable, and your cannabis journey is personal.&lt;br /&gt;&lt;br /&gt;Balancing notes of bright citrus and lush strawberry, these gummies contain a 1:1 ratio of CBD and THC to promote balance and tranquility.&lt;br /&gt;&lt;br /&gt;1:1 CBD/THC Per Package: 100mg CBD & THC Per Piece: 10mg CBD & THC Balancing notes of bright citrus and lush strawberry, these chews contain a smooth, calming ratio of CBD and THC.&lt;br /&gt;",
+   "offers": [
+    {
+     "size": ".1g",
+     "price": 28
+    }
+   ],
+   "price": 28,
+   "inStock": true,
+   "photoUrl": "https://images.dutchie.com/568c83754ed8a88f4dbddbf5c381df54",
+   "photo": "assets/source/menu/fa0814964a0c.jpg"
+  },
+  {
+   "path": "/products/wana-wana-quick-razzcherry-rocket-gummies-100mg-for-sale-marlton-nj/",
+   "name": "Wana Quick Razzcherry Rocket Gummies | 100mg",
+   "h1": "Wana Wana Quick Razzcherry Rocket Gummies | 100mg",
+   "brand": "Wana",
+   "category": "edibles",
+   "description": "Cannabis infused gummies evenly dosed commonly sold in multi-packs, which makes controlling your intake easy and reliable. Because edibles are digested and absorbed by your stomach and liver, the activation is often longer than other consumption methods, taking on average 45 minutes, and sometimes up to 2 hours. It is important to start low and slow when consuming edibles so you don't over do it. Take extra caution to ensure edibles are out of the reach of children.",
+   "offers": [
+    {
+     "size": ".1g",
+     "price": 28
+    }
+   ],
+   "price": 28,
+   "inStock": true,
+   "photoUrl": null,
+   "photo": null
+  }
+ ],
+ "failures": []
+}

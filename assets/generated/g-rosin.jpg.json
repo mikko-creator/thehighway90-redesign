@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-ROSIN",
+  "file": "assets/generated/g-rosin.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Macro studio photograph of a small mound of golden amber cannabis rosin resting on a folded sheet of white parchment paper, glossy translucent texture with tiny air bubbles, warm side light, seamless deep forest green backdrop, clean modern commercial look, ultra detailed; no text, no logos, no packaging",
+  "input": {
+    "aspect_ratio": "4:5",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 1354121413,
+  "requestId": "01a13cf5-8d4b-7f81-b1f3-788a26e0dda6",
+  "cutout": null,
+  "width": 1856,
+  "height": 2304,
+  "sha256": "1ce7c71823465632361615191289bce3bd1696f500684fb28c886ae5dff31ced",
+  "raw": "tmp/img/raw/G-ROSIN.1792024101538.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-15T00:28:23.226Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

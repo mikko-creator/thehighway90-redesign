@@ -1,0 +1,25 @@
+{
+  "tool": "tools/make-loop.mjs",
+  "input": "tmp/hf/v-hero.mp4",
+  "inputDuration": 10.041667,
+  "fps": 24,
+  "fade": 1.4,
+  "loopDuration": 8.642,
+  "outputs": {
+    "assets/generated/video/v-hero.mp4": 1206023,
+    "assets/generated/video/v-hero.webm": 814340,
+    "assets/generated/video/v-hero-poster.webp": 73446,
+    "assets/generated/video/v-hero-phone.mp4": 276775
+  },
+  "calmness": {
+    "metric": "ffmpeg signalstats YDIF (mean absolute luma change between consecutive frames, 0-255), measured over two plays of the loop",
+    "frames": 415,
+    "max": 2.06023,
+    "p95": 1.42638,
+    "mean": 1.208,
+    "framesOver20": 0,
+    "seamChange": 1.54298
+  },
+  "aiLabel": "AI-generated illustrative motion (Higgsfield kling-video/v3.0-turbo/image-to-video). IPTC digital source type: http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia. Not footage of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "generatedAt": "2026-10-15T00:37:58.529Z"
+}

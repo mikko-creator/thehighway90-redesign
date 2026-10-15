@@ -1,0 +1,12 @@
+# never commit secrets, bulky raw evidence or derived output
+*.key
+.env
+node_modules/
+tmp/
+dist/
+preview/
+publish/
+*.zip
+audit/raw/
+audit/css/
+assets/optimized/

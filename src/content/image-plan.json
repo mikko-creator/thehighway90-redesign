@@ -1,0 +1,262 @@
+{
+  "note": "Highway 90 redesign imagery (fal flux-pro ultra + birefnet cut-outs). Illustrative industry imagery ADDED by the redesign: no people, no text, no logos, no real place, product or packaging of Highway 90. Real Highway 90 photos and brand art are harvested separately into assets/source/. Pop art is applied by the theme (halftone, colour blocks, offset shadows), never as cartoon characters.",
+  "defaults": {
+    "model": "fal-ai/flux-pro/v1.1-ultra",
+    "input": {
+      "aspect_ratio": "16:9",
+      "output_format": "jpeg",
+      "num_images": 1,
+      "enable_safety_checker": true,
+      "safety_tolerance": "5"
+    },
+    "cutoutModel": "fal-ai/birefnet/v2",
+    "cutoutInput": {
+      "model": "Matting",
+      "operating_resolution": "2048x2048",
+      "output_format": "png"
+    }
+  },
+  "images": [
+    {
+      "id": "G-HERO-ROAD",
+      "role": "hero",
+      "input": {
+        "aspect_ratio": "21:9"
+      },
+      "alt": "",
+      "usedFor": [
+        "home hero background",
+        "Higgsfield source for V-HERO"
+      ],
+      "prompt": "Cinematic wide photograph of an empty straight two-lane country highway at golden hour, the road running from the foreground to a vanishing point on the horizon, crisp white and yellow lane markings, tall pine trees lining both sides in soft silhouette, an enormous warm tangerine orange and amber sunset sky with soft streaked clouds, glowing haze over the asphalt, hopeful road-trip mood, shot on 35mm film, ultra detailed, photographic; no cars, no people, no road signs, no billboards, no text, no logos"
+    },
+    {
+      "id": "G-ROAD-NIGHT",
+      "role": "band",
+      "alt": "",
+      "usedFor": [
+        "events and blog bands",
+        "Higgsfield source for V-NIGHT"
+      ],
+      "prompt": "Long-exposure night photograph of a gently curving highway through dark pine woods, smooth streaks of orange and white light trails flowing along the lanes, deep green-black forest, clear deep teal night sky with faint stars, clean modern cinematic look, ultra detailed, photographic; no visible cars, no people, no signs, no text, no logos"
+    },
+    {
+      "id": "G-BUD-ORANGE",
+      "role": "card",
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "Frosty cannabis flower on a tangerine backdrop",
+      "usedFor": [
+        "flower category",
+        "home pop panel",
+        "Higgsfield source for V-BUD"
+      ],
+      "prompt": "Studio product photograph of a single large frosty cannabis flower bud, dense and sparkling with trichomes, bright orange pistils, rich green hues, centred and floating in mid-air above a seamless backdrop that is entirely vivid tangerine orange (hex E47124) from edge to edge, crisp hard key light from the upper left casting a bold dark orange graphic shadow below, pop art colour blocking, clean modern commercial style, razor sharp, ultra detailed; the background must be orange, not purple, not lavender, not pink; no text, no logos, no packaging, no hands",
+      "rejectReason": "backdrop came out lavender, off-brand (review 08:30)"
+    },
+    {
+      "id": "G-BUD-GREEN",
+      "role": "card",
+      "input": {
+        "aspect_ratio": "4:5"
+      },
+      "alt": "Cannabis flower on a deep green backdrop",
+      "usedFor": [
+        "recreational and town pages",
+        "strain cards"
+      ],
+      "prompt": "Studio product photograph of a single dense cannabis flower bud covered in glistening trichomes with orange pistils, standing on a seamless deep forest green backdrop, soft cream rim light and a hard graphic drop shadow, minimal pop art colour blocking, clean modern commercial style, razor sharp, ultra detailed; no text, no logos, no packaging, no hands"
+    },
+    {
+      "id": "G-JAR",
+      "role": "card",
+      "input": {
+        "aspect_ratio": "4:5"
+      },
+      "alt": "Glass jar of cannabis flower",
+      "usedFor": [
+        "deals and specials",
+        "menu pages"
+      ],
+      "prompt": "Studio photograph of a clear glass apothecary jar with a cork lid filled with frosty green cannabis buds, standing on a deep forest green floor plane against a seamless tangerine orange wall, hard graphic shadow, pop art colour blocking, clean modern commercial look, ultra detailed; no labels, no stickers, no text, no logos"
+    },
+    {
+      "id": "G-PREROLL",
+      "role": "card",
+      "input": {
+        "aspect_ratio": "4:5"
+      },
+      "alt": "Pre-rolls on a cream backdrop",
+      "usedFor": [
+        "pre-roll category and specials"
+      ],
+      "prompt": "Studio product photograph of three cone-shaped cannabis pre-roll joints with neatly twisted paper tips and natural brown paper filter tips, ground green cannabis flower visible at the open twisted ends, laid diagonally side by side on a seamless warm cream backdrop with a bold tangerine orange circle of colour behind them, hard graphic shadows, minimal pop art, clean modern commercial look, ultra detailed; no text, no logos, no branding, no smoke, no flame, no hands, no cigarettes",
+      "rejectReason": "read as white tubes or cigarettes (review 08:30)"
+    },
+    {
+      "id": "G-VAPE",
+      "role": "card",
+      "input": {
+        "aspect_ratio": "4:5"
+      },
+      "alt": "Vape cartridge on a sage backdrop",
+      "usedFor": [
+        "vape category and specials"
+      ],
+      "prompt": "Studio product photograph of a sleek minimal vape cartridge with golden amber oil inside a clear glass chamber and a matte black mouthpiece, standing upright on a seamless sage green backdrop, crisp glass reflections, hard pop art drop shadow, clean modern commercial look, ultra detailed; no text, no logos, no branding, no vapour"
+    },
+    {
+      "id": "G-ROSIN",
+      "role": "card",
+      "input": {
+        "aspect_ratio": "4:5"
+      },
+      "alt": "Cannabis rosin on parchment",
+      "usedFor": [
+        "concentrate category and specials"
+      ],
+      "prompt": "Macro studio photograph of a small mound of golden amber cannabis rosin resting on a folded sheet of white parchment paper, glossy translucent texture with tiny air bubbles, warm side light, seamless deep forest green backdrop, clean modern commercial look, ultra detailed; no text, no logos, no packaging"
+    },
+    {
+      "id": "G-TINCTURE",
+      "role": "card",
+      "input": {
+        "aspect_ratio": "4:5"
+      },
+      "alt": "Tincture bottle with a cannabis leaf",
+      "usedFor": [
+        "tinctures and topicals categories"
+      ],
+      "prompt": "Studio product photograph of an unlabelled amber glass dropper bottle with a black dropper cap beside one small fresh cannabis leaf, on a seamless warm cream backdrop with a large tangerine orange circle of colour behind the bottle, hard graphic shadow, minimal pop art, clean modern commercial look, ultra detailed; no labels, no text, no logos"
+    },
+    {
+      "id": "G-ACCESSORIES",
+      "role": "card",
+      "input": {
+        "aspect_ratio": "4:5"
+      },
+      "alt": "Grinder and rolling papers",
+      "usedFor": [
+        "accessories category"
+      ],
+      "prompt": "Top-down flat lay studio photograph of cannabis accessories: a brushed metal herb grinder, an open booklet of plain unbranded rolling papers and a small wooden tray, arranged neatly on a seamless tangerine orange backdrop, bold hard graphic shadows, minimal pop art, clean modern commercial look, ultra detailed; no text, no logos, no branding, no flame"
+    },
+    {
+      "id": "G-TRICHOME",
+      "role": "band",
+      "alt": "",
+      "usedFor": [
+        "about and FAQ bands",
+        "Higgsfield source for V-TRICHOME"
+      ],
+      "prompt": "Extreme macro photograph of cannabis trichomes glistening like tiny crystal mushrooms on a green and violet flower, shallow depth of field, warm tangerine rim light, deep forest green bokeh background, ultra detailed, scientific beauty, photographic; no text, no logos"
+    },
+    {
+      "id": "G-SMOKE",
+      "role": "overlay",
+      "alt": "",
+      "usedFor": [
+        "screen-blend smoke layers",
+        "Higgsfield source for V-SMOKE"
+      ],
+      "prompt": "Wisps of soft white smoke curling slowly upward against a pure black background, elegant flowing ribbons and veils, high contrast studio photograph, wide composition with open black space; no text, no objects, no people"
+    },
+    {
+      "id": "G-GREENHOUSE",
+      "role": "band",
+      "alt": "Rows of cannabis plants in a sunlit greenhouse",
+      "usedFor": [
+        "about page",
+        "jobs page"
+      ],
+      "prompt": "Sunlit modern cannabis greenhouse with long tidy rows of healthy green cannabis plants under a glass roof, warm morning light streaming through and soft haze, clean professional horticulture, wide cinematic photograph, ultra detailed; no people, no text, no logos, no signs"
+    },
+    {
+      "id": "G-LIGHTS",
+      "role": "band",
+      "alt": "",
+      "usedFor": [
+        "events pages"
+      ],
+      "prompt": "Warm string lights glowing over an empty open-air lawn at dusk, soft golden bokeh, deep tangerine and teal evening sky, inviting celebratory mood, clean cinematic photograph; no people, no crowd, no text, no logos, no signs"
+    },
+    {
+      "id": "CUT-BUD-A",
+      "role": "cutout",
+      "cutout": true,
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "",
+      "usedFor": [
+        "protruding cut-out: home hero and section seams"
+      ],
+      "prompt": "Studio product photograph of one large perfect frosty cannabis flower bud with sparkling trichomes and bright orange pistils, centred with generous empty space around it, isolated on a plain light grey seamless background, soft even studio light, razor sharp edges, ultra detailed; no text, no logos, no shadow on the background, no other objects"
+    },
+    {
+      "id": "CUT-BUD-B",
+      "role": "cutout",
+      "cutout": true,
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "",
+      "usedFor": [
+        "protruding cut-out: category and deals seams"
+      ],
+      "prompt": "Studio product photograph of one dense cannabis flower bud with deep violet and lime green hues, frosted with trichomes, viewed slightly from the side, centred with generous empty space around it, isolated on a plain light grey seamless background, soft even studio light, razor sharp edges, ultra detailed; no text, no logos, no other objects"
+    },
+    {
+      "id": "CUT-LEAF",
+      "role": "cutout",
+      "cutout": true,
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "",
+      "usedFor": [
+        "protruding cut-out: leaf crossing section seams"
+      ],
+      "prompt": "Studio photograph of one fresh vibrant green cannabis fan leaf with seven serrated leaflets on its stem, flat and complete, centred with empty space around it, isolated on a plain light grey seamless background, soft even light, crisp edges, ultra detailed; no text, no logos, no hands, no other objects"
+    },
+    {
+      "id": "CUT-PREROLL",
+      "role": "cutout",
+      "cutout": true,
+      "input": {
+        "aspect_ratio": "1:1"
+      },
+      "alt": "",
+      "usedFor": [
+        "protruding cut-out: deals band"
+      ],
+      "prompt": "Studio product photograph of one single cone-shaped cannabis pre-roll joint with a neatly twisted paper tip and a natural brown paper filter tip, ground green cannabis flower visible at the twisted end, lying diagonally, centred with empty space around it, isolated on a plain light grey seamless background, soft even studio light, crisp edges, ultra detailed; no text, no logos, no smoke, no flame, no hands, no other objects, not a cigarette",
+      "rejectReason": "read as a white tube (review 08:30)"
+    },
+    {
+      "id": "G-DRINK",
+      "role": "card",
+      "input": {
+        "aspect_ratio": "4:5"
+      },
+      "alt": "Cannabis-infused seltzer on an orange backdrop",
+      "usedFor": [
+        "edibles and drinks category"
+      ],
+      "prompt": "Studio product photograph of one unlabelled slim aluminium can of sparkling seltzer drink beside a clear glass of iced sparkling water with a lime slice and a single small cannabis leaf, condensation droplets, on a seamless vivid tangerine orange backdrop with a deep forest green floor plane, hard graphic shadow, minimal pop art colour blocking, clean modern commercial look, ultra detailed; no text, no labels, no logos, no branding, no candy, no people"
+    },
+    {
+      "id": "G-TOPICAL",
+      "role": "card",
+      "input": {
+        "aspect_ratio": "4:5"
+      },
+      "alt": "Balm jar with a cannabis leaf",
+      "usedFor": [
+        "topicals category"
+      ],
+      "prompt": "Studio product photograph of an unlabelled frosted white glass cosmetic jar with its lid off showing smooth pale green balm, a single fresh cannabis leaf resting beside it, on a seamless soft sage green backdrop with a large warm cream circle of colour behind the jar, hard graphic shadow, minimal pop art, clean modern skincare commercial look, ultra detailed; no text, no labels, no logos, no hands"
+    }
+  ]
+}

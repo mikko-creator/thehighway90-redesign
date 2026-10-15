@@ -1,0 +1,32 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "CUT-PREROLL",
+  "file": "assets/generated/cut-preroll.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Studio product photograph of one single cone-shaped cannabis pre-roll joint with a neatly twisted paper tip and a natural brown paper filter tip, ground green cannabis flower visible at the twisted end, lying diagonally, centred with empty space around it, isolated on a plain light grey seamless background, soft even studio light, crisp edges, ultra detailed; no text, no logos, no smoke, no flame, no hands, no other objects, not a cigarette",
+  "input": {
+    "aspect_ratio": "1:1",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 2040092868,
+  "requestId": "01a13cf7-69aa-76d3-ba21-581714273f03",
+  "cutout": {
+    "model": "fal-ai/birefnet/v2",
+    "requestId": "01a13cf7-93a1-77d1-a019-9bea2a4dfa34"
+  },
+  "width": 2048,
+  "height": 2048,
+  "sha256": "b7fa87fdc48b76e178f92ee2b164db082186b78dfee488a98d50c7a787f33a34",
+  "raw": "tmp/img/raw/CUT-PREROLL.1792024218368.jpg",
+  "attempt": 2,
+  "generatedAt": "2026-10-15T00:30:24.077Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

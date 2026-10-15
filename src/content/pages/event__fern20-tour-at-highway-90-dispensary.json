@@ -1,0 +1,313 @@
+{
+ "path": "/event/fern20-tour-at-highway-90-dispensary/",
+ "url": "https://www.thehighway90.com/event/fern20-tour-at-highway-90-dispensary/",
+ "kind": "event",
+ "head": {
+  "title": "Fern:20 Tour at Highway 90 Dispensary - Highway 90",
+  "description": "We’re thrilled to invite you to join us this Friday, April 11th for our stop on the Fern:20 Tour right here at Highway 90 Dispensary in Marlton, New Jersey!",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/event/fern20-tour-at-highway-90-dispensary/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Fern:20 Tour at Highway 90 Dispensary - Highway 90",
+   "og:description": "We’re thrilled to invite you to join us this Friday, April 11th for our stop on the Fern:20 Tour right here at Highway 90 Dispensary in Marlton, New Jersey!",
+   "og:url": "https://www.thehighway90.com/event/fern20-tour-at-highway-90-dispensary/",
+   "og:site_name": "Highway 90",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/2025/04/Highway-90-1024x576.png",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/2025/04/Highway-90-1024x576.png",
+   "og:image:width": "800",
+   "og:image:height": "450",
+   "og:image:alt": "fern:20 fernway tour at highway 90 dispensary in marlton, new jersey",
+   "og:image:type": "image/png",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Fern:20 Tour at Highway 90 Dispensary - Highway 90",
+   "twitter:description": "We’re thrilled to invite you to join us this Friday, April 11th for our stop on the Fern:20 Tour right here at Highway 90 Dispensary in Marlton, New Jersey!",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/2025/04/Highway-90-1024x576.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/event/fern20-tour-at-highway-90-dispensary/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/events/",
+         "name": "Events"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "3",
+        "item": {
+         "@id": "https://www.thehighway90.com/event/fern20-tour-at-highway-90-dispensary/",
+         "name": "Fern:20 Tour at Highway 90 Dispensary"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   },
+   [
+    {
+     "@context": "http://schema.org",
+     "@type": "Event",
+     "name": "Fern:20 Tour at Highway 90 Dispensary",
+     "description": "&lt;p&gt;At Highway 90 Dispensary, we know that 4/20 is more than just a day – it’s a season to celebrate the vibrant community we’re all a part of. It’s about [&hellip;]&lt;/p&gt;\\n",
+     "image": "https://www.thehighway90.com/wp-content/uploads/2025/04/Highway-90.png",
+     "url": "https://www.thehighway90.com/event/fern20-tour-at-highway-90-dispensary/",
+     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+     "eventStatus": "https://schema.org/EventScheduled",
+     "startDate": "2025-04-11T17:00:00-04:00",
+     "endDate": "2025-04-11T19:00:00-04:00",
+     "performer": "Organization"
+    }
+   ]
+  ]
+ },
+ "h1": "Highway 90 Dispensary Cannabis Dispensary Events",
+ "docId": null,
+ "docType": null,
+ "sections": [],
+ "archive": null,
+ "events": {
+  "mode": "single",
+  "title": "Fern:20 Tour at Highway 90 Dispensary",
+  "schedule": "April 11, 2025 @ 5:00 pm",
+  "img": {
+   "src": "https://www.thehighway90.com/wp-content/uploads/2025/04/Highway-90.png",
+   "alt": "Fern:20 fernway tour at highway 90 dispensary in marlton, new jersey",
+   "w": 3840,
+   "h": 2160
+  },
+  "html": "<p>At <strong>Highway 90 Dispensary</strong>, we know that 4/20 is more than just a day – it’s a season to celebrate the vibrant community we’re all a part of. It’s about honoring the people shaping a cannabis culture that’s inclusive and enjoyable for everyone.</p><p>This is a shoutout to our local artists, musicians, creators, parents, students, and dispensary staff who are all contributing to the good life and supporting our communities.</p><p>We’re thrilled to invite you to join us this <strong>Friday, April 11th</strong> for our stop on the <strong>Fern:20 Tour</strong> right here at <strong>Highway 90 Dispensary</strong> in Marlton, New Jersey!</p><p><strong>Ready for the tour?</strong> Head over to Highway 90 before April 11th and receive a <strong>coupon for 20% off your next Fernway purchase</strong>. <a href=\"/brands/fernway/\">Shop now</a> and don’t miss out!</p><p>Learn more about the Fern:20 tour <a href=\"https://fernway.com/fern20/\" target=\"_blank\" rel=\"noopener\">here.</a></p><p>The <strong>Fern:20 tour</strong> is hitting dispensaries all over New Jersey, New York, and Massachusetts, celebrating the 4/20 season, local communities, and cannabis culture wherever they go.</p><p><strong>What’s in store for you?</strong></p><ul><li><strong>In-Store Promotion:</strong> Get <strong>Buy One, Get One 42% OFF</strong> all Fernway products on Friday, April 11th, all day long!</li><li><strong>Exclusive Tour Merch:</strong> Grab some <strong>limited edition Fern:20 t-shirts</strong> and <strong>green metallic stylus</strong> merchandise exclusive to the tour.*</li><li><strong>Food and Live Music:</strong> Enjoy live tunes by <strong>The Eli &amp; Lou Duo</strong>, followed by delicious bites from the <a href=\"https://www.instagram.com/notyouraverageweinertruck?igsh=MWlzZmgzeHlsbDh4dQ==\" target=\"_blank\" rel=\"noopener\"><strong>Not Your Average Weiner</strong> </a>food truck.</li></ul><p>Don’t miss out on this amazing celebration of 4/20 season, community, and cannabis culture! We can’t wait to see you at Highway 90!<a href=\"https://www.instagram.com/notyouraverageweinertruck?igsh=MWlzZmgzeHlsbDh4dQ==\" target=\"_blank\" rel=\"noopener\"><img data-ref=\"https://www.thehighway90.com/wp-content/uploads/2025/04/notyouravergaeweinerlogo-1.jpg\" alt=\"Not your average weiner got dog food truck in marlton new jersey\"><br>\n</a></p><p>*Conditions apply. While supplies last.</p>",
+  "meta": []
+ },
+ "unknownWidgets": []
+}

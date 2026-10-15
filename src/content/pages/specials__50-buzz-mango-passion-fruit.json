@@ -1,0 +1,341 @@
+{
+ "path": "/specials/50-buzz-mango-passion-fruit/",
+ "url": "https://www.thehighway90.com/specials/50-buzz-mango-passion-fruit/",
+ "kind": "joint-single",
+ "head": {
+  "title": "50% Buzzicles Mango Passion Fruit - Highway 90 Dispensary in NJ",
+  "description": "Limited time offer while supplies last through 10/23 Discounts do not stack",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/specials/50-buzz-mango-passion-fruit/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "50% Buzzicles Mango Passion Fruit - Highway 90 Dispensary in NJ",
+   "og:description": "Limited time offer while supplies last through 10/23 Discounts do not stack",
+   "og:url": "https://www.thehighway90.com/specials/50-buzz-mango-passion-fruit/",
+   "og:site_name": "Highway 90",
+   "article:tag": "Pos-import",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/2026/10/a668b5bc-ab2a-49c8-80ad-5f7231a5d208.png.png",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/2026/10/a668b5bc-ab2a-49c8-80ad-5f7231a5d208.png.png",
+   "og:image:width": "765",
+   "og:image:height": "330",
+   "og:image:alt": "50% Buzzicles Mango Passion Fruit",
+   "og:image:type": "image/png",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "50% Buzzicles Mango Passion Fruit - Highway 90 Dispensary in NJ",
+   "twitter:description": "Limited time offer while supplies last through 10/23 Discounts do not stack",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/2026/10/a668b5bc-ab2a-49c8-80ad-5f7231a5d208.png.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/specials/50-buzz-mango-passion-fruit/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/specials/",
+         "name": "Specials"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "3",
+        "item": {
+         "@id": "https://www.thehighway90.com/specials/50-buzz-mango-passion-fruit/",
+         "name": "50% Buzzicles Mango Passion Fruit"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   },
+   {
+    "@context": "http://schema.org",
+    "@type": "Offer",
+    "name": "50% Buzzicles Mango Passion Fruit",
+    "description": "Limited time offer while supplies last through 10/23 Discounts do not stack",
+    "availability": "https://schema.org/InStock",
+    "priceCurrency": "USD",
+    "@id": "https://www.thehighway90.com/specials/50-buzz-mango-passion-fruit/",
+    "url": "https://www.thehighway90.com/specials/50-buzz-mango-passion-fruit/",
+    "image": "https://joint-product-photos.s3.amazonaws.com/production/specials/5818/a668b5bc-ab2a-49c8-80ad-5f7231a5d208.png",
+    "validFrom": "2026-10-08T00:00:00+00:00",
+    "validThrough": "2026-10-24T00:00:00+00:00",
+    "seller": {
+     "@type": "Organization",
+     "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818"
+    },
+    "eligibleRegion": {
+     "@type": "Place",
+     "address": "Marlton, NJ"
+    }
+   }
+  ]
+ },
+ "h1": "50% Buzzicles Mango Passion Fruit",
+ "docId": "20002",
+ "docType": "single-post",
+ "sections": [
+  {
+   "t": "group",
+   "id": "2f606a48",
+   "children": [
+    {
+     "t": "text",
+     "html": "<p><a href=\"/\">Home</a> / <a href=\"/specials/\">Specials</a> / 50% Buzzicles Mango Passion Fruit</p>"
+    },
+    {
+     "t": "group",
+     "id": "5a708580",
+     "children": [
+      {
+       "t": "image",
+       "img": {
+        "src": "https://www.thehighway90.com/wp-content/uploads/2026/10/a668b5bc-ab2a-49c8-80ad-5f7231a5d208.png.png",
+        "alt": "",
+        "w": 765,
+        "h": 330
+       },
+       "href": null,
+       "caption": null,
+       "from": "featured"
+      },
+      {
+       "t": "text",
+       "html": "50% Buzzicles Mango Passion Fruit<h2>Limited time offer while supplies last through 10/23 Discounts do not stack</h2><p>*Website cart may not reflect the bundled price but it will be adjusted at time of payment.</p>"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "events": null,
+ "unknownWidgets": []
+}

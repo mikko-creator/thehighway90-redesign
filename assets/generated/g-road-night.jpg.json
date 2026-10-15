@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-ROAD-NIGHT",
+  "file": "assets/generated/g-road-night.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Long-exposure night photograph of a gently curving highway through dark pine woods, smooth streaks of orange and white light trails flowing along the lanes, deep green-black forest, clear deep teal night sky with faint stars, clean modern cinematic look, ultra detailed, photographic; no visible cars, no people, no signs, no text, no logos",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 472138308,
+  "requestId": "01a13cf5-5d0a-7af0-9400-7f7e1d038938",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "349e745aea06f89bdc309380b22c14e3a796e31623a4ab647113a3838fb77187",
+  "raw": "tmp/img/raw/G-ROAD-NIGHT.1792024084411.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-15T00:28:06.246Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

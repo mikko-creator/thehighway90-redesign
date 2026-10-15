@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-LIGHTS",
+  "file": "assets/generated/g-lights.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Warm string lights glowing over an empty open-air lawn at dusk, soft golden bokeh, deep tangerine and teal evening sky, inviting celebratory mood, clean cinematic photograph; no people, no crowd, no text, no logos, no signs",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 132981663,
+  "requestId": "01a13cf5-e25c-7c31-af9f-ba237dd67a8d",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "b3e8e51409274f3bd018902d66d3e35a7d5ce43fe493d6b8b3270abda3421183",
+  "raw": "tmp/img/raw/G-LIGHTS.1792024127137.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-15T00:28:48.783Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

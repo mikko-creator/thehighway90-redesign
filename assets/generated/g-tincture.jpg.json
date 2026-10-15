@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-TINCTURE",
+  "file": "assets/generated/g-tincture.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Studio product photograph of an unlabelled amber glass dropper bottle with a black dropper cap beside one small fresh cannabis leaf, on a seamless warm cream backdrop with a large tangerine orange circle of colour behind the bottle, hard graphic shadow, minimal pop art, clean modern commercial look, ultra detailed; no labels, no text, no logos",
+  "input": {
+    "aspect_ratio": "4:5",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 1677576942,
+  "requestId": "01a13cf5-b100-7313-b1c7-6f345e7c0a4e",
+  "cutout": null,
+  "width": 1856,
+  "height": 2304,
+  "sha256": "d652f8028e03c308fa6b2cbecd0c5dd55094394e2e0f11b40ce7e437bbaba294",
+  "raw": "tmp/img/raw/G-TINCTURE.1792024105559.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-15T00:28:27.017Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

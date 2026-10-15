@@ -1,0 +1,32 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "CUT-BUD-A",
+  "file": "assets/generated/cut-bud-a.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Studio product photograph of one large perfect frosty cannabis flower bud with sparkling trichomes and bright orange pistils, centred with generous empty space around it, isolated on a plain light grey seamless background, soft even studio light, razor sharp edges, ultra detailed; no text, no logos, no shadow on the background, no other objects",
+  "input": {
+    "aspect_ratio": "1:1",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 2889200760,
+  "requestId": "01a13cf5-e733-72e3-9ee0-49d89910a252",
+  "cutout": {
+    "model": "fal-ai/birefnet/v2",
+    "requestId": "01a13cf6-3969-7b52-9ad3-db202339ffe7"
+  },
+  "width": 2048,
+  "height": 2048,
+  "sha256": "4321bd7a5c7cedee914c29dcc5fcf7aea7922cec0c21bb5aa247709352a58ca1",
+  "raw": "tmp/img/raw/CUT-BUD-A.1792024129635.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-15T00:28:55.574Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

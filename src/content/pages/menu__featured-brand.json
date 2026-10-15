@@ -1,0 +1,417 @@
+{
+ "path": "/menu/featured-brand/",
+ "url": "https://www.thehighway90.com/menu/featured-brand/",
+ "kind": "page",
+ "head": {
+  "title": "Highway 90 Featured Cannabis Brand Menu",
+  "description": "Explore Highway 90 Featured Cannabis Brand in Marlton, NJ. Discover top-quality products and exceptional service at your go-to cannabis dispensary today!",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/menu/featured-brand/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Highway 90 Featured Cannabis Brand Menu",
+   "og:description": "Explore Highway 90 Featured Cannabis Brand in Marlton, NJ. Discover top-quality products and exceptional service at your go-to cannabis dispensary today!",
+   "og:url": "https://www.thehighway90.com/menu/featured-brand/",
+   "og:site_name": "Highway 90",
+   "og:updated_time": "2025-08-06T11:23:33-04:00",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:image:alt": "Highway 90 OpenGraph",
+   "og:image:type": "image/png",
+   "article:published_time": "2022-07-07T16:20:11-04:00",
+   "article:modified_time": "2025-08-06T11:23:33-04:00",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Highway 90 Featured Cannabis Brand Menu",
+   "twitter:description": "Explore Highway 90 Featured Cannabis Brand in Marlton, NJ. Discover top-quality products and exceptional service at your go-to cannabis dispensary today!",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+   "twitter:label1": "Time to read",
+   "twitter:data1": "Less than a minute"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Organization",
+      "@id": "https://www.thehighway90.com/#organization",
+      "name": "Highway 90",
+      "logo": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/#logo",
+       "url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "contentUrl": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "caption": "Highway 90",
+       "inLanguage": "en-US",
+       "width": "512",
+       "height": "497"
+      }
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.thehighway90.com/#website",
+      "url": "https://www.thehighway90.com",
+      "name": "Highway 90",
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "ImageObject",
+      "@id": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+      "url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+      "width": "1200",
+      "height": "630",
+      "caption": "Highway 90 OpenGraph",
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/menu/featured-brand/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/menu/",
+         "name": "Menu"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "3",
+        "item": {
+         "@id": "https://www.thehighway90.com/menu/featured-brand/",
+         "name": "Featured Brand"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.thehighway90.com/menu/featured-brand/#webpage",
+      "url": "https://www.thehighway90.com/menu/featured-brand/",
+      "name": "Highway 90 Featured Cannabis Brand Menu",
+      "datePublished": "2022-07-07T16:20:11-04:00",
+      "dateModified": "2025-08-06T11:23:33-04:00",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png"
+      },
+      "inLanguage": "en-US",
+      "breadcrumb": {
+       "@id": "https://www.thehighway90.com/menu/featured-brand/#breadcrumb"
+      }
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.thehighway90.com/menu/featured-brand/#author",
+      "name": "Highway 90 Dispensary",
+      "image": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/wp-content/litespeed/avatar/a7b99884549b620ae464d04655e5e8c7.jpg?ver=1791939289",
+       "url": "https://www.thehighway90.com/wp-content/litespeed/avatar/a7b99884549b620ae464d04655e5e8c7.jpg?ver=1791939289",
+       "caption": "Highway 90 Dispensary",
+       "inLanguage": "en-US"
+      },
+      "sameAs": [
+       "https://www.thehighway90.com"
+      ],
+      "worksFor": {
+       "@id": "https://www.thehighway90.com/#organization"
+      }
+     },
+     {
+      "@type": "Article",
+      "headline": "Highway 90 Featured Cannabis Brand Menu",
+      "datePublished": "2022-07-07T16:20:11-04:00",
+      "dateModified": "2025-08-06T11:23:33-04:00",
+      "author": {
+       "@id": "https://www.thehighway90.com/menu/featured-brand/#author",
+       "name": "Highway 90 Dispensary"
+      },
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "description": "Explore Highway 90 Featured Cannabis Brand in Marlton, NJ. Discover top-quality products and exceptional service at your go-to cannabis dispensary today!",
+      "name": "Highway 90 Featured Cannabis Brand Menu",
+      "@id": "https://www.thehighway90.com/menu/featured-brand/#richSnippet",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/menu/featured-brand/#webpage"
+      },
+      "image": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png"
+      },
+      "inLanguage": "en-US",
+      "mainEntityOfPage": {
+       "@id": "https://www.thehighway90.com/menu/featured-brand/#webpage"
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   }
+  ]
+ },
+ "h1": "Featured Cannabis Brand For Sale Near Marlton NJ",
+ "docId": "14509",
+ "docType": "wp-page",
+ "sections": [
+  {
+   "t": "group",
+   "id": "0081dc7",
+   "children": [
+    {
+     "t": "text",
+     "html": "<p><a href=\"/\">Home</a> / <a href=\"/menu/\">Menu</a> / Featured Brand</p>"
+    },
+    {
+     "t": "heading",
+     "level": "h1",
+     "html": "Featured Cannabis Brand For Sale Near Marlton NJ",
+     "text": "Featured Cannabis Brand For Sale Near Marlton NJ"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "cc3487a",
+   "children": [
+    {
+     "t": "menu"
+    },
+    {
+     "t": "text",
+     "html": "<h3>Discover Our Featured Cannabis Brands</h3><p>At <strong>%sitename%</strong>, we showcase leading cannabis brands that excel in quality, innovation, and reliability. Our curated selection includes only the best in the industry, with products that meet the highest standards.</p><h4>Why These Brands Stand Out</h4><ul><li><strong>Diverse Offerings</strong>: Our featured brands provide premium flower, potent concentrates, delectable edibles, and advanced vaporizers.</li><li><strong>Quality Assurance</strong>: Each brand is chosen for using top-quality ingredients, sustainable practices, and passing rigorous testing standards.</li><li><strong>Industry Leaders &amp; Innovators</strong>: From well-established names to emerging brands, each has earned its spot through a commitment to excellence.</li></ul><h4>Explore Top Cannabis Brands</h4><ul><li><strong>Premium Selection</strong>: Discover the finest products tailored to every preference.</li><li><strong>Consistency &amp; Trust</strong>: Our brands ensure a consistent and reliable experience.</li><li><strong>Innovation &amp; Excellence</strong>: These brands lead the industry with cutting-edge products.</li></ul><h3>Find Your Next Favorite</h3><p><strong>%sitename%</strong> is dedicated to providing the best cannabis products, and our featured brands reflect that commitment. Explore our selection and discover what sets these industry leaders apart. Your new favorite brand awaits!</p>"
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "events": null,
+ "unknownWidgets": []
+}

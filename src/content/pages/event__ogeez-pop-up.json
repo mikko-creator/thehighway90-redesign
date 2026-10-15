@@ -1,0 +1,313 @@
+{
+ "path": "/event/ogeez-pop-up/",
+ "url": "https://www.thehighway90.com/event/ogeez-pop-up/",
+ "kind": "event",
+ "head": {
+  "title": "OGeez! Pop-Up - Highway 90",
+  "description": "🚨 OGeez! Popup Event 🚨When: 3/14 from 5-7 pmWhere: Highway 90 Dispensary, Marlton NJ",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/event/ogeez-pop-up/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "OGeez! Pop-Up - Highway 90",
+   "og:description": "🚨 OGeez! Popup Event 🚨When: 3/14 from 5-7 pmWhere: Highway 90 Dispensary, Marlton NJ",
+   "og:url": "https://www.thehighway90.com/event/ogeez-pop-up/",
+   "og:site_name": "Highway 90",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/2025/03/Ogeez-Pop-Up-314.png",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/2025/03/Ogeez-Pop-Up-314.png",
+   "og:image:width": "765",
+   "og:image:height": "330",
+   "og:image:alt": "Ogeez cannabis gummies deals at highway 90 dispensary in marlton, new jersey",
+   "og:image:type": "image/png",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "OGeez! Pop-Up - Highway 90",
+   "twitter:description": "🚨 OGeez! Popup Event 🚨When: 3/14 from 5-7 pmWhere: Highway 90 Dispensary, Marlton NJ",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/2025/03/Ogeez-Pop-Up-314.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/event/ogeez-pop-up/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/events/",
+         "name": "Events"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "3",
+        "item": {
+         "@id": "https://www.thehighway90.com/event/ogeez-pop-up/",
+         "name": "OGeez! Pop-Up on 3/14 at Highway 90 Dispensary"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   },
+   [
+    {
+     "@context": "http://schema.org",
+     "@type": "Event",
+     "name": "OGeez! Pop-Up",
+     "description": "&lt;p&gt;🚨 OGeez! Popup Event 🚨When: 3/14 from 5-7 pmWhere: Highway 90 Dispensary, Marlton NJ Join us for a sweet experience with OGeez! Discover New Jersey’s leading cannabis-infused gummy brand known for mouthwatering flavors, [&hellip;]&lt;/p&gt;\\n",
+     "image": "https://www.thehighway90.com/wp-content/uploads/2025/03/Ogeez-Pop-Up-314.png",
+     "url": "https://www.thehighway90.com/event/ogeez-pop-up/",
+     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+     "eventStatus": "https://schema.org/EventScheduled",
+     "startDate": "2025-03-14T17:00:00-04:00",
+     "endDate": "2025-03-14T19:00:00-04:00",
+     "performer": "Organization"
+    }
+   ]
+  ]
+ },
+ "h1": "Highway 90 Dispensary Cannabis Dispensary Events",
+ "docId": null,
+ "docType": null,
+ "sections": [],
+ "archive": null,
+ "events": {
+  "mode": "single",
+  "title": "OGeez! Pop-Up",
+  "schedule": "March 14, 2025 @ 5:00 pm",
+  "img": {
+   "src": "https://www.thehighway90.com/wp-content/uploads/2025/03/Ogeez-Pop-Up-314.png",
+   "alt": "Ogeez cannabis gummies deals at highway 90 dispensary in marlton, new jersey",
+   "w": 765,
+   "h": 330
+  },
+  "html": "<p>🚨 <strong>OGeez! Popup Event</strong> 🚨<br><strong>When</strong>: <strong>3/14</strong> from <strong>5-7 pm</strong><br><strong>Where</strong>: Highway 90 Dispensary, Marlton NJ</p><p><img data-ref=\"https://www.thehighway90.com/wp-content/uploads/2025/03/ogeez-nj.png\" alt=\"Delas on ogeez cannabis gummies avialable now at highway 90 dispensary in marlton, new jersey\"></p><p>Join us for a sweet experience with <a href=\"https://ogeezbrands.com/\" target=\"_blank\" rel=\"noopener\"><strong>OGeez</strong></a>! Discover New Jersey’s leading cannabis-infused gummy brand known for mouthwatering flavors, consistent effects, and a smooth, enjoyable experience. 🌿🍬</p><p><strong>Explore OGeez’s Signature Gummies:</strong></p><ul><li><strong>Peg’s RSO </strong>: Rick Simpson Oil encompasses all of cannabis’s naturally occurring cannabinoids to provide a full-spectrum effect. This ground-breaking gummy offers all RSO’s therapeutic benefits without any of the yucky bitterness. It pairs vital relief with mouthwatering flavor — and it has the bonus of being named after OGeez!’s late founder, Peggy Noonan. 🍊🍓</li><li><strong>The Creams</strong>: This grab bag of gummies includes Blackberries &amp; Cream, Orange Cream and Peaches &amp; Cream. The signature OGeez! double-layer design — a first-of-a-kind — has a puffy, cloud-like texture and the gummies are precisely infused and enhanced with our Sunny Sativa or Mellow Indica terpenes. 🍦🍑</li><li><strong>The Fruits</strong>: The Fruits are a fan favorite. The mix of Watermelon, Red Apple and Peach gummies will make you feel like you just left the orchard with a basket of delicious pickings. They are a reliable classic and the perfect mood booster. The Fruits are precisely infused and available in Sunny Sativa and Mellow Indica.🍉🍎</li></ul><p>OGeez! gummies are crafted with precision to deliver the perfect flavor and targeted effects. With no bitter aftertaste and a smooth, bouncy texture, these gummies are a treat for both seasoned and new consumers.</p><p><strong>Don’t miss out!</strong> Meet the OGeez! team, learn about their journey of creating innovative cannabis gummies, and enjoy exclusive deals on their full line of flavorful edibles. 🍬💚</p><p><a href=\"/?s=ogeez\">Shop Ogeez Now!</a></p>",
+  "meta": []
+ },
+ "unknownWidgets": []
+}

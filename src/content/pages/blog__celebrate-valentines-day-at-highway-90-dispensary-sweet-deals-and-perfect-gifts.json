@@ -1,0 +1,453 @@
+{
+ "path": "/blog/celebrate-valentines-day-at-highway-90-dispensary-sweet-deals-and-perfect-gifts/",
+ "url": "https://www.thehighway90.com/blog/celebrate-valentines-day-at-highway-90-dispensary-sweet-deals-and-perfect-gifts/",
+ "kind": "post",
+ "head": {
+  "title": "Celebrate Valentine's Day at Highway 90 Dispensary: Sweet Deals and Perfect Gifts for Your Loved One! | News & Updates from Highway 90",
+  "description": "Valentine's Day is all about sweet treats, so why not get something extra sweet for your special someone? Ogeez Edibles are packed with delicious flavors and",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/blog/celebrate-valentines-day-at-highway-90-dispensary-sweet-deals-and-perfect-gifts/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Celebrate Valentine's Day at Highway 90 Dispensary: Sweet Deals and Perfect Gifts for Your Loved One! | News & Updates from Highway 90",
+   "og:description": "Valentine's Day is all about sweet treats, so why not get something extra sweet for your special someone? Ogeez Edibles are packed with delicious flavors and",
+   "og:url": "https://www.thehighway90.com/blog/celebrate-valentines-day-at-highway-90-dispensary-sweet-deals-and-perfect-gifts/",
+   "og:site_name": "Highway 90",
+   "article:tag": "valentine's day",
+   "article:section": "Uncategorized",
+   "og:updated_time": "2025-02-12T13:51:53-05:00",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/2025/02/Valentines-Ad-.png",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/2025/02/Valentines-Ad-.png",
+   "og:image:width": "1920",
+   "og:image:height": "1080",
+   "og:image:alt": "Valentine's Day Cannabis deals at Highway 90 dispensary. Buy cannabis flowers and chocolates.",
+   "og:image:type": "image/png",
+   "article:published_time": "2025-02-12T13:38:49-05:00",
+   "article:modified_time": "2025-02-12T13:51:53-05:00",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Celebrate Valentine's Day at Highway 90 Dispensary: Sweet Deals and Perfect Gifts for Your Loved One! | News & Updates from Highway 90",
+   "twitter:description": "Valentine's Day is all about sweet treats, so why not get something extra sweet for your special someone? Ogeez Edibles are packed with delicious flavors and",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/2025/02/Valentines-Ad-.png",
+   "twitter:label1": "Written by",
+   "twitter:data1": "Kate Sargis",
+   "twitter:label2": "Time to read",
+   "twitter:data2": "5 minutes"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Organization",
+      "@id": "https://www.thehighway90.com/#organization",
+      "name": "Highway 90",
+      "logo": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/#logo",
+       "url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "contentUrl": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "caption": "Highway 90",
+       "inLanguage": "en-US",
+       "width": "512",
+       "height": "497"
+      }
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.thehighway90.com/#website",
+      "url": "https://www.thehighway90.com",
+      "name": "Highway 90",
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "ImageObject",
+      "@id": "https://www.thehighway90.com/wp-content/uploads/2025/02/Valentines-Ad-.png",
+      "url": "https://www.thehighway90.com/wp-content/uploads/2025/02/Valentines-Ad-.png",
+      "width": "1920",
+      "height": "1080",
+      "caption": "Valentine's Day Cannabis deals at Highway 90 dispensary. Buy cannabis flowers and chocolates.",
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/blog/celebrate-valentines-day-at-highway-90-dispensary-sweet-deals-and-perfect-gifts/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/blog/category/uncategorized/",
+         "name": "Uncategorized"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "3",
+        "item": {
+         "@id": "https://www.thehighway90.com/blog/celebrate-valentines-day-at-highway-90-dispensary-sweet-deals-and-perfect-gifts/",
+         "name": "Celebrate Valentine&#8217;s Day at Highway 90 Dispensary: Sweet Deals and Perfect Gifts for Your Loved One!"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.thehighway90.com/blog/celebrate-valentines-day-at-highway-90-dispensary-sweet-deals-and-perfect-gifts/#webpage",
+      "url": "https://www.thehighway90.com/blog/celebrate-valentines-day-at-highway-90-dispensary-sweet-deals-and-perfect-gifts/",
+      "name": "Celebrate Valentine&#039;s Day at Highway 90 Dispensary: Sweet Deals and Perfect Gifts for Your Loved One! | News &amp; Updates from Highway 90",
+      "datePublished": "2025-02-12T13:38:49-05:00",
+      "dateModified": "2025-02-12T13:51:53-05:00",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/2025/02/Valentines-Ad-.png"
+      },
+      "inLanguage": "en-US",
+      "breadcrumb": {
+       "@id": "https://www.thehighway90.com/blog/celebrate-valentines-day-at-highway-90-dispensary-sweet-deals-and-perfect-gifts/#breadcrumb"
+      }
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.thehighway90.com/blog/celebrate-valentines-day-at-highway-90-dispensary-sweet-deals-and-perfect-gifts/#author",
+      "name": "Kate Sargis",
+      "image": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/wp-content/litespeed/avatar/1c01e93ffdbb748e302375b2a5018d37.jpg?ver=1791959311",
+       "url": "https://www.thehighway90.com/wp-content/litespeed/avatar/1c01e93ffdbb748e302375b2a5018d37.jpg?ver=1791959311",
+       "caption": "Kate Sargis",
+       "inLanguage": "en-US"
+      },
+      "sameAs": [
+       "https://www.thehighway90.com/wp-admin"
+      ],
+      "worksFor": {
+       "@id": "https://www.thehighway90.com/#organization"
+      }
+     },
+     {
+      "articleSection": "Uncategorized",
+      "headline": "Valentine's day Deals Have Arrived at Highway 90!",
+      "description": "Valentine’s Day is just around the corner, and if you're looking to show your special someone how much you care, why not give them something they'll truly love? This Valentine’s Day, Highway 90 Dispensary in Marlton, NJ has everything you need to make the day extra special. Whether you're searching for the perfect gift or want to stock up on your favorite cannabis products, we’ve got great deals running all weekend long to celebrate love, friendship, and everything in between!",
+      "keywords": "valentine's day, cannabis, flowers, chocolates",
+      "@type": "Article",
+      "author": {
+       "@id": "https://www.thehighway90.com/blog/celebrate-valentines-day-at-highway-90-dispensary-sweet-deals-and-perfect-gifts/#author",
+       "name": "Kate Sargis"
+      },
+      "datePublished": "2025-02-12T13:38:49-05:00",
+      "dateModified": "2025-02-12T13:51:53-05:00",
+      "image": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/2025/02/Valentines-Ad-.png"
+      },
+      "name": "Valentine's day Deals Have Arrived at Highway 90!",
+      "@id": "https://www.thehighway90.com/blog/celebrate-valentines-day-at-highway-90-dispensary-sweet-deals-and-perfect-gifts/#schema-244493",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/blog/celebrate-valentines-day-at-highway-90-dispensary-sweet-deals-and-perfect-gifts/#webpage"
+      },
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "inLanguage": "en-US",
+      "mainEntityOfPage": {
+       "@id": "https://www.thehighway90.com/blog/celebrate-valentines-day-at-highway-90-dispensary-sweet-deals-and-perfect-gifts/#webpage"
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   }
+  ]
+ },
+ "h1": "Celebrate Valentine’s Day at Highway 90 Dispensary: Sweet Deals and Perfect Gifts for Your Loved One!",
+ "docId": "6157",
+ "docType": "single-post",
+ "sections": [
+  {
+   "t": "group",
+   "id": "733963e",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h1",
+     "html": "Celebrate Valentine’s Day at Highway 90 Dispensary: Sweet Deals and Perfect Gifts for Your Loved One!",
+     "text": "Celebrate Valentine’s Day at Highway 90 Dispensary: Sweet Deals and Perfect Gifts for Your Loved One!",
+     "from": "post-title"
+    },
+    {
+     "t": "meta",
+     "items": [
+      "February 12, 2025"
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "2fcaaa5",
+   "children": [
+    {
+     "t": "text",
+     "html": "<p><a href=\"/\">Home</a> / <a href=\"/blog/category/uncategorized/\">Uncategorized</a> / Celebrate Valentine’s Day at Highway 90 Dispensary: Sweet Deals and Perfect Gifts for Your Loved One!</p>"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "5dbc2a7",
+   "children": [
+    {
+     "t": "text",
+     "html": "<p><a href=\"/specials/\"><img data-ref=\"https://www.thehighway90.com/wp-content/uploads/2025/02/Valentines-Ad-.png\" alt=\"Valentine's day cannabis deals at highway 90 dispensary. Buy cannabis flowers and chocolates.\"></a></p><p>Valentine’s Day is just around the corner, and if you’re looking to show your special someone how much you care, why not give them something they’ll truly love? This Valentine’s Day, Highway 90 Dispensary in Marlton, NJ has everything you need to make the day extra special. Whether you’re searching for the perfect gift or want to stock up on your favorite cannabis products, we’ve got great deals running all weekend long to celebrate love, friendship, and everything in between!</p><h3>The Perfect Valentine’s Day Gifts at Highway 90 Dispensary</h3><p>Forget the typical chocolates and flowers—this Valentine’s Day, give your loved one something they’ll actually enjoy: cannabis flower, edibles, gourmet chocolate and more! Our exclusive Valentine’s Day deals are perfect for those who appreciate quality cannabis products, and we’re here to help you celebrate the day with some special offers:</p><h4><strong><a href=\"/?s=ogeez\">Ogeez</a> Edibles – Buy 1 Get 1 Free (2/13-2/15)</strong></h4><p>Valentine’s Day is all about sweet treats, so why not get something extra sweet for your special someone? Ogeez Edibles are packed with delicious flavors and the perfect balance of effects. OGeez’s delicious roster of gummies offers the perfect combination of mouthwatering flavors and targeted effects to meet all of your cannabis needs. For a limited time, enjoy a Buy 1 Get 1 Free deal from 2/13 to 2/15. It’s the perfect opportunity to stock up on these tasty, THC-infused gummies for yourself and your Valentine!</p><h4><strong><a href=\"/brands/miss-grass/\">Miss Grass</a> Minis Bundle 2 for $60 or 3 for $80 (2/13-2/23)</strong></h4><p>Miss Grass is known for their premium cannabis products, and this Valentine’s Day, you can treat your Valentine to the Miss Grass Minis Bundle. Get 2 5-pack pre-rolls for $60 or 3 for $80—the perfect gift for someone who loves variety and quality. This deal runs from 2/13 to 2/23, so you’ve got plenty of time to pick up this thoughtful and unique gift.</p><h4><strong>20% Off <a href=\"/brands/wyld/\">Wyld</a> Edibles (2/14-2/16)</strong></h4><p>Looking for a cannabis-infused treat that’ll take your Valentine’s Day celebration to the next level? Wyld Edibles are known for their delicious, fruit-infused gummies, and during the 2/14 to 2/16 window, you’ll enjoy 20% off all Wyld products. Stock up and surprise your loved one with a sweet, flavorful gift that also packs a punch.</p><h4><strong><a href=\"/specials/buy-1-get-1-30-off-gron-pearls/\">Grön</a> – Buy 1, Get 1 30% Off 10 Pack Pearls (2/11-2/15)</strong></h4><p>Who doesn’t love a little indulgence on Valentine’s Day? If your Valentine loves edibles, take advantage of our Buy 1, Get 1 30% Off Grön 10 Pack Pearls deal from 2/11 to 2/15. These decadent, infused treats are perfect for sharing, making them the ideal gift for you and your Valentine to enjoy together! *Conditions apply.</p><h4><strong><a href=\"/brands/clade9/\">Clade9</a> His &amp; Hers Pre-Roll Deal (2/13-2/15)</strong></h4><p>Looking for something truly special for your partner? We’ve got the His &amp; Hers Promo from Clade9: Buy 1 Queen and 1 Jack’s Reserve Infused Pre-Rolls for $60! This deal runs from 2/13 to 2/15, and it’s the perfect way to treat both yourself and your loved one to a relaxing and enjoyable time together.</p><h4><strong><a href=\"/brands/clade9/\">Clade9</a> General Flower Bundle Promo (2/13-2/15)</strong></h4><p>For those who prefer classic flower over edibles, we’ve got an amazing flower bundle deal: Buy any Clade9 Eighth and Get a Clade9 Cured Resin 1g Cartridge for $70. This deal gives you the best of both worlds—premium flower and a high-quality vape to add to your Valentine’s experience!</p><h4><strong>20% Off <a href=\"/specials/20-off-the-clear-twax/\">The Clear &amp; Twax</a> Products (2/11-2/17)</strong></h4><p>If vapes or pre-rolls are more your style, we’ve got you covered with 20% off The Clear &amp; Twax Products from 2/11 to 2/17. These are perfect for Valentine’s Day celebrations, giving you a smooth, elevated experience to share with your special someone.</p><h4><strong>25% Off <a href=\"/brands/timeless/\">Timeless </a>&amp; Noir Products on Fridays (2/14)</strong></h4><p>Save 25% on all Timeless and Noir vape products and batteries on Fridays! Timeless is focused on community and industry engagement – creating unique experiences to engage our partners, budtenders, and consumers. Save big on Timeless &amp; Noir on Valentine’s Day!</p><h4><a href=\"/specials/2-for-20-ozone-tropical-edibles/\">2 for $20</a>– Ozone Assorted Tropical Soft Chews</h4><p>Get ready to sweeten your Valentine’s Day with Ozone Assorted Tropical Soft Chews! For a limited time, enjoy 2 for $20 on these delicious, cannabis-infused treats. With a perfect blend of tropical flavors, each chew is a tasty way to elevate your celebration. Whether you’re treating yourself or sharing with a special someone, these soft chews are a fun and flavorful way to enjoy the day. Visit us at Highway 90 Dispensary and stock up before they’re gone!</p><h3>Bonus: <strong>Get 20% Off <a href=\"/brands/inclusion-gourmet/\">Inclusion Gourmet</a> Chocolate with any Edible Purchase!</strong></h3><p>To make this Valentine’s Day even sweeter, when you buy any edible, you’ll get a 20% off coupon for Inclusion Gourmet Chocolate! These chocolates are the perfect pairing with your cannabis gifts, and they make the ultimate Valentine’s treat. Plus, when you shop with us, you’ll have the chance to <strong>win a tour of Inclusion Gourmet’s chocolate factory</strong>—just <a href=\"https://jersey-canna.com/tour/\" target=\"_blank\" rel=\"noopener\"><strong>click here to enter</strong></a>, and don’t forget to select <strong>Highway 90</strong> as your dispensary of choice!</p><p><a href=\"https://jersey-canna.com/tour/\" target=\"_blank\" rel=\"noopener\"><img data-ref=\"https://www.thehighway90.com/wp-content/uploads/2025/02/inlcusion-chocolate-banner.png\" alt=\"Valentine's day cannabis chocolate deals.\"></a></p><p><strong>Try Inclusion Gourmet’s NEW Valentine’s Day Chocolates</strong>—perfect for those who want to elevate their celebrations with unique and sensual treats!</p><p><a href=\"/?s=love+%26+romance&amp;product=cc793d8b-c72d-4ec7-838b-890be7cd0ac1\"><strong>Love &amp; Romance Sensuals Chocolates</strong></a></p><p>Indulge in the Love &amp; Romance Sensuals Chocolates—a delectable treat designed to heighten your Valentine’s experience. Made with a proprietary blend of arousal ingredients, these Belgian Milk Chocolates are infused with 100mg THC and 100mg CBD per package, along with top nutraceuticals such as Horny Goat Weed, Maca, Theobromine, L-Arginine, Ginseng, and B-3 Niacin. These sensual chocolates are perfect for those looking to spark a little extra passion this Valentine’s Day.</p><p><a href=\"/?s=love+%26+romance&amp;product=cc793d8b-c72d-4ec7-838b-890be7cd0ac1\"><img data-ref=\"https://www.thehighway90.com/wp-content/uploads/2025/02/Valentines-Ad-2-e1739386132894.png\" alt=\"Inclusion gourmet's new valentine's day chocolate- love and romance sensuals\"></a></p><p><a href=\"/?s=hash+heart&amp;product=f517106c-ddba-48e9-9040-c4eaec3e8a25\"><strong>Chocolate Hash Heart Truffles</strong></a></p><p>If you’re a fan of live rosin, you won’t want to miss the Chocolate Hash Heart Truffles. These indulgent treats feature a 100% Live Rosin infusion, with a sweet strawberry filling surrounded by rich Belgian Milk Chocolate. Artisanally crafted and packed in large, plastic clamshell containers, each truffle contains 10mg of Live Rosin Cannabis for a potent and flavorful experience. The perfect combination of cannabis and chocolate, these truffles are sure to make your Valentine’s Day celebration unforgettable!</p><p><a href=\"http://9040\" target=\"_blank\" rel=\"noopener\"><img data-ref=\"https://www.thehighway90.com/wp-content/uploads/2025/02/Valentines-Ad-1-e1739385975166.png\" alt=\"Inclusion gourmet's new valentine's day chocolates- heart hash truffles\"></a></p><p>These chocolates from Inclusion Gourmet are a must-try, and they’re sure to become your new favorite treat for Valentine’s Day—or any day you want to indulge in something a little extra special. Visit us at Highway 90 Dispensary and grab yours today!</p><p><strong>Visit Highway 90 Dispensary in Marlton, NJ</strong></p><p>We’re making this Valentine’s Day special for all our customers with amazing deals, unique gifts, and all the cannabis products you need to make the day memorable. Whether you’re stocking up for a romantic night in or getting ready to share the love with friends, <strong>Highway 90 Dispensary in Marlton, NJ</strong> has what you need.</p><p>Stop by and see us today for the best deals on <a href=\"/categories/flower/\"><strong>flower</strong></a>, <a href=\"/categories/edibles/\"><strong>edibles</strong></a>, <a href=\"/categories/pre-rolls/\"><strong>pre-rolls</strong></a>, <a href=\"/?s=chocolate\">chocolates</a>, and so much more. Don’t miss out—these amazing Valentine’s Day promotions are only available for a limited time, and they’re going fast!</p><p><strong>Happy Valentine’s Day from Highway 90 Dispensary—your go-to dispensary near me for all your cannabis needs!</strong></p><p><img data-ref=\"https://www.thehighway90.com/wp-content/uploads/2025/02/Valentines-Ad-3-e1739386275746.png\" alt=\"Celebrate valentines day with highway 90 dispensary\"></p>",
+     "from": "content"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "604f0e0",
+   "children": [
+    {
+     "t": "postnav",
+     "prev": {
+      "text": "PrevShop, Save, and Win: Eagles Super Bowl Deals and Giveaway at Our Marlton, NJ Dispensary!",
+      "label": "",
+      "href": "/blog/eagles-super-bowl-deals-marlton-nj-dispensary/"
+     },
+     "next": {
+      "text": "First Time Here? Discover Marlton’s Best Dispensary Deals at Highway 90Next",
+      "label": "",
+      "href": "/blog/first-time-cannabis-deals-at-highway90-dispensary/"
+     }
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "events": null,
+ "unknownWidgets": []
+}

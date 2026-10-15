@@ -1,0 +1,32 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "CUT-BUD-B",
+  "file": "assets/generated/cut-bud-b.png",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Studio product photograph of one dense cannabis flower bud with deep violet and lime green hues, frosted with trichomes, viewed slightly from the side, centred with generous empty space around it, isolated on a plain light grey seamless background, soft even studio light, razor sharp edges, ultra detailed; no text, no logos, no other objects",
+  "input": {
+    "aspect_ratio": "1:1",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 1941374479,
+  "requestId": "01a13cf6-0c4d-78f0-b5c6-ab3a5c21f964",
+  "cutout": {
+    "model": "fal-ai/birefnet/v2",
+    "requestId": "01a13cf6-3e01-7d10-b77a-c90ddd4d361b"
+  },
+  "width": 2048,
+  "height": 2048,
+  "sha256": "1ad04a30f72657a1ba5935c1a54c7b8368780bbf44276459fb1cadb8085a8b34",
+  "raw": "tmp/img/raw/CUT-BUD-B.1792024130656.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-15T00:28:56.845Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

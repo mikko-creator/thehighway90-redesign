@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-SMOKE",
+  "file": "assets/generated/g-smoke.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Wisps of soft white smoke curling slowly upward against a pure black background, elegant flowing ribbons and veils, high contrast studio photograph, wide composition with open black space; no text, no objects, no people",
+  "input": {
+    "aspect_ratio": "16:9",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 3671820074,
+  "requestId": "01a13cf5-cad6-7733-9f98-a68aac1f5412",
+  "cutout": null,
+  "width": 2752,
+  "height": 1536,
+  "sha256": "f0cc2878a3fb7ebe3d40d86c6856a8bbfbf5256e24dfdd7c9e9e2b447090eec7",
+  "raw": "tmp/img/raw/G-SMOKE.1792024122784.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-15T00:28:44.696Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

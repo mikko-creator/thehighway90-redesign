@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-VAPE",
+  "file": "assets/generated/g-vape.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Studio product photograph of a sleek minimal vape cartridge with golden amber oil inside a clear glass chamber and a matte black mouthpiece, standing upright on a seamless sage green backdrop, crisp glass reflections, hard pop art drop shadow, clean modern commercial look, ultra detailed; no text, no logos, no branding, no vapour",
+  "input": {
+    "aspect_ratio": "4:5",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 2137108476,
+  "requestId": "01a13cf5-889c-70f1-b53c-734f906e162f",
+  "cutout": null,
+  "width": 1856,
+  "height": 2304,
+  "sha256": "6e433511b4021b048bb0795830e2ef8d364fcb11fb2425e9021cbcbe1989db1c",
+  "raw": "tmp/img/raw/G-VAPE.1792024095202.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-15T00:28:16.628Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-DRINK",
+  "file": "assets/generated/g-drink.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Studio product photograph of one unlabelled slim aluminium can of sparkling seltzer drink beside a clear glass of iced sparkling water with a lime slice and a single small cannabis leaf, condensation droplets, on a seamless vivid tangerine orange backdrop with a deep forest green floor plane, hard graphic shadow, minimal pop art colour blocking, clean modern commercial look, ultra detailed; no text, no labels, no logos, no branding, no candy, no people",
+  "input": {
+    "aspect_ratio": "4:5",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 3813685819,
+  "requestId": "01a13d05-38b0-7761-b337-98e497e1f72d",
+  "cutout": null,
+  "width": 1856,
+  "height": 2304,
+  "sha256": "6761f8d670ea850bc3c9353508891f2d14a19e3823d531b17b4ef6789c67c9d4",
+  "raw": "tmp/img/raw/G-DRINK.1792025121601.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-15T00:45:23.218Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

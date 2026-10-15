@@ -1,0 +1,918 @@
+{
+  "schema": "site-reforge/generated-images@2",
+  "provider": "fal.ai",
+  "note": "Illustrative industry imagery ADDED by the redesign. None stands in for a real person, place, product, brand or result of Highway 90 (thehighway90.com); every alt describes what is depicted.",
+  "images": [
+    {
+      "id": "G-BUD-GREEN",
+      "file": "assets/generated/g-bud-green.jpg",
+      "raw": "tmp/img/raw/G-BUD-GREEN.1792024084407.jpg",
+      "rawBytes": 752484,
+      "role": "card",
+      "alt": "Cannabis flower on a deep green backdrop",
+      "usedFor": [
+        "recreational and town pages",
+        "strain cards"
+      ],
+      "prompt": "Studio product photograph of a single dense cannabis flower bud covered in glistening trichomes with orange pistils, standing on a seamless deep forest green backdrop, soft cream rim light and a hard graphic drop shadow, minimal pop art colour blocking, clean modern commercial style, razor sharp, ultra detailed; no text, no logos, no packaging, no hands",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "4:5",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2044503937,
+      "requestId": "01a13cf5-5d09-7323-8ef2-daff2d741bb0",
+      "width": 1856,
+      "height": 2304,
+      "cutout": null,
+      "sha256": "a269ab90cb9664c47f4c1c35b8b1d17d70cba8727bfcec023fbdd490b4117449",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:28:06.222Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-ROAD-NIGHT",
+      "file": "assets/generated/g-road-night.jpg",
+      "raw": "tmp/img/raw/G-ROAD-NIGHT.1792024084411.jpg",
+      "rawBytes": 1268098,
+      "role": "band",
+      "alt": "",
+      "usedFor": [
+        "events and blog bands",
+        "Higgsfield source for V-NIGHT"
+      ],
+      "prompt": "Long-exposure night photograph of a gently curving highway through dark pine woods, smooth streaks of orange and white light trails flowing along the lanes, deep green-black forest, clear deep teal night sky with faint stars, clean modern cinematic look, ultra detailed, photographic; no visible cars, no people, no signs, no text, no logos",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 472138308,
+      "requestId": "01a13cf5-5d0a-7af0-9400-7f7e1d038938",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "349e745aea06f89bdc309380b22c14e3a796e31623a4ab647113a3838fb77187",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:28:06.246Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-HERO-ROAD",
+      "file": "assets/generated/g-hero-road.jpg",
+      "raw": "tmp/img/raw/G-HERO-ROAD.1792024085754.jpg",
+      "rawBytes": 955691,
+      "role": "hero",
+      "alt": "",
+      "usedFor": [
+        "home hero background",
+        "Higgsfield source for V-HERO"
+      ],
+      "prompt": "Cinematic wide photograph of an empty straight two-lane country highway at golden hour, the road running from the foreground to a vanishing point on the horizon, crisp white and yellow lane markings, tall pine trees lining both sides in soft silhouette, an enormous warm tangerine orange and amber sunset sky with soft streaked clouds, glowing haze over the asphalt, hopeful road-trip mood, shot on 35mm film, ultra detailed, photographic; no cars, no people, no road signs, no billboards, no text, no logos",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "21:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1251098125,
+      "requestId": "01a13cf5-5d0e-7f91-8f29-9aa8a71ad149",
+      "width": 3136,
+      "height": 1344,
+      "cutout": null,
+      "sha256": "d49a72b6bd7793f11d23403e936a5e9bebd20bf458acc44b0bc96755cde810f2",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:28:07.471Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-VAPE",
+      "file": "assets/generated/g-vape.jpg",
+      "raw": "tmp/img/raw/G-VAPE.1792024095202.jpg",
+      "rawBytes": 515312,
+      "role": "card",
+      "alt": "Vape cartridge on a sage backdrop",
+      "usedFor": [
+        "vape category and specials"
+      ],
+      "prompt": "Studio product photograph of a sleek minimal vape cartridge with golden amber oil inside a clear glass chamber and a matte black mouthpiece, standing upright on a seamless sage green backdrop, crisp glass reflections, hard pop art drop shadow, clean modern commercial look, ultra detailed; no text, no logos, no branding, no vapour",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "4:5",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2137108476,
+      "requestId": "01a13cf5-889c-70f1-b53c-734f906e162f",
+      "width": 1856,
+      "height": 2304,
+      "cutout": null,
+      "sha256": "6e433511b4021b048bb0795830e2ef8d364fcb11fb2425e9021cbcbe1989db1c",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:28:16.628Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-JAR",
+      "file": "assets/generated/g-jar.jpg",
+      "raw": "tmp/img/raw/G-JAR.1792024095542.jpg",
+      "rawBytes": 748318,
+      "role": "card",
+      "alt": "Glass jar of cannabis flower",
+      "usedFor": [
+        "deals and specials",
+        "menu pages"
+      ],
+      "prompt": "Studio photograph of a clear glass apothecary jar with a cork lid filled with frosty green cannabis buds, standing on a deep forest green floor plane against a seamless tangerine orange wall, hard graphic shadow, pop art colour blocking, clean modern commercial look, ultra detailed; no labels, no stickers, no text, no logos",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "4:5",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2535943725,
+      "requestId": "01a13cf5-8860-7c43-bbb4-872274be1c52",
+      "width": 1856,
+      "height": 2304,
+      "cutout": null,
+      "sha256": "f4041d3edcb356c11cc47328fbb29012eb62c0f1405c04a4b78414161aed5aa9",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:28:17.018Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-ROSIN",
+      "file": "assets/generated/g-rosin.jpg",
+      "raw": "tmp/img/raw/G-ROSIN.1792024101538.jpg",
+      "rawBytes": 751160,
+      "role": "card",
+      "alt": "Cannabis rosin on parchment",
+      "usedFor": [
+        "concentrate category and specials"
+      ],
+      "prompt": "Macro studio photograph of a small mound of golden amber cannabis rosin resting on a folded sheet of white parchment paper, glossy translucent texture with tiny air bubbles, warm side light, seamless deep forest green backdrop, clean modern commercial look, ultra detailed; no text, no logos, no packaging",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "4:5",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1354121413,
+      "requestId": "01a13cf5-8d4b-7f81-b1f3-788a26e0dda6",
+      "width": 1856,
+      "height": 2304,
+      "cutout": null,
+      "sha256": "1ce7c71823465632361615191289bce3bd1696f500684fb28c886ae5dff31ced",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:28:23.226Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-TINCTURE",
+      "file": "assets/generated/g-tincture.jpg",
+      "raw": "tmp/img/raw/G-TINCTURE.1792024105559.jpg",
+      "rawBytes": 535914,
+      "role": "card",
+      "alt": "Tincture bottle with a cannabis leaf",
+      "usedFor": [
+        "tinctures and topicals categories"
+      ],
+      "prompt": "Studio product photograph of an unlabelled amber glass dropper bottle with a black dropper cap beside one small fresh cannabis leaf, on a seamless warm cream backdrop with a large tangerine orange circle of colour behind the bottle, hard graphic shadow, minimal pop art, clean modern commercial look, ultra detailed; no labels, no text, no logos",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "4:5",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1677576942,
+      "requestId": "01a13cf5-b100-7313-b1c7-6f345e7c0a4e",
+      "width": 1856,
+      "height": 2304,
+      "cutout": null,
+      "sha256": "d652f8028e03c308fa6b2cbecd0c5dd55094394e2e0f11b40ce7e437bbaba294",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:28:27.017Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-TRICHOME",
+      "file": "assets/generated/g-trichome.jpg",
+      "raw": "tmp/img/raw/G-TRICHOME.1792024107657.jpg",
+      "rawBytes": 1105473,
+      "role": "band",
+      "alt": "",
+      "usedFor": [
+        "about and FAQ bands",
+        "Higgsfield source for V-TRICHOME"
+      ],
+      "prompt": "Extreme macro photograph of cannabis trichomes glistening like tiny crystal mushrooms on a green and violet flower, shallow depth of field, warm tangerine rim light, deep forest green bokeh background, ultra detailed, scientific beauty, photographic; no text, no logos",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2708979063,
+      "requestId": "01a13cf5-b287-7090-b9ce-fa7f5b6db444",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "745b3176d176eec38ad931279996a5abc09326698be8a6f2283d2a2c5c935da4",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:28:29.264Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-ACCESSORIES",
+      "file": "assets/generated/g-accessories.jpg",
+      "raw": "tmp/img/raw/G-ACCESSORIES.1792024109312.jpg",
+      "rawBytes": 719741,
+      "role": "card",
+      "alt": "Grinder and rolling papers",
+      "usedFor": [
+        "accessories category"
+      ],
+      "prompt": "Top-down flat lay studio photograph of cannabis accessories: a brushed metal herb grinder, an open booklet of plain unbranded rolling papers and a small wooden tray, arranged neatly on a seamless tangerine orange backdrop, bold hard graphic shadows, minimal pop art, clean modern commercial look, ultra detailed; no text, no logos, no branding, no flame",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "4:5",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 735581912,
+      "requestId": "01a13cf5-b115-7100-84a7-478cca948686",
+      "width": 1856,
+      "height": 2304,
+      "cutout": null,
+      "sha256": "908ccf07f309a237b552b292d63cf023236991a86f709026992bf056fca61ec0",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:28:30.500Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-GREENHOUSE",
+      "file": "assets/generated/g-greenhouse.jpg",
+      "raw": "tmp/img/raw/G-GREENHOUSE.1792024117985.jpg",
+      "rawBytes": 2211049,
+      "role": "band",
+      "alt": "Rows of cannabis plants in a sunlit greenhouse",
+      "usedFor": [
+        "about page",
+        "jobs page"
+      ],
+      "prompt": "Sunlit modern cannabis greenhouse with long tidy rows of healthy green cannabis plants under a glass roof, warm morning light streaming through and soft haze, clean professional horticulture, wide cinematic photograph, ultra detailed; no people, no text, no logos, no signs",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1001742784,
+      "requestId": "01a13cf5-d993-7773-946d-7cbab720fac3",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "4750a3f4d7d91cd5a147dfafce58ec93137aadd8279b052c409fc63f0a7cc285",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:28:39.999Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-SMOKE",
+      "file": "assets/generated/g-smoke.jpg",
+      "raw": "tmp/img/raw/G-SMOKE.1792024122784.jpg",
+      "rawBytes": 336295,
+      "role": "overlay",
+      "alt": "",
+      "usedFor": [
+        "screen-blend smoke layers",
+        "Higgsfield source for V-SMOKE"
+      ],
+      "prompt": "Wisps of soft white smoke curling slowly upward against a pure black background, elegant flowing ribbons and veils, high contrast studio photograph, wide composition with open black space; no text, no objects, no people",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 3671820074,
+      "requestId": "01a13cf5-cad6-7733-9f98-a68aac1f5412",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "f0cc2878a3fb7ebe3d40d86c6856a8bbfbf5256e24dfdd7c9e9e2b447090eec7",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:28:44.696Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-LIGHTS",
+      "file": "assets/generated/g-lights.jpg",
+      "raw": "tmp/img/raw/G-LIGHTS.1792024127137.jpg",
+      "rawBytes": 868605,
+      "role": "band",
+      "alt": "",
+      "usedFor": [
+        "events pages"
+      ],
+      "prompt": "Warm string lights glowing over an empty open-air lawn at dusk, soft golden bokeh, deep tangerine and teal evening sky, inviting celebratory mood, clean cinematic photograph; no people, no crowd, no text, no logos, no signs",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "16:9",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 132981663,
+      "requestId": "01a13cf5-e25c-7c31-af9f-ba237dd67a8d",
+      "width": 2752,
+      "height": 1536,
+      "cutout": null,
+      "sha256": "b3e8e51409274f3bd018902d66d3e35a7d5ce43fe493d6b8b3270abda3421183",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:28:48.783Z",
+      "attempt": 1
+    },
+    {
+      "id": "CUT-BUD-A",
+      "file": "assets/generated/cut-bud-a.png",
+      "raw": "tmp/img/raw/CUT-BUD-A.1792024129635.jpg",
+      "rawBytes": 1313612,
+      "role": "cutout",
+      "alt": "",
+      "usedFor": [
+        "protruding cut-out: home hero and section seams"
+      ],
+      "prompt": "Studio product photograph of one large perfect frosty cannabis flower bud with sparkling trichomes and bright orange pistils, centred with generous empty space around it, isolated on a plain light grey seamless background, soft even studio light, razor sharp edges, ultra detailed; no text, no logos, no shadow on the background, no other objects",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "1:1",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2889200760,
+      "requestId": "01a13cf5-e733-72e3-9ee0-49d89910a252",
+      "width": 2048,
+      "height": 2048,
+      "cutout": {
+        "model": "fal-ai/birefnet/v2",
+        "requestId": "01a13cf6-3969-7b52-9ad3-db202339ffe7"
+      },
+      "sha256": "4321bd7a5c7cedee914c29dcc5fcf7aea7922cec0c21bb5aa247709352a58ca1",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:28:55.574Z",
+      "attempt": 1
+    },
+    {
+      "id": "CUT-BUD-B",
+      "file": "assets/generated/cut-bud-b.png",
+      "raw": "tmp/img/raw/CUT-BUD-B.1792024130656.jpg",
+      "rawBytes": 1338257,
+      "role": "cutout",
+      "alt": "",
+      "usedFor": [
+        "protruding cut-out: category and deals seams"
+      ],
+      "prompt": "Studio product photograph of one dense cannabis flower bud with deep violet and lime green hues, frosted with trichomes, viewed slightly from the side, centred with generous empty space around it, isolated on a plain light grey seamless background, soft even studio light, razor sharp edges, ultra detailed; no text, no logos, no other objects",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "1:1",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1941374479,
+      "requestId": "01a13cf6-0c4d-78f0-b5c6-ab3a5c21f964",
+      "width": 2048,
+      "height": 2048,
+      "cutout": {
+        "model": "fal-ai/birefnet/v2",
+        "requestId": "01a13cf6-3e01-7d10-b77a-c90ddd4d361b"
+      },
+      "sha256": "1ad04a30f72657a1ba5935c1a54c7b8368780bbf44276459fb1cadb8085a8b34",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:28:56.845Z",
+      "attempt": 1
+    },
+    {
+      "id": "CUT-LEAF",
+      "file": "assets/generated/cut-leaf.png",
+      "raw": "tmp/img/raw/CUT-LEAF.1792024133988.jpg",
+      "rawBytes": 1024269,
+      "role": "cutout",
+      "alt": "",
+      "usedFor": [
+        "protruding cut-out: leaf crossing section seams"
+      ],
+      "prompt": "Studio photograph of one fresh vibrant green cannabis fan leaf with seven serrated leaflets on its stem, flat and complete, centred with empty space around it, isolated on a plain light grey seamless background, soft even light, crisp edges, ultra detailed; no text, no logos, no hands, no other objects",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "1:1",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1042360317,
+      "requestId": "01a13cf6-1eaa-7c00-b2a2-b05cf41e7ac5",
+      "width": 2048,
+      "height": 2048,
+      "cutout": {
+        "model": "fal-ai/birefnet/v2",
+        "requestId": "01a13cf6-4992-7393-b30a-23105ee75d97"
+      },
+      "sha256": "0e1a7c617be86938253543badf983992062e251b2942a4042205dd79f1a58aa6",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:29:00.016Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-BUD-ORANGE",
+      "file": "assets/generated/g-bud-orange.jpg",
+      "raw": "tmp/img/raw/G-BUD-ORANGE.1792024218356.jpg",
+      "rawBytes": 1378457,
+      "role": "card",
+      "alt": "Frosty cannabis flower on a tangerine backdrop",
+      "usedFor": [
+        "flower category",
+        "home pop panel",
+        "Higgsfield source for V-BUD"
+      ],
+      "prompt": "Studio product photograph of a single large frosty cannabis flower bud, dense and sparkling with trichomes, bright orange pistils, rich green hues, centred and floating in mid-air above a seamless backdrop that is entirely vivid tangerine orange (hex E47124) from edge to edge, crisp hard key light from the upper left casting a bold dark orange graphic shadow below, pop art colour blocking, clean modern commercial style, razor sharp, ultra detailed; the background must be orange, not purple, not lavender, not pink; no text, no logos, no packaging, no hands",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "1:1",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 3736026905,
+      "requestId": "01a13cf7-69a9-7233-b9a1-8e02eb005aec",
+      "width": 2048,
+      "height": 2048,
+      "cutout": null,
+      "sha256": "6b6b769a2575634428a7f0d5964c3667d01ada02cecbfa43ad33462944055ef7",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:30:20.513Z",
+      "attempt": 2
+    },
+    {
+      "id": "G-PREROLL",
+      "file": "assets/generated/g-preroll.jpg",
+      "raw": "tmp/img/raw/G-PREROLL.1792024220038.jpg",
+      "rawBytes": 596948,
+      "role": "card",
+      "alt": "Pre-rolls on a cream backdrop",
+      "usedFor": [
+        "pre-roll category and specials"
+      ],
+      "prompt": "Studio product photograph of three cone-shaped cannabis pre-roll joints with neatly twisted paper tips and natural brown paper filter tips, ground green cannabis flower visible at the open twisted ends, laid diagonally side by side on a seamless warm cream backdrop with a bold tangerine orange circle of colour behind them, hard graphic shadows, minimal pop art, clean modern commercial look, ultra detailed; no text, no logos, no branding, no smoke, no flame, no hands, no cigarettes",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "4:5",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 3781452918,
+      "requestId": "01a13cf7-69a6-7670-93bd-9cbd85ea2b76",
+      "width": 1856,
+      "height": 2304,
+      "cutout": null,
+      "sha256": "533d00e059174cda6742be35a32d700663d1647323dc6992cc73c21eef17ef1f",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:30:21.748Z",
+      "attempt": 2
+    },
+    {
+      "id": "CUT-PREROLL",
+      "file": "assets/generated/cut-preroll.png",
+      "raw": "tmp/img/raw/CUT-PREROLL.1792024218368.jpg",
+      "rawBytes": 578302,
+      "role": "cutout",
+      "alt": "",
+      "usedFor": [
+        "protruding cut-out: deals band"
+      ],
+      "prompt": "Studio product photograph of one single cone-shaped cannabis pre-roll joint with a neatly twisted paper tip and a natural brown paper filter tip, ground green cannabis flower visible at the twisted end, lying diagonally, centred with empty space around it, isolated on a plain light grey seamless background, soft even studio light, crisp edges, ultra detailed; no text, no logos, no smoke, no flame, no hands, no other objects, not a cigarette",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "1:1",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 2040092868,
+      "requestId": "01a13cf7-69aa-76d3-ba21-581714273f03",
+      "width": 2048,
+      "height": 2048,
+      "cutout": {
+        "model": "fal-ai/birefnet/v2",
+        "requestId": "01a13cf7-93a1-77d1-a019-9bea2a4dfa34"
+      },
+      "sha256": "b7fa87fdc48b76e178f92ee2b164db082186b78dfee488a98d50c7a787f33a34",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:30:24.077Z",
+      "attempt": 2
+    },
+    {
+      "id": "G-DRINK",
+      "file": "assets/generated/g-drink.jpg",
+      "raw": "tmp/img/raw/G-DRINK.1792025121601.jpg",
+      "rawBytes": 765942,
+      "role": "card",
+      "alt": "Cannabis-infused seltzer on an orange backdrop",
+      "usedFor": [
+        "edibles and drinks category"
+      ],
+      "prompt": "Studio product photograph of one unlabelled slim aluminium can of sparkling seltzer drink beside a clear glass of iced sparkling water with a lime slice and a single small cannabis leaf, condensation droplets, on a seamless vivid tangerine orange backdrop with a deep forest green floor plane, hard graphic shadow, minimal pop art colour blocking, clean modern commercial look, ultra detailed; no text, no labels, no logos, no branding, no candy, no people",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "4:5",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 3813685819,
+      "requestId": "01a13d05-38b0-7761-b337-98e497e1f72d",
+      "width": 1856,
+      "height": 2304,
+      "cutout": null,
+      "sha256": "6761f8d670ea850bc3c9353508891f2d14a19e3823d531b17b4ef6789c67c9d4",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:45:23.218Z",
+      "attempt": 1
+    },
+    {
+      "id": "G-TOPICAL",
+      "file": "assets/generated/g-topical.jpg",
+      "raw": "tmp/img/raw/G-TOPICAL.1792025123291.jpg",
+      "rawBytes": 452012,
+      "role": "card",
+      "alt": "Balm jar with a cannabis leaf",
+      "usedFor": [
+        "topicals category"
+      ],
+      "prompt": "Studio product photograph of an unlabelled frosted white glass cosmetic jar with its lid off showing smooth pale green balm, a single fresh cannabis leaf resting beside it, on a seamless soft sage green backdrop with a large warm cream circle of colour behind the jar, hard graphic shadow, minimal pop art, clean modern skincare commercial look, ultra detailed; no text, no labels, no logos, no hands",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "4:5",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 4172051018,
+      "requestId": "01a13d05-38b5-77e2-96c1-5771d1506e28",
+      "width": 1856,
+      "height": 2304,
+      "cutout": null,
+      "sha256": "77975d2c0f4584406eaa2b6161692066ddf8c9619b3eed0805d65a77e739a213",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:45:25.089Z",
+      "attempt": 1
+    }
+  ],
+  "failures": [],
+  "spend": {
+    "ultraCalls": 23,
+    "cutoutCalls": 5,
+    "otherCalls": 0,
+    "calls": [
+      {
+        "kind": "ultra",
+        "id": "G-HERO-ROAD",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:27:54.701Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-ROAD-NIGHT",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:27:54.728Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-BUD-ORANGE",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:27:54.729Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-BUD-GREEN",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:27:54.731Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-JAR",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:28:06.225Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-PREROLL",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:28:06.247Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-VAPE",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:28:06.282Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-ROSIN",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:28:07.473Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-TINCTURE",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:28:16.630Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-ACCESSORIES",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:28:16.650Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-TRICHOME",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:28:17.019Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-SMOKE",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:28:23.228Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-GREENHOUSE",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:28:27.018Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-LIGHTS",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:28:29.265Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CUT-BUD-A",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:28:30.502Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CUT-BUD-B",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:28:40.001Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CUT-LEAF",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:28:44.699Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CUT-PREROLL",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:28:48.784Z"
+      },
+      {
+        "kind": "cutout",
+        "id": "CUT-BUD-A",
+        "model": "fal-ai/birefnet/v2",
+        "at": "2026-10-15T00:28:51.541Z"
+      },
+      {
+        "kind": "cutout",
+        "id": "CUT-BUD-B",
+        "model": "fal-ai/birefnet/v2",
+        "at": "2026-10-15T00:28:52.725Z"
+      },
+      {
+        "kind": "cutout",
+        "id": "CUT-LEAF",
+        "model": "fal-ai/birefnet/v2",
+        "at": "2026-10-15T00:28:55.681Z"
+      },
+      {
+        "kind": "cutout",
+        "id": "CUT-PREROLL",
+        "model": "fal-ai/birefnet/v2",
+        "at": "2026-10-15T00:28:59.234Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-BUD-ORANGE",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:30:09.001Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-PREROLL",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:30:09.033Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "CUT-PREROLL",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:30:09.035Z"
+      },
+      {
+        "kind": "cutout",
+        "id": "CUT-PREROLL",
+        "model": "fal-ai/birefnet/v2",
+        "at": "2026-10-15T00:30:20.178Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-DRINK",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:45:13.973Z"
+      },
+      {
+        "kind": "ultra",
+        "id": "G-TOPICAL",
+        "model": "fal-ai/flux-pro/v1.1-ultra",
+        "at": "2026-10-15T00:45:13.998Z"
+      }
+    ],
+    "estUSD": 1.405,
+    "priceBasis": "about $0.06 per flux-pro ultra call and $0.005 per birefnet cut-out (fal list prices, UNVERIFIED against the invoice)",
+    "caps": {
+      "ultra": 30,
+      "cutout": 6,
+      "lane": "IMG"
+    }
+  },
+  "generated": "2026-10-15T00:45:25.090Z",
+  "rejected": [
+    {
+      "id": "G-BUD-ORANGE",
+      "file": "assets/generated/g-bud-orange.jpg",
+      "raw": "tmp/img/raw/G-BUD-ORANGE.1792024084042.jpg",
+      "rawBytes": 970283,
+      "role": "card",
+      "alt": "Frosty cannabis flower on a tangerine backdrop",
+      "usedFor": [
+        "flower category",
+        "home pop panel",
+        "Higgsfield source for V-BUD"
+      ],
+      "prompt": "Studio product photograph of a single large frosty cannabis flower bud, dense and sparkling with trichomes, bright orange pistils, rich green and violet hues, centred and floating in mid-air, crisp hard key light from the upper left casting a bold graphic shadow, seamless saturated tangerine orange backdrop, pop art colour blocking, clean modern commercial style, razor sharp, ultra detailed; no text, no logos, no packaging, no hands",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "1:1",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 4096067523,
+      "requestId": "01a13cf5-5d06-7fa0-a608-62338206cb6f",
+      "width": 2048,
+      "height": 2048,
+      "cutout": null,
+      "sha256": "7525cffb22a1e4c7d22f977b0a281783c6c1cb455998a5d2324fdf401a62cddb",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:28:06.279Z",
+      "attempt": 1,
+      "archivedAs": "tmp/img/rejected/G-BUD-ORANGE.1792024218356.jpg",
+      "reason": "backdrop came out lavender, off-brand (review 08:30)",
+      "at": "2026-10-15T00:30:20.510Z"
+    },
+    {
+      "id": "G-PREROLL",
+      "file": "assets/generated/g-preroll.jpg",
+      "raw": "tmp/img/raw/G-PREROLL.1792024095207.jpg",
+      "rawBytes": 527867,
+      "role": "card",
+      "alt": "Pre-rolls on a cream backdrop",
+      "usedFor": [
+        "pre-roll category and specials"
+      ],
+      "prompt": "Studio product photograph of three neatly rolled cannabis pre-rolls in plain white paper with natural brown paper filter tips, laid diagonally in a row on a seamless warm cream backdrop, a bold tangerine orange circle of colour behind them, hard graphic shadows, minimal pop art, clean modern commercial look, ultra detailed; no text, no logos, no branding, no smoke, no flame, no hands",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "4:5",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 4189148142,
+      "requestId": "01a13cf5-8883-7431-ae88-e6c026ca45d9",
+      "width": 1856,
+      "height": 2304,
+      "cutout": null,
+      "sha256": "33459b3842f0935565dbeba132e56db940a72b06f8af32d53b3a5f00e9015e71",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:28:16.649Z",
+      "attempt": 1,
+      "archivedAs": "tmp/img/rejected/G-PREROLL.1792024220038.jpg",
+      "reason": "read as white tubes or cigarettes (review 08:30)",
+      "at": "2026-10-15T00:30:21.745Z"
+    },
+    {
+      "id": "CUT-PREROLL",
+      "file": "assets/generated/cut-preroll.png",
+      "raw": "tmp/img/raw/CUT-PREROLL.1792024137685.jpg",
+      "rawBytes": 508775,
+      "role": "cutout",
+      "alt": "",
+      "usedFor": [
+        "protruding cut-out: deals band"
+      ],
+      "prompt": "Studio product photograph of one single neatly rolled cannabis pre-roll in plain white paper with a natural brown paper filter tip, lying diagonally, centred with empty space around it, isolated on a plain light grey seamless background, soft even studio light, crisp edges, ultra detailed; no text, no logos, no smoke, no flame, no hands, no other objects",
+      "model": "fal-ai/flux-pro/v1.1-ultra",
+      "input": {
+        "aspect_ratio": "1:1",
+        "output_format": "jpeg",
+        "num_images": 1,
+        "enable_safety_checker": true,
+        "safety_tolerance": "5"
+      },
+      "editOf": null,
+      "seed": 1842667821,
+      "requestId": "01a13cf6-2e9c-7d92-ba52-90117f7a3af3",
+      "width": 2048,
+      "height": 2048,
+      "cutout": {
+        "model": "fal-ai/birefnet/v2",
+        "requestId": "01a13cf6-5770-71c3-acec-b3924c03c415"
+      },
+      "sha256": "d63229d2cd88ed3cd09ab9d3ccff93bbc3be028c622ca69a9ea2c1e4fb03668e",
+      "aiLabel": "IPTC trainedAlgorithmicMedia XMP embedded (tools/ai-label.mjs)",
+      "generatedAt": "2026-10-15T00:29:03.045Z",
+      "attempt": 1,
+      "archivedAs": "tmp/img/rejected/CUT-PREROLL.1792024218368.png",
+      "reason": "read as a white tube (review 08:30)",
+      "at": "2026-10-15T00:30:24.076Z"
+    }
+  ]
+}

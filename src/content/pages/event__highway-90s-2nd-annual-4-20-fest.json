@@ -1,0 +1,313 @@
+{
+ "path": "/event/highway-90s-2nd-annual-4-20-fest/",
+ "url": "https://www.thehighway90.com/event/highway-90s-2nd-annual-4-20-fest/",
+ "kind": "event",
+ "head": {
+  "title": "Highway 90's 2nd Annual 4/20 Fest - Highway 90",
+  "description": "Highway 90's 2nd Annual 4/20 Fest: Three Days. One Epic Celebration. All at Highway 90 in Marlton!",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/event/highway-90s-2nd-annual-4-20-fest/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Highway 90's 2nd Annual 4/20 Fest - Highway 90",
+   "og:description": "Highway 90's 2nd Annual 4/20 Fest: Three Days. One Epic Celebration. All at Highway 90 in Marlton!",
+   "og:url": "https://www.thehighway90.com/event/highway-90s-2nd-annual-4-20-fest/",
+   "og:site_name": "Highway 90",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/2025/04/420-website-save-the-date-1.png",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/2025/04/420-website-save-the-date-1.png",
+   "og:image:width": "1920",
+   "og:image:height": "1080",
+   "og:image:alt": "save the date for 420 deals at highway 90 dispensary. 4/20 deals near me. evesham, new jersey. cannabis deals near me",
+   "og:image:type": "image/png",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Highway 90's 2nd Annual 4/20 Fest - Highway 90",
+   "twitter:description": "Highway 90's 2nd Annual 4/20 Fest: Three Days. One Epic Celebration. All at Highway 90 in Marlton!",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/2025/04/420-website-save-the-date-1.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/event/highway-90s-2nd-annual-4-20-fest/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/events/",
+         "name": "Events"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "3",
+        "item": {
+         "@id": "https://www.thehighway90.com/event/highway-90s-2nd-annual-4-20-fest/",
+         "name": "Highway 90&#8217;s 2nd Annual 4/20 Fest"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   },
+   [
+    {
+     "@context": "http://schema.org",
+     "@type": "Event",
+     "name": "Highway 90&#8217;s 2nd Annual 4/20 Fest",
+     "description": "&lt;p&gt;Highway 90\\'s 2nd Annual 4/20 Fest: Three Days. One Epic Celebration. All at Highway 90 in Marlton! 420 is more than just a date—it’s a culture, a vibe, and a [&hellip;]&lt;/p&gt;\\n",
+     "image": "https://www.thehighway90.com/wp-content/uploads/2025/04/420-website-save-the-date-1.png",
+     "url": "https://www.thehighway90.com/event/highway-90s-2nd-annual-4-20-fest/",
+     "eventAttendanceMode": "https://schema.org/OfflineEventAttendanceMode",
+     "eventStatus": "https://schema.org/EventScheduled",
+     "startDate": "2025-04-19T00:00:00-04:00",
+     "endDate": "2025-04-20T23:59:59-04:00",
+     "performer": "Organization"
+    }
+   ]
+  ]
+ },
+ "h1": "Highway 90 Dispensary Cannabis Dispensary Events",
+ "docId": null,
+ "docType": null,
+ "sections": [],
+ "archive": null,
+ "events": {
+  "mode": "single",
+  "title": "Highway 90’s 2nd Annual 4/20 Fest",
+  "schedule": "April 19, 2025",
+  "img": {
+   "src": "https://www.thehighway90.com/wp-content/uploads/2025/04/420-website-save-the-date-1.png",
+   "alt": "Save the date for 420 deals at highway 90 dispensary. 4/20 deals near me. Evesham, new jersey. Cannabis deals near me",
+   "w": 1920,
+   "h": 1080
+  },
+  "html": "<p><strong>Highway 90’s 2nd Annual 4/20 Fest: Three Days. One Epic Celebration. All at Highway 90 in Marlton!</strong></p><p>420 is more than just a date—it’s a <em>culture</em>, a <em>vibe</em>, and a time to come together and celebrate the plant we all love. This year, we’re going BIGGER and BETTER with our <strong>2nd Annual 4/20 Weekend Celebration</strong>, and you’re invited!</p><p>While we’re keeping our biggest deals under wraps for now 👀, we <em>can</em> promise an unforgettable weekend packed with <strong>store-wide savings</strong>, <strong>awesome giveaways</strong>, <strong>live entertainment</strong>, and a stacked schedule of brand pop-ups and local flavor.</p><h3>💥 Here’s What to Expect:</h3><p>🍃 <strong>Premium Brand &amp; Vendor Pop-Ups</strong><br>Meet your favorite cannabis brands face-to-face, learn more about their products, and score exclusive swag with your favorite products.</p><p>🎶 <strong>Live Music All Weekend</strong><br>Feel the vibe with local musicians bringing the energy—from chill afternoon sets to upbeat evening jams.</p><p>🌭 <strong>Local Eats &amp; Food Trucks</strong><br>Come hungry! We’re featuring some of the best local food trucks serving up hot dogs, cheesesteaks, and other munchie must-haves.</p><p>🛍️ <strong>Goodie Bags &amp; Giveaways</strong><br>Early birds and lucky winners will get hooked up with limited edition swag, branded goodies, and maybe even a few surprises.</p><p>🔥 <strong>Massive Store-Wide Discounts</strong><br>We can’t reveal the full list just yet, but trust us—<em>you’ll want to stock up.</em></p><p>✨ <strong>Exclusive Products &amp; Surprise Drops</strong><br>Be on the lookout for one-time drops and limited items only available during our 4/20 celebration.</p><h3>📅 4/20 Weekend Lineup:</h3><p><strong>Friday, April 18</strong><br>Kick things off with early deals, music, and your favorite brands.</p><ul><li><p><strong>Stashhouse/Victory Farms: <a href=\"/brands/drool/\">Drool</a>, Major &amp; <a href=\"/?s=cheeba+chews\">Cheeba Chews</a></strong> | 12:30–2:30 PM</p></li><li><p><a href=\"/?s=high+grass+farms\"><strong>High Grass Farms / Jersey Landscapes</strong> </a>| 4–6 PM</p></li><li><p><a href=\"/brands/flower-by-edie-parker/\"><strong>Edie Parker</strong></a> | 6–8 PM</p></li><li><p>🎉 Store-wide discounts begin!</p></li></ul><p><strong>Saturday, April 19</strong><br>Vibes in full swing—live music, munchies, and more brands in-store.</p><ul><li><p><a href=\"/?s=growfather\"><strong>Little Leaf Labs /The Growfather </strong></a> | 3–5 PM</p></li><li><p>🧀 <a href=\"https://www.jccfoods.com/menu/the-cheesesteak-guy/\" target=\"_blank\" rel=\"noopener\"><strong>The Cheesesteak Guy</strong></a> food truck</p></li><li><p>🎵 Live music throughout the day</p></li><li><p>🛍️ Ongoing store-wide deals</p></li></ul><p><strong>Sunday, April 20 (The Big Day!)</strong><br>The main event! Celebrate 4/20 the right way—with good vibes, good music, good food, and amazing deals.</p><ul><li><p><a href=\"/brands/clade9/\"><strong>Clade9</strong></a> | 12–2 PM</p></li><li><p><a href=\"/brands/jersey-smooth/\"><strong>Jersey Smooth</strong></a> | 12–2 PM</p></li><li><p>🌭 <a href=\"https://www.facebook.com/ROCKSDOGSANDCATERINGLLC/\" target=\"_blank\" rel=\"noopener\"><strong>Rocks Dogs</strong> </a>serving up hot dogs</p></li><li><p>🎸 Live Music</p></li><li><p>🔥 Store-wide discounts all day long!</p></li></ul><h3>✅ Save the Date. Spread the Word. Bring Your Friends.</h3><p>Whether you’re stocking up, vibing out, or just stopping by to enjoy the scene—<strong>Highway 90 is <em>the</em> place to be this 4/20 weekend</strong>. Follow us on social and subscribe to our emails so you’re first to know when our official deals drop!</p><p>📍 <strong>Highway 90 Dispensary</strong><br><em>Marlton, NJ</em></p><p>Let’s make this 4/20 one to remember. See you there! 💚</p><p><img data-ref=\"https://www.thehighway90.com/wp-content/uploads/2025/04/Copy-of-HWY90-square-2025-04-11T110259.880.png\" alt=\"Highway 90 image\"></p>",
+  "meta": []
+ },
+ "unknownWidgets": []
+}

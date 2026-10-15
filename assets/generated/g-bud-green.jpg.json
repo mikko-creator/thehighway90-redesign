@@ -1,0 +1,29 @@
+{
+  "tool": "tools/fal-gen.mjs",
+  "slot": "G-BUD-GREEN",
+  "file": "assets/generated/g-bud-green.jpg",
+  "iptcDigitalSourceType": "http://cv.iptc.org/newscodes/digitalsourcetype/trainedAlgorithmicMedia",
+  "provenance": "AI-generated (fal.ai). Illustrative only: never a photograph of Highway 90 (thehighway90.com), its store, staff, customers, products or brands.",
+  "model": "fal-ai/flux-pro/v1.1-ultra",
+  "prompt": "Studio product photograph of a single dense cannabis flower bud covered in glistening trichomes with orange pistils, standing on a seamless deep forest green backdrop, soft cream rim light and a hard graphic drop shadow, minimal pop art colour blocking, clean modern commercial style, razor sharp, ultra detailed; no text, no logos, no packaging, no hands",
+  "input": {
+    "aspect_ratio": "4:5",
+    "output_format": "jpeg",
+    "num_images": 1,
+    "enable_safety_checker": true,
+    "safety_tolerance": "5"
+  },
+  "seed": 2044503937,
+  "requestId": "01a13cf5-5d09-7323-8ef2-daff2d741bb0",
+  "cutout": null,
+  "width": 1856,
+  "height": 2304,
+  "sha256": "a269ab90cb9664c47f4c1c35b8b1d17d70cba8727bfcec023fbdd490b4117449",
+  "raw": "tmp/img/raw/G-BUD-GREEN.1792024084407.jpg",
+  "attempt": 1,
+  "generatedAt": "2026-10-15T00:28:06.222Z",
+  "review": {
+    "verdict": "PENDING",
+    "reason": null
+  }
+}

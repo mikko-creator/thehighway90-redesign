@@ -1,0 +1,435 @@
+{
+ "path": "/categories/topicals/",
+ "url": "https://www.thehighway90.com/categories/topicals/",
+ "kind": "joint-single",
+ "head": {
+  "title": "Shop Cannabis Topicals | Highway 90 Marlton Dispensary",
+  "description": "Shop our wide selection of cannabis Topicals and other cannabis products at Highway 90 Cannabis Dispensary.",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/categories/topicals/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Shop Cannabis Topicals | Highway 90 Marlton Dispensary",
+   "og:description": "Shop our wide selection of cannabis Topicals and other cannabis products at Highway 90 Cannabis Dispensary.",
+   "og:url": "https://www.thehighway90.com/categories/topicals/",
+   "og:site_name": "Highway 90",
+   "og:updated_time": "2026-09-18T13:30:55-04:00",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:image:alt": "Highway 90 OpenGraph",
+   "og:image:type": "image/png",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Shop Cannabis Topicals | Highway 90 Marlton Dispensary",
+   "twitter:description": "Shop our wide selection of cannabis Topicals and other cannabis products at Highway 90 Cannabis Dispensary.",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/categories/topicals/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/categories/",
+         "name": "Categories"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "3",
+        "item": {
+         "@id": "https://www.thehighway90.com/categories/topicals/",
+         "name": "Topicals"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "How do I choose the right Cannabis Topicals for my needs?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Cannabis topicals come in diverse textures and cannabinoid ratios to find the perfect balance for your unique needs.. Conducting thorough research on the products you&#8217;re contemplating is essential to determine if the ingredients, cannabinoid content, and texture align with your preferences. In general, CBD topicals are often recommended for addressing inflammation-related discomfort and pain, such as swollen joints or tense shoulders. On the other hand, THC-rich topicals tend to be more effective for managing episodic pain, like muscle soreness from an intense workout."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do Cannabis Topicals work for pain?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Indeed, cannabis topicals showcase effectiveness in pain relief. By applying these topicals to the skin, cannabinoids such as CBD and THC engage with local receptors within the body&#8217;s endocannabinoid system, delivering targeted relief for pain and inflammation. It&#8217;s important to note that individual responses and the intensity of pain can influence outcomes."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "When first using Cannabis Topicals, how big of a dose should I use?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "For most topicals, a nickel-sized amount is typically recommended for the initial application, with a suggested wait time of 30 minutes before considering reapplication if desired effects are not promptly felt. This rule of thumb is especially effective, given that a small amount of cannabis topical can efficiently cover larger areas like arms and legs. Keep in mind that the amount of topical used should be adjusted based on the surface area it needs to cover. Start with a nickel-sized amount, and adjust as needed for optimal results in your cannabis-infused relief journey."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "How long do the effects of Cannabis Topicals last?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "The typical efficacy window for topicals spans approximately 2-4 hours, contingent upon the cannabinoid concentration within the topical product. Higher concentrations often result in an extended duration of efficacy. One key advantage of topicals is their gradual dosing capability, allowing users to apply and reapply as needed throughout the day for sustained relief. Explore the nuanced benefits of topicals and tailor your application to meet your specific needs, ensuring a seamless and personalized cannabis experience."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What are some of the supporting ingredients in Cannabis Topicals?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Balm-based topicals are frequently crafted with a blend of beeswax and coconut oil, while lotions may incorporate vitamin E oil and shea butter. Additionally, various botanicals and plants such as peppermint, tea tree, eucalyptus, lavender, lemon, and jojoba oil are commonly used in topicals. These carefully chosen bases and supporting ingredients are selected for their inherent skincare benefits, contributing to the holistic and nurturing properties of cannabis-infused topicals."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do Cannabis Topicals get you high?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "No. Topicals are non-intoxicating when used as directed."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Where can Topicals be applied?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "They are typically applied to muscles, joints, or skin areas as needed."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do Topicals contain THC or CBD?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Some contain THC, CBD, or a combination. Always check the label."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Cannabis Topicals For Sale in Marlton, NJ",
+ "docId": "13166",
+ "docType": "single-post",
+ "sections": [
+  {
+   "t": "group",
+   "id": "f114764",
+   "children": [
+    {
+     "t": "text",
+     "html": "<p><a href=\"/\">Home</a> / <a href=\"/categories/\">Categories</a> / Topicals</p>"
+    },
+    {
+     "t": "text",
+     "html": "Cannabis Topicals For Sale in Marlton, NJ",
+     "anim": "fadeInLeft"
+    },
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "EXPLORE CANNABIS BALMS, LOTIONS AND PATCHES",
+     "text": "EXPLORE CANNABIS BALMS, LOTIONS AND PATCHES"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "3a239e1",
+   "children": [
+    {
+     "t": "posts",
+     "items": [
+      {
+       "title": "Balms",
+       "href": "/categories/topicals/balms/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      },
+      {
+       "title": "Lotions",
+       "href": "/categories/topicals/lotions/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      },
+      {
+       "title": "Sticks Roll Ons",
+       "href": "/categories/topicals/sticks-roll-ons/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      },
+      {
+       "title": "Transdermal Patches",
+       "href": "/categories/topicals/transdermal-patches/",
+       "img": null,
+       "excerpt": "",
+       "date": "",
+       "more": ""
+      }
+     ],
+     "pagination": []
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "d54f337",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h2>About Cannabis Topicals</h2><p>While hemp seed oil has been a staple in topical medicine due to its skin-nourishing essential fatty acids, its THC-rich counterpart has surged in popularity within the cannabis community over the past few decades. In contemporary times, cannabis brands have refined this approach by infusing creams, balms, salves, or oils designed for targeted application to areas causing discomfort. These advanced THC and CBD topicals are meticulously crafted for pain relief, inflammation reduction, alleviating muscle soreness, and soothing aching joints.</p><p>Find cannabis topicals at Highway 90 Dispensary, including creams, balms, and lotions designed for external use. Topicals are applied directly to the skin and do not produce intoxicating effects. They’re commonly chosen for targeted relief and everyday wellness routines.</p><h3>How are Cannabis Topicals Made?</h3><p>Topicals are meticulously crafted by infusing cannabis into a base lotion, oil, or balm. This infusion can be achieved either by using solvents to extract cannabinoids from the plant material or by directly incorporating the plant material into the formulation and later straining it from the final product. These processes are closely monitored and executed with controlled heat to preserve the essential cannabinoids during infusion. The result is a cannabinoid-rich product, often blended with other beneficial plants and oils, enhancing the pain-relieving potency of topicals.</p><h3>What are the Benefits of Cannabis Topicals?</h3><p>We are able to experience the pain-relieving qualities of cannabinoids thanks to the body’s EndoCannabinoid System (ECS), which regulates a host of bodily functions and sensations, including our response to pain. Receptors for the ECS are distributed throughout the body, the brain, and even the surface of our skin! Cannabis topicals work by interacting with cannabinoid receptors on our skin to provide comfort, flexibility, and mobility to the joints, muscles, and other areas of the body. This makes topicals a great choice for rubbing down your muscles after a tough hike or an intense workout, soothing the discomfort of aging joints, or gently massaging stiff necks and shoulders to help relax tension in the body.</p><h2>Cannabis Topicals FAQs</h2><p><h3> How do I choose the right Cannabis Topicals for my needs?</h3> <p>Cannabis topicals come in diverse textures and cannabinoid ratios to find the perfect balance for your unique needs.. Conducting thorough research on the products you’re contemplating is essential to determine if the ingredients, cannabinoid content, and texture align with your preferences. In general, CBD topicals are often recommended for addressing inflammation-related discomfort and pain, such as swollen joints or tense shoulders. On the other hand, THC-rich topicals tend to be more effective for managing episodic pain, like muscle soreness from an intense workout.</p> <h3> Do Cannabis Topicals work for pain?</h3> <p>Indeed, cannabis topicals showcase effectiveness in pain relief. By applying these topicals to the skin, cannabinoids such as CBD and THC engage with local receptors within the body’s endocannabinoid system, delivering targeted relief for pain and inflammation. It’s important to note that individual responses and the intensity of pain can influence outcomes.</p> <h3> When first using Cannabis Topicals, how big of a dose should I use?</h3> <p>For most topicals, a nickel-sized amount is typically recommended for the initial application, with a suggested wait time of 30 minutes before considering reapplication if desired effects are not promptly felt. This rule of thumb is especially effective, given that a small amount of cannabis topical can efficiently cover larger areas like arms and legs. Keep in mind that the amount of topical used should be adjusted based on the surface area it needs to cover. Start with a nickel-sized amount, and adjust as needed for optimal results in your cannabis-infused relief journey.</p> <h3> How long do the effects of Cannabis Topicals last?</h3> <p>The typical efficacy window for topicals spans approximately 2-4 hours, contingent upon the cannabinoid concentration within the topical product. Higher concentrations often result in an extended duration of efficacy. One key advantage of topicals is their gradual dosing capability, allowing users to apply and reapply as needed throughout the day for sustained relief. Explore the nuanced benefits of topicals and tailor your application to meet your specific needs, ensuring a seamless and personalized cannabis experience.</p> <h3> What are some of the supporting ingredients in Cannabis Topicals?</h3> <p>Balm-based topicals are frequently crafted with a blend of beeswax and coconut oil, while lotions may incorporate vitamin E oil and shea butter. Additionally, various botanicals and plants such as peppermint, tea tree, eucalyptus, lavender, lemon, and jojoba oil are commonly used in topicals. These carefully chosen bases and supporting ingredients are selected for their inherent skincare benefits, contributing to the holistic and nurturing properties of cannabis-infused topicals.</p> <h3> Do Cannabis Topicals get you high?</h3> <p>No. Topicals are non-intoxicating when used as directed.</p> <h3> Where can Topicals be applied?</h3> <p>They are typically applied to muscles, joints, or skin areas as needed.</p> <h3> Do Topicals contain THC or CBD?</h3> <p>Some contain THC, CBD, or a combination. Always check the label.</p></p>",
+     "from": "content"
+    }
+   ],
+   "anim": "fadeInUp"
+  }
+ ],
+ "archive": null,
+ "events": null,
+ "unknownWidgets": []
+}

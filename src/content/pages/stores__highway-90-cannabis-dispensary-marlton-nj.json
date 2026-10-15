@@ -1,0 +1,1384 @@
+{
+ "path": "/stores/highway-90-cannabis-dispensary-marlton-nj/",
+ "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/",
+ "kind": "joint-single",
+ "head": {
+  "title": "Highway 90 Cannabis Dispensary Marlton, NJ",
+  "description": "[jointbusiness info=\"phone link\" business=\"\"] [jointbusiness info=\"address\" business=\"\"] [jointbusiness info=\"city\" business=\"\"], [jointbusiness info=\"state\" business=\"\"] [jointbusiness info=\"postal code\" business=\"\"] [jointbusiness info=\"hours\" business=\"\"]",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Highway 90 Cannabis Dispensary Marlton, NJ",
+   "og:description": "[jointbusiness info=\"phone link\" business=\"\"] [jointbusiness info=\"address\" business=\"\"] [jointbusiness info=\"city\" business=\"\"], [jointbusiness info=\"state\" business=\"\"] [jointbusiness info=\"postal code\" business=\"\"] [jointbusiness info=\"hours\" business=\"\"]",
+   "og:url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/",
+   "og:site_name": "Highway 90",
+   "og:updated_time": "2025-08-06T11:27:09-04:00",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Img-SEO.webp",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Img-SEO.webp",
+   "og:image:width": "680",
+   "og:image:height": "640",
+   "og:image:alt": "Highway 90 SEO Section Graphic",
+   "og:image:type": "image/webp",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Highway 90 Cannabis Dispensary Marlton, NJ",
+   "twitter:description": "[jointbusiness info=\"phone link\" business=\"\"] [jointbusiness info=\"address\" business=\"\"] [jointbusiness info=\"city\" business=\"\"], [jointbusiness info=\"state\" business=\"\"] [jointbusiness info=\"postal code\" business=\"\"] [jointbusiness info=\"hours\" business=\"\"]",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Img-SEO.webp"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/stores/",
+         "name": "Stores"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "3",
+        "item": {
+         "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/",
+         "name": "Highway 90 Cannabis Dispensary Marlton, NJ"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "name": "Where is Highway 90 located?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Highway 90 Dispensary is located at 90 Old Marlton Pike W., Marlton NJ. 08053 We are easily accessible to customers in the area, offering a wide range of high-quality products including flower, edibles, pre-rolls, vapes concentrates, and more. Visit us during our operating hours to explore what we have to offer!"
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What are the operating hours of Highway 90?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Highway 90 is open the following hours for your convenience:Monday &#8211; Sunday 9am-10pm"
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Do I need a medical card to purchase products at Highway 90?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "No, we serve recreational customers. A valid ID showing you are 21+ is required for recreational purchases."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can I place an order online for pickup?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, you can browse our product selection and place an order online for quick and easy pickup. Online ordering has a cutoff time of 9:30pm and orders are NOT held overnight."
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "What types of cannabis products does Highway 90 offer?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "We offer a wide range of high-quality products including Flower, Edibles, Pre-rolls, Vapes and Concentrates as well as top brands. Visit us during our operating hours to explore what we have to offer!"
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Are Highway 90's products lab-tested for quality and safety?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Yes, all our products undergo rigorous testing to ensure they meet the highest quality and safety standards"
+      }
+     },
+     {
+      "@type": "Question",
+      "name": "Can Highway 90 give me recommendations on which products to choose?",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Absolutely! Our knowledgeable staff is here to provide guidance and answer any questions you may have about cannabis products."
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "h1": "Highway 90 Cannabis Dispensary Marlton",
+ "docId": "14713",
+ "docType": "single-post",
+ "sections": [
+  {
+   "t": "group",
+   "id": "15cc27a",
+   "children": [
+    {
+     "t": "group",
+     "id": "e90390f",
+     "children": [
+      {
+       "t": "text",
+       "html": "Highway 90 Cannabis Dispensary Marlton"
+      },
+      {
+       "t": "text",
+       "html": "<h2>The “Best Dispensary near me” serving Greater Marlton New Jersey</h2>"
+      },
+      {
+       "t": "button",
+       "text": "Shop Menu",
+       "href": "/menu/"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "45319a4",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h3",
+       "html": "Featured Cannabis Brand",
+       "text": "Featured Cannabis Brand"
+      },
+      {
+       "t": "products",
+       "source": "joint_slider",
+       "config": {
+        "post_id": 17585,
+        "business": null,
+        "menutype": null,
+        "ordertype": null,
+        "category": null,
+        "subcategory": null,
+        "brand": null,
+        "strain": null,
+        "effects": null,
+        "weights": null,
+        "pricemin": null,
+        "pricemax": null,
+        "thcmin": null,
+        "thcmax": null,
+        "cbdmin": null,
+        "cbdmax": null,
+        "cannabinoids": null,
+        "terpenes": null,
+        "tags": null,
+        "collections": null,
+        "ids": null,
+        "pos_ids": null,
+        "special": null,
+        "specials": null,
+        "sort": null,
+        "featured": "true",
+        "staffpicks": null,
+        "limit": 15,
+        "listid": null,
+        "listname": null
+       }
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "d0d59b2",
+   "children": [
+    {
+     "t": "group",
+     "id": "81d189c",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h3",
+       "html": "Contact",
+       "text": "Contact"
+      },
+      {
+       "t": "text",
+       "html": "<a href=\"tel:(856)607-3473\">(856) 607-3473</a>"
+      },
+      {
+       "t": "text",
+       "html": "<a href=\"mailto:info@thehighway90.com\">info@thehighway90.com</a>"
+      },
+      {
+       "t": "heading",
+       "level": "h3",
+       "html": "Location",
+       "text": "Location"
+      },
+      {
+       "t": "text",
+       "html": "<p>90 Old Marlton Pike <br>Marlton, NJ 08053</p>"
+      },
+      {
+       "t": "heading",
+       "level": "h3",
+       "html": "Hours",
+       "text": "Hours"
+      },
+      {
+       "t": "text",
+       "html": "<ul><li><p>Sunday</p><p>9:00am – 10:00pm</p></li><li><p>Monday</p><p>9:00am – 10:00pm</p></li><li><p>Tuesday</p><p>9:00am – 10:00pm</p></li><li><p>Wednesday</p><p>9:00am – 10:00pm</p></li><li><p>Thursday</p><p>9:00am – 10:00pm</p></li><li><p>Friday</p><p>9:00am – 10:00pm</p></li><li><p>Saturday</p><p>9:00am – 10:00pm</p></li></ul>"
+      }
+     ]
+    },
+    {
+     "t": "group",
+     "id": "fe3319c",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h3",
+       "html": "Customer Reviews",
+       "text": "Customer Reviews"
+      },
+      {
+       "t": "text",
+       "html": "<ul><li>\n<a href=\"https://lh3.googleusercontent.com/a-/ALV-UjVwebKv4W7ZYlZPsEyoo4IkqM5FZsLLnBw95-wu3WqGHc-CZul5=s120-c-rp-mo-br100\" target=\"_blank\" rel=\"noopener\">\n<img data-ref=\"https://lh3.googleusercontent.com/a-/ALV-UjVwebKv4W7ZYlZPsEyoo4IkqM5FZsLLnBw95-wu3WqGHc-CZul5=s120-c-rp-mo-br100\" alt=\"Rusty Pigeons\">\n</a><p>Rusty Pigeons</p><p>10/11/2026 10:05 PM</p><p>5.0</p><p>James rules !</p></li><li>\n<a href=\"https://lh3.googleusercontent.com/a/ACg8ocJb-nTSPgXS1ZvJLfBXZNpq70VWM6CTLIdgBTGI-hxuLE4tPQ=s120-c-rp-mo-ba12-br100\" target=\"_blank\" rel=\"noopener\">\n<img data-ref=\"https://lh3.googleusercontent.com/a/ACg8ocJb-nTSPgXS1ZvJLfBXZNpq70VWM6CTLIdgBTGI-hxuLE4tPQ=s120-c-rp-mo-ba12-br100\" alt=\"Gloria Ronga\">\n</a><p>Gloria Ronga</p><p>10/10/2026 01:54 AM</p><p>5.0</p><p>Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!</p></li><li>\n<a href=\"https://lh3.googleusercontent.com/a/ACg8ocJGiFCyVvwGUbvUpKtaSgF_Fo2zlTKzgSTXTPvMqxWbYe5rQQ=s120-c-rp-mo-br100\" target=\"_blank\" rel=\"noopener\">\n<img data-ref=\"https://lh3.googleusercontent.com/a/ACg8ocJGiFCyVvwGUbvUpKtaSgF_Fo2zlTKzgSTXTPvMqxWbYe5rQQ=s120-c-rp-mo-br100\" alt=\"Penny Blake\">\n</a><p>Penny Blake</p><p>10/05/2026 08:30 PM</p><p>5.0</p><p>I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!</p></li></ul>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "661e47ee",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h2>Cannabis Flower for sale at Highway 90 Dispensary in Marlton NJ</h2>"
+    },
+    {
+     "t": "products",
+     "source": "joint_slider",
+     "config": {
+      "post_id": 17585,
+      "business": null,
+      "menutype": null,
+      "ordertype": null,
+      "category": "FLOWER",
+      "subcategory": null,
+      "brand": null,
+      "strain": null,
+      "effects": null,
+      "weights": null,
+      "pricemin": null,
+      "pricemax": null,
+      "thcmin": null,
+      "thcmax": null,
+      "cbdmin": null,
+      "cbdmax": null,
+      "cannabinoids": null,
+      "terpenes": null,
+      "tags": null,
+      "collections": null,
+      "ids": null,
+      "pos_ids": null,
+      "special": null,
+      "specials": null,
+      "sort": null,
+      "featured": null,
+      "staffpicks": null,
+      "limit": 15,
+      "listid": null,
+      "listname": null
+     }
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "tpl",
+   "children": [
+    {
+     "t": "group",
+     "id": "0325aa0",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Shop By Category",
+       "text": "Shop By Category"
+      },
+      {
+       "t": "group",
+       "id": "d9a3dd2",
+       "children": [
+        {
+         "t": "group",
+         "id": "0d2ee2f",
+         "children": [
+          {
+           "t": "iconbox",
+           "title": "Flower",
+           "html": "<a href=\"/categories/flower/\">Shop Now</a>",
+           "href": "/categories/flower/"
+          }
+         ]
+        },
+        {
+         "t": "group",
+         "id": "7a4242c",
+         "children": [
+          {
+           "t": "iconbox",
+           "title": "Pre-Rolls",
+           "html": "<a href=\"/categories/pre-rolls/\">Shop Now</a>",
+           "href": "/categories/pre-rolls/"
+          }
+         ]
+        },
+        {
+         "t": "group",
+         "id": "3caeb0d",
+         "children": [
+          {
+           "t": "iconbox",
+           "title": "Vaporizers",
+           "html": "<a href=\"/categories/vaporizers/\">Shop Now</a>",
+           "href": "/categories/vaporizers/"
+          }
+         ]
+        },
+        {
+         "t": "group",
+         "id": "6be4d1e",
+         "children": [
+          {
+           "t": "iconbox",
+           "title": "Edibles",
+           "html": "<a href=\"/categories/edibles/\">Shop Now</a>",
+           "href": "/categories/edibles/"
+          }
+         ]
+        },
+        {
+         "t": "group",
+         "id": "4b93ce9",
+         "children": [
+          {
+           "t": "iconbox",
+           "title": "Concentrates",
+           "html": "<a href=\"/categories/concentrates/\">Shop Now</a>",
+           "href": "/categories/concentrates/"
+          }
+         ]
+        },
+        {
+         "t": "group",
+         "id": "63a1483",
+         "children": [
+          {
+           "t": "iconbox",
+           "title": "Topicals",
+           "html": "<a href=\"/categories/topicals/\">Shop Now</a>",
+           "href": "/categories/topicals/"
+          }
+         ]
+        },
+        {
+         "t": "group",
+         "id": "067c858",
+         "children": [
+          {
+           "t": "iconbox",
+           "title": "Tinctures",
+           "html": "<a href=\"/categories/tinctures/\">Shop Now</a>",
+           "href": "/categories/tinctures/"
+          }
+         ]
+        },
+        {
+         "t": "group",
+         "id": "89c8c16",
+         "children": [
+          {
+           "t": "iconbox",
+           "title": "Accessories",
+           "html": "<a href=\"/categories/accessories/\">Shop Now</a>",
+           "href": "/categories/accessories/"
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "6e79b20",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h2>Cannabis Pre-Rolls for sale at Highway 90 Dispensary in Marlton NJ</h2>"
+    },
+    {
+     "t": "products",
+     "source": "joint_slider",
+     "config": {
+      "post_id": 17585,
+      "business": null,
+      "menutype": null,
+      "ordertype": null,
+      "category": "PRE_ROLLS",
+      "subcategory": null,
+      "brand": null,
+      "strain": null,
+      "effects": null,
+      "weights": null,
+      "pricemin": null,
+      "pricemax": null,
+      "thcmin": null,
+      "thcmax": null,
+      "cbdmin": null,
+      "cbdmax": null,
+      "cannabinoids": null,
+      "terpenes": null,
+      "tags": null,
+      "collections": null,
+      "ids": null,
+      "pos_ids": null,
+      "special": null,
+      "specials": null,
+      "sort": null,
+      "featured": null,
+      "staffpicks": null,
+      "limit": 15,
+      "listid": null,
+      "listname": null
+     }
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "tpl",
+   "children": [
+    {
+     "t": "group",
+     "id": "d814810",
+     "children": [
+      {
+       "t": "group",
+       "id": "dad61d0",
+       "children": [
+        {
+         "t": "heading",
+         "level": "h3",
+         "html": "Shop &amp; Save!",
+         "text": "Shop & Save!"
+        },
+        {
+         "t": "heading",
+         "level": "h2",
+         "html": "Deals and Specials",
+         "text": "Deals and Specials"
+        },
+        {
+         "t": "text",
+         "html": "<p>Looking for your favorite strains at a discount or ready to try something new? Our limited-time specials let you elevate your experience without breaking the bank. Act fast!</p>"
+        },
+        {
+         "t": "button",
+         "text": "Shop Specials",
+         "href": "/specials/"
+        }
+       ]
+      },
+      {
+       "t": "group",
+       "id": "3de4beb",
+       "children": [
+        {
+         "t": "loop",
+         "items": [
+          {
+           "title": "1g Pre-Roll Bundle: Buy Any 5, Get 20% Off",
+           "href": "/specials/1g-pre-roll-bundle-buy-any-5-get-20-off/",
+           "img": {
+            "src": "https://www.thehighway90.com/wp-content/uploads/2026/10/24c15a1b-d28d-4f89-bc9a-6a88d5ffc676.png.png",
+            "alt": "",
+            "w": 765,
+            "h": 330
+           },
+           "excerpt": "Limited time offer while supplies lasts. Discounts do not stack.",
+           "button": {
+            "text": "Shop Now",
+            "href": "/specials/1g-pre-roll-bundle-buy-any-5-get-20-off/"
+           }
+          },
+          {
+           "title": "1g Pre-Roll Bundle: Buy Any 3, Get 15% Off",
+           "href": "/specials/1g-pre-roll-bundle-buy-any-3-get-15-off/",
+           "img": {
+            "src": "https://www.thehighway90.com/wp-content/uploads/2026/10/2626f734-6448-4f1a-9c11-1e50f283bae4.png.png",
+            "alt": "",
+            "w": 765,
+            "h": 330
+           },
+           "excerpt": "Limited time offer while supplies lasts. Discounts do not stack.",
+           "button": {
+            "text": "Shop Now",
+            "href": "/specials/1g-pre-roll-bundle-buy-any-3-get-15-off/"
+           }
+          },
+          {
+           "title": "1g Pre-Roll Bundle: Buy Any 7+, Get 30% Off",
+           "href": "/specials/1g-pre-roll-bundle-buy-any-7-get-30-off/",
+           "img": {
+            "src": "https://www.thehighway90.com/wp-content/uploads/2026/10/d6844a59-2f45-4dec-a589-81b7dec871ef.png.png",
+            "alt": "",
+            "w": 765,
+            "h": 330
+           },
+           "excerpt": "Limited time offer while supplies lasts. Discounts do not stack.",
+           "button": {
+            "text": "Shop Now",
+            "href": "/specials/1g-pre-roll-bundle-buy-any-7-get-30-off/"
+           }
+          },
+          {
+           "title": "Buy 2 for $10 Cloud Bar 20mg",
+           "href": "/specials/buy-2-for-20-cloud-bar-20mg/",
+           "img": {
+            "src": "https://www.thehighway90.com/wp-content/uploads/2026/10/5ebbb1ac-4708-4a68-aee1-737de6dee8a5.png.png",
+            "alt": "",
+            "w": 765,
+            "h": 330
+           },
+           "excerpt": "Limited time offer while supplies lasts. Discounts do not stack.",
+           "button": {
+            "text": "Shop Now",
+            "href": "/specials/buy-2-for-20-cloud-bar-20mg/"
+           }
+          },
+          {
+           "title": "35% Off Good Green Flower",
+           "href": "/specials/35-off-good-green-flower/",
+           "img": {
+            "src": "https://www.thehighway90.com/wp-content/uploads/2026/10/b1f3db19-23ab-46b5-bd34-c60f67fe74ed.png.png",
+            "alt": "",
+            "w": 765,
+            "h": 330
+           },
+           "excerpt": "Limited time offer while supplies last through 10/15 Discounts do not stack",
+           "button": {
+            "text": "Shop Now",
+            "href": "/specials/35-off-good-green-flower/"
+           }
+          },
+          {
+           "title": "40% Off Shnicks Shnacks",
+           "href": "/specials/40-off-shnicks-shnacks/",
+           "img": {
+            "src": "https://www.thehighway90.com/wp-content/uploads/2026/10/7f149f9a-c6ec-4d2e-8af0-5c3912df1af9.png.png",
+            "alt": "",
+            "w": 765,
+            "h": 330
+           },
+           "excerpt": "Limited time offer while supplies last through 10/17 Discounts do not stack",
+           "button": {
+            "text": "Shop Now",
+            "href": "/specials/40-off-shnicks-shnacks/"
+           }
+          },
+          {
+           "title": "Cloud Bar Bundle 100mg",
+           "href": "/specials/cloud-bar-bundle-100mg/",
+           "img": {
+            "src": "https://www.thehighway90.com/wp-content/uploads/2026/10/70ee4f3c-9138-4c0e-9191-36e9cc7831f1.png.png",
+            "alt": "",
+            "w": 765,
+            "h": 330
+           },
+           "excerpt": "Limited time offer while supplies lasts. Discounts do not stack.",
+           "button": {
+            "text": "Shop Now",
+            "href": "/specials/cloud-bar-bundle-100mg/"
+           }
+          },
+          {
+           "title": "40% Off Simply Herb Pave 3.5g",
+           "href": "/specials/30-off-simply-herb-pave-3-5g/",
+           "img": {
+            "src": "https://www.thehighway90.com/wp-content/uploads/2026/10/39a3376d-6bb8-406c-8832-35555b6dae74.png.png",
+            "alt": "",
+            "w": 765,
+            "h": 330
+           },
+           "excerpt": "Limited time offer while supplies last through 10/16 Discounts do not stack",
+           "button": {
+            "text": "Shop Now",
+            "href": "/specials/30-off-simply-herb-pave-3-5g/"
+           }
+          },
+          {
+           "title": "40% off boardwalk bliss",
+           "href": "/specials/40-off-boardwalk-bliss/",
+           "img": {
+            "src": "https://www.thehighway90.com/wp-content/uploads/2026/10/5a5e5c0e-424c-439c-b03f-bb4ba8be5ab2.png.png",
+            "alt": "",
+            "w": 765,
+            "h": 330
+           },
+           "excerpt": "Limited time offer while supplies last through 10/14 Discounts do not stack",
+           "button": {
+            "text": "Shop Now",
+            "href": "/specials/40-off-boardwalk-bliss/"
+           }
+          },
+          {
+           "title": "40% Off Lingerie #7 3.5g",
+           "href": "/specials/30-off-lingerie-7-3-5g/",
+           "img": {
+            "src": "https://www.thehighway90.com/wp-content/uploads/2026/10/7c3c4a10-9311-4d58-a3a8-78728d77751e.png.png",
+            "alt": "",
+            "w": 765,
+            "h": 330
+           },
+           "excerpt": "Limited time offer while supplies last through 10/15 Discounts do not stack",
+           "button": {
+            "text": "Shop Now",
+            "href": "/specials/30-off-lingerie-7-3-5g/"
+           }
+          },
+          {
+           "title": "25% Off Half Ounces",
+           "href": "/specials/25-off-half-ounces/",
+           "img": {
+            "src": "https://www.thehighway90.com/wp-content/uploads/2026/10/d8288337-b702-4f53-9a91-dc1c8457086a.png.png",
+            "alt": "",
+            "w": 765,
+            "h": 330
+           },
+           "excerpt": "Limited time offer while supplies lasts. Discounts do not stack.",
+           "button": {
+            "text": "Shop Now",
+            "href": "/specials/25-off-half-ounces/"
+           }
+          },
+          {
+           "title": "25% Off Ounces",
+           "href": "/specials/25-off-ounces/",
+           "img": {
+            "src": "https://www.thehighway90.com/wp-content/uploads/2026/10/356a5fea-120b-4051-a6f8-6f864f84bf93.png.png",
+            "alt": "",
+            "w": 765,
+            "h": 330
+           },
+           "excerpt": "Limited time offer while supplies lasts. Discounts do not stack.",
+           "button": {
+            "text": "Shop Now",
+            "href": "/specials/25-off-ounces/"
+           }
+          }
+         ]
+        },
+        {
+         "t": "button",
+         "text": "Shop Specials",
+         "href": "/specials/"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "6d022c8",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h2>Cannabis Vaporizers for sale at Highway 90 Dispensary in Marlton NJ</h2>"
+    },
+    {
+     "t": "products",
+     "source": "joint_slider",
+     "config": {
+      "post_id": 17585,
+      "business": null,
+      "menutype": null,
+      "ordertype": null,
+      "category": "VAPORIZERS",
+      "subcategory": null,
+      "brand": null,
+      "strain": null,
+      "effects": null,
+      "weights": null,
+      "pricemin": null,
+      "pricemax": null,
+      "thcmin": null,
+      "thcmax": null,
+      "cbdmin": null,
+      "cbdmax": null,
+      "cannabinoids": null,
+      "terpenes": null,
+      "tags": null,
+      "collections": null,
+      "ids": null,
+      "pos_ids": null,
+      "special": null,
+      "specials": null,
+      "sort": null,
+      "featured": null,
+      "staffpicks": null,
+      "limit": 15,
+      "listid": null,
+      "listname": null
+     }
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "tpl",
+   "children": [
+    {
+     "t": "group",
+     "id": "e6a3841",
+     "children": [
+      {
+       "t": "heading",
+       "level": "h2",
+       "html": "Shop by Effect",
+       "text": "Shop by Effect"
+      },
+      {
+       "t": "button",
+       "text": "Shop Effects",
+       "href": "/effects/"
+      },
+      {
+       "t": "nested",
+       "items": [
+        {
+         "blocks": [
+          {
+           "t": "group",
+           "id": "bf6a76b",
+           "children": [
+            {
+             "t": "image",
+             "img": {
+              "src": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/Hwy90-Effects-Creative-qw3b0iscuis5u8e62bs0wbn4qih3ormsisr7mnqglc.webp",
+              "alt": "Highway 90 Effects Creative",
+              "w": 960,
+              "h": 960
+             },
+             "href": null,
+             "caption": null
+            },
+            {
+             "t": "heading",
+             "level": "h3",
+             "html": "<a href=\"/effects/creative/\" title=\"Shop Creative Cannabis Products\">Creative</a>",
+             "text": "Creative"
+            },
+            {
+             "t": "text",
+             "html": "<p><a href=\"/effects/creative/\">Shop Now</a></p>"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "blocks": [
+          {
+           "t": "group",
+           "id": "0d3aae1",
+           "children": [
+            {
+             "t": "image",
+             "img": {
+              "src": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/Hwy90-Effects-Energetic-qw3b0jq71ctg5ucswu6ngtelbwcgwgqiuxep3xp2f4.webp",
+              "alt": "Highway 90 Effects Energetic",
+              "w": 960,
+              "h": 960
+             },
+             "href": null,
+             "caption": null
+            },
+            {
+             "t": "heading",
+             "level": "h3",
+             "html": "<a href=\"/effects/energetic/\" title=\"Shop Energetic Cannabis Products\">Energetic</a>",
+             "text": "Energetic"
+            },
+            {
+             "t": "text",
+             "html": "<p><a href=\"/effects/energetic/\">Shop Now</a></p>"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "blocks": [
+          {
+           "t": "group",
+           "id": "27c1969",
+           "children": [
+            {
+             "t": "image",
+             "img": {
+              "src": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/Hwy90-Effects-Focused-qw3b0ko186uqhgbfrcla1b61xa7u45u97226l7no8w.webp",
+              "alt": "Highway 90 Effects Focused",
+              "w": 960,
+              "h": 960
+             },
+             "href": null,
+             "caption": null
+            },
+            {
+             "t": "heading",
+             "level": "h3",
+             "html": "<a href=\"/effects/focused/\" title=\"Shop Focused Cannabis Products\">Focused</a>",
+             "text": "Focused"
+            },
+            {
+             "t": "text",
+             "html": "<p><a href=\"/effects/focused/\">Shop Now</a></p>"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "blocks": [
+          {
+           "t": "group",
+           "id": "755ac39",
+           "children": [
+            {
+             "t": "image",
+             "img": {
+              "src": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/Hwy90-Effects-Happy-qw3b0llvf0w0t2a2luzwlsxiio37buxzj6po2hma2o.webp",
+              "alt": "Highway 90 Effects Happy",
+              "w": 960,
+              "h": 960
+             },
+             "href": null,
+             "caption": null
+            },
+            {
+             "t": "heading",
+             "level": "h3",
+             "html": "<a href=\"/effects/happy/\" title=\"Shop Happy Cannabis Products\">Happy</a>",
+             "text": "Happy"
+            },
+            {
+             "t": "text",
+             "html": "<p><a href=\"/effects/happy/\">Shop Now</a></p>"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "blocks": [
+          {
+           "t": "group",
+           "id": "3b424c3",
+           "children": [
+            {
+             "t": "image",
+             "img": {
+              "src": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/Hwy90-Effects-Relaxed-qw3b0llvf0w0t2a2luzwlsxiio37buxzj6po2hma2o.webp",
+              "alt": "Highway 90 Effects Relaxed",
+              "w": 960,
+              "h": 960
+             },
+             "href": null,
+             "caption": null
+            },
+            {
+             "t": "heading",
+             "level": "h3",
+             "html": "<a href=\"/effects/releaxed/\" title=\"Shop Relaxed Cannabis Products\">Relaxed</a>",
+             "text": "Relaxed"
+            },
+            {
+             "t": "text",
+             "html": "<p><a href=\"/effects/relaxed/\">Shop Now</a></p>"
+            }
+           ]
+          }
+         ]
+        },
+        {
+         "blocks": [
+          {
+           "t": "group",
+           "id": "94fff75",
+           "children": [
+            {
+             "t": "image",
+             "img": {
+              "src": "https://www.thehighway90.com/wp-content/uploads/elementor/thumbs/Hwy90-Effects-Sleepy-qw3b0mjpluxb4o8pgdej6aoz41ykjk1pvbd5jrkvwg.webp",
+              "alt": "Highway 90 Effects Sleepy",
+              "w": 960,
+              "h": 960
+             },
+             "href": null,
+             "caption": null
+            },
+            {
+             "t": "heading",
+             "level": "h3",
+             "html": "<a href=\"/effects/sleepy/\" title=\"Shop Sleepy Cannabis Products\">Sleepy</a>",
+             "text": "Sleepy"
+            },
+            {
+             "t": "text",
+             "html": "<p><a href=\"/effects/sleepy/\">Shop Now</a></p>"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "6818cf3",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h2>Cannabis Edibles for sale at Highway 90 Dispensary in Marlton NJ</h2>"
+    },
+    {
+     "t": "products",
+     "source": "joint_slider",
+     "config": {
+      "post_id": 17585,
+      "business": null,
+      "menutype": null,
+      "ordertype": null,
+      "category": "EDIBLES",
+      "subcategory": null,
+      "brand": null,
+      "strain": null,
+      "effects": null,
+      "weights": null,
+      "pricemin": null,
+      "pricemax": null,
+      "thcmin": null,
+      "thcmax": null,
+      "cbdmin": null,
+      "cbdmax": null,
+      "cannabinoids": null,
+      "terpenes": null,
+      "tags": null,
+      "collections": null,
+      "ids": null,
+      "pos_ids": null,
+      "special": null,
+      "specials": null,
+      "sort": null,
+      "featured": null,
+      "staffpicks": null,
+      "limit": 15,
+      "listid": null,
+      "listname": null
+     }
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "2736608",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h2>Highway 90 Dispensary FAQs</h2>"
+    },
+    {
+     "t": "group",
+     "id": "tpl",
+     "children": [
+      {
+       "t": "group",
+       "id": "1e3e3d50",
+       "children": [
+        {
+         "t": "faq",
+         "items": [
+          {
+           "q": "Where is Highway 90 located?",
+           "blocks": [
+            {
+             "t": "text",
+             "html": "<p>Highway 90 Dispensary is located at 90 Old Marlton Pike W., Marlton NJ. 08053 We are easily accessible to customers in the area, offering a wide range of high-quality products including <a href=\"/categories/flower/\">flower</a>, <a href=\"/categories/edibles/\">edibles</a>, <a href=\"/categories/pre-rolls/\">pre-rolls</a>, <a href=\"/categories/vaporizers/\">vapes</a> <a href=\"/categories/concentrates/\">concentrates</a>, and more. Visit us during our operating hours to explore what we have to offer!</p>"
+            }
+           ]
+          },
+          {
+           "q": "What are the operating hours of Highway 90?",
+           "blocks": [
+            {
+             "t": "text",
+             "html": "<p>Highway 90 is open the following hours for your convenience:<br>Monday – Sunday 9am-10pm<br><br></p>"
+            }
+           ]
+          },
+          {
+           "q": "Do I need a medical card to purchase products at Highway 90?",
+           "blocks": [
+            {
+             "t": "text",
+             "html": "<p>No, we serve recreational customers. A valid ID showing you are 21+ is required for recreational purchases.</p>"
+            }
+           ]
+          },
+          {
+           "q": "Can I place an order online for pickup?",
+           "blocks": [
+            {
+             "t": "text",
+             "html": "<p>Yes, you can browse our product selection and place an order online for quick and easy pickup. Online ordering has a cutoff time of 9:30pm and orders are NOT held overnight.</p>"
+            }
+           ]
+          },
+          {
+           "q": "What types of cannabis products does Highway 90 offer?",
+           "blocks": [
+            {
+             "t": "text",
+             "html": "<p>We offer a wide range of high-quality products including <a href=\"/categoires/flower/\">Flower</a>, <a href=\"/categories/edibles/\">Edibles</a>, <a href=\"/categories/pre-rolls/\">Pre-rolls</a>, <a href=\"/categories/vaporizers/\">Vapes</a> and <a href=\"/categories/concentrates/\">Concentrates</a> as well as top <a href=\"/brands/\">brands</a>. Visit us during our operating hours to explore what we have to offer!</p>"
+            }
+           ]
+          },
+          {
+           "q": "Are Highway 90's products lab-tested for quality and safety?",
+           "blocks": [
+            {
+             "t": "text",
+             "html": "<p>Yes, all our products undergo rigorous testing to ensure they meet the highest quality and safety standards</p>"
+            }
+           ]
+          },
+          {
+           "q": "Can Highway 90 give me recommendations on which products to choose?",
+           "blocks": [
+            {
+             "t": "text",
+             "html": "<p>Absolutely! Our knowledgeable staff is here to provide guidance and answer any questions you may have about cannabis products.</p>"
+            }
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "b1b77ef",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h2>Cannabis Concentrates for sale at Highway 90 Dispensary in Marlton NJ</h2>"
+    },
+    {
+     "t": "products",
+     "source": "joint_slider",
+     "config": {
+      "post_id": 17585,
+      "business": null,
+      "menutype": null,
+      "ordertype": null,
+      "category": "CONCENTRATES",
+      "subcategory": null,
+      "brand": null,
+      "strain": null,
+      "effects": null,
+      "weights": null,
+      "pricemin": null,
+      "pricemax": null,
+      "thcmin": null,
+      "thcmax": null,
+      "cbdmin": null,
+      "cbdmax": null,
+      "cannabinoids": null,
+      "terpenes": null,
+      "tags": null,
+      "collections": null,
+      "ids": null,
+      "pos_ids": null,
+      "special": null,
+      "specials": null,
+      "sort": null,
+      "featured": null,
+      "staffpicks": null,
+      "limit": 15,
+      "listid": null,
+      "listname": null
+     }
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "4751a35",
+   "children": [
+    {
+     "t": "text",
+     "html": "<h2>Looking for the Best Dispensary Near Me in Marlton, NJ?</h2><p>Finding the <strong>best dispensary near Marlton, NJ</strong> shouldn’t mean choosing between affordable cannabis, quality products, and great customer service. At <strong>Highway 90 Dispensary</strong>, we believe you deserve all three.</p><p>Conveniently located at <strong>90 Old Marlton Pike in Marlton, New Jersey</strong>, Highway 90 proudly serves cannabis shoppers from Marlton, Evesham, Cherry Hill, Mount Laurel, Medford, Voorhees, and surrounding South Jersey communities.</p><p>Whether you’re purchasing recreational cannabis for the first time or you’re an experienced shopper comparing products and prices, our mission is simple: <strong>make every visit welcoming, informative, affordable, and worth coming back for.</strong></p><h2>A Highly Rated Marlton Dispensary Where Customer Service Comes First</h2><p>What makes a great dispensary? We believe it starts with the people.</p><p>Highway 90 has earned a <strong>4.9-star Google rating</strong>, with hundreds of customer reviews highlighting our knowledgeable staff, friendly atmosphere, competitive pricing, and personalized recommendations.</p><p>Our team takes the time to listen, answer questions, and help you explore products without pressure. New to cannabis? We’ll walk you through product types, THC potency, terpene information, and consumption methods. Already know your favorite brands? We’ll help you discover comparable products, new arrivals, and worthwhile deals.</p><p>We don’t believe shopping for cannabis should feel intimidating, complicated, or rushed.</p><p><strong>At Highway 90, you’re more than another transaction. You’re our neighbor.</strong></p><h2>More Cannabis for Your Money: Deals, Discounts, and Everyday Value</h2><p>Great customer service gets people through the door. Great value gives them another reason to return.</p><p>Highway 90 offers competitive cannabis pricing, rotating specials, and opportunities to save on popular products and brands.</p><p><strong>Our new customer savings include:</strong></p><ul><li><p><strong>35% off your first purchase</strong></p></li><li><p><strong>20% off your second purchase</strong></p></li><li><p><strong>25% off your third purchase</strong></p></li></ul><p>But savings don’t end after your first three visits.</p><p>Explore our frequently updated <a href=\"/specials/\">cannabis deals and specials</a> for discounts on flower, pre-rolls, vaporizers, edibles, and more. Looking for budget-friendly options? Our <strong>$20 &amp; Under</strong> selection makes finding affordable cannabis even easier.</p><p>Highway 90 Rewards provides additional opportunities for returning customers to get more value from their purchases.</p><p>Promotions are subject to availability, eligibility, and applicable exclusions. Check our website for current offers.</p><h2>Quality Cannabis Products for Every Preference and Budget</h2><p>Whether you’re looking for premium cannabis flower, convenient pre-rolls, vape cartridges, edibles, concentrates, infused beverages, tinctures, or topicals, Highway 90 offers a diverse selection to explore.</p><p>Our online menu helps customers compare products, browse current specials, discover staff favorites, and shop by category.</p><p>We believe informed customers make better purchasing decisions. That’s why our staff is available to explain product differences and help you find options aligned with your preferences and budget.</p><h2>Convenient Cannabis Shopping Near Cherry Hill, Mount Laurel, and Medford</h2><p>Highway 90 makes shopping easy with <strong>online ordering and in-store pickup</strong>.</p><p>Browse available inventory, compare prices, and place your order before arriving. Our convenient Marlton location makes Highway 90 a practical choice for customers throughout Burlington and Camden counties.</p><p><strong>We’re open seven days a week, from 9 AM to 10 PM</strong>, so you can shop when it works for your schedule.</p><h2>Why Choose Highway 90 Over Other South Jersey Dispensaries?</h2><p>Because the best dispensary experience isn’t just about what you buy. It’s about how you’re treated and the value you receive.</p><p>At Highway 90, we bring together knowledgeable people, genuine customer care, competitive pricing, recurring promotions, convenient shopping, and an extensive cannabis selection.</p><p>Our customers’ reviews tell that story better than any advertisement.</p><p><strong>When you’re searching for the best dispensary near me in Marlton, discover a place that makes customer satisfaction and everyday value a priority.</strong></p><h2>Visit Highway 90 Dispensary Today</h2><p><strong>Address:</strong> 90 Old Marlton Pike, Marlton, NJ 08053</p><p><strong>Hours:</strong> Monday–Sunday, 9 AM–10 PM</p><p><strong>Phone:</strong> (856) 607-3473</p><p><strong>Website:</strong> <a href=\"/\">www.thehighway90.com</a></p><p>Recreational cannabis is available to adults 21 and older with valid identification. No medical card is required.</p><p><strong>Shop online, explore today’s deals, and discover why South Jersey cannabis customers keep coming back to Highway 90.</strong></p>"
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "events": null,
+ "unknownWidgets": []
+}

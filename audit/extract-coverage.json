@@ -1,0 +1,6591 @@
+{
+ "generated": "2026-10-15T01:18:06.236Z",
+ "min": 0.97,
+ "pages": [
+  {
+   "path": "/",
+   "key": "index",
+   "kind": "home",
+   "h1": "Highway 90 Dispensary Marlton, NJ",
+   "words": 1672,
+   "recall": 1,
+   "sections": 12
+  },
+  {
+   "path": "/blog/",
+   "key": "blog",
+   "kind": "page",
+   "h1": "The Highway 90 Dispensary Blog",
+   "words": 434,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/blog/marlton-dispensary-best-cannabis-deals-at-highway-90/",
+   "key": "blog__marlton-dispensary-best-cannabis-deals-at-highway-90",
+   "kind": "post",
+   "h1": "Marlton Dispensary | Best Cannabis Deals at Highway 90",
+   "words": 342,
+   "recall": 0.9883,
+   "sections": 4
+  },
+  {
+   "path": "/blog/keep-your-cannabis-rewards-going-with-highway-90s-points-exchange-program/",
+   "key": "blog__keep-your-cannabis-rewards-going-with-highway-90s-points-exchange-program",
+   "kind": "post",
+   "h1": "Keep Your Cannabis Rewards Going with Highway 90’s Points Exchange Program",
+   "words": 327,
+   "recall": 0.9908,
+   "sections": 4
+  },
+  {
+   "path": "/blog/cannabis-drinks-have-officially-landed-at-highway-90/",
+   "key": "blog__cannabis-drinks-have-officially-landed-at-highway-90",
+   "kind": "post",
+   "h1": "Cannabis Drinks Have Officially Landed at Highway 90",
+   "words": 423,
+   "recall": 0.9905,
+   "sections": 4
+  },
+  {
+   "path": "/blog/%f0%9f%8e%83-halloweed-at-highway-90-marltons-spookiest-cannabis-celebration-is-almost-here/",
+   "key": "blog__%f0%9f%8e%83-halloweed-at-highway-90-marltons-spookiest-cannabis-celebration-is-almost-here",
+   "kind": "post",
+   "h1": "🎃 Halloweed at Highway 90: Marlton’s Spookiest Cannabis Celebration Is Almost Here!",
+   "words": 440,
+   "recall": 0.9909,
+   "sections": 4
+  },
+  {
+   "path": "/blog/2025-eagles-schedule-exclusive-game-day-discounts-only-at-highway-90-dispensary/",
+   "key": "blog__2025-eagles-schedule-exclusive-game-day-discounts-only-at-highway-90-dispensary",
+   "kind": "post",
+   "h1": "2025 Eagles Schedule + Exclusive Game Day Discounts Only at Highway 90 Dispensary",
+   "words": 553,
+   "recall": 0.9946,
+   "sections": 4
+  },
+  {
+   "path": "/blog/highway-90-at-lion-heart-music-fest-2025/",
+   "key": "blog__highway-90-at-lion-heart-music-fest-2025",
+   "kind": "post",
+   "h1": "Catch Highway 90 at Lion Heart Music Fest 2025!",
+   "words": 419,
+   "recall": 0.9928,
+   "sections": 4
+  },
+  {
+   "path": "/blog/understanding-cannabis-strains-indica-sativa-and-hybrid/",
+   "key": "blog__understanding-cannabis-strains-indica-sativa-and-hybrid",
+   "kind": "post",
+   "h1": "Understanding Cannabis Strains: Indica, Sativa, and Hybrid",
+   "words": 915,
+   "recall": 0.9825,
+   "sections": 4
+  },
+  {
+   "path": "/blog/highway-90s-2nd-annual-4-20-fest/",
+   "key": "blog__highway-90s-2nd-annual-4-20-fest",
+   "kind": "post",
+   "h1": "Highway 90’s 2nd Annual 4/20 Fest",
+   "words": 461,
+   "recall": 0.9892,
+   "sections": 4
+  },
+  {
+   "path": "/blog/fern20-tour-at-highway-90/",
+   "key": "blog__fern20-tour-at-highway-90",
+   "kind": "post",
+   "h1": "Fern:20 Tour at Highway 90 Dispensary",
+   "words": 296,
+   "recall": 0.9831,
+   "sections": 4
+  },
+  {
+   "path": "/blog/save-30-off-for-ascend-week-at-highway-90/",
+   "key": "blog__save-30-off-for-ascend-week-at-highway-90",
+   "kind": "post",
+   "h1": "Save 30% off for Ascend Week at Highway 90",
+   "words": 314,
+   "recall": 0.9873,
+   "sections": 4
+  },
+  {
+   "path": "/blog/first-time-cannabis-deals-at-highway90-dispensary/",
+   "key": "blog__first-time-cannabis-deals-at-highway90-dispensary",
+   "kind": "post",
+   "h1": "First Time Here? Discover Marlton’s Best Dispensary Deals at Highway 90",
+   "words": 1512,
+   "recall": 0.9974,
+   "sections": 4
+  },
+  {
+   "path": "/blog/celebrate-valentines-day-at-highway-90-dispensary-sweet-deals-and-perfect-gifts/",
+   "key": "blog__celebrate-valentines-day-at-highway-90-dispensary-sweet-deals-and-perfect-gifts",
+   "kind": "post",
+   "h1": "Celebrate Valentine’s Day at Highway 90 Dispensary: Sweet Deals and Perfect Gifts for Your Loved One!",
+   "words": 1250,
+   "recall": 0.9968,
+   "sections": 4
+  },
+  {
+   "path": "/blog/eagles-super-bowl-deals-marlton-nj-dispensary/",
+   "key": "blog__eagles-super-bowl-deals-marlton-nj-dispensary",
+   "kind": "post",
+   "h1": "Shop, Save, and Win: Eagles Super Bowl Deals and Giveaway at Our Marlton, NJ Dispensary!",
+   "words": 656,
+   "recall": 0.9954,
+   "sections": 4
+  },
+  {
+   "path": "/blog/highway-90-dispensary-1-year-anniversary-celebration/",
+   "key": "blog__highway-90-dispensary-1-year-anniversary-celebration",
+   "kind": "post",
+   "h1": "Highway 90 Dispensary’s 1 Year Anniversary Celebration",
+   "words": 515,
+   "recall": 0.9922,
+   "sections": 4
+  },
+  {
+   "path": "/blog/the-highway-90-app-is-here/",
+   "key": "blog__the-highway-90-app-is-here",
+   "kind": "post",
+   "h1": "The Highway 90 App is Here! Download Today and Get 100 Bonus Loyalty Points!",
+   "words": 416,
+   "recall": 0.9904,
+   "sections": 4
+  },
+  {
+   "path": "/blog/highway-90s-holiday-toy-drive-give-back-and-save-big-with-timeless/",
+   "key": "blog__highway-90s-holiday-toy-drive-give-back-and-save-big-with-timeless",
+   "kind": "post",
+   "h1": "Highway 90’s Holiday Toy Drive: Give Back and Save Big with Timeless!",
+   "words": 389,
+   "recall": 0.9897,
+   "sections": 4
+  },
+  {
+   "path": "/blog/green-wednesday-deals-are-here-at-highway-90/",
+   "key": "blog__green-wednesday-deals-are-here-at-highway-90",
+   "kind": "post",
+   "h1": "Green Wednesday Deals Are Here: Shop Store-Wide Savings All Week at Highway 90",
+   "words": 512,
+   "recall": 0.9922,
+   "sections": 4
+  },
+  {
+   "path": "/dispensary-near-me-marlton-nj/",
+   "key": "dispensary-near-me-marlton-nj",
+   "kind": "page",
+   "h1": null,
+   "words": 607,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/menu/",
+   "key": "menu",
+   "kind": "page",
+   "h1": "Cannabis Products For Sale in Marlton NJ",
+   "words": 12,
+   "recall": 1,
+   "sections": 4
+  },
+  {
+   "path": "/my-points/",
+   "key": "my-points",
+   "kind": "page",
+   "h1": "My Points",
+   "words": 2,
+   "recall": 1,
+   "sections": 0
+  },
+  {
+   "path": "/my-orders/",
+   "key": "my-orders",
+   "kind": "page",
+   "h1": "My Orders",
+   "words": 2,
+   "recall": 1,
+   "sections": 0
+  },
+  {
+   "path": "/menu/best-sellers/",
+   "key": "menu__best-sellers",
+   "kind": "page",
+   "h1": "Cannabis Best Sellers For Sale",
+   "words": 9,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/420-deals/",
+   "key": "420-deals",
+   "kind": "page",
+   "h1": "Highway 90 Dispensary 420 Deals Marlton",
+   "words": 603,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/menu/popular-gummy-edibles/",
+   "key": "menu__popular-gummy-edibles",
+   "kind": "page",
+   "h1": "Popular Gummy Edibles For Sale",
+   "words": 48,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/menu/best-selling-vape-cartridges-disposables/",
+   "key": "menu__best-selling-vape-cartridges-disposables",
+   "kind": "page",
+   "h1": "Best-Selling Vape Cartridges & Disposables For Sale",
+   "words": 51,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/menu/top-flower-strains-near-you/",
+   "key": "menu__top-flower-strains-near-you",
+   "kind": "page",
+   "h1": "Top Flower Strains Near You For Sale",
+   "words": 64,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/menu/most-popular-edibles-near-me/",
+   "key": "menu__most-popular-edibles-near-me",
+   "kind": "page",
+   "h1": "Most Popular Edibles Near You For Sale",
+   "words": 76,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/menu/bulk-flower-affordable-ounces/",
+   "key": "menu__bulk-flower-affordable-ounces",
+   "kind": "page",
+   "h1": "Bulk Flower & Affordable Ounces For Sale",
+   "words": 82,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/menu/high-thc-flower-near-you/",
+   "key": "menu__high-thc-flower-near-you",
+   "kind": "page",
+   "h1": "High THC Flower Near You For Sale",
+   "words": 98,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/concentrate-specials/",
+   "key": "concentrate-specials",
+   "kind": "page",
+   "h1": null,
+   "words": 5,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/pre-roll-specials/",
+   "key": "pre-roll-specials",
+   "kind": "page",
+   "h1": null,
+   "words": 5,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/edible-specials/",
+   "key": "edible-specials",
+   "kind": "page",
+   "h1": null,
+   "words": 5,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/vape-specials/",
+   "key": "vape-specials",
+   "kind": "page",
+   "h1": null,
+   "words": 5,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/flower-specials/",
+   "key": "flower-specials",
+   "kind": "page",
+   "h1": null,
+   "words": 5,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/20-under-menu/",
+   "key": "20-under-menu",
+   "kind": "page",
+   "h1": null,
+   "words": 0,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/all-cannabis-items-on-sale/",
+   "key": "all-cannabis-items-on-sale",
+   "kind": "page",
+   "h1": "All Cannabis Items on Sale",
+   "words": 92,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/jobs/",
+   "key": "jobs",
+   "kind": "page",
+   "h1": "Highway 90 Dispensary Cannabis Dispensary Jobs",
+   "words": 15,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/faqs/",
+   "key": "faqs",
+   "kind": "page",
+   "h1": "FAQs from Highway 90 Dispensary",
+   "words": 266,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/directions/",
+   "key": "directions",
+   "kind": "page",
+   "h1": "Directions to Highway 90 Dispensary",
+   "words": 348,
+   "recall": 1,
+   "sections": 4
+  },
+  {
+   "path": "/contact/",
+   "key": "contact",
+   "kind": "page",
+   "h1": "Contact Highway 90 Dispensary",
+   "words": 95,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/reviews/",
+   "key": "reviews",
+   "kind": "page",
+   "h1": "Highway 90 Dispensary Dispensary Reviews",
+   "words": 372,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/download-the-highway-90-app/",
+   "key": "download-the-highway-90-app",
+   "kind": "page",
+   "h1": "Download The Highway 90 App",
+   "words": 75,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/about/",
+   "key": "about",
+   "kind": "page",
+   "h1": "About Highway 90 Dispensary",
+   "words": 559,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/rewards-sign-in/",
+   "key": "rewards-sign-in",
+   "kind": "page",
+   "h1": "Rewards Sign-In",
+   "words": 2,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/rewards/",
+   "key": "rewards",
+   "kind": "page",
+   "h1": "Rewards",
+   "words": 3,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/rewards-sign-up/",
+   "key": "rewards-sign-up",
+   "kind": "page",
+   "h1": "Rewards Sign-Up",
+   "words": 2,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/menu/delivery/",
+   "key": "menu__delivery",
+   "kind": "page",
+   "h1": "Cannabis Delivery For Sale Near Marlton NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/terms-of-use/",
+   "key": "terms-of-use",
+   "kind": "page",
+   "h1": "Terms of Use",
+   "words": 3639,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/privacy-policy/",
+   "key": "privacy-policy",
+   "kind": "page",
+   "h1": "Privacy Policy",
+   "words": 1556,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/menu/staff-picks/",
+   "key": "menu__staff-picks",
+   "kind": "page",
+   "h1": "Cannabis Staff Picks For Sale Near Marlton NJ",
+   "words": 15,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/menu/recreational/",
+   "key": "menu__recreational",
+   "kind": "page",
+   "h1": "Recreational Cannabis Products For Sale Near Marlton NJ",
+   "words": 14,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/menu/medical/",
+   "key": "menu__medical",
+   "kind": "page",
+   "h1": "Medical Cannabis Products For Sale Near Marlton NJ",
+   "words": 14,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/menu/featured-brand/",
+   "key": "menu__featured-brand",
+   "kind": "page",
+   "h1": "Featured Cannabis Brand For Sale Near Marlton NJ",
+   "words": 174,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/green-wednesday-deals/",
+   "key": "green-wednesday-deals",
+   "kind": "page",
+   "h1": "Highway 90 Dispensary Green Wednesday Deals Marlton",
+   "words": 345,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/advertising-with-us/",
+   "key": "advertising-with-us",
+   "kind": "page",
+   "h1": "ADVERTISE With Highway 90 Dispensary",
+   "words": 290,
+   "recall": 1,
+   "sections": 6
+  },
+  {
+   "path": "/710-deals-near-me/",
+   "key": "710-deals-near-me",
+   "kind": "page",
+   "h1": "Highway 90 710 Deals Near Me",
+   "words": 431,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/recreational/",
+   "key": "recreational",
+   "kind": "joint-archive",
+   "h1": "Cannabis Recreational Geo For Sale",
+   "words": 120,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-cherry-hill-nj-08034/",
+   "key": "recreational__recreational-cannabis-dispensary-near-cherry-hill-nj-08034",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Cherry Hill, NJ 08034",
+   "words": 1050,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-cherry-hill-nj-08002/",
+   "key": "recreational__recreational-cannabis-dispensary-near-cherry-hill-nj-08002",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Cherry Hill, NJ 08002",
+   "words": 1050,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-cherry-hill-nj-08003/",
+   "key": "recreational__recreational-cannabis-dispensary-near-cherry-hill-nj-08003",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Cherry Hill, NJ 08003",
+   "words": 1050,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-mount-holly-nj-08060/",
+   "key": "recreational__recreational-cannabis-dispensary-near-mount-holly-nj-08060",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Mount Holly, NJ 08060",
+   "words": 1050,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-camden-nj-08105/",
+   "key": "recreational__recreational-cannabis-dispensary-near-camden-nj-08105",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Camden, NJ 08105",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-palmyra-nj-08065/",
+   "key": "recreational__recreational-cannabis-dispensary-near-palmyra-nj-08065",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Palmyra, NJ 08065",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-lawnside-nj-08045/",
+   "key": "recreational__recreational-cannabis-dispensary-near-lawnside-nj-08045",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Lawnside, NJ 08045",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-berlin-nj-08009/",
+   "key": "recreational__recreational-cannabis-dispensary-near-berlin-nj-08009",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Berlin, NJ 08009",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-camden-nj-08103/",
+   "key": "recreational__recreational-cannabis-dispensary-near-camden-nj-08103",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Camden, NJ 08103",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-magnolia-nj-08049/",
+   "key": "recreational__recreational-cannabis-dispensary-near-magnolia-nj-08049",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Magnolia, NJ 08049",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-gibbsboro-nj-08026/",
+   "key": "recreational__recreational-cannabis-dispensary-near-gibbsboro-nj-08026",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Gibbsboro, NJ 08026",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-barrington-nj-08007/",
+   "key": "recreational__recreational-cannabis-dispensary-near-barrington-nj-08007",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Barrington, NJ 08007",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-riverside-nj-08075/",
+   "key": "recreational__recreational-cannabis-dispensary-near-riverside-nj-08075",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Riverside, NJ 08075",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-voorhees-nj-08043/",
+   "key": "recreational__recreational-cannabis-dispensary-near-voorhees-nj-08043",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Voorhees, NJ 08043",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-clementon-nj-08021/",
+   "key": "recreational__recreational-cannabis-dispensary-near-clementon-nj-08021",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Clementon, NJ 08021",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-riverton-nj-08077/",
+   "key": "recreational__recreational-cannabis-dispensary-near-riverton-nj-08077",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Riverton, NJ 08077",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-lumberton-nj-08048/",
+   "key": "recreational__recreational-cannabis-dispensary-near-lumberton-nj-08048",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Lumberton, NJ 08048",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-bellmawr-nj-08031/",
+   "key": "recreational__recreational-cannabis-dispensary-near-bellmawr-nj-08031",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Bellmawr, NJ 08031",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-mount-laurel-nj-08054/",
+   "key": "recreational__recreational-cannabis-dispensary-near-mount-laurel-nj-08054",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Mount Laurel, NJ 08054",
+   "words": 1050,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-moorestown-nj-08057/",
+   "key": "recreational__recreational-cannabis-dispensary-near-moorestown-nj-08057",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Moorestown, NJ 08057",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-bellmawr-nj-08099/",
+   "key": "recreational__recreational-cannabis-dispensary-near-bellmawr-nj-08099",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Bellmawr, NJ 08099",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-medford-nj-08055/",
+   "key": "recreational__recreational-cannabis-dispensary-near-medford-nj-08055",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Medford, NJ 08055",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-camden-nj-08104/",
+   "key": "recreational__recreational-cannabis-dispensary-near-camden-nj-08104",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Camden, NJ 08104",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-runnemede-nj-08078/",
+   "key": "recreational__recreational-cannabis-dispensary-near-runnemede-nj-08078",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Runnemede, NJ 08078",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-rancocas-nj-08073/",
+   "key": "recreational__recreational-cannabis-dispensary-near-rancocas-nj-08073",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Rancocas, NJ 08073",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-riverton-nj-08076/",
+   "key": "recreational__recreational-cannabis-dispensary-near-riverton-nj-08076",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Riverton, NJ 08076",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-glendora-nj-08029/",
+   "key": "recreational__recreational-cannabis-dispensary-near-glendora-nj-08029",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Glendora, NJ 08029",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-willingboro-nj-08046/",
+   "key": "recreational__recreational-cannabis-dispensary-near-willingboro-nj-08046",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Willingboro, NJ 08046",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-audubon-nj-08106/",
+   "key": "recreational__recreational-cannabis-dispensary-near-audubon-nj-08106",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Audubon, NJ 08106",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-hainesport-nj-08036/",
+   "key": "recreational__recreational-cannabis-dispensary-near-hainesport-nj-08036",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Hainesport, NJ 08036",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-west-berlin-nj-08091/",
+   "key": "recreational__recreational-cannabis-dispensary-near-west-berlin-nj-08091",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near West Berlin, NJ 08091",
+   "words": 1050,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-oaklyn-nj-08107/",
+   "key": "recreational__recreational-cannabis-dispensary-near-oaklyn-nj-08107",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Oaklyn, NJ 08107",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-maple-shade-nj-08052/",
+   "key": "recreational__recreational-cannabis-dispensary-near-maple-shade-nj-08052",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Maple Shade, NJ 08052",
+   "words": 1050,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-collingswood-nj-08108/",
+   "key": "recreational__recreational-cannabis-dispensary-near-collingswood-nj-08108",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Collingswood, NJ 08108",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-marlton-nj-08053/",
+   "key": "recreational__recreational-cannabis-dispensary-near-marlton-nj-08053",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Marlton, NJ 08053",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-merchantville-nj-08109/",
+   "key": "recreational__recreational-cannabis-dispensary-near-merchantville-nj-08109",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Merchantville, NJ 08109",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-mount-ephraim-nj-08059/",
+   "key": "recreational__recreational-cannabis-dispensary-near-mount-ephraim-nj-08059",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Mount Ephraim, NJ 08059",
+   "words": 1050,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-pennsauken-nj-08110/",
+   "key": "recreational__recreational-cannabis-dispensary-near-pennsauken-nj-08110",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Pennsauken, NJ 08110",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-somerdale-nj-08083/",
+   "key": "recreational__recreational-cannabis-dispensary-near-somerdale-nj-08083",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Somerdale, NJ 08083",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-haddonfield-nj-08033/",
+   "key": "recreational__recreational-cannabis-dispensary-near-haddonfield-nj-08033",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Haddonfield, NJ 08033",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-camden-nj-08101/",
+   "key": "recreational__recreational-cannabis-dispensary-near-camden-nj-08101",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Camden, NJ 08101",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-stratford-nj-08084/",
+   "key": "recreational__recreational-cannabis-dispensary-near-stratford-nj-08084",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Stratford, NJ 08084",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-haddon-heights-nj-08035/",
+   "key": "recreational__recreational-cannabis-dispensary-near-haddon-heights-nj-08035",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Haddon Heights, NJ 08035",
+   "words": 1050,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/recreational/recreational-cannabis-dispensary-near-camden-nj-08102/",
+   "key": "recreational__recreational-cannabis-dispensary-near-camden-nj-08102",
+   "kind": "joint-single",
+   "h1": "Recreational Cannabis Dispensary near Camden, NJ 08102",
+   "words": 1038,
+   "recall": 1,
+   "sections": 9
+  },
+  {
+   "path": "/stores/",
+   "key": "stores",
+   "kind": "joint-archive",
+   "h1": "Shop Cannabis Dispensary Locations",
+   "words": 58,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/stores/highway-90-cannabis-dispensary-marlton-nj/",
+   "key": "stores__highway-90-cannabis-dispensary-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Highway 90 Cannabis Dispensary Marlton",
+   "words": 1446,
+   "recall": 1,
+   "sections": 12
+  },
+  {
+   "path": "/specials/",
+   "key": "specials",
+   "kind": "joint-archive",
+   "h1": "Cannabis Specials at Highway 90",
+   "words": 286,
+   "recall": 1,
+   "sections": 7
+  },
+  {
+   "path": "/specials/1g-pre-roll-bundle-buy-any-5-get-20-off/",
+   "key": "specials__1g-pre-roll-bundle-buy-any-5-get-20-off",
+   "kind": "joint-single",
+   "h1": "1g Pre-Roll Bundle: Buy Any 5, Get 20% Off",
+   "words": 47,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/1g-pre-roll-bundle-buy-any-3-get-15-off/",
+   "key": "specials__1g-pre-roll-bundle-buy-any-3-get-15-off",
+   "kind": "joint-single",
+   "h1": "1g Pre-Roll Bundle: Buy Any 3, Get 15% Off",
+   "words": 47,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/1g-pre-roll-bundle-buy-any-7-get-30-off/",
+   "key": "specials__1g-pre-roll-bundle-buy-any-7-get-30-off",
+   "kind": "joint-single",
+   "h1": "1g Pre-Roll Bundle: Buy Any 7+, Get 30% Off",
+   "words": 47,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/buy-2-for-20-cloud-bar-20mg/",
+   "key": "specials__buy-2-for-20-cloud-bar-20mg",
+   "kind": "joint-single",
+   "h1": "Buy 2 for $10 Cloud Bar 20mg",
+   "words": 43,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/35-off-good-green-flower/",
+   "key": "specials__35-off-good-green-flower",
+   "kind": "joint-single",
+   "h1": "35% Off Good Green Flower",
+   "words": 42,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/40-off-shnicks-shnacks/",
+   "key": "specials__40-off-shnicks-shnacks",
+   "kind": "joint-single",
+   "h1": "40% Off Shnicks Shnacks",
+   "words": 40,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/cloud-bar-bundle-100mg/",
+   "key": "specials__cloud-bar-bundle-100mg",
+   "kind": "joint-single",
+   "h1": "Cloud Bar Bundle 100mg",
+   "words": 37,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/30-off-simply-herb-pave-3-5g/",
+   "key": "specials__30-off-simply-herb-pave-3-5g",
+   "kind": "joint-single",
+   "h1": "40% Off Simply Herb Pave 3.5g",
+   "words": 44,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/40-off-boardwalk-bliss/",
+   "key": "specials__40-off-boardwalk-bliss",
+   "kind": "joint-single",
+   "h1": "40% off boardwalk bliss",
+   "words": 40,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/30-off-lingerie-7-3-5g/",
+   "key": "specials__30-off-lingerie-7-3-5g",
+   "kind": "joint-single",
+   "h1": "40% Off Lingerie #7 3.5g",
+   "words": 42,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/25-off-half-ounces/",
+   "key": "specials__25-off-half-ounces",
+   "kind": "joint-single",
+   "h1": "25% Off Half Ounces",
+   "words": 37,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/25-off-ounces/",
+   "key": "specials__25-off-ounces",
+   "kind": "joint-single",
+   "h1": "25% Off Ounces",
+   "words": 35,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/bespoke-brand-wide-sale/",
+   "key": "specials__bespoke-brand-wide-sale",
+   "kind": "joint-single",
+   "h1": "Bespoke Brand Wide Sale",
+   "words": 43,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/50-buzz-mango-passion-fruit/",
+   "key": "specials__50-buzz-mango-passion-fruit",
+   "kind": "joint-single",
+   "h1": "50% Buzzicles Mango Passion Fruit",
+   "words": 42,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/50-buzzicle-blue-raspberry-lemonade/",
+   "key": "specials__50-buzzicle-blue-raspberry-lemonade",
+   "kind": "joint-single",
+   "h1": "50% Buzzicle Blue Raspberry Lemonade",
+   "words": 42,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/5-buzzmixers/",
+   "key": "specials__5-buzzmixers",
+   "kind": "joint-single",
+   "h1": "$5 Buzzmixers",
+   "words": 36,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/30-tumble-pog-infused-pr/",
+   "key": "specials__30-tumble-pog-infused-pr",
+   "kind": "joint-single",
+   "h1": "30% Tumble POG Infused PR",
+   "words": 39,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/40-off-the-farmers-market-on-wednesdays/",
+   "key": "specials__40-off-the-farmers-market-on-wednesdays",
+   "kind": "joint-single",
+   "h1": "40% Off The Farmers Market On Wednesdays",
+   "words": 45,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/specials/20-off-timeless-noir/",
+   "key": "specials__20-off-timeless-noir",
+   "kind": "joint-single",
+   "h1": "20% Off Timeless & Noir",
+   "words": 37,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/",
+   "key": "categories",
+   "kind": "joint-archive",
+   "h1": "Cannabis Categories For Sale",
+   "words": 36,
+   "recall": 1,
+   "sections": 4
+  },
+  {
+   "path": "/categories/flower/shake-trim/",
+   "key": "categories__flower__shake-trim",
+   "kind": "joint-single",
+   "h1": "Cannabis Shake Weed For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/tinctures/ratio/",
+   "key": "categories__tinctures__ratio",
+   "kind": "joint-single",
+   "h1": "Cannabis Ratio For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/topicals/",
+   "key": "categories__topicals",
+   "kind": "joint-single",
+   "h1": "Cannabis Topicals For Sale in Marlton, NJ",
+   "words": 827,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/categories/tinctures/",
+   "key": "categories__tinctures",
+   "kind": "joint-single",
+   "h1": "Cannabis Tinctures For Sale in Marlton, NJ",
+   "words": 772,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/categories/accessories/",
+   "key": "categories__accessories",
+   "kind": "joint-single",
+   "h1": "Cannabis Accessories For Sale in Marlton, NJ",
+   "words": 734,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/categories/edibles/",
+   "key": "categories__edibles",
+   "kind": "joint-single",
+   "h1": "Cannabis Edibles For Sale in Marlton, NJ",
+   "words": 880,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/categories/concentrates/",
+   "key": "categories__concentrates",
+   "kind": "joint-single",
+   "h1": "Cannabis Concentrates For Sale in Marlton, NJ",
+   "words": 968,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/categories/vaporizers/",
+   "key": "categories__vaporizers",
+   "kind": "joint-single",
+   "h1": "Cannabis Vaporizers For Sale in Marlton, NJ",
+   "words": 799,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/categories/pre-rolls/",
+   "key": "categories__pre-rolls",
+   "kind": "joint-single",
+   "h1": "Cannabis Pre-Rolls For Sale in Marlton, NJ",
+   "words": 627,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/categories/flower/",
+   "key": "categories__flower",
+   "kind": "joint-single",
+   "h1": "Cannabis Flower For Sale in Marlton, NJ",
+   "words": 832,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/categories/concentrates/cooking-baking/",
+   "key": "categories__concentrates__cooking-baking",
+   "kind": "joint-single",
+   "h1": "Cannabis Cooking Baking For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/edibles/frozen-treats/",
+   "key": "categories__edibles__frozen-treats",
+   "kind": "joint-single",
+   "h1": "Cannabis Frozen Treats For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/tinctures/unflavored/",
+   "key": "categories__tinctures__unflavored",
+   "kind": "joint-single",
+   "h1": "Cannabis Unflavored For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/vaporizers/live-resin-cartidge/",
+   "key": "categories__vaporizers__live-resin-cartidge",
+   "kind": "joint-single",
+   "h1": "Cannabis Live Resin Cartidge For Sale in Marlton, NJ",
+   "words": 15,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/vaporizers/pods/",
+   "key": "categories__vaporizers__pods",
+   "kind": "joint-single",
+   "h1": "Cannabis Pods For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/pre-rolls/single-infused-pre-roll/",
+   "key": "categories__pre-rolls__single-infused-pre-roll",
+   "kind": "joint-single",
+   "h1": "Cannabis Single Infused Pre Roll For Sale in Marlton, NJ",
+   "words": 17,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/pre-rolls/infused-pre-roll-packs/",
+   "key": "categories__pre-rolls__infused-pre-roll-packs",
+   "kind": "joint-single",
+   "h1": "Cannabis Infused Pre Roll Packs For Sale in Marlton, NJ",
+   "words": 17,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/pre-rolls/blunts/",
+   "key": "categories__pre-rolls__blunts",
+   "kind": "joint-single",
+   "h1": "Cannabis Blunts For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/flower/pre-ground/",
+   "key": "categories__flower__pre-ground",
+   "kind": "joint-single",
+   "h1": "Cannabis Pre Ground For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/vaporizers/live-resin/",
+   "key": "categories__vaporizers__live-resin",
+   "kind": "joint-single",
+   "h1": "Cannabis Live Resin For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/vaporizers/cured-resin-disposable/",
+   "key": "categories__vaporizers__cured-resin-disposable",
+   "kind": "joint-single",
+   "h1": "Cannabis Cured Resin Disposable For Sale in Marlton, NJ",
+   "words": 15,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/vaporizers/live-rosin-disposable/",
+   "key": "categories__vaporizers__live-rosin-disposable",
+   "kind": "joint-single",
+   "h1": "Cannabis Live Rosin Disposable For Sale in Marlton, NJ",
+   "words": 15,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/edibles/live-resin-gummies/",
+   "key": "categories__edibles__live-resin-gummies",
+   "kind": "joint-single",
+   "h1": "Cannabis Live Resin Gummies For Sale in Marlton, NJ",
+   "words": 15,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/vaporizers/live-resin-disposable/",
+   "key": "categories__vaporizers__live-resin-disposable",
+   "kind": "joint-single",
+   "h1": "Cannabis Live Resin Disposable For Sale in Marlton, NJ",
+   "words": 15,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/edibles/drink-mixes/",
+   "key": "categories__edibles__drink-mixes",
+   "kind": "joint-single",
+   "h1": "Cannabis Drink Mixes For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/edibles/sublingual/",
+   "key": "categories__edibles__sublingual",
+   "kind": "joint-single",
+   "h1": "Cannabis Sublingual For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/topicals/sticks-roll-ons/",
+   "key": "categories__topicals__sticks-roll-ons",
+   "kind": "joint-single",
+   "h1": "Cannabis Sticks Roll Ons For Sale in Marlton, NJ",
+   "words": 15,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/edibles/candy/",
+   "key": "categories__edibles__candy",
+   "kind": "joint-single",
+   "h1": "Cannabis Candy For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/edibles/baked-goods/",
+   "key": "categories__edibles__baked-goods",
+   "kind": "joint-single",
+   "h1": "Cannabis Baked Goods For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/edibles/cooking-baking/",
+   "key": "categories__edibles__cooking-baking",
+   "kind": "joint-single",
+   "h1": "Cannabis Cooking Baking For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/accessories/devices/",
+   "key": "categories__accessories__devices",
+   "kind": "joint-single",
+   "h1": "Cannabis Devices For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/edibles/live-rosin-gummies/",
+   "key": "categories__edibles__live-rosin-gummies",
+   "kind": "joint-single",
+   "h1": "Cannabis Live Rosin Gummies For Sale in Marlton, NJ",
+   "words": 15,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/flower/whole-flower/",
+   "key": "categories__flower__whole-flower",
+   "kind": "joint-single",
+   "h1": "Cannabis Whole Flower For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/flower/premium/",
+   "key": "categories__flower__premium",
+   "kind": "joint-single",
+   "h1": "Cannabis Premium For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/edibles/mints/",
+   "key": "categories__edibles__mints",
+   "kind": "joint-single",
+   "h1": "Cannabis Mints For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/concentrates/shatter/",
+   "key": "categories__concentrates__shatter",
+   "kind": "joint-single",
+   "h1": "Cannabis Shatter For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/concentrates/live-rosin/",
+   "key": "categories__concentrates__live-rosin",
+   "kind": "joint-single",
+   "h1": "Cannabis Live Rosin For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/concentrates/crumble/",
+   "key": "categories__concentrates__crumble",
+   "kind": "joint-single",
+   "h1": "Cannabis Crumble For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/flower/smalls-popcorn/",
+   "key": "categories__flower__smalls-popcorn",
+   "kind": "joint-single",
+   "h1": "Cannabis Smalls Popcorn For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/concentrates/diamonds/",
+   "key": "categories__concentrates__diamonds",
+   "kind": "joint-single",
+   "h1": "Cannabis Diamonds For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/tinctures/flavored/",
+   "key": "categories__tinctures__flavored",
+   "kind": "joint-single",
+   "h1": "Cannabis Flavored For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/concentrates/rosin/",
+   "key": "categories__concentrates__rosin",
+   "kind": "joint-single",
+   "h1": "Cannabis Rosin For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/accessories/trays/",
+   "key": "categories__accessories__trays",
+   "kind": "joint-single",
+   "h1": "Cannabis Trays For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/accessories/storage-containers/",
+   "key": "categories__accessories__storage-containers",
+   "kind": "joint-single",
+   "h1": "Cannabis Storage Containers For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/concentrates/applicators/",
+   "key": "categories__concentrates__applicators",
+   "kind": "joint-single",
+   "h1": "Cannabis Applicators For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/edibles/capsules-tablets/",
+   "key": "categories__edibles__capsules-tablets",
+   "kind": "joint-single",
+   "h1": "Cannabis Capsules / Tablets For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/pre-rolls/infused/",
+   "key": "categories__pre-rolls__infused",
+   "kind": "joint-single",
+   "h1": "Cannabis Infused For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/concentrates/rso/",
+   "key": "categories__concentrates__rso",
+   "kind": "joint-single",
+   "h1": "Cannabis Rso For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/topicals/balms/",
+   "key": "categories__topicals__balms",
+   "kind": "joint-single",
+   "h1": "Cannabis Balms For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/flower/small-buds/",
+   "key": "categories__flower__small-buds",
+   "kind": "joint-single",
+   "h1": "Cannabis Small Buds For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/concentrates/badder/",
+   "key": "categories__concentrates__badder",
+   "kind": "joint-single",
+   "h1": "Cannabis Badder For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/edibles/gummies/",
+   "key": "categories__edibles__gummies",
+   "kind": "joint-single",
+   "h1": "Cannabis Gummies For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/concentrates/sugar/",
+   "key": "categories__concentrates__sugar",
+   "kind": "joint-single",
+   "h1": "Cannabis Sugar For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/edibles/chocolates/",
+   "key": "categories__edibles__chocolates",
+   "kind": "joint-single",
+   "h1": "Cannabis Chocolates For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/concentrates/budder/",
+   "key": "categories__concentrates__budder",
+   "kind": "joint-single",
+   "h1": "Cannabis Budder For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/concentrates/hash/",
+   "key": "categories__concentrates__hash",
+   "kind": "joint-single",
+   "h1": "Cannabis Hash For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/edibles/chews/",
+   "key": "categories__edibles__chews",
+   "kind": "joint-single",
+   "h1": "Cannabis Chews For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/concentrates/live-resin/",
+   "key": "categories__concentrates__live-resin",
+   "kind": "joint-single",
+   "h1": "Cannabis Live Resin For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/edibles/lozenges/",
+   "key": "categories__edibles__lozenges",
+   "kind": "joint-single",
+   "h1": "Cannabis Lozenges For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/concentrates/sauce/",
+   "key": "categories__concentrates__sauce",
+   "kind": "joint-single",
+   "h1": "Cannabis Sauce For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/edibles/drinks/",
+   "key": "categories__edibles__drinks",
+   "kind": "joint-single",
+   "h1": "Cannabis Drinks For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/topicals/lotions/",
+   "key": "categories__topicals__lotions",
+   "kind": "joint-single",
+   "h1": "Cannabis Lotions For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/pre-rolls/singles/",
+   "key": "categories__pre-rolls__singles",
+   "kind": "joint-single",
+   "h1": "Cannabis Singles For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/topicals/transdermal-patches/",
+   "key": "categories__topicals__transdermal-patches",
+   "kind": "joint-single",
+   "h1": "Cannabis Transdermal Patches For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/pre-rolls/packs/",
+   "key": "categories__pre-rolls__packs",
+   "kind": "joint-single",
+   "h1": "Cannabis Packs For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/accessories/glassware/",
+   "key": "categories__accessories__glassware",
+   "kind": "joint-single",
+   "h1": "Cannabis Glassware For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/accessories/batteries/",
+   "key": "categories__accessories__batteries",
+   "kind": "joint-single",
+   "h1": "Cannabis Batteries For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/accessories/lighters/",
+   "key": "categories__accessories__lighters",
+   "kind": "joint-single",
+   "h1": "Cannabis Lighters For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/accessories/gift-cards/",
+   "key": "categories__accessories__gift-cards",
+   "kind": "joint-single",
+   "h1": "Cannabis Gift Cards For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/vaporizers/cartridges/",
+   "key": "categories__vaporizers__cartridges",
+   "kind": "joint-single",
+   "h1": "Cannabis Cartridges For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/accessories/dab-tools/",
+   "key": "categories__accessories__dab-tools",
+   "kind": "joint-single",
+   "h1": "Cannabis Dab Tools For Sale in Marlton, NJ",
+   "words": 13,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/vaporizers/disposables/",
+   "key": "categories__vaporizers__disposables",
+   "kind": "joint-single",
+   "h1": "Cannabis Disposables For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/accessories/grinders/",
+   "key": "categories__accessories__grinders",
+   "kind": "joint-single",
+   "h1": "Cannabis Grinders For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/accessories/papers-rolling-supplies/",
+   "key": "categories__accessories__papers-rolling-supplies",
+   "kind": "joint-single",
+   "h1": "Cannabis Papers Rolling Supplies For Sale in Marlton, NJ",
+   "words": 15,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/cbd/",
+   "key": "categories__cbd",
+   "kind": "joint-single",
+   "h1": "Cannabis CBD For Sale in Marlton, NJ",
+   "words": 390,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/categories/merch/",
+   "key": "categories__merch",
+   "kind": "joint-single",
+   "h1": "Cannabis Merch For Sale in Marlton, NJ",
+   "words": 711,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/categories/plant/",
+   "key": "categories__plant",
+   "kind": "joint-single",
+   "h1": "Cannabis Plant For Sale in Marlton, NJ",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/flower/sativa/",
+   "key": "categories__flower__sativa",
+   "kind": "joint-single",
+   "h1": "Cannabis Sativa For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/flower/indica/",
+   "key": "categories__flower__indica",
+   "kind": "joint-single",
+   "h1": "Cannabis Indica For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/flower/hybrid/",
+   "key": "categories__flower__hybrid",
+   "kind": "joint-single",
+   "h1": "Cannabis Hybrid For Sale in Marlton, NJ",
+   "words": 11,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/categories/oral/",
+   "key": "categories__oral",
+   "kind": "joint-single",
+   "h1": "Cannabis Oral For Sale in Marlton, NJ",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/strains/",
+   "key": "strains",
+   "kind": "joint-archive",
+   "h1": "Cannabis Strains For Sale",
+   "words": 42,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/strains/two-to-one/",
+   "key": "strains__two-to-one",
+   "kind": "joint-single",
+   "h1": "Two To One Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/strains/indica-hybrid/",
+   "key": "strains__indica-hybrid",
+   "kind": "joint-single",
+   "h1": "Indica Hybrid Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/strains/sativa-hybrid/",
+   "key": "strains__sativa-hybrid",
+   "kind": "joint-single",
+   "h1": "Sativa Hybrid Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/strains/one-to-one/",
+   "key": "strains__one-to-one",
+   "kind": "joint-single",
+   "h1": "One To One Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/strains/twenty-to-one/",
+   "key": "strains__twenty-to-one",
+   "kind": "joint-single",
+   "h1": "Twenty To One Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/strains/high-cbd/",
+   "key": "strains__high-cbd",
+   "kind": "joint-single",
+   "h1": "High CBD Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/strains/sativa/",
+   "key": "strains__sativa",
+   "kind": "joint-single",
+   "h1": "Sativa Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/strains/indica/",
+   "key": "strains__indica",
+   "kind": "joint-single",
+   "h1": "Indica Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/strains/hybrid/",
+   "key": "strains__hybrid",
+   "kind": "joint-single",
+   "h1": "Hybrid Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/effects/",
+   "key": "effects",
+   "kind": "joint-archive",
+   "h1": "Cannabis Effects For Sale",
+   "words": 41,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/effects/clear-mind/",
+   "key": "effects__clear-mind",
+   "kind": "joint-single",
+   "h1": "Clear Mind Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/effects/energetic/",
+   "key": "effects__energetic",
+   "kind": "joint-single",
+   "h1": "Energetic Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/effects/creative/",
+   "key": "effects__creative",
+   "kind": "joint-single",
+   "h1": "Creative Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/effects/inspired/",
+   "key": "effects__inspired",
+   "kind": "joint-single",
+   "h1": "Inspired Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/effects/focused/",
+   "key": "effects__focused",
+   "kind": "joint-single",
+   "h1": "Focused Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/effects/happy/",
+   "key": "effects__happy",
+   "kind": "joint-single",
+   "h1": "Happy Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/effects/sleepy/",
+   "key": "effects__sleepy",
+   "kind": "joint-single",
+   "h1": "Sleepy Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/effects/calm/",
+   "key": "effects__calm",
+   "kind": "joint-single",
+   "h1": "Calm Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/effects/relaxed/",
+   "key": "effects__relaxed",
+   "kind": "joint-single",
+   "h1": "Relaxed Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/effects/head-high/",
+   "key": "effects__head-high",
+   "kind": "joint-single",
+   "h1": "Head High Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/effects/uplifted/",
+   "key": "effects__uplifted",
+   "kind": "joint-single",
+   "h1": "Uplifted Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/",
+   "key": "terpenes",
+   "kind": "joint-archive",
+   "h1": "Cannabis Terpenes For Sale",
+   "words": 51,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/terpenes/total-terpenes/",
+   "key": "terpenes__total-terpenes",
+   "kind": "joint-single",
+   "h1": "Total Terpenes",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/beta-eudesmol/",
+   "key": "terpenes__beta-eudesmol",
+   "kind": "joint-single",
+   "h1": "Beta Eudesmol",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/trans-caryophyllene-2/",
+   "key": "terpenes__trans-caryophyllene-2",
+   "kind": "joint-single",
+   "h1": "Trans-Caryophyllene",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/trans-nerolidol-2/",
+   "key": "terpenes__trans-nerolidol-2",
+   "kind": "joint-single",
+   "h1": "Trans-Nerolidol",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/bisabolol/",
+   "key": "terpenes__bisabolol",
+   "kind": "joint-single",
+   "h1": "Bisabolol",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/alpha-thujone/",
+   "key": "terpenes__alpha-thujone",
+   "kind": "joint-single",
+   "h1": "ALPHA THUJONE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/cis-nerolidol/",
+   "key": "terpenes__cis-nerolidol",
+   "kind": "joint-single",
+   "h1": "CIS NEROLIDOL",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/fenchol/",
+   "key": "terpenes__fenchol",
+   "kind": "joint-single",
+   "h1": "FENCHOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/linalyl-acetate/",
+   "key": "terpenes__linalyl-acetate",
+   "kind": "joint-single",
+   "h1": "LINALYL ACETATE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/sabinene/",
+   "key": "terpenes__sabinene",
+   "kind": "joint-single",
+   "h1": "SABINENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/bergamotene/",
+   "key": "terpenes__bergamotene",
+   "kind": "joint-single",
+   "h1": "BERGAMOTENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/cis-ocimene/",
+   "key": "terpenes__cis-ocimene",
+   "kind": "joint-single",
+   "h1": "CIS OCIMENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/fenchone/",
+   "key": "terpenes__fenchone",
+   "kind": "joint-single",
+   "h1": "FENCHONE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/m-cymene/",
+   "key": "terpenes__m-cymene",
+   "kind": "joint-single",
+   "h1": "M CYMENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/sabinene-hydrate/",
+   "key": "terpenes__sabinene-hydrate",
+   "kind": "joint-single",
+   "h1": "SABINENE HYDRATE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/beta-caryophyllene/",
+   "key": "terpenes__beta-caryophyllene",
+   "kind": "joint-single",
+   "h1": "BETA CARYOPHYLLENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/citral/",
+   "key": "terpenes__citral",
+   "kind": "joint-single",
+   "h1": "CITRAL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/fenchyl-alcohol/",
+   "key": "terpenes__fenchyl-alcohol",
+   "kind": "joint-single",
+   "h1": "FENCHYL ALCOHOL",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/menthofuran/",
+   "key": "terpenes__menthofuran",
+   "kind": "joint-single",
+   "h1": "MENTHOFURAN",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/terpinene/",
+   "key": "terpenes__terpinene",
+   "kind": "joint-single",
+   "h1": "TERPINENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/beta-curcumene/",
+   "key": "terpenes__beta-curcumene",
+   "kind": "joint-single",
+   "h1": "BETA CURCUMENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/citronellal/",
+   "key": "terpenes__citronellal",
+   "kind": "joint-single",
+   "h1": "CITRONELLAL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/gamma-terpinene/",
+   "key": "terpenes__gamma-terpinene",
+   "kind": "joint-single",
+   "h1": "GAMMA TERPINENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/menthol/",
+   "key": "terpenes__menthol",
+   "kind": "joint-single",
+   "h1": "MENTHOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/terpineol/",
+   "key": "terpenes__terpineol",
+   "kind": "joint-single",
+   "h1": "TERPINEOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/beta-myrcene/",
+   "key": "terpenes__beta-myrcene",
+   "kind": "joint-single",
+   "h1": "BETA MYRCENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/citronellol/",
+   "key": "terpenes__citronellol",
+   "kind": "joint-single",
+   "h1": "CITRONELLOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/geraniol/",
+   "key": "terpenes__geraniol",
+   "kind": "joint-single",
+   "h1": "GERANIOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/myrcene/",
+   "key": "terpenes__myrcene",
+   "kind": "joint-single",
+   "h1": "MYRCENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/terpinolene/",
+   "key": "terpenes__terpinolene",
+   "kind": "joint-single",
+   "h1": "TERPINOLENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/beta-pinene/",
+   "key": "terpenes__beta-pinene",
+   "kind": "joint-single",
+   "h1": "BETA PINENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/cuminaldehyde/",
+   "key": "terpenes__cuminaldehyde",
+   "kind": "joint-single",
+   "h1": "CUMINALDEHYDE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/geranyl-acetate/",
+   "key": "terpenes__geranyl-acetate",
+   "kind": "joint-single",
+   "h1": "GERANYL ACETATE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/nerol/",
+   "key": "terpenes__nerol",
+   "kind": "joint-single",
+   "h1": "NEROL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/trans-caryophyllene/",
+   "key": "terpenes__trans-caryophyllene",
+   "kind": "joint-single",
+   "h1": "TRANS CARYOPHYLLENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/borneol/",
+   "key": "terpenes__borneol",
+   "kind": "joint-single",
+   "h1": "BORNEOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/cuparene/",
+   "key": "terpenes__cuparene",
+   "kind": "joint-single",
+   "h1": "CUPARENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/guaiazulene/",
+   "key": "terpenes__guaiazulene",
+   "kind": "joint-single",
+   "h1": "GUAIAZULENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/nerolidol/",
+   "key": "terpenes__nerolidol",
+   "kind": "joint-single",
+   "h1": "NEROLIDOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/trans-nerolidol/",
+   "key": "terpenes__trans-nerolidol",
+   "kind": "joint-single",
+   "h1": "TRANS NEROLIDOL",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/cadinene/",
+   "key": "terpenes__cadinene",
+   "kind": "joint-single",
+   "h1": "CADINENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/cymene/",
+   "key": "terpenes__cymene",
+   "kind": "joint-single",
+   "h1": "CYMENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/guaiol/",
+   "key": "terpenes__guaiol",
+   "kind": "joint-single",
+   "h1": "GUAIOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/nookatone/",
+   "key": "terpenes__nookatone",
+   "kind": "joint-single",
+   "h1": "NOOKATONE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/valencene/",
+   "key": "terpenes__valencene",
+   "kind": "joint-single",
+   "h1": "VALENCENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/camphene/",
+   "key": "terpenes__camphene",
+   "kind": "joint-single",
+   "h1": "CAMPHENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/d-limonene/",
+   "key": "terpenes__d-limonene",
+   "kind": "joint-single",
+   "h1": "D LIMONENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/hexahydrothymol/",
+   "key": "terpenes__hexahydrothymol",
+   "kind": "joint-single",
+   "h1": "HEXAHYDROTHYMOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/ocimene/",
+   "key": "terpenes__ocimene",
+   "kind": "joint-single",
+   "h1": "OCIMENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/camphor/",
+   "key": "terpenes__camphor",
+   "kind": "joint-single",
+   "h1": "CAMPHOR",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/d-l-menthol/",
+   "key": "terpenes__d-l-menthol",
+   "kind": "joint-single",
+   "h1": "D/L MENTHOL",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/humulene/",
+   "key": "terpenes__humulene",
+   "kind": "joint-single",
+   "h1": "HUMULENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/octanol/",
+   "key": "terpenes__octanol",
+   "kind": "joint-single",
+   "h1": "OCTANOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/carvacrol/",
+   "key": "terpenes__carvacrol",
+   "kind": "joint-single",
+   "h1": "CARVACROL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/delta-3-carene/",
+   "key": "terpenes__delta-3-carene",
+   "kind": "joint-single",
+   "h1": "DELTA 3 CARENE",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/isoborneol/",
+   "key": "terpenes__isoborneol",
+   "kind": "joint-single",
+   "h1": "ISOBORNEOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/para-cymene/",
+   "key": "terpenes__para-cymene",
+   "kind": "joint-single",
+   "h1": "PARA CYMENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/alpha-gurjunene/",
+   "key": "terpenes__alpha-gurjunene",
+   "kind": "joint-single",
+   "h1": "ALPHA GURJUNENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/caryophyllene/",
+   "key": "terpenes__caryophyllene",
+   "kind": "joint-single",
+   "h1": "CARYOPHYLLENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/endo-fenchyl/",
+   "key": "terpenes__endo-fenchyl",
+   "kind": "joint-single",
+   "h1": "ENDO FENCHYL",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/isolongifolene/",
+   "key": "terpenes__isolongifolene",
+   "kind": "joint-single",
+   "h1": "ISOLONGIFOLENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/phellandrene/",
+   "key": "terpenes__phellandrene",
+   "kind": "joint-single",
+   "h1": "PHELLANDRENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/alpha-humulene/",
+   "key": "terpenes__alpha-humulene",
+   "kind": "joint-single",
+   "h1": "ALPHA HUMULENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/caryophyllene-oxide/",
+   "key": "terpenes__caryophyllene-oxide",
+   "kind": "joint-single",
+   "h1": "CARYOPHYLLENE OXIDE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/eucalyptol/",
+   "key": "terpenes__eucalyptol",
+   "kind": "joint-single",
+   "h1": "EUCALYPTOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/isopulegol/",
+   "key": "terpenes__isopulegol",
+   "kind": "joint-single",
+   "h1": "ISOPULEGOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/phytol/",
+   "key": "terpenes__phytol",
+   "kind": "joint-single",
+   "h1": "PHYTOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/alpha-phellandrene/",
+   "key": "terpenes__alpha-phellandrene",
+   "kind": "joint-single",
+   "h1": "ALPHA PHELLANDRENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/cedrene/",
+   "key": "terpenes__cedrene",
+   "kind": "joint-single",
+   "h1": "CEDRENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/eugenol/",
+   "key": "terpenes__eugenol",
+   "kind": "joint-single",
+   "h1": "EUGENOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/ledene/",
+   "key": "terpenes__ledene",
+   "kind": "joint-single",
+   "h1": "LEDENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/pinene/",
+   "key": "terpenes__pinene",
+   "kind": "joint-single",
+   "h1": "PINENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/alpha-pinene/",
+   "key": "terpenes__alpha-pinene",
+   "kind": "joint-single",
+   "h1": "ALPHA PINENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/cedrol/",
+   "key": "terpenes__cedrol",
+   "kind": "joint-single",
+   "h1": "CEDROL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/farnesene/",
+   "key": "terpenes__farnesene",
+   "kind": "joint-single",
+   "h1": "FARNESENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/limonene/",
+   "key": "terpenes__limonene",
+   "kind": "joint-single",
+   "h1": "LIMONENE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/piperitone/",
+   "key": "terpenes__piperitone",
+   "kind": "joint-single",
+   "h1": "PIPERITONE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/alpha-terpineol/",
+   "key": "terpenes__alpha-terpineol",
+   "kind": "joint-single",
+   "h1": "ALPHA TERPINEOL",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/cis-citral/",
+   "key": "terpenes__cis-citral",
+   "kind": "joint-single",
+   "h1": "CIS CITRAL",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/farnesol/",
+   "key": "terpenes__farnesol",
+   "kind": "joint-single",
+   "h1": "FARNESOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/linalool/",
+   "key": "terpenes__linalool",
+   "kind": "joint-single",
+   "h1": "LINALOOL",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/pulegone/",
+   "key": "terpenes__pulegone",
+   "kind": "joint-single",
+   "h1": "PULEGONE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/carvone/",
+   "key": "terpenes__carvone",
+   "kind": "joint-single",
+   "h1": "CARVONE",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/alpha-caryophyllene/",
+   "key": "terpenes__alpha-caryophyllene",
+   "kind": "joint-single",
+   "h1": "ALPHA CARYOPHYLLENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/alpha-terpinene/",
+   "key": "terpenes__alpha-terpinene",
+   "kind": "joint-single",
+   "h1": "ALPHA TERPINENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/orange-terpenes/",
+   "key": "terpenes__orange-terpenes",
+   "kind": "joint-single",
+   "h1": "ORANGE TERPENES",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/alpha-bisabolol/",
+   "key": "terpenes__alpha-bisabolol",
+   "kind": "joint-single",
+   "h1": "ALPHA BISABOLOL",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/alpha-cedrene/",
+   "key": "terpenes__alpha-cedrene",
+   "kind": "joint-single",
+   "h1": "ALPHA CEDRENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/alpha-curcumene/",
+   "key": "terpenes__alpha-curcumene",
+   "kind": "joint-single",
+   "h1": "ALPHA CURCUMENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/terpenes/alpha-farnesene/",
+   "key": "terpenes__alpha-farnesene",
+   "kind": "joint-single",
+   "h1": "ALPHA FARNESENE",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/",
+   "key": "cannabinoids",
+   "kind": "joint-archive",
+   "h1": "Cannabis Cannabinoids For Sale",
+   "words": 63,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/cannabinoids/cbca-cannabichromenenic-acid/",
+   "key": "cannabinoids__cbca-cannabichromenenic-acid",
+   "kind": "joint-single",
+   "h1": "CBCA (Cannabichromenenic acid)",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/cbga-cannabigerolic-acid/",
+   "key": "cannabinoids__cbga-cannabigerolic-acid",
+   "kind": "joint-single",
+   "h1": "CBGA (Cannabigerolic acid)",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/thcva-tetrahydrocanabivarinic-acid/",
+   "key": "cannabinoids__thcva-tetrahydrocanabivarinic-acid",
+   "kind": "joint-single",
+   "h1": "THCVA (Tetrahydrocanabivarinic acid)",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/thcv-tetrahydrocannabivarin/",
+   "key": "cannabinoids__thcv-tetrahydrocannabivarin",
+   "kind": "joint-single",
+   "h1": "THCV (Tetrahydrocannabivarin)",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/cbc-cannabichromene/",
+   "key": "cannabinoids__cbc-cannabichromene",
+   "kind": "joint-single",
+   "h1": "CBC (Cannabichromene)",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/thc-d9-delta-9-tetrahydrocannabinol/",
+   "key": "cannabinoids__thc-d9-delta-9-tetrahydrocannabinol",
+   "kind": "joint-single",
+   "h1": "THC-D9 (Delta 9–tetrahydrocannabinol)",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/cbg-cannabigerol/",
+   "key": "cannabinoids__cbg-cannabigerol",
+   "kind": "joint-single",
+   "h1": "CBG (Cannabigerol)",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/thca-%ce%b49-tetrahydrocannabinolic-acid/",
+   "key": "cannabinoids__thca-%ce%b49-tetrahydrocannabinolic-acid",
+   "kind": "joint-single",
+   "h1": "THCA (Δ9-tetrahydrocannabinolic acid)",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/cbn-cannabinol/",
+   "key": "cannabinoids__cbn-cannabinol",
+   "kind": "joint-single",
+   "h1": "CBN (Cannabinol)",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/cbd-cannabidiol/",
+   "key": "cannabinoids__cbd-cannabidiol",
+   "kind": "joint-single",
+   "h1": "CBD (Cannabidiol)",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/cbda-cannabidiolic-acid/",
+   "key": "cannabinoids__cbda-cannabidiolic-acid",
+   "kind": "joint-single",
+   "h1": "CBDA (Cannabidiolic acid)",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/tac-total-active-cannabinoids/",
+   "key": "cannabinoids__tac-total-active-cannabinoids",
+   "kind": "joint-single",
+   "h1": "“TAC” – Total Active Cannabinoids",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/delta-8-thc/",
+   "key": "cannabinoids__delta-8-thc",
+   "kind": "joint-single",
+   "h1": "DELTA-8 THC",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/delta-9-thc/",
+   "key": "cannabinoids__delta-9-thc",
+   "kind": "joint-single",
+   "h1": "DELTA-9 THC",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/thca/",
+   "key": "cannabinoids__thca",
+   "kind": "joint-single",
+   "h1": "THCA",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/thcv/",
+   "key": "cannabinoids__thcv",
+   "kind": "joint-single",
+   "h1": "THCV",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/cbcv/",
+   "key": "cannabinoids__cbcv",
+   "kind": "joint-single",
+   "h1": "CBCV",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/total-cannabinoids/",
+   "key": "cannabinoids__total-cannabinoids",
+   "kind": "joint-single",
+   "h1": "TOTAL CANNABINOIDS",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/cbc/",
+   "key": "cannabinoids__cbc",
+   "kind": "joint-single",
+   "h1": "CBC",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/cbda/",
+   "key": "cannabinoids__cbda",
+   "kind": "joint-single",
+   "h1": "CBDA",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/cbdv/",
+   "key": "cannabinoids__cbdv",
+   "kind": "joint-single",
+   "h1": "CBDV",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/cbg/",
+   "key": "cannabinoids__cbg",
+   "kind": "joint-single",
+   "h1": "CBG",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/cbga/",
+   "key": "cannabinoids__cbga",
+   "kind": "joint-single",
+   "h1": "CBGA",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/cbgv/",
+   "key": "cannabinoids__cbgv",
+   "kind": "joint-single",
+   "h1": "CBGV",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/cannabinoids/cbn/",
+   "key": "cannabinoids__cbn",
+   "kind": "joint-single",
+   "h1": "CBN",
+   "words": 4,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/events/",
+   "key": "events",
+   "kind": "event",
+   "h1": "Highway 90 Dispensary Cannabis Dispensary Events",
+   "words": 167,
+   "recall": 0.8982,
+   "sections": 0,
+   "missing": [
+    "0",
+    "found",
+    "there",
+    "are",
+    "no",
+    "latest",
+    "past",
+    "events",
+    "oct",
+    "2026",
+    "10",
+    "apr",
+    "19",
+    "apr",
+    "2025",
+    "11",
+    "2025"
+   ]
+  },
+  {
+   "path": "/event/highway-90-dispensary-rnb-chills-summer-finale-festival/",
+   "key": "event__highway-90-dispensary-rnb-chills-summer-finale-festival",
+   "kind": "event",
+   "h1": "Highway 90 Dispensary Cannabis Dispensary Events",
+   "words": 446,
+   "recall": 0.9283,
+   "sections": 0,
+   "missing": [
+    "event",
+    "has",
+    "passed",
+    "00",
+    "00",
+    "october",
+    "12",
+    "pm",
+    "7",
+    "pm",
+    "all",
+    "this",
+    "10",
+    "details",
+    "date",
+    "october",
+    "10",
+    "time",
+    "12",
+    "00",
+    "pm",
+    "7",
+    "00",
+    "pm",
+    "event",
+    "tags",
+    "first",
+    "time",
+    "customer",
+    "discounts",
+    "organizers",
+    "venue"
+   ]
+  },
+  {
+   "path": "/event/highway-90s-2nd-annual-4-20-fest/",
+   "key": "event__highway-90s-2nd-annual-4-20-fest",
+   "kind": "event",
+   "h1": "Highway 90 Dispensary Cannabis Dispensary Events",
+   "words": 459,
+   "recall": 0.9542,
+   "sections": 0,
+   "missing": [
+    "has",
+    "passed",
+    "2025",
+    "2025",
+    "april",
+    "19",
+    "april",
+    "event",
+    "all",
+    "this",
+    "details",
+    "start",
+    "april",
+    "19",
+    "2025",
+    "end",
+    "april",
+    "2025",
+    "website",
+    "https",
+    "www.thehighway90.com"
+   ]
+  },
+  {
+   "path": "/event/fern20-tour-at-highway-90-dispensary/",
+   "key": "event__fern20-tour-at-highway-90-dispensary",
+   "kind": "event",
+   "h1": "Highway 90 Dispensary Cannabis Dispensary Events",
+   "words": 300,
+   "recall": 0.9,
+   "sections": 0,
+   "missing": [
+    "event",
+    "has",
+    "passed",
+    "11",
+    "2025",
+    "5",
+    "00",
+    "pm",
+    "7",
+    "00",
+    "pm",
+    "april",
+    "all",
+    "this",
+    "details",
+    "date",
+    "april",
+    "11",
+    "2025",
+    "time",
+    "5",
+    "00",
+    "pm",
+    "7",
+    "00",
+    "pm",
+    "website",
+    "https",
+    "www.thehighway90.com",
+    "brands"
+   ]
+  },
+  {
+   "path": "/event/flower-by-edie-parker-pop-up/",
+   "key": "event__flower-by-edie-parker-pop-up",
+   "kind": "event",
+   "h1": "Highway 90 Dispensary Cannabis Dispensary Events",
+   "words": 424,
+   "recall": 0.8797,
+   "sections": 0,
+   "missing": [
+    "this",
+    "has",
+    "passed",
+    "2025",
+    "4",
+    "00",
+    "pm",
+    "6",
+    "00",
+    "pm",
+    "event",
+    "20",
+    "all",
+    "march",
+    "details",
+    "date",
+    "march",
+    "20",
+    "2025",
+    "time",
+    "4",
+    "00",
+    "pm",
+    "6",
+    "00",
+    "pm",
+    "website",
+    "https",
+    "www.thehighway90.com",
+    "brands",
+    "flower-by-edie-parker",
+    "organizer",
+    "phone",
+    "8566073473",
+    "view",
+    "organizer",
+    "website",
+    "venue",
+    "old",
+    "pike"
+   ]
+  },
+  {
+   "path": "/event/camino-pop-up/",
+   "key": "event__camino-pop-up",
+   "kind": "event",
+   "h1": "Highway 90 Dispensary Cannabis Dispensary Events",
+   "words": 329,
+   "recall": 0.9088,
+   "sections": 0,
+   "missing": [
+    "all",
+    "this",
+    "passed",
+    "2025",
+    "00",
+    "5",
+    "00",
+    "3",
+    "21",
+    "pm",
+    "has",
+    "pm",
+    "event",
+    "march",
+    "details",
+    "date",
+    "march",
+    "21",
+    "2025",
+    "time",
+    "3",
+    "00",
+    "pm",
+    "5",
+    "00",
+    "pm",
+    "website",
+    "https",
+    "www.thehighway90.com",
+    "brands"
+   ]
+  },
+  {
+   "path": "/event/ogeez-pop-up/",
+   "key": "event__ogeez-pop-up",
+   "kind": "event",
+   "h1": "Highway 90 Dispensary Cannabis Dispensary Events",
+   "words": 295,
+   "recall": 0.9017,
+   "sections": 0,
+   "missing": [
+    "passed",
+    "march",
+    "2025",
+    "5",
+    "00",
+    "7",
+    "00",
+    "pm",
+    "event",
+    "pm",
+    "all",
+    "this",
+    "has",
+    "details",
+    "date",
+    "march",
+    "14",
+    "2025",
+    "time",
+    "5",
+    "00",
+    "pm",
+    "7",
+    "00",
+    "pm",
+    "website",
+    "https",
+    "www.thehighway90.com",
+    "s"
+   ]
+  },
+  {
+   "path": "/event/jersey-smooth-pop-up/",
+   "key": "event__jersey-smooth-pop-up",
+   "kind": "event",
+   "h1": "Highway 90 Dispensary Cannabis Dispensary Events",
+   "words": 212,
+   "recall": 0.8255,
+   "sections": 0,
+   "missing": [
+    "all",
+    "this",
+    "has",
+    "passed",
+    "march",
+    "2025",
+    "4",
+    "00",
+    "pm",
+    "6",
+    "00",
+    "pm",
+    "7",
+    "event",
+    "details",
+    "date",
+    "march",
+    "7",
+    "2025",
+    "time",
+    "4",
+    "00",
+    "pm",
+    "6",
+    "00",
+    "pm",
+    "website",
+    "https",
+    "www.thehighway90.com",
+    "brands",
+    "jersey-smooth",
+    "organizer",
+    "phone",
+    "8566073473",
+    "view",
+    "organizer",
+    "website"
+   ]
+  },
+  {
+   "path": "/event/highway-90-dispensarys-1-year-anniversary/",
+   "key": "event__highway-90-dispensarys-1-year-anniversary",
+   "kind": "event",
+   "h1": "Highway 90 Dispensary Cannabis Dispensary Events",
+   "words": 544,
+   "recall": 0.886,
+   "sections": 0,
+   "missing": [
+    "event",
+    "has",
+    "passed",
+    "16",
+    "2025",
+    "00",
+    "am",
+    "20",
+    "2025",
+    "10",
+    "00",
+    "pm",
+    "january",
+    "january",
+    "9",
+    "free",
+    "this",
+    "all",
+    "details",
+    "start",
+    "january",
+    "16",
+    "2025",
+    "9",
+    "00",
+    "am",
+    "end",
+    "january",
+    "20",
+    "2025",
+    "10",
+    "00",
+    "pm",
+    "cost",
+    "free",
+    "website",
+    "https",
+    "www.eventbrite.com",
+    "e",
+    "1141132962409"
+   ]
+  },
+  {
+   "path": "/products/craft-kings-citrus-haze-royal-smalls-for-sale-marlton-nj-2/",
+   "key": "products__craft-kings-citrus-haze-royal-smalls-for-sale-marlton-nj-2",
+   "kind": "joint-single",
+   "h1": "Craft Kings Craft Kings Citrus Haze Royal Smalls",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/craft-kings-craft-kings-cali-cake-for-sale-marlton-nj/",
+   "key": "products__craft-kings-craft-kings-cali-cake-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Craft Kings Craft Kings Cali Cake",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/blood-orange-thc-cbc-for-sale-evesham-nj/",
+   "key": "products__blood-orange-thc-cbc-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Wyld Blood Orange 1:1 CBC Sativa Enhanced Gummies",
+   "words": 20,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/clade9-orange-push-pop-disposable-for-sale-evesham-nj/",
+   "key": "products__clade9-orange-push-pop-disposable-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Clade9 Clade 9 Orange Push Pop Disposable",
+   "words": 16,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/clade9-clade-9-private-reserve-disposable-for-sale-marlton-nj/",
+   "key": "products__clade9-clade-9-private-reserve-disposable-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Clade9 Clade 9 Private Reserve Disposable",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/fernway-night-cap-cart-for-sale-marlton-nj/",
+   "key": "products__fernway-night-cap-cart-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Fernway Fernway Night Cap Cart",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/fernway-honeycrisp-disposable-pro-for-sale-marlton-nj/",
+   "key": "products__fernway-honeycrisp-disposable-pro-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Fernway Fernway Honeycrisp PRO Disposable",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/ocb-brown-rice-mini-cones-for-sale-marlton-nj/",
+   "key": "products__ocb-brown-rice-mini-cones-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "OCB Brown Rice Mini Cones",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/wana-wana-quick-razzcherry-rocket-gummies-100mg-for-sale-marlton-nj/",
+   "key": "products__wana-wana-quick-razzcherry-rocket-gummies-100mg-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Wana Wana Quick Razzcherry Rocket Gummies | 100mg",
+   "words": 16,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/fulltilt-labs-full-tilt-verace-for-sale-marlton-nj/",
+   "key": "products__fulltilt-labs-full-tilt-verace-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "FullTilt Labs Full Tilt Verace",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/jersey-smooth-highbush-blueberry-disposable-for-sale-evesham-nj-2/",
+   "key": "products__jersey-smooth-highbush-blueberry-disposable-for-sale-evesham-nj-2",
+   "kind": "joint-single",
+   "h1": "Jersey Smooth Jersey Smooth Highbush Blueberry Disposable",
+   "words": 16,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/jersey-smooth-full-service-gas-disposable-for-sale-evesham-nj-7/",
+   "key": "products__jersey-smooth-full-service-gas-disposable-for-sale-evesham-nj-7",
+   "kind": "joint-single",
+   "h1": "Jersey Smooth Jersey Smooth Full Service Gas Disposable",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/goodies-pie-scream-shake-for-sale-marlton-nj/",
+   "key": "products__goodies-pie-scream-shake-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Goodies Goodies Pie Scream Shake",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/miss-grass-all-times-sunset-z-infused-pre-rolls-5pk-for-sale-marlton-nj/",
+   "key": "products__miss-grass-all-times-sunset-z-infused-pre-rolls-5pk-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Miss Grass Sunset Z Infused Minis 5pk – All Times – 2g",
+   "words": 22,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/rythm-blue-dream-liquid-diamonds-disposable-for-sale-marlton-nj/",
+   "key": "products__rythm-blue-dream-liquid-diamonds-disposable-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "RYTHM Blue Dream | Liquid Diamonds Vape | Indica | 1g",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/ozone-ozone-robusta-4-for-sale-marlton-nj/",
+   "key": "products__ozone-ozone-robusta-4-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Ozone Robusta #4",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/aluminum-and-glass-spoon-pipe-for-sale-marlton-nj/",
+   "key": "products__aluminum-and-glass-spoon-pipe-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Aluminum and Glass Spoon Pipe",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/pulsar-slim-510-battery-for-sale-marlton-nj/",
+   "key": "products__pulsar-slim-510-battery-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Pulsar Slim 510 Battery",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/space-ranger-baja-blast-x-white-gummies-liquid-diamonds-sauce-cart-for-sale-marlton-nj/",
+   "key": "products__space-ranger-baja-blast-x-white-gummies-liquid-diamonds-sauce-cart-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Space Ranger Space Ranger Baja Blast x White Gummies Liquid Diamonds & Sauce Cart",
+   "words": 28,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/simply-herb-watermelon-mac-shake-for-sale-marlton-nj/",
+   "key": "products__simply-herb-watermelon-mac-shake-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Simply Herb Simply Herb Watermelon MAC Shake",
+   "words": 16,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/kind-tree-kind-tree-grape-sitter-for-sale-marlton-nj/",
+   "key": "products__kind-tree-kind-tree-grape-sitter-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Kind Tree Grape Sitter | 3.5g",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/quartz-banger-for-sale-marlton-nj/",
+   "key": "products__quartz-banger-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Quartz Banger",
+   "words": 6,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/animal-face-x-sherb-crasher-for-sale-marlton-nj/",
+   "key": "products__animal-face-x-sherb-crasher-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Kind Tree Animal Face x Sherb Crasher | 7g",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/cookies-tequila-sunrise-cart-for-sale-marlton-nj/",
+   "key": "products__cookies-tequila-sunrise-cart-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Cookies Tequila Sunrise Cart",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/the-essence-casey-jones-pre-roll-for-sale-marlton-nj/",
+   "key": "products__the-essence-casey-jones-pre-roll-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "(the) Essence Casey Jones Pre-Roll",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/hamilton-farms-hf-x-tks-kush-berry-burger-for-sale-evesham-nj/",
+   "key": "products__hamilton-farms-hf-x-tks-kush-berry-burger-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Hamilton Farms HF x TKS Kush Berry Burger",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/ozone-golden-cream-pre-rolls-3pk-for-sale-evesham-nj/",
+   "key": "products__ozone-golden-cream-pre-rolls-3pk-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Ozone Golden Cream Pre-Rolls | 3pk",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/gorilla-chem-og-shake-for-sale-evesham-nj/",
+   "key": "products__gorilla-chem-og-shake-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Simply Herb Gorilla Chem OG Shake",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/garden-greens-gg-triple-og-pre-roll-2pk-for-sale-evesham-nj/",
+   "key": "products__garden-greens-gg-triple-og-pre-roll-2pk-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Garden Greens GG Triple OG Pre-Roll | 2pk",
+   "words": 16,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/vibes-the-cali-rice-for-sale-evesham-nj/",
+   "key": "products__vibes-the-cali-rice-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Vibes The Cali Rice",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/frutful/",
+   "key": "brands__frutful",
+   "kind": "joint-single",
+   "h1": "frutful Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/dog-labs/",
+   "key": "brands__dog-labs",
+   "kind": "joint-single",
+   "h1": "Dog Labs Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/heavyweight-heads/",
+   "key": "brands__heavyweight-heads",
+   "kind": "joint-single",
+   "h1": "Heavyweight Heads Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/simply-herb/",
+   "key": "brands__simply-herb",
+   "kind": "joint-single",
+   "h1": "Simply Herb Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/noir/",
+   "key": "brands__noir",
+   "kind": "joint-single",
+   "h1": "NOIR Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/verano/",
+   "key": "brands__verano",
+   "kind": "joint-single",
+   "h1": "Verano Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/garden-state-exotix/",
+   "key": "brands__garden-state-exotix",
+   "kind": "joint-single",
+   "h1": "Garden State Exotix Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/blazy-susan/",
+   "key": "brands__blazy-susan",
+   "kind": "joint-single",
+   "h1": "Blazy Susan Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/green-joy/",
+   "key": "brands__green-joy",
+   "kind": "joint-single",
+   "h1": "Green Joy Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/the-clear/",
+   "key": "brands__the-clear",
+   "kind": "joint-single",
+   "h1": "The Clear Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/rythm/",
+   "key": "brands__rythm",
+   "kind": "joint-single",
+   "h1": "Rythm Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/cheeba-chews/",
+   "key": "brands__cheeba-chews",
+   "kind": "joint-single",
+   "h1": "Cheeba Chews® Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/jams/",
+   "key": "brands__jams",
+   "kind": "joint-single",
+   "h1": "JAMS Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/the-obody-shop/",
+   "key": "brands__the-obody-shop",
+   "kind": "joint-single",
+   "h1": "THE OBODY SHOP Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/dipam/",
+   "key": "brands__dipam",
+   "kind": "joint-single",
+   "h1": "DIPAM Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/crops/",
+   "key": "brands__crops",
+   "kind": "joint-single",
+   "h1": "Crops Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/",
+   "key": "products",
+   "kind": "joint-archive",
+   "h1": "Cannabis Products For Sale",
+   "words": 536,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/brands/",
+   "key": "brands",
+   "kind": "joint-archive",
+   "h1": "Cannabis Brands For Sale",
+   "words": 34,
+   "recall": 1,
+   "sections": 2
+  },
+  {
+   "path": "/blog/category/uncategorized/",
+   "key": "blog__category__uncategorized",
+   "kind": "page",
+   "h1": "The Highway 90 Dispensary Blog",
+   "words": 434,
+   "recall": 1,
+   "sections": 3
+  },
+  {
+   "path": "/products/bespoke-biscotti-cart-for-sale-marlton-nj/",
+   "key": "products__bespoke-biscotti-cart-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Bespoke Biscotti Cart",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/lucks-super-silver-haze-cart-for-sale-marlton-nj/",
+   "key": "products__lucks-super-silver-haze-cart-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Luckys Lucky’s Super Silver Haze Cart",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/luckys-skywalker-og-cart-for-sale-marlton-nj/",
+   "key": "products__luckys-skywalker-og-cart-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Luckys Lucky’s Skywalker OG Cart",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/pulsar-pulsar-2-0-pro-auto-draw-vape-for-sale-evesham-nj/",
+   "key": "products__pulsar-pulsar-2-0-pro-auto-draw-vape-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Pulsar Pulsar 2.0 PRO Auto Draw Vape",
+   "words": 16,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/the-clear-xj13-disposable-for-sale-marlton-nj/",
+   "key": "products__the-clear-xj13-disposable-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "The CLEAR The Clear XJ13 Disposable",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/north-lake-supply-north-lake-supply-raspberry-mojito-disposable-for-sale-marlton-nj/",
+   "key": "products__north-lake-supply-north-lake-supply-raspberry-mojito-disposable-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "North Lake Supply North Lake Supply Raspberry Mojito Disposable",
+   "words": 20,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/house-vape-house-vape-cannoli-cream-disposable-for-sale-marlton-nj/",
+   "key": "products__house-vape-house-vape-cannoli-cream-disposable-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "House Vape House Vape Cannoli Cream Disposable",
+   "words": 16,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/rythm-rythm-lorange-live-resin-cart-for-sale-marlton-nj/",
+   "key": "products__rythm-rythm-lorange-live-resin-cart-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "RYTHM L’Orange | Live Resin Vape Cartridge | Sativa | 1g",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/timeless-carrots-og-cart-for-sale-marlton-nj/",
+   "key": "products__timeless-carrots-og-cart-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Timeless Timeless Carrots OG Cart",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/space-ranger-peach-stardust-x-velvet-lushers-liquid-diamonds-sauce-cart-for-sale-marlton-nj/",
+   "key": "products__space-ranger-peach-stardust-x-velvet-lushers-liquid-diamonds-sauce-cart-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Space Ranger Space Ranger Peach Stardust x Velvet Lushers Liquid Diamonds & Sauce Cart",
+   "words": 28,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/the-clear-lemon-haze-disposable-for-sale-evesham-nj/",
+   "key": "products__the-clear-lemon-haze-disposable-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "The Clear Lemon Haze Disposable",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/pulsar-pulsar-510-dl-pipe-vape-aged-whiskey-for-sale-evesham-nj/",
+   "key": "products__pulsar-pulsar-510-dl-pipe-vape-aged-whiskey-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Pulsar Pulsar 510 DL Pipe Vape – Aged Whiskey",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/bespoke-sunny-daze-pre-roll-for-sale-marlton-nj/",
+   "key": "products__bespoke-sunny-daze-pre-roll-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Bespoke Sunny Daze Pre Roll",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/rythm-rythm-mai-tai-infused-pre-rolls-5pk-for-sale-marlton-nj/",
+   "key": "products__rythm-rythm-mai-tai-infused-pre-rolls-5pk-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "RYTHM Mai Tai | Infused Pre-Rolls | Hybrid | 2.5g [5pk]",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/shine-shine-afternoon-delight-4-pre-rolls-5pk-for-sale-marlton-nj/",
+   "key": "products__shine-shine-afternoon-delight-4-pre-rolls-5pk-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "&Shine &Shine Afternoon Delight #4 Pre-Rolls | 5pk",
+   "words": 16,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/full-tilt-full-tilt-duffle-full-of-blues-pre-rolls-2pk-for-sale-marlton-nj/",
+   "key": "products__full-tilt-full-tilt-duffle-full-of-blues-pre-rolls-2pk-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Full Tilt Full Tilt Duffle Full of Blues Pre-Rolls | 2pk",
+   "words": 22,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/miss-grass-quiet-times-brr-berry-sovlentless-hash-infused-pre-roll-for-sale-marlton-nj/",
+   "key": "products__miss-grass-quiet-times-brr-berry-sovlentless-hash-infused-pre-roll-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Miss Grass Brr Berry – Quiet Times Solventless Hash Infused Doob – 1g",
+   "words": 24,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/honor-roll-honor-roll-hall-pass-smoke-break-hybrid-pre-rolls-6pk-for-sale-marlton-nj/",
+   "key": "products__honor-roll-honor-roll-hall-pass-smoke-break-hybrid-pre-rolls-6pk-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Honor Roll Honor Roll Hall Pass Smoke Break Hybrid Pre-Rolls | 6pk",
+   "words": 24,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/ozone-ozone-hashburger-pre-roll-for-sale-marlton-nj/",
+   "key": "products__ozone-ozone-hashburger-pre-roll-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Ozone Ozone Hashburger Pre-Roll",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/full-tilt-strawberry-cannoli-pre-roll-for-sale-marlton-nj/",
+   "key": "products__full-tilt-strawberry-cannoli-pre-roll-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Full Tilt Full Tilt Strawberry Cannoli Pre-Roll",
+   "words": 16,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/high-wired-high-wired-animal-cake-infused-pre-roll-for-sale-marlton-nj/",
+   "key": "products__high-wired-high-wired-animal-cake-infused-pre-roll-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "High Wired High Wired Animal Cake Infused Pre-Roll",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/ozone-papaya-marmalade-pre-roll-for-sale-marlton-nj/",
+   "key": "products__ozone-papaya-marmalade-pre-roll-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Ozone Papaya Marmalade Pre-Roll",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/tropical-passionfruit-infused-pre-roll-for-sale-evesham-nj/",
+   "key": "products__tropical-passionfruit-infused-pre-roll-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Little Leaf Tropical Passionfruit Infused Pre-Roll",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/gsb-banana-sundae-pre-roll-for-sale-evesham-nj/",
+   "key": "products__gsb-banana-sundae-pre-roll-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Garden State Banana GSB Banana Sundae Pre-Roll",
+   "words": 16,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/simply-herb-simply-herb-waiting-game-1-popcorn-for-sale-marlton-nj/",
+   "key": "products__simply-herb-simply-herb-waiting-game-1-popcorn-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Simply Herb Simply Herb Waiting Game #1 Popcorn",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/simply-herb-sour-orange-shake-for-sale-marlton-nj/",
+   "key": "products__simply-herb-sour-orange-shake-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Simply Herb Simply Herb Sour Orange Shake",
+   "words": 16,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/craft-kings-craft-kings-fruit-stand-royal-smalls-for-sale-marlton-nj-2/",
+   "key": "products__craft-kings-craft-kings-fruit-stand-royal-smalls-for-sale-marlton-nj-2",
+   "kind": "joint-single",
+   "h1": "Craft Kings Craft Kings Fruit Stand Royal Smalls",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/ozone-black-amber-popcorn-for-sale-marlton-nj/",
+   "key": "products__ozone-black-amber-popcorn-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Ozone Black Amber Popcorn",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/ozone-ozone-sour-orange-popcorn-for-sale-marlton-nj/",
+   "key": "products__ozone-ozone-sour-orange-popcorn-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Ozone Sour Orange Popcorn",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/ozone-3-0-cake-walk-smalls-for-sale-marlton-nj/",
+   "key": "products__ozone-3-0-cake-walk-smalls-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Ozone Ozone 3.0 Cake Walk Smalls",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/ozone-ozone-dual-og-popcorn-for-sale-marlton-nj/",
+   "key": "products__ozone-ozone-dual-og-popcorn-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Ozone Dual OG Popcorn",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/go2-go2-chicken-n-waffles-shake-for-sale-marlton-nj/",
+   "key": "products__go2-go2-chicken-n-waffles-shake-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Go2 Go2 Chicken N’ Waffles Shake",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/big-red-barn-big-red-barn-cherry-crescendo-shake-for-sale-marlton-nj/",
+   "key": "products__big-red-barn-big-red-barn-cherry-crescendo-shake-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Big Red Barn Big Red Barn Cherry Crescendo Shake",
+   "words": 20,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/go2-go2-white-blizzard-shake-for-sale-marlton-nj/",
+   "key": "products__go2-go2-white-blizzard-shake-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Go2 Go2 White Blizzard Shake",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/simply-herb-sh-pave-shake-for-sale-evesham-nj/",
+   "key": "products__simply-herb-sh-pave-shake-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Simply Herb SH Pave Shake",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/ozone-banana-daddy-popcorn-for-sale-evesham-nj/",
+   "key": "products__ozone-banana-daddy-popcorn-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Ozone Banana Daddy Popcorn",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/bespoke-bespoke-scotch-soda-for-sale-marlton-nj/",
+   "key": "products__bespoke-bespoke-scotch-soda-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Bespoke Bespoke Scotch & Soda",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/inclusion-gourmet-llc-jersey-canna-indica-rosin-belgian-dark-chocolate-bar-100mg-for-sale-marlton-nj/",
+   "key": "products__inclusion-gourmet-llc-jersey-canna-indica-rosin-belgian-dark-chocolate-bar-100mg-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Inclusion Gourmet LLC Jersey Canna Indica Rosin Belgian Dark Chocolate Bar | 100mg",
+   "words": 26,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/journeyman-blueberry-lemonade-syrup-1-cbn-2-thc-for-sale-marlton-nj/",
+   "key": "products__journeyman-blueberry-lemonade-syrup-1-cbn-2-thc-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Journeyman Journeyman Blueberry Lemonade Syrup 1 CBN : 2 THC",
+   "words": 20,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/savvy-savvy-guap-rso-peachy-punch-gummy-1-cbd-1-thc-for-sale-marlton-nj/",
+   "key": "products__savvy-savvy-guap-rso-peachy-punch-gummy-1-cbd-1-thc-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Savvy Savvy Guap RSO Peachy Punch Gummy | 1 CBD : 1 THC",
+   "words": 24,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/cubits-cubits-granny-smith-gummies-20pk-for-sale-marlton-nj/",
+   "key": "products__cubits-cubits-granny-smith-gummies-20pk-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Cubits Cubits Granny Smith Gummies | 20pk",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/gron-111-blackberry-lemonade-pearls-cbd-cbn-thc-for-sale-evesham-nj/",
+   "key": "products__gron-111-blackberry-lemonade-pearls-cbd-cbn-thc-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Grön 1:1:1 Blackberry Lemonade Pearls – CBN/CBD/THC – Sleepy Indica",
+   "words": 26,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/ozone-blue-raspberry-soft-chews-for-sale-evesham-nj/",
+   "key": "products__ozone-blue-raspberry-soft-chews-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Ozone Blue Raspberry Soft Chews",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/shine-bites-fruit-punch-for-sale-marlton-nj/",
+   "key": "products__shine-bites-fruit-punch-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "&Shine &Shine Fruit Punch Gummy | 100mg",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/beach-day-lemonade-disposable-for-sale-evesham-nj/",
+   "key": "products__beach-day-lemonade-disposable-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Jersey Smooth Jersey Smooth Beach Day Lemonade Disposable",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/sativa-blend-lemonade-drink-mix-10pk-for-sale-marlton-nj/",
+   "key": "products__sativa-blend-lemonade-drink-mix-10pk-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Cannabis Philosophy Sativa Blend Lemonade Drink Mix | 10pk",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/wana-strawberry-lemonade-11-10-pack-for-sale-evesham-nj-2/",
+   "key": "products__wana-strawberry-lemonade-11-10-pack-for-sale-evesham-nj-2",
+   "kind": "joint-single",
+   "h1": "Wana Classic Strawberry Lemonade 1:1 CBD/THC Chews [10 Pack] | 100mg",
+   "words": 26,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/sativa-taffy-chocolate-for-sale-evesham-nj/",
+   "key": "products__sativa-taffy-chocolate-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Cheeba Chews® Sativa Taffy Chocolate",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/simply-herb-watermelon-sugar-distillate-for-sale-evesham-nj-2/",
+   "key": "products__simply-herb-watermelon-sugar-distillate-for-sale-evesham-nj-2",
+   "kind": "joint-single",
+   "h1": "Simply Herb Simply Herb Watermelon Sugar Cart",
+   "words": 16,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/luckys-trop-cherry-bubble-hash-for-sale-marlton-nj/",
+   "key": "products__luckys-trop-cherry-bubble-hash-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Luckys Lucky’s Trop Cherry Bubble Hash",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/rythm-rythm-jacks-delight-live-resin-disposable-for-sale-marlton-nj/",
+   "key": "products__rythm-rythm-jacks-delight-live-resin-disposable-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "RYTHM Jack’s Delight | Live Resin All-in-One Vape | Sativa 2g",
+   "words": 20,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/sun-sun-durban-dream-queen-live-resin-badder-for-sale-marlton-nj/",
+   "key": "products__sun-sun-durban-dream-queen-live-resin-badder-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Sun Sun Durban Dream Queen Live Resin Badder",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/locals-only-orange-push-pop-wet-badder-for-sale-marlton-nj/",
+   "key": "products__locals-only-orange-push-pop-wet-badder-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Locals Only Locals Only Orange Push Pop Wet Badder",
+   "words": 20,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/rythm-95-cookies-live-resin-for-sale-marlton-nj/",
+   "key": "products__rythm-95-cookies-live-resin-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "RYTHM 95 Cookies | Live Resin | Hybrid | 1g",
+   "words": 16,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/rythm-mystic-mint-live-resin-cart-for-sale-marlton-nj/",
+   "key": "products__rythm-mystic-mint-live-resin-cart-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "RYTHM Mystic Mint | Live Resin Vape Cartridge | Indica | 1g",
+   "words": 20,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/pyramid-pyramid-grape-bubblegum-sauce-for-sale-marlton-nj/",
+   "key": "products__pyramid-pyramid-grape-bubblegum-sauce-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Pyramid Pyramid Grape Bubblegum Sauce",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/rythm-jet-fuel-live-resin-for-sale-marlton-nj/",
+   "key": "products__rythm-jet-fuel-live-resin-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "RYTHM Rythm Jet Fuel Live Resin",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/ogeez-tropical-indica-sugar-free-for-sale-evesham-nj/",
+   "key": "products__ogeez-tropical-indica-sugar-free-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "OGeez! Tropical Indica Sugar Free",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/jerzy-landscapes-sugar-sand-for-sale-evesham-nj/",
+   "key": "products__jerzy-landscapes-sugar-sand-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Jerzy Landscapes Sugar Sand",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/guava-cream-cake-live-resin-badder-for-sale-evesham-nj/",
+   "key": "products__guava-cream-cake-live-resin-badder-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "Kind Tree Guava Cream Cake Live Resin Badder",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/1906-2/",
+   "key": "brands__1906-2",
+   "kind": "joint-single",
+   "h1": "(1906) Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/1906/",
+   "key": "brands__1906",
+   "kind": "joint-single",
+   "h1": "1906 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/22-red/",
+   "key": "brands__22-red",
+   "kind": "joint-single",
+   "h1": "22 RED Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/420-science/",
+   "key": "brands__420-science",
+   "kind": "joint-single",
+   "h1": "420 Science Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/a-golden-state/",
+   "key": "brands__a-golden-state",
+   "kind": "joint-single",
+   "h1": "A GOLDEN STATE Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/a1/",
+   "key": "brands__a1",
+   "kind": "joint-single",
+   "h1": "A1 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/afg/",
+   "key": "brands__afg",
+   "kind": "joint-single",
+   "h1": "AFG Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/airo/",
+   "key": "brands__airo",
+   "kind": "joint-single",
+   "h1": "Airo Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/amul/",
+   "key": "brands__amul",
+   "kind": "joint-single",
+   "h1": "AMUL Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/anthologie/",
+   "key": "brands__anthologie",
+   "kind": "joint-single",
+   "h1": "Anthologie Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/astro/",
+   "key": "brands__astro",
+   "kind": "joint-single",
+   "h1": "Astro Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/avexia/",
+   "key": "brands__avexia",
+   "kind": "joint-single",
+   "h1": "Avexia Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/bb-buds/",
+   "key": "brands__bb-buds",
+   "kind": "joint-single",
+   "h1": "BB BUDS Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/bespoke/",
+   "key": "brands__bespoke",
+   "kind": "joint-single",
+   "h1": "Bespoke Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/bic/",
+   "key": "brands__bic",
+   "kind": "joint-single",
+   "h1": "Bic Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/big-red-barn/",
+   "key": "brands__big-red-barn",
+   "kind": "joint-single",
+   "h1": "Big Red Barn Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/binske/",
+   "key": "brands__binske",
+   "kind": "joint-single",
+   "h1": "binske Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/bits/",
+   "key": "brands__bits",
+   "kind": "joint-single",
+   "h1": "Bits Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/black-buddha-cannabis/",
+   "key": "brands__black-buddha-cannabis",
+   "kind": "joint-single",
+   "h1": "Black Buddha Cannabis Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/black-buddha/",
+   "key": "brands__black-buddha",
+   "kind": "joint-single",
+   "h1": "Black Buddha Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/black-label/",
+   "key": "brands__black-label",
+   "kind": "joint-single",
+   "h1": "Black Label Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/blue-chip-genetic-labs/",
+   "key": "brands__blue-chip-genetic-labs",
+   "kind": "joint-single",
+   "h1": "BLUE CHIP GENETIC LABS Cannabis Products For Sale",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/blue-chip-genetics/",
+   "key": "brands__blue-chip-genetics",
+   "kind": "joint-single",
+   "h1": "BLUE CHIP GENETICS Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/boho-euphorics/",
+   "key": "brands__boho-euphorics",
+   "kind": "joint-single",
+   "h1": "Boho Euphorics Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/boundless/",
+   "key": "brands__boundless",
+   "kind": "joint-single",
+   "h1": "Boundless Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/brand-cbd-only-1-01172022/",
+   "key": "brands__brand-cbd-only-1-01172022",
+   "kind": "joint-single",
+   "h1": "BRAND-CBD-ONLY-1-01172022 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/brand-thc-only-1-01172022/",
+   "key": "brands__brand-thc-only-1-01172022",
+   "kind": "joint-single",
+   "h1": "BRAND-THC-ONLY-1-01172022 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/bransons/",
+   "key": "brands__bransons",
+   "kind": "joint-single",
+   "h1": "Branson’s Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/brighterside/",
+   "key": "brands__brighterside",
+   "kind": "joint-single",
+   "h1": "Brighterside Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/burst/",
+   "key": "brands__burst",
+   "kind": "joint-single",
+   "h1": "Burst Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/buy-weed-from-women/",
+   "key": "brands__buy-weed-from-women",
+   "kind": "joint-single",
+   "h1": "Buy Weed From Women Cannabis Products For Sale",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/buzzicles/",
+   "key": "brands__buzzicles",
+   "kind": "joint-single",
+   "h1": "Buzzicles Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/buzzmixer/",
+   "key": "brands__buzzmixer",
+   "kind": "joint-single",
+   "h1": "BuzzMixer Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/cali-honey/",
+   "key": "brands__cali-honey",
+   "kind": "joint-single",
+   "h1": "Cali Honey Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/camino/",
+   "key": "brands__camino",
+   "kind": "joint-single",
+   "h1": "Camino Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/canna-10x/",
+   "key": "brands__canna-10x",
+   "kind": "joint-single",
+   "h1": "Canna 10x Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/cannabis-philosophy/",
+   "key": "brands__cannabis-philosophy",
+   "kind": "joint-single",
+   "h1": "Cannabis Philosophy Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/cannadise/",
+   "key": "brands__cannadise",
+   "kind": "joint-single",
+   "h1": "Cannadise Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/cantrip/",
+   "key": "brands__cantrip",
+   "kind": "joint-single",
+   "h1": "Cantrip Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/carta/",
+   "key": "brands__carta",
+   "kind": "joint-single",
+   "h1": "Carta Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/cheetah/",
+   "key": "brands__cheetah",
+   "kind": "joint-single",
+   "h1": "Cheetah Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/clade9/",
+   "key": "brands__clade9",
+   "kind": "joint-single",
+   "h1": "Clade9 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/clear-brands/",
+   "key": "brands__clear-brands",
+   "kind": "joint-single",
+   "h1": "CLEAR Brands Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/clear-the/",
+   "key": "brands__clear-the",
+   "kind": "joint-single",
+   "h1": "CLEAR, The Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/clear/",
+   "key": "brands__clear",
+   "kind": "joint-single",
+   "h1": "CLEAR Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/cloud-city-ecommerce/",
+   "key": "brands__cloud-city-ecommerce",
+   "kind": "joint-single",
+   "h1": "Cloud City eCommerce Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/common-goods/",
+   "key": "brands__common-goods",
+   "kind": "joint-single",
+   "h1": "Common Goods Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/connected-cannabis-co/",
+   "key": "brands__connected-cannabis-co",
+   "kind": "joint-single",
+   "h1": "CONNECTED CANNABIS CO Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/cookies-small-batch/",
+   "key": "brands__cookies-small-batch",
+   "kind": "joint-single",
+   "h1": "Cookies Small Batch Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/cookies/",
+   "key": "brands__cookies",
+   "kind": "joint-single",
+   "h1": "Cookies Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/craft-kings/",
+   "key": "brands__craft-kings",
+   "kind": "joint-single",
+   "h1": "Craft Kings Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/cubits/",
+   "key": "brands__cubits",
+   "kind": "joint-single",
+   "h1": "Cubits Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/doctor-solomons/",
+   "key": "brands__doctor-solomons",
+   "kind": "joint-single",
+   "h1": "Doctor Solomon’s Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/dogwalkers/",
+   "key": "brands__dogwalkers",
+   "kind": "joint-single",
+   "h1": "Dogwalkers Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/doinks/",
+   "key": "brands__doinks",
+   "kind": "joint-single",
+   "h1": "Doinks Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/dp/",
+   "key": "brands__dp",
+   "kind": "joint-single",
+   "h1": "DP Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/dr-healeys/",
+   "key": "brands__dr-healeys",
+   "kind": "joint-single",
+   "h1": "Dr. Healeys Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/drool/",
+   "key": "brands__drool",
+   "kind": "joint-single",
+   "h1": "Drool Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/easy-landings/",
+   "key": "brands__easy-landings",
+   "kind": "joint-single",
+   "h1": "Easy Landings Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/edie-parker/",
+   "key": "brands__edie-parker",
+   "kind": "joint-single",
+   "h1": "Edie Parker Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/effin/",
+   "key": "brands__effin",
+   "kind": "joint-single",
+   "h1": "Effin Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/encore-edibles/",
+   "key": "brands__encore-edibles",
+   "kind": "joint-single",
+   "h1": "Encore Edibles Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/encore/",
+   "key": "brands__encore",
+   "kind": "joint-single",
+   "h1": "Encore Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/escape-artists/",
+   "key": "brands__escape-artists",
+   "kind": "joint-single",
+   "h1": "Escape Artists Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ev-llc/",
+   "key": "brands__ev-llc",
+   "kind": "joint-single",
+   "h1": "EV LLC Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/farmers-market/",
+   "key": "brands__farmers-market",
+   "kind": "joint-single",
+   "h1": "Farmers Market Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/fernway/",
+   "key": "brands__fernway",
+   "kind": "joint-single",
+   "h1": "Fernway Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/find/",
+   "key": "brands__find",
+   "kind": "joint-single",
+   "h1": "FIND Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/flower-by-edie-parker/",
+   "key": "brands__flower-by-edie-parker",
+   "kind": "joint-single",
+   "h1": "Flower by Edie Parker Cannabis Products For Sale",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/formula-420/",
+   "key": "brands__formula-420",
+   "kind": "joint-single",
+   "h1": "Formula 420 Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/full-tilt-labs/",
+   "key": "brands__full-tilt-labs",
+   "kind": "joint-single",
+   "h1": "Full Tilt Labs Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/full-tilt/",
+   "key": "brands__full-tilt",
+   "kind": "joint-single",
+   "h1": "Full Tilt Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/fulltilt-labs/",
+   "key": "brands__fulltilt-labs",
+   "kind": "joint-single",
+   "h1": "FullTilt Labs Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/garden-greens/",
+   "key": "brands__garden-greens",
+   "kind": "joint-single",
+   "h1": "Garden Greens Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/garden-river/",
+   "key": "brands__garden-river",
+   "kind": "joint-single",
+   "h1": "Garden River Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/garden-state-banana/",
+   "key": "brands__garden-state-banana",
+   "kind": "joint-single",
+   "h1": "Garden State Banana Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/gillies-galaxy/",
+   "key": "brands__gillies-galaxy",
+   "kind": "joint-single",
+   "h1": "Gillie’s Galaxy Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/glass-house/",
+   "key": "brands__glass-house",
+   "kind": "joint-single",
+   "h1": "Glass House Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/go2/",
+   "key": "brands__go2",
+   "kind": "joint-single",
+   "h1": "Go2 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/good-green/",
+   "key": "brands__good-green",
+   "kind": "joint-single",
+   "h1": "Good Green Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/good-pizzza/",
+   "key": "brands__good-pizzza",
+   "kind": "joint-single",
+   "h1": "Good PizzZa Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/good-tide/",
+   "key": "brands__good-tide",
+   "kind": "joint-single",
+   "h1": "Good Tide Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/goodies/",
+   "key": "brands__goodies",
+   "kind": "joint-single",
+   "h1": "Goodies Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/grassroots/",
+   "key": "brands__grassroots",
+   "kind": "joint-single",
+   "h1": "Grassroots Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/green-lightning/",
+   "key": "brands__green-lightning",
+   "kind": "joint-single",
+   "h1": "Green Lightning Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/gron/",
+   "key": "brands__gron",
+   "kind": "joint-single",
+   "h1": "Grön Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/grow-science/",
+   "key": "brands__grow-science",
+   "kind": "joint-single",
+   "h1": "GROW SCIENCE Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/habit/",
+   "key": "brands__habit",
+   "kind": "joint-single",
+   "h1": "HABIT Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/hamilton-farms/",
+   "key": "brands__hamilton-farms",
+   "kind": "joint-single",
+   "h1": "Hamilton Farms Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/happy-farmer/",
+   "key": "brands__happy-farmer",
+   "kind": "joint-single",
+   "h1": "Happy Farmer Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/harvest-moon-farms/",
+   "key": "brands__harvest-moon-farms",
+   "kind": "joint-single",
+   "h1": "Harvest Moon Farms Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/hashables/",
+   "key": "brands__hashables",
+   "kind": "joint-single",
+   "h1": "Hashables Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/heavy-hitters/",
+   "key": "brands__heavy-hitters",
+   "kind": "joint-single",
+   "h1": "Heavy Hitters Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/high-grass-farms/",
+   "key": "brands__high-grass-farms",
+   "kind": "joint-single",
+   "h1": "High Grass Farms Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/high-times/",
+   "key": "brands__high-times",
+   "kind": "joint-single",
+   "h1": "High Times Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/high-wired/",
+   "key": "brands__high-wired",
+   "kind": "joint-single",
+   "h1": "High Wired Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/highway-90/",
+   "key": "brands__highway-90",
+   "kind": "joint-single",
+   "h1": "Highway 90 Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/hillview/",
+   "key": "brands__hillview",
+   "kind": "joint-single",
+   "h1": "Hillview Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/honor-roll/",
+   "key": "brands__honor-roll",
+   "kind": "joint-single",
+   "h1": "Honor Roll Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/house-vape/",
+   "key": "brands__house-vape",
+   "kind": "joint-single",
+   "h1": "House Vape Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/illicit/",
+   "key": "brands__illicit",
+   "kind": "joint-single",
+   "h1": "ILLICIT Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/inclusion-gourmet-llc/",
+   "key": "brands__inclusion-gourmet-llc",
+   "kind": "joint-single",
+   "h1": "Inclusion Gourmet LLC Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/inclusion-gourmet/",
+   "key": "brands__inclusion-gourmet",
+   "kind": "joint-single",
+   "h1": "Inclusion Gourmet Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/incredibles/",
+   "key": "brands__incredibles",
+   "kind": "joint-single",
+   "h1": "Incredibles Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/jersey-smooth/",
+   "key": "brands__jersey-smooth",
+   "kind": "joint-single",
+   "h1": "Jersey Smooth Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/jersey-strong/",
+   "key": "brands__jersey-strong",
+   "kind": "joint-single",
+   "h1": "Jersey Strong Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/jerzy-landscapes/",
+   "key": "brands__jerzy-landscapes",
+   "kind": "joint-single",
+   "h1": "Jerzy Landscapes Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/jobs/",
+   "key": "brands__jobs",
+   "kind": "joint-single",
+   "h1": "Jobs Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/journeyman/",
+   "key": "brands__journeyman",
+   "kind": "joint-single",
+   "h1": "Journeyman Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/joy-bombs-by-joyibles/",
+   "key": "brands__joy-bombs-by-joyibles",
+   "kind": "joint-single",
+   "h1": "Joy Bombs by Joyibles Cannabis Products For Sale",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/joystick/",
+   "key": "brands__joystick",
+   "kind": "joint-single",
+   "h1": "Joystick Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/kalo/",
+   "key": "brands__kalo",
+   "kind": "joint-single",
+   "h1": "Kalo Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/kan-ade/",
+   "key": "brands__kan-ade",
+   "kind": "joint-single",
+   "h1": "KAN-ADE Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/kind-tree/",
+   "key": "brands__kind-tree",
+   "kind": "joint-single",
+   "h1": "Kind Tree Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/lagunitas/",
+   "key": "brands__lagunitas",
+   "kind": "joint-single",
+   "h1": "LAGUNITAS Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/legend/",
+   "key": "brands__legend",
+   "kind": "joint-single",
+   "h1": "Legend Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/level/",
+   "key": "brands__level",
+   "kind": "joint-single",
+   "h1": "LEVEL Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/lily-extracts/",
+   "key": "brands__lily-extracts",
+   "kind": "joint-single",
+   "h1": "Lily Extracts Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/little-leaf/",
+   "key": "brands__little-leaf",
+   "kind": "joint-single",
+   "h1": "Little Leaf Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/locals-only/",
+   "key": "brands__locals-only",
+   "kind": "joint-single",
+   "h1": "Locals Only Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/long-lifts/",
+   "key": "brands__long-lifts",
+   "kind": "joint-single",
+   "h1": "Long Lifts Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/lookah/",
+   "key": "brands__lookah",
+   "kind": "joint-single",
+   "h1": "Lookah Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/loosies/",
+   "key": "brands__loosies",
+   "kind": "joint-single",
+   "h1": "Loosies Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/lost-farm/",
+   "key": "brands__lost-farm",
+   "kind": "joint-single",
+   "h1": "Lost Farm Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/loud-labs/",
+   "key": "brands__loud-labs",
+   "kind": "joint-single",
+   "h1": "Loud Labs Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/loud/",
+   "key": "brands__loud",
+   "kind": "joint-single",
+   "h1": "LOUD Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/loudstash/",
+   "key": "brands__loudstash",
+   "kind": "joint-single",
+   "h1": "Loudstash Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/lowell-herb-co/",
+   "key": "brands__lowell-herb-co",
+   "kind": "joint-single",
+   "h1": "Lowell Herb Co. Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/luckys/",
+   "key": "brands__luckys",
+   "kind": "joint-single",
+   "h1": "Luckys Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/made/",
+   "key": "brands__made",
+   "kind": "joint-single",
+   "h1": "Made Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/major/",
+   "key": "brands__major",
+   "kind": "joint-single",
+   "h1": "Major Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/melt/",
+   "key": "brands__melt",
+   "kind": "joint-single",
+   "h1": "Melt Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/meltdown/",
+   "key": "brands__meltdown",
+   "kind": "joint-single",
+   "h1": "Meltdown Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/melting-point-extracts/",
+   "key": "brands__melting-point-extracts",
+   "kind": "joint-single",
+   "h1": "Melting Point Extracts Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/miss-grass/",
+   "key": "brands__miss-grass",
+   "kind": "joint-single",
+   "h1": "Miss Grass Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/mpx/",
+   "key": "brands__mpx",
+   "kind": "joint-single",
+   "h1": "MPX Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/mr-moxeys-mints/",
+   "key": "brands__mr-moxeys-mints",
+   "kind": "joint-single",
+   "h1": "Mr. Moxey’s Mints Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/muncheez/",
+   "key": "brands__muncheez",
+   "kind": "joint-single",
+   "h1": "Muncheez Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/nectar/",
+   "key": "brands__nectar",
+   "kind": "joint-single",
+   "h1": "Nectar Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/new-earth/",
+   "key": "brands__new-earth",
+   "kind": "joint-single",
+   "h1": "new earth Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/niche-2/",
+   "key": "brands__niche-2",
+   "kind": "joint-single",
+   "h1": "niche. Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/niche/",
+   "key": "brands__niche",
+   "kind": "joint-single",
+   "h1": "Niche Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/nimbus/",
+   "key": "brands__nimbus",
+   "kind": "joint-single",
+   "h1": "Nimbus Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/north-brands/",
+   "key": "brands__north-brands",
+   "kind": "joint-single",
+   "h1": "North Brands Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/north-lake-supply/",
+   "key": "brands__north-lake-supply",
+   "kind": "joint-single",
+   "h1": "North Lake Supply Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ocb-rolling-papers-cones/",
+   "key": "brands__ocb-rolling-papers-cones",
+   "kind": "joint-single",
+   "h1": "OCB® Rolling Papers & Cones Cannabis Products For Sale",
+   "words": 14,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ocb/",
+   "key": "brands__ocb",
+   "kind": "joint-single",
+   "h1": "OCB Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/off-shore-oil/",
+   "key": "brands__off-shore-oil",
+   "kind": "joint-single",
+   "h1": "Off Shore Oil Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ogeez/",
+   "key": "brands__ogeez",
+   "kind": "joint-single",
+   "h1": "OGeez! Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/onyx/",
+   "key": "brands__onyx",
+   "kind": "joint-single",
+   "h1": "Onyx Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ooze/",
+   "key": "brands__ooze",
+   "kind": "joint-single",
+   "h1": "Ooze Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ozone/",
+   "key": "brands__ozone",
+   "kind": "joint-single",
+   "h1": "Ozone Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/petes-farmstand/",
+   "key": "brands__petes-farmstand",
+   "kind": "joint-single",
+   "h1": "Pete’s Farmstand Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/piece-water/",
+   "key": "brands__piece-water",
+   "kind": "joint-single",
+   "h1": "Piece Water Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/precious/",
+   "key": "brands__precious",
+   "kind": "joint-single",
+   "h1": "Precious Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/prism/",
+   "key": "brands__prism",
+   "kind": "joint-single",
+   "h1": "Prism Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/puffco/",
+   "key": "brands__puffco",
+   "kind": "joint-single",
+   "h1": "Puffco Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/pulsar/",
+   "key": "brands__pulsar",
+   "kind": "joint-single",
+   "h1": "Pulsar Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/purple-lotus-distribution/",
+   "key": "brands__purple-lotus-distribution",
+   "kind": "joint-single",
+   "h1": "PURPLE LOTUS DISTRIBUTION Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/pyramid/",
+   "key": "brands__pyramid",
+   "kind": "joint-single",
+   "h1": "Pyramid Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/raw-garden/",
+   "key": "brands__raw-garden",
+   "kind": "joint-single",
+   "h1": "Raw Garden Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/reefine-cannabis/",
+   "key": "brands__reefine-cannabis",
+   "kind": "joint-single",
+   "h1": "Reefine Cannabis Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/rezzy/",
+   "key": "brands__rezzy",
+   "kind": "joint-single",
+   "h1": "Rezzy Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/santa-cruz/",
+   "key": "brands__santa-cruz",
+   "kind": "joint-single",
+   "h1": "Santa Cruz Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/savvy/",
+   "key": "brands__savvy",
+   "kind": "joint-single",
+   "h1": "Savvy Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/select/",
+   "key": "brands__select",
+   "kind": "joint-single",
+   "h1": "Select Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/seshgear/",
+   "key": "brands__seshgear",
+   "kind": "joint-single",
+   "h1": "SeshGear Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/shady-extracts/",
+   "key": "brands__shady-extracts",
+   "kind": "joint-single",
+   "h1": "Shady Extracts Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/shine/",
+   "key": "brands__shine",
+   "kind": "joint-single",
+   "h1": "&Shine Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/shnick-shnacks/",
+   "key": "brands__shnick-shnacks",
+   "kind": "joint-single",
+   "h1": "Shnick Shnacks Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/shnicks-shnacks/",
+   "key": "brands__shnicks-shnacks",
+   "kind": "joint-single",
+   "h1": "Shnicks Shnacks Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/short-lifts/",
+   "key": "brands__short-lifts",
+   "kind": "joint-single",
+   "h1": "Short Lifts Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/simply/",
+   "key": "brands__simply",
+   "kind": "joint-single",
+   "h1": "Simply Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/space-ranger/",
+   "key": "brands__space-ranger",
+   "kind": "joint-single",
+   "h1": "Space Ranger Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/space-walkers/",
+   "key": "brands__space-walkers",
+   "kind": "joint-single",
+   "h1": "Space Walkers Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/stereo/",
+   "key": "brands__stereo",
+   "kind": "joint-single",
+   "h1": "Stereo Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/sun-eclipse/",
+   "key": "brands__sun-eclipse",
+   "kind": "joint-single",
+   "h1": "Sun Eclipse Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/sun/",
+   "key": "brands__sun",
+   "kind": "joint-single",
+   "h1": "Sun Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/terp/",
+   "key": "brands__terp",
+   "kind": "joint-single",
+   "h1": "TERP Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/terpx/",
+   "key": "brands__terpx",
+   "kind": "joint-single",
+   "h1": "TerpX Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/test-kitchen/",
+   "key": "brands__test-kitchen",
+   "kind": "joint-single",
+   "h1": "Test Kitchen Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/test/",
+   "key": "brands__test",
+   "kind": "joint-single",
+   "h1": "TEST Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/the-essence/",
+   "key": "brands__the-essence",
+   "kind": "joint-single",
+   "h1": "(the) Essence Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/the-growfather/",
+   "key": "brands__the-growfather",
+   "kind": "joint-single",
+   "h1": "The Growfather Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/the-vault/",
+   "key": "brands__the-vault",
+   "kind": "joint-single",
+   "h1": "The Vault Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/the1/",
+   "key": "brands__the1",
+   "kind": "joint-single",
+   "h1": "The1 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/timeless/",
+   "key": "brands__timeless",
+   "kind": "joint-single",
+   "h1": "Timeless Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/treez-brand/",
+   "key": "brands__treez-brand",
+   "kind": "joint-single",
+   "h1": "TREEZ BRAND Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ts-brand-1-01132022/",
+   "key": "brands__ts-brand-1-01132022",
+   "kind": "joint-single",
+   "h1": "TS-BRAND-1-01132022 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ts-sl-brand-1-01032022/",
+   "key": "brands__ts-sl-brand-1-01032022",
+   "kind": "joint-single",
+   "h1": "TS-SL-BRAND-1-01032022 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ts-sl-brand-1-01102022/",
+   "key": "brands__ts-sl-brand-1-01102022",
+   "kind": "joint-single",
+   "h1": "TS-SL-BRAND-1-01102022 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ts-sl-brand-1-01172022/",
+   "key": "brands__ts-sl-brand-1-01172022",
+   "kind": "joint-single",
+   "h1": "TS-SL-BRAND-1-01172022 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ts-sl-brand-1-30122021/",
+   "key": "brands__ts-sl-brand-1-30122021",
+   "kind": "joint-single",
+   "h1": "TS-SL-BRAND-1-30122021 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ts-sl-brand-2-01102022/",
+   "key": "brands__ts-sl-brand-2-01102022",
+   "kind": "joint-single",
+   "h1": "TS-SL-BRAND-2-01102022 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ts-sl-brand-2-01142022/",
+   "key": "brands__ts-sl-brand-2-01142022",
+   "kind": "joint-single",
+   "h1": "TS-SL-BRAND-2-01142022 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ts-sl-brand-2-30122021/",
+   "key": "brands__ts-sl-brand-2-30122021",
+   "kind": "joint-single",
+   "h1": "TS-SL-BRAND-2-30122021 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ts-sl-brand-3-01022022/",
+   "key": "brands__ts-sl-brand-3-01022022",
+   "kind": "joint-single",
+   "h1": "TS-SL-BRAND-3-01022022 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ts-sl-brand-3-01142022/",
+   "key": "brands__ts-sl-brand-3-01142022",
+   "kind": "joint-single",
+   "h1": "TS-SL-BRAND-3-01142022 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ts-sl-brand-31-01102022/",
+   "key": "brands__ts-sl-brand-31-01102022",
+   "kind": "joint-single",
+   "h1": "TS-SL-BRAND-31-01102022 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ts-sl-brand-milligram-1-01172021/",
+   "key": "brands__ts-sl-brand-milligram-1-01172021",
+   "kind": "joint-single",
+   "h1": "TS-SL-BRAND-MILLIGRAM-1-01172021 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ts-sl-brand-percentage-1-01172021/",
+   "key": "brands__ts-sl-brand-percentage-1-01172021",
+   "kind": "joint-single",
+   "h1": "TS-SL-BRAND-PERCENTAGE-1-01172021 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/ts-sl-product-3-01042022/",
+   "key": "brands__ts-sl-product-3-01042022",
+   "kind": "joint-single",
+   "h1": "TS-SL-PRODUCT-3-01042022 Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/tumble/",
+   "key": "brands__tumble",
+   "kind": "joint-single",
+   "h1": "Tumble Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/turtle-pie-co/",
+   "key": "brands__turtle-pie-co",
+   "kind": "joint-single",
+   "h1": "Turtle Pie Co. Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/turtle-pie/",
+   "key": "brands__turtle-pie",
+   "kind": "joint-single",
+   "h1": "Turtle Pie Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/twax/",
+   "key": "brands__twax",
+   "kind": "joint-single",
+   "h1": "Twax Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/unknown/",
+   "key": "brands__unknown",
+   "kind": "joint-single",
+   "h1": "Unknown Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/urbnj/",
+   "key": "brands__urbnj",
+   "kind": "joint-single",
+   "h1": "URBNJ Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/valhalla/",
+   "key": "brands__valhalla",
+   "kind": "joint-single",
+   "h1": "Valhalla Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/vibes/",
+   "key": "brands__vibes",
+   "kind": "joint-single",
+   "h1": "Vibes Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/victory-farms/",
+   "key": "brands__victory-farms",
+   "kind": "joint-single",
+   "h1": "Victory Farms Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/wana/",
+   "key": "brands__wana",
+   "kind": "joint-single",
+   "h1": "Wana Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/weed-mama/",
+   "key": "brands__weed-mama",
+   "kind": "joint-single",
+   "h1": "Weed Mama Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/west-coast-cure/",
+   "key": "brands__west-coast-cure",
+   "kind": "joint-single",
+   "h1": "WEST COAST CURE Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/west-coast-treez/",
+   "key": "brands__west-coast-treez",
+   "kind": "joint-single",
+   "h1": "WEST COAST TREEZ Cannabis Products For Sale",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/wudder-ice/",
+   "key": "brands__wudder-ice",
+   "kind": "joint-single",
+   "h1": "Wudder Ice Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/wyld/",
+   "key": "brands__wyld",
+   "kind": "joint-single",
+   "h1": "Wyld Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/zen/",
+   "key": "brands__zen",
+   "kind": "joint-single",
+   "h1": "ZEN Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/zig-zag/",
+   "key": "brands__zig-zag",
+   "kind": "joint-single",
+   "h1": "Zig Zag Cannabis Products For Sale",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/zoobies/",
+   "key": "brands__zoobies",
+   "kind": "joint-single",
+   "h1": "Zoobies Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/brands/zzzonked/",
+   "key": "brands__zzzonked",
+   "kind": "joint-single",
+   "h1": "Zzzonked Cannabis Products For Sale",
+   "words": 8,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/bespoke-blue-z-cart-for-sale-marlton-nj/",
+   "key": "products__bespoke-blue-z-cart-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Bespoke Bespoke Blue Z Cart",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/bespoke-gsc-cart-for-sale-marlton-nj/",
+   "key": "products__bespoke-gsc-cart-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Bespoke Bespoke GSC Cart",
+   "words": 10,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/bespoke-ice-cream-cake-pre-roll-for-sale-marlton-nj/",
+   "key": "products__bespoke-ice-cream-cake-pre-roll-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Bespoke Bespoke Ice Cream Cake Pre Roll",
+   "words": 16,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/bespoke-maui-wowie-cart-for-sale-marlton-nj/",
+   "key": "products__bespoke-maui-wowie-cart-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Bespoke Bespoke Maui Wowie Cart",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/bespoke-pink-rozay-cart-for-sale-marlton-nj/",
+   "key": "products__bespoke-pink-rozay-cart-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Bespoke Bespoke Pink Rozay Cart",
+   "words": 12,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/fernway-fernway-glass-slipper-live-pro-disposable-for-sale-marlton-nj/",
+   "key": "products__fernway-fernway-glass-slipper-live-pro-disposable-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Fernway Fernway Glass Slipper Live PRO Disposable",
+   "words": 16,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/full-tilt-columbian-d-pre-roll-for-sale-marlton-nj/",
+   "key": "products__full-tilt-columbian-d-pre-roll-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Full Tilt Labs Full Tilt Columbian D Pre-Roll",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/full-tilt-honey-bunny-pre-roll-for-sale-marlton-nj/",
+   "key": "products__full-tilt-honey-bunny-pre-roll-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Full Tilt Labs Full Tilt Honey Bunny Pre-Roll",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/full-tilt-riptide-rush-pre-roll-for-sale-marlton-nj/",
+   "key": "products__full-tilt-riptide-rush-pre-roll-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Full Tilt Labs Full Tilt Riptide Rush Pre-Roll",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/full-tilt-riptide-rush-pre-rolls-2pk-for-sale-marlton-nj/",
+   "key": "products__full-tilt-riptide-rush-pre-rolls-2pk-for-sale-marlton-nj",
+   "kind": "joint-single",
+   "h1": "Full Tilt Labs Full Tilt Riptide Rush Pre-Rolls | 2pk",
+   "words": 20,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/products/pegs-summer-pink-lemonade-rso-100mg-for-sale-evesham-nj/",
+   "key": "products__pegs-summer-pink-lemonade-rso-100mg-for-sale-evesham-nj",
+   "kind": "joint-single",
+   "h1": "OGeez! Peg’s Pink Lemonade Sativa RSO – 100 mg",
+   "words": 18,
+   "recall": 1,
+   "sections": 1
+  },
+  {
+   "path": "/blog/whatisgreenwednesday/",
+   "key": "blog__whatisgreenwednesday",
+   "kind": "post",
+   "h1": "What Is Green Wednesday? Highway 90’s Biggest Cannabis Savings Are Almost Here!",
+   "words": 651,
+   "recall": 0.9954,
+   "sections": 4
+  }
+ ],
+ "unknownWidgets": {},
+ "control": {
+  "full": 1,
+  "withoutThreeLargestSections": 0.3541,
+  "fired": true
+ },
+ "redirects": [
+  {
+   "from": "/loyalty-sign-up/",
+   "to": "/rewards-sign-up/",
+   "status": 301
+  },
+  {
+   "from": "/stores/highway-90-cannabis-dispensary-evesham-nj/",
+   "to": "/stores/highway-90-cannabis-dispensary-marlton-nj/",
+   "status": 301
+  }
+ ]
+}

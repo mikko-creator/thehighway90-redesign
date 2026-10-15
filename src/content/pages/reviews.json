@@ -1,0 +1,419 @@
+{
+ "path": "/reviews/",
+ "url": "https://www.thehighway90.com/reviews/",
+ "kind": "page",
+ "head": {
+  "title": "Highway 90 Reviews",
+  "description": "Explore Highway 90 Reviews for the best dispensary insights in Marlton, NJ. Get honest opinions and find your ideal cannabis experience today!",
+  "robots": "follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large",
+  "canonical": "https://www.thehighway90.com/reviews/",
+  "og": {
+   "og:locale": "en_US",
+   "og:type": "article",
+   "og:title": "Highway 90 Reviews",
+   "og:description": "Explore Highway 90 Reviews for the best dispensary insights in Marlton, NJ. Get honest opinions and find your ideal cannabis experience today!",
+   "og:url": "https://www.thehighway90.com/reviews/",
+   "og:site_name": "Highway 90",
+   "og:updated_time": "2025-11-05T18:42:13-05:00",
+   "og:image": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+   "og:image:secure_url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+   "og:image:width": "1200",
+   "og:image:height": "630",
+   "og:image:alt": "Highway 90 OpenGraph",
+   "og:image:type": "image/png",
+   "article:published_time": "2021-12-30T16:53:06-05:00",
+   "article:modified_time": "2025-11-05T18:42:13-05:00",
+   "twitter:card": "summary_large_image",
+   "twitter:title": "Highway 90 Reviews",
+   "twitter:description": "Explore Highway 90 Reviews for the best dispensary insights in Marlton, NJ. Get honest opinions and find your ideal cannabis experience today!",
+   "twitter:image": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+   "twitter:label1": "Time to read",
+   "twitter:data1": "Less than a minute"
+  },
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@graph": [
+     {
+      "@type": "Organization",
+      "@id": "https://www.thehighway90.com/#organization",
+      "name": "Highway 90",
+      "logo": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/#logo",
+       "url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "contentUrl": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-Favicon.webp",
+       "caption": "Highway 90",
+       "inLanguage": "en-US",
+       "width": "512",
+       "height": "497"
+      }
+     },
+     {
+      "@type": "WebSite",
+      "@id": "https://www.thehighway90.com/#website",
+      "url": "https://www.thehighway90.com",
+      "name": "Highway 90",
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "ImageObject",
+      "@id": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+      "url": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png",
+      "width": "1200",
+      "height": "630",
+      "caption": "Highway 90 OpenGraph",
+      "inLanguage": "en-US"
+     },
+     {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.thehighway90.com/reviews/#breadcrumb",
+      "itemListElement": [
+       {
+        "@type": "ListItem",
+        "position": "1",
+        "item": {
+         "@id": "https://www.thehighway90.com",
+         "name": "Home"
+        }
+       },
+       {
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+         "@id": "https://www.thehighway90.com/reviews/",
+         "name": "Reviews"
+        }
+       }
+      ]
+     },
+     {
+      "@type": "WebPage",
+      "@id": "https://www.thehighway90.com/reviews/#webpage",
+      "url": "https://www.thehighway90.com/reviews/",
+      "name": "Highway 90 Reviews",
+      "datePublished": "2021-12-30T16:53:06-05:00",
+      "dateModified": "2025-11-05T18:42:13-05:00",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/#website"
+      },
+      "primaryImageOfPage": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png"
+      },
+      "inLanguage": "en-US",
+      "breadcrumb": {
+       "@id": "https://www.thehighway90.com/reviews/#breadcrumb"
+      }
+     },
+     {
+      "@type": "Person",
+      "@id": "https://www.thehighway90.com/reviews/#author",
+      "name": "Highway 90 Dispensary",
+      "image": {
+       "@type": "ImageObject",
+       "@id": "https://www.thehighway90.com/wp-content/litespeed/avatar/a7b99884549b620ae464d04655e5e8c7.jpg?ver=1791939289",
+       "url": "https://www.thehighway90.com/wp-content/litespeed/avatar/a7b99884549b620ae464d04655e5e8c7.jpg?ver=1791939289",
+       "caption": "Highway 90 Dispensary",
+       "inLanguage": "en-US"
+      },
+      "sameAs": [
+       "https://www.thehighway90.com"
+      ],
+      "worksFor": {
+       "@id": "https://www.thehighway90.com/#organization"
+      }
+     },
+     {
+      "@type": "Article",
+      "headline": "Highway 90 Reviews",
+      "datePublished": "2021-12-30T16:53:06-05:00",
+      "dateModified": "2025-11-05T18:42:13-05:00",
+      "author": {
+       "@id": "https://www.thehighway90.com/reviews/#author",
+       "name": "Highway 90 Dispensary"
+      },
+      "publisher": {
+       "@id": "https://www.thehighway90.com/#organization"
+      },
+      "description": "Explore Highway 90 Reviews for the best dispensary insights in Marlton, NJ. Get honest opinions and find your ideal cannabis experience today!",
+      "name": "Highway 90 Reviews",
+      "@id": "https://www.thehighway90.com/reviews/#richSnippet",
+      "isPartOf": {
+       "@id": "https://www.thehighway90.com/reviews/#webpage"
+      },
+      "image": {
+       "@id": "https://www.thehighway90.com/wp-content/uploads/2024/10/Hwy90-OG.png"
+      },
+      "inLanguage": "en-US",
+      "mainEntityOfPage": {
+       "@id": "https://www.thehighway90.com/reviews/#webpage"
+      }
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "@id": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic/stores/5818",
+    "image": "https://jointstorage.blob.core.windows.net/dispensaryphotos-production/5818-Hwy90-Joint.webp",
+    "url": "https://www.thehighway90.com/stores/highway-90-cannabis-dispensary-marlton-nj/?utm_source=gmb&utm_medium=organic",
+    "name": "Highway 90 Dispensary",
+    "email": "info@thehighway90.com",
+    "mainEntityOfPage": "https://www.google.com/search?q=dispensary&kgmid=/m/0410x_t",
+    "additionalType": "http://productontology.org/id/Cannabis_dispensaries_in_the_United_States",
+    "alternateName": [
+     "Dispensary",
+     "Cannabis Shop",
+     "Cannabis Dispensary",
+     "Weed Dispensary",
+     "Marijuana Dispensary",
+     "Recreational Dispensary",
+     "Medical Marijuana Dispensary"
+    ],
+    "address": {
+     "@type": "PostalAddress",
+     "streetAddress": "90 Old Marlton Pike ",
+     "addressLocality": "Marlton",
+     "addressRegion": "NJ",
+     "postalCode": "08053",
+     "addressCountry": "US"
+    },
+    "geo": {
+     "@type": "GeoCoordinates",
+     "latitude": "39.892220",
+     "longitude": "-74.927670"
+    },
+    "areaServed": [
+     {
+      "@type": "City",
+      "name": "Marlton"
+     }
+    ],
+    "priceRange": "$",
+    "currenciesAccepted": "USD",
+    "paymentAccepted": "Cash",
+    "keywords": [
+     "Dispensaries",
+     "Dispensary",
+     "Cannabis",
+     "Weed",
+     "Marijuana",
+     "Marijuana Dispensaries",
+     "Flower",
+     "Pot Shop",
+     "Edibles",
+     "THC gummies",
+     "CBX weed",
+     "Recreational Marijuana",
+     "Recreational Dispensary",
+     "Adult-Use Dispensary",
+     "Marlton Dispensary",
+     "Marlton Weed",
+     "Marlton Dispensary",
+     "Dispensary Near Me",
+     "Best Dispensary in Marlton"
+    ],
+    "knowsAbout": [
+     {
+      "@type": "Thing",
+      "name": "cannabis strains",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_strain"
+     },
+     {
+      "@type": "Thing",
+      "name": "indica",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_indica"
+     },
+     {
+      "@type": "Thing",
+      "name": "sativa",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_sativa"
+     },
+     {
+      "@type": "Thing",
+      "name": "edibles",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_edible"
+     },
+     {
+      "@type": "Thing",
+      "name": "cannabis concentrates",
+      "url": "https://en.wikipedia.org/wiki/Cannabis_concentrate"
+     },
+     {
+      "@type": "Thing",
+      "name": "og kush",
+      "url": "https://en.wikipedia.org/wiki/Kush_(cannabis)"
+     },
+     {
+      "@type": "Thing",
+      "name": "thc",
+      "url": "https://en.wikipedia.org/wiki/Tetrahydrocannabinol"
+     }
+    ],
+    "openingHoursSpecification": [
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SUNDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "MONDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "TUESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "WEDNESDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "THURSDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "FRIDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     },
+     {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": "SATURDAY",
+      "opens": "09:00",
+      "closes": "22:00"
+     }
+    ],
+    "aggregateRating": {
+     "@type": "AggregateRating",
+     "ratingValue": "4.9",
+     "bestRating": "5",
+     "ratingCount": "749"
+    },
+    "review": [
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Rusty Pigeons"
+      },
+      "reviewBody": "James rules !",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Gloria Ronga"
+      },
+      "reviewBody": "Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Penny Blake"
+      },
+      "reviewBody": "I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Dennis Perry"
+      },
+      "reviewBody": "Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     },
+     {
+      "@type": "Review",
+      "author": {
+       "@type": "Person",
+       "name": "Paul Tiver"
+      },
+      "reviewBody": "Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯",
+      "reviewRating": {
+       "@type": "Rating",
+       "ratingValue": "5"
+      }
+     }
+    ],
+    "telephone": "+18566073473"
+   }
+  ]
+ },
+ "h1": "Highway 90 Dispensary Dispensary Reviews",
+ "docId": "6019",
+ "docType": "wp-page",
+ "sections": [
+  {
+   "t": "group",
+   "id": "d17c08e",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h1",
+     "html": "Highway 90 Dispensary Dispensary Reviews",
+     "text": "Highway 90 Dispensary Dispensary Reviews"
+    },
+    {
+     "t": "heading",
+     "level": "h2",
+     "html": "Cannabis Dispensary located near Marlton, NJ",
+     "text": "Cannabis Dispensary located near Marlton, NJ"
+    },
+    {
+     "t": "button",
+     "text": "Shop Menu",
+     "href": "/menu/"
+    }
+   ]
+  },
+  {
+   "t": "group",
+   "id": "3f8a8e9",
+   "children": [
+    {
+     "t": "heading",
+     "level": "h3",
+     "html": "Here's what our customers are saying about us:",
+     "text": "Here's what our customers are saying about us:"
+    },
+    {
+     "t": "text",
+     "html": "<ul><li>\n<a href=\"https://lh3.googleusercontent.com/a-/ALV-UjVwebKv4W7ZYlZPsEyoo4IkqM5FZsLLnBw95-wu3WqGHc-CZul5=s120-c-rp-mo-br100\" target=\"_blank\" rel=\"noopener\">\n<img data-ref=\"https://lh3.googleusercontent.com/a-/ALV-UjVwebKv4W7ZYlZPsEyoo4IkqM5FZsLLnBw95-wu3WqGHc-CZul5=s120-c-rp-mo-br100\" alt=\"Rusty pigeons\">\n</a><p>Rusty Pigeons</p><p>10/11/2026 10:05 PM</p><p>5.0</p><p>James rules !</p></li><li>\n<a href=\"https://lh3.googleusercontent.com/a/ACg8ocJb-nTSPgXS1ZvJLfBXZNpq70VWM6CTLIdgBTGI-hxuLE4tPQ=s120-c-rp-mo-ba12-br100\" target=\"_blank\" rel=\"noopener\">\n<img data-ref=\"https://lh3.googleusercontent.com/a/ACg8ocJb-nTSPgXS1ZvJLfBXZNpq70VWM6CTLIdgBTGI-hxuLE4tPQ=s120-c-rp-mo-ba12-br100\" alt=\"Gloria ronga\">\n</a><p>Gloria Ronga</p><p>10/10/2026 01:54 AM</p><p>5.0</p><p>Clean store well stocked and Natalia was great answering all my questions that I had! 35% off first time buyer! What’s not to love! Will definitely go back again and again!</p></li><li>\n<a href=\"https://lh3.googleusercontent.com/a/ACg8ocJGiFCyVvwGUbvUpKtaSgF_Fo2zlTKzgSTXTPvMqxWbYe5rQQ=s120-c-rp-mo-br100\" target=\"_blank\" rel=\"noopener\">\n<img data-ref=\"https://lh3.googleusercontent.com/a/ACg8ocJGiFCyVvwGUbvUpKtaSgF_Fo2zlTKzgSTXTPvMqxWbYe5rQQ=s120-c-rp-mo-br100\" alt=\"Penny blake\">\n</a><p>Penny Blake</p><p>10/05/2026 08:30 PM</p><p>5.0</p><p>I went here a few weeks ago and had the most lovely experience. Cathy was super helpful and kind, and had the best recommendations! 10/10 my absolute favorite dispensary I've ever gone to and will definitely be back. Thank you Cathy - you are truly the best!</p></li><li>\n<a href=\"https://lh3.googleusercontent.com/a-/ALV-UjWdsuC4jtPh2EStt00qOSdzybhM9n6rSkmc6prnApYhn7RRgDSf=s120-c-rp-mo-br100\" target=\"_blank\" rel=\"noopener\">\n<img data-ref=\"https://lh3.googleusercontent.com/a-/ALV-UjWdsuC4jtPh2EStt00qOSdzybhM9n6rSkmc6prnApYhn7RRgDSf=s120-c-rp-mo-br100\" alt=\"Dennis perry\">\n</a><p>Dennis Perry</p><p>10/04/2026 03:43 PM</p><p>5.0</p><p>Hwy 90 an OG of Marlton is the spot! Low key 🔥. Fast service. Always very helpful and friendly, Diamond is usually my girl and knows what I like.</p></li><li>\n<a href=\"https://lh3.googleusercontent.com/a-/ALV-UjXivbD3KeltyDohBqPMFOEhmpTRNrC3syCbufs-bVTQHC_tdIMf=s120-c-rp-mo-br100\" target=\"_blank\" rel=\"noopener\">\n<img data-ref=\"https://lh3.googleusercontent.com/a-/ALV-UjXivbD3KeltyDohBqPMFOEhmpTRNrC3syCbufs-bVTQHC_tdIMf=s120-c-rp-mo-br100\" alt=\"Paul tiver\">\n</a><p>Paul Tiver</p><p>09/30/2026 11:45 PM</p><p>5.0</p><p>Dude who goes by donut is awesome, funny as too, 10/10 service. Will continue buying here 💯💯</p></li><li>\n<a href=\"https://lh3.googleusercontent.com/a/ACg8ocLdyiOYNhW__aQrKeovn8opc630NGvMh7uV7YVyJtCoBsjNtg=s120-c-rp-mo-br100\" target=\"_blank\" rel=\"noopener\">\n<img data-ref=\"https://lh3.googleusercontent.com/a/ACg8ocLdyiOYNhW__aQrKeovn8opc630NGvMh7uV7YVyJtCoBsjNtg=s120-c-rp-mo-br100\" alt=\"Green afrodite\">\n</a><p>Green Afrodite</p><p>09/23/2026 12:47 PM</p><p>5.0</p><p>Highway to good deals, good vibes and amazing budtenders like Marianne, Emma, Diamond and can’t leave out the guys like Park and Jordan! Place feels like a local spot to catch up with neighbors and friends as I witness folks who work together or know each other catch up and hang for a second at times. Less pretentious and more cozy here and I love the one on one shopping. Keep up the great work!</p></li><li>\n<a href=\"https://lh3.googleusercontent.com/a-/ALV-UjXefNBjPnE07PaXeOcOG70deWiJidUcVbyXzCVAxekHzdQzw9dvlg=s120-c-rp-mo-br100\" target=\"_blank\" rel=\"noopener\">\n<img data-ref=\"https://lh3.googleusercontent.com/a-/ALV-UjXefNBjPnE07PaXeOcOG70deWiJidUcVbyXzCVAxekHzdQzw9dvlg=s120-c-rp-mo-br100\" alt=\"Nikki sharp\">\n</a><p>Nikki Sharp</p><p>09/21/2026 06:41 PM</p><p>5.0</p></li><li>\n<a href=\"https://lh3.googleusercontent.com/a-/ALV-UjW80VyX4yLXdGeZNxKFW0P7hgqChjf-JCLFrHDEDpeTUT_RQUzi=s120-c-rp-mo-ba12-br100\" target=\"_blank\" rel=\"noopener\">\n<img data-ref=\"https://lh3.googleusercontent.com/a-/ALV-UjW80VyX4yLXdGeZNxKFW0P7hgqChjf-JCLFrHDEDpeTUT_RQUzi=s120-c-rp-mo-ba12-br100\" alt=\"Ana serales\">\n</a><p>Ana Serales</p><p>09/19/2026 10:57 PM</p><p>5.0</p><p>Great place, deals, and friendly staff!</p></li><li>\n<a href=\"https://lh3.googleusercontent.com/a-/ALV-UjVD5fOM48f5QV0vVo68vd3yGaEpsKEnoWBL9G-6A5TDr6rVfpz8=s120-c-rp-mo-br100\" target=\"_blank\" rel=\"noopener\">\n<img data-ref=\"https://lh3.googleusercontent.com/a-/ALV-UjVD5fOM48f5QV0vVo68vd3yGaEpsKEnoWBL9G-6A5TDr6rVfpz8=s120-c-rp-mo-br100\" alt=\"Dante a\">\n</a><p>Dante A</p><p>09/19/2026 03:35 PM</p><p>5.0</p><p>Beyond lovely, welcoming staff that goes above and beyond for its patrons. Their disposition of offering consecutive first time discounts is a testament to their loyalty to the people. Catherine, was an absolute angel, and a great representative of Highway 90. She listened to my preferences and gave several options tailored suit. Very amazing experience ❤️‍🔥</p></li><li>\n<a href=\"https://lh3.googleusercontent.com/a-/ALV-UjWk81HTJzmWT-PX4oXQTsEZb0Ak0qxxD3_mC5xd4QzatFpMSQdT=s120-c-rp-mo-br100\" target=\"_blank\" rel=\"noopener\">\n<img data-ref=\"https://lh3.googleusercontent.com/a-/ALV-UjWk81HTJzmWT-PX4oXQTsEZb0Ak0qxxD3_mC5xd4QzatFpMSQdT=s120-c-rp-mo-br100\" alt=\"Christian donnelly\">\n</a><p>Christian Donnelly</p><p>09/18/2026 08:59 PM</p><p>5.0</p></li></ul>"
+    }
+   ]
+  }
+ ],
+ "archive": null,
+ "events": null,
+ "unknownWidgets": []
+}
