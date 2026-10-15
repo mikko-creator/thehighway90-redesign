@@ -400,6 +400,8 @@ a.ticker__item:hover { color: var(--lane); }
 .crumbs li + li::before { content: ""; width: 7px; height: 7px; background: var(--orange); transform: rotate(45deg); border-radius: 1px; }
 .crumbs a { text-decoration: none; opacity: 0.85; }
 .crumbs a:hover { opacity: 1; }
+/* a form drawn as a glass card needs its own inner padding */
+.form.glass { padding: clamp(18px, 3vw, 30px); gap: 16px; border-radius: var(--r-l); }
 
 /* chrome.css */
 /* chrome.css - deals ticker, glass header with the shop mega menu, mobile drawer, footer, age gate, progress lane. */
@@ -863,3 +865,132 @@ a.ticker__item:hover { color: var(--lane); }
 .psec > .wrap > .frame { margin-inline: auto; }
 .logo-float { width: clamp(120px, 14vw, 200px); margin: 0 auto; filter: drop-shadow(6px 8px 0 rgba(11, 32, 22, 0.35)); }
 .logo-float img { animation: wobble 9s ease-in-out infinite; }
+
+/* mobile.css */
+/* mobile.css - the phone pass (loaded last). Measured at 390x844 and 360x780 on every template: tighter rhythm,
+   swipe-only rails, cut-outs that never sit on cards or buttons, two-up menus, folded SEO copy, a compact footer. */
+
+/* opening hours written as day/time paragraph pairs read as rows at every width */
+.prose ul:has(> li > p + p) { list-style: none; padding-left: 0; display: grid; gap: 0; max-width: 420px; }
+.prose li:has(> p + p) { display: flex; justify-content: space-between; gap: 16px; margin: 0; padding: 8px 0; border-bottom: 1.5px dashed rgba(11, 32, 22, 0.16); }
+.prose li:has(> p + p) > p { margin: 0; }
+.prose li:has(> p + p) > p:first-child { font-weight: 700; }
+
+/* post dates in the page hero */
+.phero__meta { display: flex; flex-wrap: wrap; gap: 6px 14px; margin: 0; font: 800 0.78rem/1.2 var(--f-display); letter-spacing: 0.14em; text-transform: uppercase; color: var(--tang); }
+
+/* the "Read more" fold (applied by site.js on phones only) */
+.prose.is-clamped:not(.is-open) { max-height: 340px; overflow: hidden; -webkit-mask-image: linear-gradient(180deg, #000 58%, transparent); mask-image: linear-gradient(180deg, #000 58%, transparent); }
+.clamp-btn { display: inline-flex; align-items: center; gap: 8px; margin-top: 10px; min-height: 44px; padding: 0 18px; border-radius: 999px; border: 2px solid var(--ink); background: var(--cream); color: var(--ink); box-shadow: 3px 3px 0 var(--ink); font: 800 0.8rem/1 var(--f-display); letter-spacing: 0.08em; text-transform: uppercase; }
+.clamp-btn::after { content: ""; width: 8px; height: 8px; border-right: 2.5px solid currentColor; border-bottom: 2.5px solid currentColor; transform: translateY(-2px) rotate(45deg); transition: transform 0.3s var(--spring); }
+.clamp-btn[aria-expanded="true"]::after { transform: translateY(2px) rotate(-135deg); }
+.on-dark .clamp-btn { border-color: var(--cream); background: transparent; color: var(--cream); box-shadow: 3px 3px 0 var(--orange); }
+
+@media (max-width: 700px) {
+  :root { --sec: 60px; --hdr-h: 64px; }
+  h2 { font-size: clamp(1.75rem, 1.2rem + 3.2vw, 2.3rem); }
+  .head { margin-bottom: 22px; gap: 10px; }
+  .head p { font-size: 1rem; }
+  .head--row > .btn, .head--row > .btns { justify-self: start; }
+
+  /* chrome */
+  .topbar .ticker__item { padding-block: 8px; font-size: 0.74rem; gap: 16px; }
+  .hdr { padding: 8px 0; }
+  .hdr__bar { min-height: 58px; padding: 6px 6px 6px 14px; gap: 10px; }
+  .hdr__logo { width: 132px; }
+  .hdr__icon { width: 44px; height: 44px; }
+  .burger { width: 46px; height: 46px; }
+
+  /* rails: swipe with a peek of the next card; the arrow pair would only cost a row */
+  .rail__nav { display: none; }
+  .rail__head { margin-bottom: 14px; }
+  .rail__track { gap: 14px; padding-right: var(--gut); }
+  .rail--rev .rail__track { align-items: start; }
+  .railblock + .railblock { margin-top: 56px; }
+  .deal .burst { --size: 72px !important; --fs: 1.1rem !important; right: -8px; top: -16px; }
+
+  /* cut-outs: smaller, pinned to the gutters, never over a card or button */
+  .lanes__bud { width: 104px; right: -26px; top: -46px; }
+  .pre__leaf { width: 92px; left: -32px; top: -52px; }
+  .rev__bud { width: 92px; right: -16px; top: -50px; }
+  .newbie__pre { width: 46%; right: -8%; bottom: -9%; }
+  .phero__cut { width: 104px; left: -5%; bottom: -14%; }
+
+  /* hero */
+  .hero { padding-bottom: 84px; }
+  .hero__art { min-height: 250px; margin-bottom: -28px; }
+  .hero__card { padding: 22px 20px 20px; }
+  .hero__card .kicker { font-size: 1.7rem; }
+  .hero__sub { font-size: 1.05rem; margin-bottom: 18px; }
+  .hero__facts { margin-top: 18px; padding-top: 14px; gap: 8px 14px; font-size: 0.86rem; }
+  .hero .btns .btn { flex: 1 1 auto; }
+
+  /* featured + gift card */
+  .feat { padding-top: 64px; }
+  .feat__gift { width: min(250px, 66%); }
+
+  /* first visits */
+  .newbie__photo { width: min(320px, 82%); margin-bottom: 34px; }
+  .newbie__card { padding: 22px 20px; gap: 12px; }
+  .newbie__bursts { gap: 6px; }
+
+  /* visit, learn */
+  .visit__card { padding: 22px 20px; }
+  .visit__burst { --size: 92px !important; --fs: 1rem !important; right: -6px; top: -22px; }
+  .visit__way { font-size: 1.6rem; }
+  .learn__edu { min-height: 380px; padding: 12px; }
+  .learn__eduin { padding: 18px; }
+
+  /* page hero */
+  .phero { padding-bottom: 76px; }
+  .phero__card { padding: 20px 18px; gap: 12px; }
+  .phero__card h1 { font-size: clamp(1.9rem, 1.1rem + 4.4vw, 2.6rem); }
+  .phero .crumbs li:last-child { display: none; }
+  .phero__art { width: min(360px, 92%); }
+  .phero__frame { transform: rotate(1.5deg); box-shadow: 8px 8px 0 var(--orange); }
+
+  /* body: square graphics (gift cards, flyers) inside columns stay a readable size */
+  .psec .col .frame { max-width: 300px; margin-inline: auto; }
+  .logo-float { width: 120px; }
+
+  /* menu snapshot: two-up compact cards */
+  .menu-snap { padding: 16px 14px; border-radius: var(--r); }
+  .menu-snap__head { gap: 10px; margin-bottom: 16px; }
+  .menu-snap__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+  .menu-snap .prod { border-radius: 16px; box-shadow: 3px 3px 0 var(--ink); }
+  .menu-snap .prod__body { padding: 10px 10px 12px; gap: 4px; }
+  .menu-snap .prod__brand { font-size: 0.6rem; letter-spacing: 0.1em; }
+  .menu-snap .prod__name { font-size: 0.88rem; }
+  .menu-snap .prod__meta { padding-top: 6px; gap: 6px; }
+  .menu-snap .prod__price { font-size: 1rem; }
+  .menu-snap .prod__price small { display: block; margin-top: 2px; font-size: 0.72rem; }
+  .menu-snap .prod__go { width: 30px; height: 30px; }
+  .menu-snap .prod__tag { left: 8px; top: 8px; font-size: 0.58rem; padding: 0.32em 0.6em; }
+
+  /* link-only card lists (sub-categories, strains, brands): two-up */
+  .posts--compact { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+  .posts--compact .post { border-radius: 18px; box-shadow: 3px 3px 0 var(--ink); }
+  .posts--compact .post__img { aspect-ratio: 1; }
+  .posts--compact .post__body { padding: 10px 12px 14px; gap: 6px; }
+  .posts--compact .post__title { font-size: 0.98rem; }
+
+  /* footer: two link columns, roomy tap targets */
+  .ftr { padding-top: 56px; }
+  .ftr__cta { padding: 20px; margin-bottom: 40px; gap: 14px; }
+  .ftr__cta .btn { justify-self: start; }
+  .ftr__cols { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 26px 18px; }
+  .ftr__brand, .ftr__cols > .ftr__col:nth-child(4), .ftr__cols > .ftr__col:nth-child(5) { grid-column: 1 / -1; }
+  .ftr__col h3 { margin-bottom: 8px; }
+  .ftr__col ul { gap: 0; }
+  .ftr__col a { display: inline-flex; align-items: center; min-height: 40px; }
+  .ftr__hours li { padding: 6px 0; }
+  .ftr__legal { margin-top: 36px; flex-direction: column; align-items: flex-start; }
+  .ftr__legal a { display: inline-flex; align-items: center; min-height: 40px; }
+}
+
+@media (max-width: 380px) {
+  .hdr__logo { width: 116px; }
+  .hdr__actions { gap: 6px; }
+  .newbie__bursts .burst { --size: 82px !important; --fs: 1.15rem !important; }
+  .cats--home { grid-auto-rows: 190px; }
+}

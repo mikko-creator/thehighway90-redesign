@@ -106,7 +106,8 @@
   }
 
   /* ---------- parallax + pinned horizontal rails ---------- */
-  var layers = reduce ? [] : $$('[data-depth]');
+  // phones: no scroll parallax (a cut-out's travel would carry it over the cards and buttons of a narrow column)
+  var layers = reduce || w.innerWidth < 700 ? [] : $$('[data-depth]');
   var pins = $$('.hpin');
   var ticking = false;
   function frame() {
@@ -199,6 +200,31 @@
       });
     }, { threshold: 0, rootMargin: '200px 0px' }).observe(box);
   });
+
+  /* ---------- phones: long SEO copy folds behind "Read more" (every word stays in the page) ---------- */
+  if (w.matchMedia('(max-width: 700px)').matches) {
+    $$('[data-clamp]').forEach(function (el, i) {
+      if (el.scrollHeight < 460) return;
+      el.classList.add('is-clamped');
+      if (!el.id) el.id = 'more-' + i;
+      var b = d.createElement('button');
+      b.type = 'button'; b.className = 'clamp-btn'; b.setAttribute('aria-expanded', 'false'); b.setAttribute('aria-controls', el.id);
+      b.innerHTML = '<span>Read more</span>';
+      var set = function (open) {
+        el.classList.toggle('is-open', open);
+        b.setAttribute('aria-expanded', open ? 'true' : 'false');
+        b.firstChild.textContent = open ? 'Show less' : 'Read more';
+      };
+      b.addEventListener('click', function () {
+        var open = !el.classList.contains('is-open');
+        set(open);
+        if (!open) el.scrollIntoView({ block: 'nearest', behavior: reduce ? 'auto' : 'smooth' });
+      });
+      // a keyboard user tabbing into the folded text opens it
+      el.addEventListener('focusin', function () { if (!el.classList.contains('is-open')) set(true); });
+      el.parentNode.insertBefore(b, el.nextSibling);
+    });
+  }
 
   /* ---------- count-up ---------- */
   $$('[data-count]').forEach(function (el) {
